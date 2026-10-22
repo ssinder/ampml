@@ -1,0 +1,23 @@
+{
+  "script_version": "optimized_v2",
+  "random_state": 42,
+  "cv_folds": 5,
+  "models": [
+    "Logistic Regression",
+    "Random Forest",
+    "SVM",
+    "XGBoost",
+    "Gradient Boosting",
+    "Voting Ensemble"
+  ],
+  "metrics": [
+    "accuracy",
+    "precision",
+    "recall",
+    "f1_score",
+    "roc_auc",
+    "pr_auc",
+    "balanced_accuracy",
+    "mcc"
+  ]
+}

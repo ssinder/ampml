@@ -1,0 +1,7 @@
+Model,TN,FP,FN,TP,Threshold
+Logistic Regression,812,49,61,867,0.5
+Random Forest,764,97,153,775,0.5
+SVM,814,47,85,843,0.5
+XGBoost,766,95,134,794,0.5
+Gradient Boosting,764,97,133,795,0.5
+Voting Ensemble,796,65,100,828,0.5

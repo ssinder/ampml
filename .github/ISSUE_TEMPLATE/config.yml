@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or usage help
+    url: https://github.com/ssinder/ampml/discussions
+    about: Ask usage questions here instead of opening an issue.
+  - name: Security vulnerability
+    url: https://github.com/ssinder/ampml/security/advisories/new
+    about: Report security issues privately. Please do not open a public issue.
+  - name: Reproduction or verification question
+    url: https://github.com/ssinder/ampml/discussions
+    about: For questions about reproducing the reported numbers, see docs/REPRODUCIBILITY.md first.

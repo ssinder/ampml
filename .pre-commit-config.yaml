@@ -1,0 +1,33 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace
+        exclude: \.(csv|tsv|npy|pkl|fasta)$
+      - id: end-of-file-fixer
+        exclude: \.(csv|tsv|npy|pkl|fasta)$
+      - id: check-yaml
+        exclude: \.github/dependabot\.yml$
+      - id: check-json
+      - id: check-toml
+      - id: check-added-large-files
+        args: ["--maxkb=1024"]
+        exclude: ^(rawdata/|data/|results/shap/shap_values/)
+      - id: check-merge-conflict
+      - id: detect-private-key
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.9.6
+    hooks:
+      - id: ruff
+        args: [--fix, --exit-non-zero-on-fix]
+        files: ^(src|test|ampmodel)/.*\.py$
+      - id: ruff-format
+        files: ^(src|test)/.*\.py$
+
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.3.0
+    hooks:
+      - id: codespell
+        args: ["-L", "pese,ba,ans,te,fo"]
+        exclude: \.(csv|tsv|txt|json|ipynb)$

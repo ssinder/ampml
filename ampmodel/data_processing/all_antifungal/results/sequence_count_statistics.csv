@@ -1,0 +1,12 @@
+﻿Step,Sequence_Count,Notes
+1. 原始数据-antifungal.csv,5708,DRAMP抗真菌肽数据
+1. 原始数据-Antifungal_amps.csv,1836,DRAMP抗真菌肽数据
+1. 原始数据-antifungal_peptides.csv,1813,抗真菌肽数据
+1. 原始数据-merged_data.csv,562,合并数据
+1. 原始数据-peptides_merged.csv,6892,肽类合并数据
+1. 原始数据总计,16811,5个原始文件总计
+2. 合并后(merged_antifungal_all_improved.csv),7920,合并去重后
+3. 标准化后(merged_antifungal_all_improved_standardized.csv),6921,标准化过滤后
+4. 2+文件过滤后(merged_antifungal_2plus_improved_standardized.csv),5306,保留出现在≥2个文件的序列
+5. 短肽过滤后-去冗余前(merged_antifungal_le60_final.csv),4758,过滤长度≤60 aa的序列
+6. MMSeqs聚类代表性序列(representative_sequences.csv),2255,MMSeqs聚类，相似度100%去冗余

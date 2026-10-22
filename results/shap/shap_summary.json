@@ -1,0 +1,474 @@
+{
+  "Logistic Regression": {
+    "top_20_features": [
+      {
+        "feature": "M",
+        "mean_abs_shap": 0.4568845456363732,
+        "std_abs_shap": 0.6060957458326227,
+        "rank": 1
+      },
+      {
+        "feature": "Isoelectric_Point",
+        "mean_abs_shap": 0.32881104775728326,
+        "std_abs_shap": 0.39029969441625917,
+        "rank": 2
+      },
+      {
+        "feature": "KyteDoolittle_Moment",
+        "mean_abs_shap": 0.29717247216420456,
+        "std_abs_shap": 0.34271991578188726,
+        "rank": 3
+      },
+      {
+        "feature": "Eisenberg_Moment",
+        "mean_abs_shap": 0.2951243358360928,
+        "std_abs_shap": 0.3583294391062415,
+        "rank": 4
+      },
+      {
+        "feature": "CTDD_charge.3.residue100",
+        "mean_abs_shap": 0.2872861035564718,
+        "std_abs_shap": 0.3074743449319509,
+        "rank": 5
+      },
+      {
+        "feature": "CKSAAP_LA.gap3",
+        "mean_abs_shap": 0.26734735115122377,
+        "std_abs_shap": 0.43508214013290547,
+        "rank": 6
+      },
+      {
+        "feature": "PseKRAAC_type4_T4.G.3_T4.G.2_gap2",
+        "mean_abs_shap": 0.2571971512175421,
+        "std_abs_shap": 0.3303713603742822,
+        "rank": 7
+      },
+      {
+        "feature": "CKSAAGP_alphaticr.negativecharger.gap3",
+        "mean_abs_shap": 0.23452078951899802,
+        "std_abs_shap": 0.3008778840044626,
+        "rank": 8
+      },
+      {
+        "feature": "CTDC_hydrophobicity_ARGP820101.G1",
+        "mean_abs_shap": 0.22994365476701026,
+        "std_abs_shap": 0.26843837295123096,
+        "rank": 9
+      },
+      {
+        "feature": "PseKRAAC_type4_T4.G.3_T4.G.3_gap2",
+        "mean_abs_shap": 0.22892541289177534,
+        "std_abs_shap": 0.29361204735080826,
+        "rank": 10
+      },
+      {
+        "feature": "CTDD_charge.3.residue0",
+        "mean_abs_shap": 0.2243363903947788,
+        "std_abs_shap": 0.2819522207730448,
+        "rank": 11
+      },
+      {
+        "feature": "CTDD_hydrophobicity_FASG890101.2.residue100",
+        "mean_abs_shap": 0.22400012402000538,
+        "std_abs_shap": 0.27868548862458103,
+        "rank": 12
+      },
+      {
+        "feature": "PseKRAAC_type2_T2.G.1_T2.G.2_gap2",
+        "mean_abs_shap": 0.20319052215044697,
+        "std_abs_shap": 0.25101371482105533,
+        "rank": 13
+      },
+      {
+        "feature": "CTDD_solventaccess.1.residue100",
+        "mean_abs_shap": 0.19917186118754251,
+        "std_abs_shap": 0.29901021685234397,
+        "rank": 14
+      },
+      {
+        "feature": "CKSAAP_AR.gap1",
+        "mean_abs_shap": 0.1989708517569293,
+        "std_abs_shap": 0.6878763844447545,
+        "rank": 15
+      },
+      {
+        "feature": "CKSAAGP_uncharger.alphaticr.gap2",
+        "mean_abs_shap": 0.1943554720749655,
+        "std_abs_shap": 0.23561276416681032,
+        "rank": 16
+      },
+      {
+        "feature": "CKSAAP_LL.gap3",
+        "mean_abs_shap": 0.1888019800609575,
+        "std_abs_shap": 0.27886121971740246,
+        "rank": 17
+      },
+      {
+        "feature": "PseKRAAC_type12_T12.G.5_T12.G.3_gap2",
+        "mean_abs_shap": 0.17847626178985657,
+        "std_abs_shap": 0.24132715437201419,
+        "rank": 18
+      },
+      {
+        "feature": "CKSAAGP_aromatic.postivecharger.gap5",
+        "mean_abs_shap": 0.17730031594246712,
+        "std_abs_shap": 0.3148059785459673,
+        "rank": 19
+      },
+      {
+        "feature": "PseKRAAC_type6B_T6B.G.1_T6B.G.3_gap2",
+        "mean_abs_shap": 0.17356738043613754,
+        "std_abs_shap": 0.2494091990460108,
+        "rank": 20
+      }
+    ],
+    "mean_global_importance": 0.07524735793580141,
+    "std_global_importance": 0.05848624813988854,
+    "max_importance": 0.4568845456363732,
+    "min_importance": 0.005832283063688864,
+    "n_samples": 384,
+    "n_features": 300
+  },
+  "Random Forest": {
+    "top_20_features": [
+      {
+        "feature": "CTDC_hydrophobicity_ARGP820101.G1",
+        "mean_abs_shap": 0.028267880231588844,
+        "std_abs_shap": 0.034237870615279546,
+        "rank": 1
+      },
+      {
+        "feature": "Isoelectric_Point",
+        "mean_abs_shap": 0.02810686972425959,
+        "std_abs_shap": 0.03133162296649938,
+        "rank": 2
+      },
+      {
+        "feature": "CTDT_charge.Tr1221",
+        "mean_abs_shap": 0.02713944698777701,
+        "std_abs_shap": 0.029752717562428872,
+        "rank": 3
+      },
+      {
+        "feature": "CTDD_charge.3.residue100",
+        "mean_abs_shap": 0.022820307292449864,
+        "std_abs_shap": 0.024604590048587227,
+        "rank": 4
+      },
+      {
+        "feature": "CTDT_charge.Tr2332",
+        "mean_abs_shap": 0.01902704810464492,
+        "std_abs_shap": 0.02076455626482684,
+        "rank": 5
+      },
+      {
+        "feature": "KyteDoolittle_Moment",
+        "mean_abs_shap": 0.018098540205006213,
+        "std_abs_shap": 0.022872634100648534,
+        "rank": 6
+      },
+      {
+        "feature": "Eisenberg_Moment",
+        "mean_abs_shap": 0.01786382968931306,
+        "std_abs_shap": 0.021243258709258868,
+        "rank": 7
+      },
+      {
+        "feature": "CTDD_charge.3.residue0",
+        "mean_abs_shap": 0.01637641213123742,
+        "std_abs_shap": 0.017785279752570635,
+        "rank": 8
+      },
+      {
+        "feature": "CKSAAGP_alphaticr.negativecharger.gap3",
+        "mean_abs_shap": 0.015579999143685302,
+        "std_abs_shap": 0.016752031830755375,
+        "rank": 9
+      },
+      {
+        "feature": "CKSAAGP_postivecharger.alphaticr.gap1",
+        "mean_abs_shap": 0.013680101256750711,
+        "std_abs_shap": 0.015956133276865556,
+        "rank": 10
+      },
+      {
+        "feature": "GTPC_alphaticr.alphaticr.postivecharger",
+        "mean_abs_shap": 0.010507558678310864,
+        "std_abs_shap": 0.013441252415672317,
+        "rank": 11
+      },
+      {
+        "feature": "CKSAAGP_postivecharger.alphaticr.gap0",
+        "mean_abs_shap": 0.008697071483502348,
+        "std_abs_shap": 0.01173150597986704,
+        "rank": 12
+      },
+      {
+        "feature": "CTDD_hydrophobicity_CASG920101.3.residue0",
+        "mean_abs_shap": 0.008448861980553396,
+        "std_abs_shap": 0.009583441611696893,
+        "rank": 13
+      },
+      {
+        "feature": "GDPC_postivecharger.alphaticr",
+        "mean_abs_shap": 0.008170293586306204,
+        "std_abs_shap": 0.010647109314409275,
+        "rank": 14
+      },
+      {
+        "feature": "M",
+        "mean_abs_shap": 0.007267489098422762,
+        "std_abs_shap": 0.008485087698024366,
+        "rank": 15
+      },
+      {
+        "feature": "CTDD_hydrophobicity_CASG920101.3.residue25",
+        "mean_abs_shap": 0.006696657765186794,
+        "std_abs_shap": 0.0077435666172469,
+        "rank": 16
+      },
+      {
+        "feature": "CTDD_hydrophobicity_FASG890101.2.residue100",
+        "mean_abs_shap": 0.006478059109906435,
+        "std_abs_shap": 0.009203724859550453,
+        "rank": 17
+      },
+      {
+        "feature": "CTDD_normwaalsvolume.3.residue0",
+        "mean_abs_shap": 0.0063877475943189335,
+        "std_abs_shap": 0.007356328640244756,
+        "rank": 18
+      },
+      {
+        "feature": "CKSAAGP_postivecharger.uncharger.gap3",
+        "mean_abs_shap": 0.006185521086304844,
+        "std_abs_shap": 0.010041399613236489,
+        "rank": 19
+      },
+      {
+        "feature": "CKSAAGP_uncharger.negativecharger.gap2",
+        "mean_abs_shap": 0.006090511728452999,
+        "std_abs_shap": 0.007105144013095532,
+        "rank": 20
+      }
+    ],
+    "mean_global_importance": 0.0017499455508054173,
+    "std_global_importance": 0.003996144659643462,
+    "max_importance": 0.028267880231588844,
+    "min_importance": 5.65842829114871e-06,
+    "n_samples": 384,
+    "n_features": 300
+  },
+  "XGBoost": {
+    "top_20_features": [
+      {
+        "feature": "KyteDoolittle_Moment",
+        "mean_abs_shap": 0.5303663635086682,
+        "std_abs_shap": 0.5746136477634387,
+        "rank": 1
+      },
+      {
+        "feature": "CTDC_hydrophobicity_ARGP820101.G1",
+        "mean_abs_shap": 0.4973397868571199,
+        "std_abs_shap": 0.5686679642116567,
+        "rank": 2
+      },
+      {
+        "feature": "CTDD_charge.3.residue100",
+        "mean_abs_shap": 0.37061947566754,
+        "std_abs_shap": 0.40924701461398383,
+        "rank": 3
+      },
+      {
+        "feature": "CTDT_charge.Tr1221",
+        "mean_abs_shap": 0.34824453716385145,
+        "std_abs_shap": 0.37112979658138406,
+        "rank": 4
+      },
+      {
+        "feature": "GTPC_alphaticr.alphaticr.postivecharger",
+        "mean_abs_shap": 0.34162621563010215,
+        "std_abs_shap": 0.37134172997196213,
+        "rank": 5
+      },
+      {
+        "feature": "Isoelectric_Point",
+        "mean_abs_shap": 0.32659306019005263,
+        "std_abs_shap": 0.39000974648402204,
+        "rank": 6
+      },
+      {
+        "feature": "CTDD_hydrophobicity_FASG890101.2.residue100",
+        "mean_abs_shap": 0.2570731574865522,
+        "std_abs_shap": 0.3002446330177264,
+        "rank": 7
+      },
+      {
+        "feature": "Eisenberg_Moment",
+        "mean_abs_shap": 0.23416097981102388,
+        "std_abs_shap": 0.25299640922907507,
+        "rank": 8
+      },
+      {
+        "feature": "CKSAAGP_alphaticr.negativecharger.gap3",
+        "mean_abs_shap": 0.23397812169012386,
+        "std_abs_shap": 0.3315063821351114,
+        "rank": 9
+      },
+      {
+        "feature": "CTDT_hydrophobicity_ZIMJ680101.Tr1331",
+        "mean_abs_shap": 0.23184404675571987,
+        "std_abs_shap": 0.27064303155575986,
+        "rank": 10
+      },
+      {
+        "feature": "M",
+        "mean_abs_shap": 0.2203274133921669,
+        "std_abs_shap": 0.2902756774204948,
+        "rank": 11
+      },
+      {
+        "feature": "CKSAAGP_postivecharger.alphaticr.gap1",
+        "mean_abs_shap": 0.19136522110307555,
+        "std_abs_shap": 0.23926722251617544,
+        "rank": 12
+      },
+      {
+        "feature": "CTDT_charge.Tr2332",
+        "mean_abs_shap": 0.16606690064215335,
+        "std_abs_shap": 0.18389876175475212,
+        "rank": 13
+      },
+      {
+        "feature": "CTDD_normwaalsvolume.2.residue25",
+        "mean_abs_shap": 0.1620760046666662,
+        "std_abs_shap": 0.19930202313986256,
+        "rank": 14
+      },
+      {
+        "feature": "CKSAAP_LA.gap3",
+        "mean_abs_shap": 0.15870973154585954,
+        "std_abs_shap": 0.2442748983245558,
+        "rank": 15
+      },
+      {
+        "feature": "CTDD_charge.3.residue0",
+        "mean_abs_shap": 0.15354542610763017,
+        "std_abs_shap": 0.16938702986402995,
+        "rank": 16
+      },
+      {
+        "feature": "CTDD_normwaalsvolume.3.residue50",
+        "mean_abs_shap": 0.15157266322417012,
+        "std_abs_shap": 0.18384928431807024,
+        "rank": 17
+      },
+      {
+        "feature": "CTDD_normwaalsvolume.3.residue0",
+        "mean_abs_shap": 0.15003366415058045,
+        "std_abs_shap": 0.18431806247049803,
+        "rank": 18
+      },
+      {
+        "feature": "CKSAAP_GC.gap1",
+        "mean_abs_shap": 0.1489660276019217,
+        "std_abs_shap": 0.2531653633071477,
+        "rank": 19
+      },
+      {
+        "feature": "CTDD_charge.1.residue25",
+        "mean_abs_shap": 0.14674538905867776,
+        "std_abs_shap": 0.22078179635793885,
+        "rank": 20
+      }
+    ],
+    "mean_global_importance": 0.03858662070990082,
+    "std_global_importance": 0.06993443995940365,
+    "max_importance": 0.5303663635086682,
+    "min_importance": 0.0,
+    "n_samples": 384,
+    "n_features": 300
+  },
+  "Gradient Boosting": {
+    "top_20_features": [
+      {
+        "feature": "CTDD_charge.3.residue0",
+        "mean_abs_shap": 0.051993080683804135,
+        "std_abs_shap": 0.026011361979700293,
+        "rank": 1
+      },
+      {
+        "feature": "CTDD_charge.3.residue100",
+        "mean_abs_shap": 0.05199308068380413,
+        "std_abs_shap": 0.04131115856050292,
+        "rank": 2
+      },
+      {
+        "feature": "CTDD_normwaalsvolume.2.residue25",
+        "mean_abs_shap": 0.03870874283401469,
+        "std_abs_shap": 0.003414303441470367,
+        "rank": 7
+      },
+      {
+        "feature": "CTDD_normwaalsvolume.3.residue0",
+        "mean_abs_shap": 0.038708742834014674,
+        "std_abs_shap": 0.010424536891956597,
+        "rank": 8
+      },
+      {
+        "feature": "CKSAAP_CY.gap1",
+        "mean_abs_shap": 0.034479212800658035,
+        "std_abs_shap": 0.0,
+        "rank": 9
+      },
+      {
+        "feature": "CKSAAP_DT.gap1",
+        "mean_abs_shap": 0.03447921280065803,
+        "std_abs_shap": 0.0,
+        "rank": 10
+      },
+      {
+        "feature": "CTDD_solventaccess.1.residue100",
+        "mean_abs_shap": 0.026825890195588845,
+        "std_abs_shap": 0.0,
+        "rank": 11
+      },
+      {
+        "feature": "CTDD_solventaccess.1.residue50",
+        "mean_abs_shap": 0.026825890195588835,
+        "std_abs_shap": 0.008540767068321133,
+        "rank": 12
+      },
+      {
+        "feature": "CKSAAP_HY.gap1",
+        "mean_abs_shap": 0.018229784146827643,
+        "std_abs_shap": 0.0,
+        "rank": 13
+      },
+      {
+        "feature": "CKSAAP_IT.gap1",
+        "mean_abs_shap": 0.018229784146827636,
+        "std_abs_shap": 0.0,
+        "rank": 14
+      },
+      {
+        "feature": "CR",
+        "mean_abs_shap": 0.014198632411009967,
+        "std_abs_shap": 0.00643372589405746,
+        "rank": 19
+      },
+      {
+        "feature": "M",
+        "mean_abs_shap": 0.014198632411009958,
+        "std_abs_shap": 0.02633906745665744,
+        "rank": 20
+      }
+    ],
+    "mean_global_importance": 0.0015233015054618552,
+    "std_global_importance": 0.006284275983563539,
+    "max_importance": 0.051993080683804135,
+    "min_importance": 0.0,
+    "n_samples": 50,
+    "n_features": 300
+  }
+}

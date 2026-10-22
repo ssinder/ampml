@@ -1,0 +1,65 @@
+name: Feature request
+description: Suggest a new capability, model, or analysis
+title: "[Feature] "
+labels: ["enhancement", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement.
+
+        **Note on scope**: this project is a *reproducible benchmark*, not a
+        general-purpose peptide toolbox. Proposals that strengthen
+        reproducibility, interpretability, or honest evaluation are the most
+        likely to be accepted.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the gap you hit, not just the feature you want.
+      placeholder: |
+        I wanted to know how sensitive the reported accuracy is to how the
+        negative set is sampled, but there is no way to run that with the
+        current pipeline.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What would you like to see? Include API/CLI shape if you have one in mind.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - New model or algorithm
+        - Feature engineering / descriptor
+        - Reproducibility or tooling
+        - Interpretability / SHAP
+        - Evaluation protocol or benchmark
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Additional context
+      options:
+        - label: This would not change any currently reported metric
+        - label: This would change reported metrics (please explain in the proposal)
+        - label: I am willing to contribute a pull request for this

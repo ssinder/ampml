@@ -1,0 +1,39 @@
+{
+  "best_method": "L1_Logistic",
+  "best_cv_score": 0.8898990125011335,
+  "n_features_selected": 300,
+  "all_methods_evaluation": {
+    "L1_Logistic": {
+      "cv_score": 0.8898990125011335,
+      "cv_std": 0.015294292857467855,
+      "n_features": 300,
+      "best_param": "C=0.1"
+    },
+    "RF_Importance": {
+      "cv_score": 0.886109818639631,
+      "cv_std": 0.017000620384369027,
+      "n_features": 300,
+      "best_param": "n_estimators=200"
+    },
+    "Mutual_Info": {
+      "cv_score": 0.8895839522878688,
+      "cv_std": 0.009860042799646928,
+      "n_features": 200,
+      "best_param": "k=200"
+    },
+    "SelectKBest_Ftest": {
+      "cv_score": 0.8827348118665348,
+      "cv_std": 0.006567300429304844,
+      "n_features": 200,
+      "best_param": "k=200"
+    },
+    "SelectPercentile": {
+      "cv_score": 0.8794798423281808,
+      "cv_std": 0.010902802534972337,
+      "n_features": 246,
+      "best_param": "percentile=5"
+    }
+  },
+  "random_state": 42,
+  "execution_time_seconds": 403.86
+}

@@ -1,0 +1,119 @@
+<svg viewBox="0 0 680 646" width="680" height="646" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+  <title>AMP-ML 模型系统拓扑图</title>
+  <desc>4921 维特征经标准化与 L1 特征选择压缩至 300 维，送入五个基分类器，其中三个投票构成软投票集成，最终输出六个模型的八项指标。</desc>
+
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#8a8a85" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <style>
+    .th { font-size: 14px; font-weight: 500; fill: #1a1a18; }
+    .ts { font-size: 12px; font-weight: 400; fill: #5f5e5a; }
+    .edge { fill: none; stroke: #8a8a85; stroke-width: 1.5; }
+    .box { stroke-width: 0.5; }
+  </style>
+
+  <!-- ========== 输入层 ========== -->
+  <rect x="40" y="24" width="290" height="56" rx="8" fill="#e6f1fb" fill-opacity="0.75" stroke="#185fa5" stroke-width="0.5" class="box"/>
+  <text class="th" x="185" y="44" text-anchor="middle" dominant-baseline="central">输入 · 2557 条肽序列</text>
+  <text class="ts" x="185" y="62" text-anchor="middle" dominant-baseline="central">4921 维特征矩阵</text>
+
+  <rect x="350" y="24" width="290" height="56" rx="8" fill="#e6f1fb" fill-opacity="0.75" stroke="#185fa5" stroke-width="0.5" class="box"/>
+  <text class="th" x="495" y="44" text-anchor="middle" dominant-baseline="central">标签 · 二分类</text>
+  <text class="ts" x="495" y="62" text-anchor="middle" dominant-baseline="central">L1 抗菌 1326 / L0 非抗菌 1231</text>
+
+  <path d="M340 80 L340 92" class="edge" marker-end="url(#arrow)"/>
+
+  <!-- ========== 预处理层 ========== -->
+  <rect x="40" y="96" width="600" height="52" rx="8" fill="#f1efe8" fill-opacity="0.8" stroke="#5f5e5a" stroke-width="0.5" class="box"/>
+  <text class="th" x="340" y="115" text-anchor="middle" dominant-baseline="central">预处理 · 中位数填充 + StandardScaler</text>
+  <text class="ts" x="340" y="133" text-anchor="middle" dominant-baseline="central">标准化参数仅由训练集拟合</text>
+
+  <path d="M340 148 L340 158" class="edge" marker-end="url(#arrow)"/>
+
+  <!-- ========== 特征选择层 ========== -->
+  <rect x="40" y="162" width="600" height="104" rx="12" fill="#eeedfe" fill-opacity="0.6" stroke="#534ab7" stroke-width="0.5" class="box"/>
+  <text class="th" x="56" y="180" dominant-baseline="central">特征选择 · 五法竞赛（仅用训练集 5 折 CV 评分）</text>
+
+  <rect x="56" y="192" width="107" height="58" rx="8" fill="#cecbf6" fill-opacity="0.85" stroke="#534ab7" stroke-width="1.2"/>
+  <text class="ts" x="109" y="207" text-anchor="middle" dominant-baseline="central">L1_Logistic</text>
+  <text class="ts" x="109" y="224" text-anchor="middle" dominant-baseline="central">0.8899 · 300</text>
+  <text class="ts" x="109" y="239" text-anchor="middle" dominant-baseline="central">胜出</text>
+
+  <rect x="171" y="192" width="107" height="58" rx="8" fill="#f1efe8" fill-opacity="0.6" stroke="#b4b2a9" stroke-width="0.5" class="box"/>
+  <text class="ts" x="224" y="210" text-anchor="middle" dominant-baseline="central">互信息</text>
+  <text class="ts" x="224" y="228" text-anchor="middle" dominant-baseline="central">0.8870 · 200</text>
+
+  <rect x="286" y="192" width="107" height="58" rx="8" fill="#f1efe8" fill-opacity="0.6" stroke="#b4b2a9" stroke-width="0.5" class="box"/>
+  <text class="ts" x="339" y="210" text-anchor="middle" dominant-baseline="central">RF 重要度</text>
+  <text class="ts" x="339" y="228" text-anchor="middle" dominant-baseline="central">0.8861 · 300</text>
+
+  <rect x="401" y="192" width="107" height="58" rx="8" fill="#f1efe8" fill-opacity="0.6" stroke="#b4b2a9" stroke-width="0.5" class="box"/>
+  <text class="ts" x="454" y="210" text-anchor="middle" dominant-baseline="central">F-test</text>
+  <text class="ts" x="454" y="228" text-anchor="middle" dominant-baseline="central">0.8827 · 200</text>
+
+  <rect x="516" y="192" width="107" height="58" rx="8" fill="#f1efe8" fill-opacity="0.6" stroke="#b4b2a9" stroke-width="0.5" class="box"/>
+  <text class="ts" x="569" y="210" text-anchor="middle" dominant-baseline="central">百分位</text>
+  <text class="ts" x="569" y="228" text-anchor="middle" dominant-baseline="central">0.8795 · 246</text>
+
+  <path d="M340 266 L340 278" class="edge" marker-end="url(#arrow)"/>
+
+  <!-- ========== 特征子集 ========== -->
+  <rect x="200" y="282" width="280" height="68" rx="8" fill="#cecbf6" fill-opacity="0.65" stroke="#534ab7" stroke-width="1.2"/>
+  <text class="th" x="340" y="302" text-anchor="middle" dominant-baseline="central">特征子集 300 维 · 压缩 93.9%</text>
+  <text class="ts" x="340" y="320" text-anchor="middle" dominant-baseline="central">iFeature 267 · PseKRAAC 21</text>
+  <text class="ts" x="340" y="336" text-anchor="middle" dominant-baseline="central">二肽 7 · modlamp 4 · 组成 1</text>
+
+  <path d="M340 350 L340 362" class="edge" marker-end="url(#arrow)"/>
+
+  <!-- ========== 分类器层 ========== -->
+  <text class="th" x="340" y="378" text-anchor="middle" dominant-baseline="central">六个分类器</text>
+
+  <rect x="56" y="392" width="107" height="68" rx="8" fill="#e1f5ee" fill-opacity="0.8" stroke="#0f6e56" stroke-width="0.5" class="box"/>
+  <text class="th" x="109" y="410" text-anchor="middle" dominant-baseline="central">LR</text>
+  <text class="ts" x="109" y="428" text-anchor="middle" dominant-baseline="central">C=0.0789</text>
+  <text class="ts" x="109" y="445" text-anchor="middle" dominant-baseline="central">L2 线性</text>
+
+  <rect x="171" y="392" width="107" height="68" rx="8" fill="#e1f5ee" fill-opacity="0.8" stroke="#0f6e56" stroke-width="0.5" class="box"/>
+  <text class="th" x="224" y="410" text-anchor="middle" dominant-baseline="central">RF</text>
+  <text class="ts" x="224" y="428" text-anchor="middle" dominant-baseline="central">300 棵</text>
+  <text class="ts" x="224" y="445" text-anchor="middle" dominant-baseline="central">split=10</text>
+
+  <rect x="286" y="392" width="107" height="68" rx="8" fill="#e1f5ee" fill-opacity="0.8" stroke="#0f6e56" stroke-width="0.5" class="box"/>
+  <text class="th" x="339" y="410" text-anchor="middle" dominant-baseline="central">SVM</text>
+  <text class="ts" x="339" y="428" text-anchor="middle" dominant-baseline="central">RBF C=33.5</text>
+  <text class="ts" x="339" y="445" text-anchor="middle" dominant-baseline="central">概率输出</text>
+
+  <rect x="401" y="392" width="107" height="68" rx="8" fill="#e1f5ee" fill-opacity="0.8" stroke="#0f6e56" stroke-width="0.5" class="box"/>
+  <text class="th" x="454" y="410" text-anchor="middle" dominant-baseline="central">XGBoost</text>
+  <text class="ts" x="454" y="428" text-anchor="middle" dominant-baseline="central">300 轮 d=5</text>
+  <text class="ts" x="454" y="445" text-anchor="middle" dominant-baseline="central">lr=0.1</text>
+
+  <rect x="516" y="392" width="107" height="68" rx="8" fill="#faeeda" fill-opacity="0.9" stroke="#854f0b" stroke-width="1.2"/>
+  <text class="th" x="569" y="410" text-anchor="middle" dominant-baseline="central">GB 主推</text>
+  <text class="ts" x="569" y="428" text-anchor="middle" dominant-baseline="central">200 轮 d=7</text>
+  <text class="ts" x="569" y="445" text-anchor="middle" dominant-baseline="central">lr=0.1</text>
+
+  <!-- 投票汇聚连线：仅 LR / RF / XGBoost 三个基学习器接入 Voting -->
+  <path d="M109 460 L109 474" class="edge"/>
+  <path d="M224 460 L224 474" class="edge"/>
+  <path d="M109 474 L340 474" class="edge"/>
+  <path d="M224 474 L340 474" class="edge"/>
+  <path d="M339 460 L340 474" class="edge"/>
+  <path d="M340 474 L340 482" class="edge" marker-end="url(#arrow)"/>
+
+  <!-- ========== 集成层 ========== -->
+  <rect x="150" y="486" width="380" height="56" rx="8" fill="#fbeaf0" fill-opacity="0.85" stroke="#993556" stroke-width="0.5" class="box"/>
+  <text class="th" x="340" y="506" text-anchor="middle" dominant-baseline="central">Voting Ensemble · soft voting 等权</text>
+  <text class="ts" x="340" y="525" text-anchor="middle" dominant-baseline="central">仅由 LR + RF + XGBoost 三者构成</text>
+
+  <path d="M340 542 L340 554" class="edge" marker-end="url(#arrow)"/>
+
+  <!-- ========== 输出层 ========== -->
+  <rect x="40" y="558" width="600" height="68" rx="8" fill="#eaf3de" fill-opacity="0.85" stroke="#3b6d11" stroke-width="1.2"/>
+  <text class="th" x="340" y="578" text-anchor="middle" dominant-baseline="central">输出 · 独立测试集 384 条</text>
+  <text class="ts" x="340" y="596" text-anchor="middle" dominant-baseline="central">6 模型 × 8 指标 = 48 项</text>
+  <text class="ts" x="340" y="613" text-anchor="middle" dominant-baseline="central">准确率 / F1 / ROC-AUC / 混淆矩阵四格数</text>
+</svg>

@@ -1,0 +1,107 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ampml"
+version = "0.1.0"
+description = "A reproducible machine learning benchmark for antimicrobial peptide classification"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "ssinder" }]
+keywords = [
+  "antimicrobial-peptides",
+  "bioinformatics",
+  "machine-learning",
+  "reproducibility",
+  "interpretability",
+  "drug-discovery",
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering :: Bio-Informatics",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+  "pandas>=2.0",
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "scikit-learn>=1.3",
+  "xgboost>=2.0",
+  "shap>=0.45",
+  "matplotlib>=3.7",
+  "seaborn>=0.13",
+  "joblib>=1.3",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.9", "pre-commit>=3.6", "cffconvert>=2.0"]
+notebook = ["jupyter>=1.0", "ipykernel>=6.29"]
+
+[project.urls]
+Homepage = "https://github.com/ssinder/ampml"
+Repository = "https://github.com/ssinder/ampml"
+Issues = "https://github.com/ssinder/ampml/issues"
+Changelog = "https://github.com/ssinder/ampml/blob/main/CHANGELOG.md"
+
+[project.scripts]
+ampml = "ampml.cli:main"
+
+[tool.setuptools]
+packages = ["ampml"]
+
+[tool.setuptools.package-data]
+ampml = ["py.typed"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+extend-exclude = [
+  "ampmodel",
+  "venv",
+  "output",
+  "_site",
+  "data",
+  "results",
+]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B"]
+ignore = [
+  "E501",
+  "B008",
+]
+
+[tool.ruff.lint.per-file-ignores]
+# The research pipeline in src/ predates this lint configuration and is kept
+# byte-identical to the audited version so that published numbers stay valid.
+# These rules are relaxed rather than auto-fixing the files, because rewriting
+# them would change bytes of code whose output is already published.
+"src/*.py" = ["E402", "E711", "E712", "E713", "E714", "E721", "E722", "E731", "E741", "F401", "F541", "F841", "B006", "B007", "B008", "B023", "B904", "B905", "UP004", "UP008", "UP015", "UP031", "UP032", "UP035", "UP045", "UP007", "I001"]
+# Upstream snapshot code is archived as-is and is not linted.
+"ampmodel/**/*.py" = ["ALL"]
+"test/*.py" = ["F401", "F841"]
+
+[tool.pytest.ini_options]
+testpaths = ["test"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-ra --strict-markers"
+markers = [
+  "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+  "integration: marks tests that require the full upstream feature table",
+]
+filterwarnings = [
+  "ignore::DeprecationWarning",
+  "ignore::FutureWarning",
+]

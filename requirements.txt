@@ -1,0 +1,52 @@
+# AMP-ML 运行依赖（Python 3.13.9 / macOS arm64 实测锁定）
+# 生成方式：venv/bin/python -m pip freeze
+# 生成日期：2026-10-19
+#
+# 用途：第三方按此清单重建环境，保证与 results/ 中既有模型数值一致。
+# 注意：results/ 下的模型文件由 Python 3.13.9 + 以下版本训练产出，
+#       跨大版本（如 sklearn 1.7 vs 1.8）重训会得到不同数值。
+#
+# modlamp==4.3.2 为上游 ampmodel 特征提取所用版本，
+# 已实测 12 维描述符与 rawdata 逐位一致（maxdiff <= 4.4e-16），不可随意升级。
+#
+# 安装：
+#   python3.13 -m venv venv
+#   ./venv/bin/pip install -r requirements.txt
+
+adjustText==1.3.0
+biopython==1.87
+certifi==2026.10.18
+charset-normalizer==3.5.2
+cloudpickle==3.1.2
+contourpy==1.3.3
+cycler==0.12.1
+fonttools==4.62.1
+idna==3.20
+joblib==1.5.3
+kiwisolver==1.5.0
+llvmlite==0.47.0
+lxml==6.1.3
+matplotlib==3.10.8
+modlamp==4.3.2
+mysql-connector-python==26.7.0
+networkx==3.6.1
+nose==1.3.7
+numba==0.65.0
+numpy==2.4.4
+packaging==26.1
+pandas==3.0.2
+pillow==12.2.0
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+requests==2.34.2
+scikit-learn==1.8.0
+scipy==1.17.1
+seaborn==0.13.2
+shap==0.51.0
+six==1.17.0
+slicer==0.0.8
+threadpoolctl==3.6.0
+tqdm==4.67.3
+typing_extensions==4.15.0
+urllib3==2.8.0
+xgboost==3.2.0

@@ -1,0 +1,8 @@
+{
+  "total_sequences": 1929,
+  "min_length": 2,
+  "max_length": 60,
+  "mean_length": 25.665629860031103,
+  "median_length": 21.0,
+  "std_length": 16.09933072594967
+}

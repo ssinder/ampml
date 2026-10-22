@@ -1,0 +1,412 @@
+{
+  "audit_time": "2026-10-22 22:06:48",
+  "verification_purpose": "第三方验收审计 — 测试集指标复算，不重训",
+  "threshold": 0.8,
+  "tolerance": 1e-06,
+  "random_state": 42,
+  "data_audit": {
+    "test_set_size": 384,
+    "n_features": 300,
+    "class_distribution": {
+      "1": 199,
+      "0": 185
+    },
+    "checks": [
+      {
+        "item": "测试集样本数",
+        "expected": 384,
+        "actual": 384,
+        "pass": true
+      },
+      {
+        "item": "特征维度",
+        "expected": 300,
+        "actual": 300,
+        "pass": true
+      },
+      {
+        "item": "类别分布",
+        "expected": "L0=185,L1=199",
+        "actual": "L0=185,L1=199",
+        "pass": true
+      },
+      {
+        "item": "样本ID映射",
+        "expected": "2557唯一ID, test段384行",
+        "actual": "2557行/2557唯一/test384行",
+        "pass": true
+      },
+      {
+        "item": "ID前缀与标签一致",
+        "expected": "100%一致",
+        "actual": "100%一致",
+        "pass": true
+      }
+    ],
+    "all_pass": true
+  },
+  "model_files": {
+    "Logistic Regression": {
+      "file": "logistic_regression_cv_model.pkl",
+      "md5": "fd3e7149a44613e8a7dff7288f00a629",
+      "size_bytes": 17057
+    },
+    "Random Forest": {
+      "file": "random_forest_cv_model.pkl",
+      "md5": "87cb2fbcb3af3e5ce5edc1cade1d03de",
+      "size_bytes": 6665657
+    },
+    "SVM": {
+      "file": "svm_cv_model.pkl",
+      "md5": "e1f7d23d20134a755254c81e55463789",
+      "size_bytes": 2362617
+    },
+    "XGBoost": {
+      "file": "xgboost_cv_model.pkl",
+      "md5": "59fbc8eaaf7a29be5459f30f24a7ea86",
+      "size_bytes": 473642
+    },
+    "Gradient Boosting": {
+      "file": "gradient_boosting_cv_model.pkl",
+      "md5": "c4f0fc94901f40a1121cb126767af8ff",
+      "size_bytes": 923289
+    },
+    "Voting Ensemble": {
+      "file": "voting_ensemble_cv_model.pkl",
+      "md5": "af6ec17266ffb8b7b597419dacb42e94",
+      "size_bytes": 7166842
+    }
+  },
+  "models": {
+    "Logistic Regression": {
+      "metrics": {
+        "Accuracy": {
+          "computed": 0.8203125,
+          "recorded": 0.8203125,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Precision": {
+          "computed": 0.818627451,
+          "recorded": 0.818627451,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Recall": {
+          "computed": 0.8391959799,
+          "recorded": 0.8391959799,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "F1-Score": {
+          "computed": 0.8287841191,
+          "recorded": 0.8287841191,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "ROC-AUC": {
+          "computed": 0.90487573,
+          "recorded": 0.90487573,
+          "abs_diff": 1.11e-16,
+          "match": true
+        }
+      },
+      "manual_recompute": {
+        "Accuracy": 0.8203125,
+        "Precision": 0.818627451,
+        "Recall": 0.8391959799,
+        "F1-Score": 0.8287841191
+      },
+      "manual_vs_sklearn_max_diff": 0.0,
+      "manual_check_pass": true,
+      "confusion_matrix": {
+        "TN": 148,
+        "FP": 37,
+        "FN": 32,
+        "TP": 167
+      },
+      "miss_rate_positive": 0.160804,
+      "model_md5": "fd3e7149a44613e8a7dff7288f00a629",
+      "all_metrics_match": true,
+      "meets_threshold": true
+    },
+    "Random Forest": {
+      "metrics": {
+        "Accuracy": {
+          "computed": 0.8463541667,
+          "recorded": 0.8463541667,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Precision": {
+          "computed": 0.8645833333,
+          "recorded": 0.8645833333,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Recall": {
+          "computed": 0.8341708543,
+          "recorded": 0.8341708543,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "F1-Score": {
+          "computed": 0.8491048593,
+          "recorded": 0.8491048593,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "ROC-AUC": {
+          "computed": 0.9322287111,
+          "recorded": 0.9322287111,
+          "abs_diff": 1.11e-16,
+          "match": true
+        }
+      },
+      "manual_recompute": {
+        "Accuracy": 0.8463541667,
+        "Precision": 0.8645833333,
+        "Recall": 0.8341708543,
+        "F1-Score": 0.8491048593
+      },
+      "manual_vs_sklearn_max_diff": 1.11e-16,
+      "manual_check_pass": true,
+      "confusion_matrix": {
+        "TN": 159,
+        "FP": 26,
+        "FN": 33,
+        "TP": 166
+      },
+      "miss_rate_positive": 0.165829,
+      "model_md5": "87cb2fbcb3af3e5ce5edc1cade1d03de",
+      "all_metrics_match": true,
+      "meets_threshold": true
+    },
+    "SVM": {
+      "metrics": {
+        "Accuracy": {
+          "computed": 0.84375,
+          "recorded": 0.84375,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Precision": {
+          "computed": 0.8564102564,
+          "recorded": 0.8564102564,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Recall": {
+          "computed": 0.8391959799,
+          "recorded": 0.8391959799,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "F1-Score": {
+          "computed": 0.847715736,
+          "recorded": 0.847715736,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "ROC-AUC": {
+          "computed": 0.9131603966,
+          "recorded": 0.9131603966,
+          "abs_diff": 1.11e-16,
+          "match": true
+        }
+      },
+      "manual_recompute": {
+        "Accuracy": 0.84375,
+        "Precision": 0.8564102564,
+        "Recall": 0.8391959799,
+        "F1-Score": 0.847715736
+      },
+      "manual_vs_sklearn_max_diff": 1.11e-16,
+      "manual_check_pass": true,
+      "confusion_matrix": {
+        "TN": 157,
+        "FP": 28,
+        "FN": 32,
+        "TP": 167
+      },
+      "miss_rate_positive": 0.160804,
+      "model_md5": "e1f7d23d20134a755254c81e55463789",
+      "all_metrics_match": true,
+      "meets_threshold": true
+    },
+    "XGBoost": {
+      "metrics": {
+        "Accuracy": {
+          "computed": 0.84375,
+          "recorded": 0.84375,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Precision": {
+          "computed": 0.8457711443,
+          "recorded": 0.8457711443,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Recall": {
+          "computed": 0.8542713568,
+          "recorded": 0.8542713568,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "F1-Score": {
+          "computed": 0.85,
+          "recorded": 0.85,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "ROC-AUC": {
+          "computed": 0.9353796007,
+          "recorded": 0.9353796007,
+          "abs_diff": 0.0,
+          "match": true
+        }
+      },
+      "manual_recompute": {
+        "Accuracy": 0.84375,
+        "Precision": 0.8457711443,
+        "Recall": 0.8542713568,
+        "F1-Score": 0.85
+      },
+      "manual_vs_sklearn_max_diff": 0.0,
+      "manual_check_pass": true,
+      "confusion_matrix": {
+        "TN": 154,
+        "FP": 31,
+        "FN": 29,
+        "TP": 170
+      },
+      "miss_rate_positive": 0.145729,
+      "model_md5": "59fbc8eaaf7a29be5459f30f24a7ea86",
+      "all_metrics_match": true,
+      "meets_threshold": true
+    },
+    "Gradient Boosting": {
+      "metrics": {
+        "Accuracy": {
+          "computed": 0.8645833333,
+          "recorded": 0.8645833333,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Precision": {
+          "computed": 0.8620689655,
+          "recorded": 0.8620689655,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Recall": {
+          "computed": 0.8793969849,
+          "recorded": 0.8793969849,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "F1-Score": {
+          "computed": 0.8706467662,
+          "recorded": 0.8706467662,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "ROC-AUC": {
+          "computed": 0.9432296618,
+          "recorded": 0.9432296618,
+          "abs_diff": 1.11e-16,
+          "match": true
+        }
+      },
+      "manual_recompute": {
+        "Accuracy": 0.8645833333,
+        "Precision": 0.8620689655,
+        "Recall": 0.8793969849,
+        "F1-Score": 0.8706467662
+      },
+      "manual_vs_sklearn_max_diff": 1.11e-16,
+      "manual_check_pass": true,
+      "confusion_matrix": {
+        "TN": 157,
+        "FP": 28,
+        "FN": 24,
+        "TP": 175
+      },
+      "miss_rate_positive": 0.120603,
+      "model_md5": "c4f0fc94901f40a1121cb126767af8ff",
+      "all_metrics_match": true,
+      "meets_threshold": true
+    },
+    "Voting Ensemble": {
+      "metrics": {
+        "Accuracy": {
+          "computed": 0.8645833333,
+          "recorded": 0.8645833333,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Precision": {
+          "computed": 0.8656716418,
+          "recorded": 0.8656716418,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "Recall": {
+          "computed": 0.8743718593,
+          "recorded": 0.8743718593,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "F1-Score": {
+          "computed": 0.87,
+          "recorded": 0.87,
+          "abs_diff": 0.0,
+          "match": true
+        },
+        "ROC-AUC": {
+          "computed": 0.9369007198,
+          "recorded": 0.9369007198,
+          "abs_diff": 1.11e-16,
+          "match": true
+        }
+      },
+      "manual_recompute": {
+        "Accuracy": 0.8645833333,
+        "Precision": 0.8656716418,
+        "Recall": 0.8743718593,
+        "F1-Score": 0.87
+      },
+      "manual_vs_sklearn_max_diff": 0.0,
+      "manual_check_pass": true,
+      "confusion_matrix": {
+        "TN": 158,
+        "FP": 27,
+        "FN": 25,
+        "TP": 174
+      },
+      "miss_rate_positive": 0.125628,
+      "model_md5": "af6ec17266ffb8b7b597419dacb42e94",
+      "all_metrics_match": true,
+      "meets_threshold": true
+    }
+  },
+  "summary": {
+    "l1_pass": true,
+    "l2_pass": true,
+    "l4_pass": true,
+    "l5_pass": true,
+    "all_pass": true,
+    "n_items_checked": 30,
+    "n_items_matched": 30,
+    "model_count": [
+      "Logistic Regression",
+      "Random Forest",
+      "SVM",
+      "XGBoost",
+      "Gradient Boosting",
+      "Voting Ensemble"
+    ],
+    "verdict": "五层审计全部通过：手算一致、数据溯源完整、指标完全对得上、全部模型达标"
+  }
+}

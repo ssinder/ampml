@@ -1,0 +1,2226 @@
+representative_id,protein_name,organism,sequence,length
+P80084,"ATP synthase subunit gamma, mitochondrial",Spinacia oleracea,IGTQIVXNXMKSIKNIQKITKAMKMV,26
+P80085,"ATP synthase subunit delta', mitochondrial",Spinacia oleracea,TSAEVPATAQGVTHALEGTQ,20
+P80086,ATP synthase subunit a,Spinacia oleracea,SPLEQFSILMLIPM,14
+P80087,"ATP synthase subunit O, mitochondrial",Spinacia oleracea,ATSAPAKHDNIXVPIAMFGGSXNYASHLYLYD,32
+P80106,Light-harvesting protein B800/830/1020 beta-1 chain,Halorhodospira halochloris,ANDIRPLRDFEDEEAQEFHQAAVQAFFLYVAVAFVAHLPV,40
+P80171,LIM and SH3 domain protein 1,Sus scrofa,MNPNCARCGKIVYPTEKVNCLDKFWHKACF,30
+P80212,"L-serine dehydratase, alpha chain",Anaerotignum propionicum,MKYDSLADLVVQAEKQNVPLXXLIXKDQAE,30
+P80213,"L-serine dehydratase, beta chain",Anaerotignum propionicum,MLQVFDIIGPIMIGPSESITAGAVRIXKI,29
+P80259,Light-harvesting protein B-880 alpha chain,Afifella marina,MWKVWLLFDPRRTLVALFTFLFVLALLIHFILLSTDRFNWMQGAPTAPAQTS,52
+P80260,Light-harvesting protein B-880 beta chain,Afifella marina,AEIDRPVSLSGLTEGEAREFHGVFMTSFMVFIAVAIVAHILAWMWRPWIPGPEGYA,56
+P80302,Hirustasin,Hirudo medicinalis,TQGNTCGGETCSAAQVCLKGKCVCNEVHCRIRCKYGLKKDENGCEYPCSCAKASQ,55
+P80342,Cathepsin L2,Fasciola hepatica,AVPDKIDRRESGYV,14
+P80424,Leech-derived tryptase inhibitor C,Hirudo medicinalis,KKVCACPKILKPVCGSDGRTYANSCIARCNGVSIKSEGSCPTGILN,46
+P80503,Dihydrolipoyl dehydrogenase,Solanum tuberosum,ASGSDENDVVVIGGGPGGYVAAIKAAQLGLKTTXIEKRGT,40
+P80504,"ATP synthase subunit O, mitochondrial",Solanum tuberosum,ATDLQAGYVADSNFTEAWKKVVPNVDPPKTPSAFMXP,37
+P80551,Non-secretory ribonuclease,Sus scrofa,VPPGGLTXAQXFTIQHIXMT,20
+P80575,Phospho-2-dehydro-3-deoxyheptonate aldolase,Streptomyces rimosus,TRRFDDVLDEVKGFFEVH,18
+P80582,Superoxide dismutase [Mn],Mycobacterium simiae,AEYTLPDLGWDYAASGPG,18
+P80594,Egg-laying-like hormone,Theromyzon tessulatum,GSGVSNGGTEMIQLSHIRERQRYWAQDNLRRRFLEK,36
+P80616,Probable S-adenosylmethionine synthase,Zea mays,RPEEIGAGDQGHMFG,15
+P80652,Alternative tetrahydromethanopterin S-methyltransferase 28 kDa subunit,Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88),AEKLEPVLPLIV,12
+P80677,Gonadoliberin-1,Chelyosoma productum,QHWSDYFKPG,10
+P80701,3-alpha-hydroxysteroid dehydrogenase/carbonyl reductase,Pseudomonas sp,QVIAITGSASGIGAA,15
+P80729,NADH-ubiquinone oxidoreductase 11 kDa subunit,Solanum tuberosum,GFIMEFAENLILRRMEDPK,19
+P80733,Superoxide dismutase [Fe-Zn],Streptomyces griseus,ATYTLPEPPYDYAAL,15
+P80738,Histone H4,Blepharisma japonicum,MGGKGGKGGKGLGKVGAKKRHSRRVIRENIQGITKPAIRRLARRGGVK,48
+P80887,Inorganic pyrophosphatase,Cyanophora paradoxa,XAITAEPVGTPETLEYRVFIQKDGK,25
+P80919,Acyl carrier protein,Erythrobacter longus,MSDTATRVQKIVVEHLGVESDKVTQE,26
+P80951,F420-dependent NADP reductase,Methanogenium organophilum,MKVGIMGGTGNIGEGLARRIXIGGKYDVMIKGRDKA,36
+P81039,Pituitary adenylate cyclase-activating polypeptide,Uranoscopus japonicus,HSDGIFTDSYSRYRKQMAVQKYLAAVLGRRYRQRVRNK,38
+P81041,Hemoglobin subunit omega,Notamacropus eugenii,VHWTAEEKQIILAIWAKIDIEEAGAAALSRLLVVYPWTQRYFKNFGNLSSPTAI,54
+P81073,AMP deaminase 1,Gallus gallus,MNQKHLLRFIKKSYRVDADRVVYDAK,26
+P81078,"Cytochrome c3, 10 kDa",Desulfuromonas acetoxidans,ADSLTQFDGIKGRYSHEAFYEEKACDSCHLNK,32
+P49818,"60 kDa heat shock protein, mitochondrial",Canis lupus familiaris,AKDVXFGXDARAL,13
+P50369,Cytochrome b6-f complex subunit 6,Chlamydomonas reinhardtii,MIFDFNYIHIFMLTITSYVGLLIGALVFTLGIYLGLLKVVKLI,43
+P50370,Photosystem II reaction center protein Psb30,Chlamydomonas reinhardtii,MNIELALTLVSLVLVVSAGPLVVVLLSARGGNL,33
+P51889,Peridinin-chlorophyll a-binding protein,Alexandrium cohorticula,DEIGDAAKKLGDASYAFAKEVDCNNGIFLQAPGKFQPLEALKXIXKHXV,49
+P54836,"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",Canis lupus familiaris,AIEVQTVTLIPGD,13
+P55820,Synaptosomal-associated protein 25,Oryctolagus cuniculus,MLQLVEESSKDAGIRXLVMLDEQGEQLERVVDEREQMAISGGFIRIMEKMLGSG,54
+P55932,Electron transfer flavoprotein-ubiquinone oxidoreductase,Paracoccus denitrificans,SDIGGSMDYDVVIVGAGGAGLSAAILKQVNP,31
+P56382,"ATP synthase F(1) complex subunit epsilon, mitochondrial",Mus musculus,MVAYWRQAGLSYIRFSQICAKAVRDALKTEFKANAEKTSGSSIKIVKVSKKE,52
+P56682,Chymotrypsin inhibitor,Apis mellifera,EECGPNEVFNTCGSACAPTCAQPKTRICTMQCRIGCQCQEGFLRNGEGACVLPENC,56
+P58020,CD59 glycoprotein,Ovis aries,LQCYSCINQVDCTSVINCTXNQDACLY,27
+P58101,Dephospho-CoA kinase,Corynebacterium ammoniagenes,MKIIGLIGGIGSGKTTVAQLFVDEGFPLVD,30
+P58511,Small integral membrane protein 11,Homo sapiens,MNWKVLEHVPLLLYILAAKTLILCLTFAGVKMYQRKRLEAKQQKLEAERKKQSEKKDN,58
+P58560,Photosystem I reaction center subunit VIII,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),MATAFLPSILADASFLSSIFVPVIGWVVPIATFSFLFLYIEREDVA,46
+P58648,Cardioactive peptide Ocp-1/Ocp-2,Callistoctopus minor,GFGD,4
+P58649,Cardioactive peptide Ocp-3/Ocp-4,Callistoctopus minor,GSWD,4
+P58763,Cytokinin dehydrogenase,Triticum aestivum,FLPKSLFTLVTDKSL,15
+P58909,Lectin alpha chain,Dioclea violacea,ADTIVAVELDSYPNTDIGDPNYPHISIADENSLHFSFHKFSQNPKDLIL,49
+P59678,Chlorophyllase type 2,Chenopodium album,SEKITVFQKNFQVTENSSHFV,21
+P60316,Protein Hook homolog 3,Bos taurus,VELQNRLSDESQ,12
+P60460,Preprotein translocase subunit SecG,Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440),MSKREETGLATSAGLIRYMDETFSKIRVKPEHVIGVTVAFVIIEAILTYGRFL,53
+P62968,Thyrotropin-releasing hormone,Sus scrofa,QHP,3
+P63181,Cerebellin-1,Sus scrofa,SGSAKVAFSAIRSTNH,16
+P63293,Somatoliberin,Capra hircus,YADAIFTNSYRKVLGQLSARKLLQDIMNRQQGERNQEQGAKVRL,44
+P64453,Orphan toxin OrtT,Escherichia coli (strain K12),MSLYQHMLVFYAVMAAIAFLITWFLSHDKKRIRFLSAFLVGATWPMSFPVALLFSLF,57
+P67787,Adipokinetic hormone,Helicoverpa zea,QLTFTSSWG,9
+P67789,Hypertrehalosaemic factor,Tenebrio molitor,QLNFSPNW,8
+P67803,Leucosulfakinin-2,Periplaneta americana,QSDDYGHMRF,10
+Q9T2K9,Chlorophyll a-b binding protein,Spinacia oleracea,RRTVKSAPQ,9
+Q9T2L1,Chlorophyll a-b binding protein,Spinacia oleracea,RKSAGKPKN,9
+Q9TRG2,Plasma protease C1 inhibitor,Oryctolagus cuniculus,VARSLLIFEVQQPFLFLL,18
+Q9TS53,Annexin A6,Oryctolagus cuniculus,LVVLLQGTREEDDVVREQLVEGAGTDEKALIEILATRXNA,40
+Q9TWD3,Bradykinin-potentiating peptide K12,Buthus occitanus,LRDYANRVINGGPVEAAGPPA,21
+Q9TWD6,Neuropeptide NPF-1,Leptinotarsa decemlineata,ARGPQLRLRF,10
+Q9TWH3,Venom peptide isomerase light chain,Agelenopsis aperta,VEVATVKNCGKKLLATPR,18
+Q9TWW7,Pigment-dispersing hormone,Procambarus clarkii,NSELINSILGLPKVMNEA,18
+Q9UR66,Nucleoside diphosphate kinase,Candida albicans,NVCHGSDSVESANKEIDLWFK,21
+Q9UTC0,Metallothionein zym1,Schizosaccharomyces pombe (strain 972 / ATCC 24843),MEHTTQCKSKQGKPCDCQSKCGCQDCKESCGCKSSAVDNCKCSSCKCASK,50
+Q9XIA7,Mitochondrial import receptor subunit TOM6 homolog,Arabidopsis thaliana,MFPGMFMRKPDKAEALKQLRTHVALFGSWVVIIRAAPYVLSYFSDSKDELKIDF,54
+A0A0G0MF47,Prokaryotic ubiquitin-like protein UBact,Yanofskybacteria sp. (strain GW2011_GWA1_39_13),MPQDQQRKKQFDPNPNRDDSQRKTPVDKEIDDIIDEADEIVKRNKEQAKKKQPSRQ,56
+A0A1B0GUW7,Small integral membrane protein 27,Homo sapiens,MKPVSRRTLDWIYSVLLLAIVLISWGCIIYASMVSARRQLRKKYPDKIFGTNENL,55
+A0T0N4,Photosystem II reaction center protein X,Thalassiosira pseudonana,MTTSLANFIASLTAGALVLSAIGIALIIISKNDRVQRS,38
+A0T0V1,Photosystem I reaction center subunit IX,Thalassiosira pseudonana,MNDFQKYLSTAPVLLTLWMTFTAGFIIEVNRFFPDMLGLYF,41
+A0T0V3,Photosystem II reaction center protein Y,Thalassiosira pseudonana,MDTRLLVIAAPVLVAASWALFNIGRLAIQQIQRLSR,36
+A1E9L8,Protein PsbN,Hordeum vulgare,METATLVAISISGLLVSFTGYALYTAFGQPSQQLRDPFEEHGD,43
+A2RNR2,Large ribosomal subunit protein bL33C,Lactococcus lactis subsp. cremoris (strain MG1363),MLRKAGLACTVCGSRNYTLNLSSVAKEKRVEVKKFCRTCGKHTLHKETR,49
+A5A615,Uncharacterized protein YncL,Escherichia coli (strain K12),MNVSSRTVVLINFFAAVGLFTLISMRFGWFI,31
+A5U121,Large ribosomal subunit protein bL32,Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra),MAVPKRRKSRSNTRSRRSQWKAAKTELVGVTVAGHAHKVPRRLLKAARLGLIDFDKR,57
+A8DYP9,fur leader peptide,Escherichia coli (strain K12),MIRIISRANSVTSSNEVNRLVTGQIPHD,28
+B0BYW9,Photosystem II reaction center protein X,Acaryochloris marina (strain MBIC 11017),MTITPSLQGFFYSILFGAIVLGLLGGGFIFFSQKDKIVRR,40
+B0M2T3,Extended FMRFamide-3,Namaquaphasma ookiepense,GPDSAFLRL,9
+B0M2T4,Extended FMRFamide-4,Namaquaphasma ookiepense,GVDSSFLRL,9
+B0M2T5,Extended FMRFamide-5,Namaquaphasma ookiepense,TDRNFLRL,8
+B0M2T6,Extended FMRFamide-6,Namaquaphasma ookiepense,GRAENFLRL,9
+B0M2T7,Extended FMRFamide-7,Namaquaphasma ookiepense,ARSDNFVRL,9
+B0M2T9,Extended FMRFamide-9,Namaquaphasma ookiepense,GRGGASNYVRL,11
+B0M2U2,Pyrokinin-1,Namaquaphasma ookiepense,DGYTPRL,7
+B0M2U4,Pyrokinin-3,Namaquaphasma ookiepense,DPPFSPRL,8
+B0M2U5,Adipokinetic hormone,Namaquaphasma ookiepense,QVNFTPGW,8
+B0M2U6,Myosuppressin,Namaquaphasma ookiepense,QDVDHVFLRF,10
+B0M2U7,Corazonin,Namaquaphasma ookiepense,QTFHYSQGWTN,11
+B0M2X0,CAPA-Periviscerokinin-1,Striatophasma naukluftense,EAAGLISFPRV,11
+B0M399,CAPA-Periviscerokinin-2,Striatophasma naukluftense,SGLQFAVLDGQGFIPFPRV,19
+B0M3A0,Extended FMRFamide-1,Striatophasma naukluftense,AQSFLRL,7
+B0M3A1,Extended FMRFamide-2,Striatophasma naukluftense,ADYLQLAR,8
+B0M3A2,Extended FMRFamide-3,Striatophasma naukluftense,GPESAFLRL,9
+B0M3A9,Extended FMRFamide-6,Striatophasma naukluftense,GRADNFLRL,9
+P81079,"Cytochrome c3, 50 kDa",Desulfuromonas acetoxidans,IGAGVGRDGTIAATKGKAKTLAELIXMYDS,30
+Q37707,ATP synthase protein 8,Artemia franciscana,MPQMMPLPWIMVFLVSMALLWAIMTMVFFLYQPRSVSSAKGFSDRTVYLNWKW,53
+Q3U0I6,Endoregulin,Mus musculus,MGQMVPPRSIQNEDFWKNPWDVGGLTVIGLFTSTFLLFVLFAVVFGYVEKAVFEEE,56
+Q3U898,COP9 signalosome complex subunit 9,Mus musculus,MKPAVDEMFPEGAGPYVDLDEAGGSTGLLMDLAANEKAVHADFFNDFEDLFDDDDVQ,57
+Q4JB70,DNA import protein CedA2,Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770),MKSYLLVSMLLLLNSILVYIYTKNVQILVSGITVAVIIYIVVKIIFERFVHQ,52
+Q57839,Transcription elongation factor Spt4,Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440),MRACLKCKYLTNDEICPICHSPTSENWIGLLIVINPEKSEIAKKAGIDIKGKYALSVKE,59
+Q5SH22,Alpha-aminoadipate carrier protein LysW,Thermus thermophilus (strain ATCC 27634 / DSM 579 / HB8),MVGTCPECGAELRLENPELGELVVCEDCGAELEVVGLDPLRLEPAPEEAEDWGE,54
+Q6Q5X2,Lipid-anchored plasma membrane protein CPP3,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MRHHQNMHYAPQQQPVYVQQPPPRRESGGCCRTCCHFLCCLCLINLCCDVF,51
+Q6YKB1,CLAVATA3/ESR (CLE)-related protein 16D10,Meloidogyne incognita,MFTNSIKNLIIYLMPLMVTLMLLSVSFVDAGKKPSGPNPGGNN,43
+Q78IK2,"ATP synthase F(0) complex subunit k, mitochondrial",Mus musculus,MAGAESDGQFQFTGIKKYFNSYTLTGRMNCVLATYGGIALLVLYFKLRPKKTPAVKAT,58
+Q7LZB2,Sperm protamine P1-type,Chrysemys picta bellii,MARYRRNRSRSRSRRRRRRRGGRGGRRGRRRRRHGQRRRGRRGRERTRRRRRRRRRSSS,59
+Q7LZB6,Sperm protamine P1-type,Alligator mississippiensis,MARYRHNRSRSRSRHRRRRRGHRGGRYRRRRRRGRYGHRRHHRGHSRRRRKRRRSRH,57
+Q7LZG5,Phospholipase A2 II-5b,Notechis scutatus scutatus,NLIQLSNMIKCAIPGSQPLF,20
+Q7M0J9,Anantin,Streptomyces coerulescens,GFIGWGNNIFGHYSGDF,17
+Q7M0V7,Enolase,Clostridioides difficile,MGAEVFHSLKKVLGEKGLASGVGDEGGFAPNLGSNIRRAGYTAVISHRVAKYNQLLR,57
+Q7M1L0,"Chlorophyll a-b binding protein 3c, chloroplastic",Pisum sativum,LGALGCVFPELLSGNGVKFGYA,22
+Q7M3Z5,Histone H4,Sepia officinalis,MSGRGKGGKGLGKGGAKR,18
+Q7SGT7,"Cytochrome b-c1 complex subunit 9, mitochondrial",Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987),MSALYNLIFRNNTAFVGAVFAGAFAFELAYDNGMDKVWDKINKGRQWKDIRHKYVEAEE,59
+Q7Z0H4,Neurotoxin BmP08,Olivierus martensii,MKIFFAVLVILVLFSMLIWTAYGTPYPVNCKTDRDCVMCGLGISCKNGYCQGCTR,55
+Q80HV6,Virion membrane protein OPG141,Vaccinia virus (strain Western Reserve),MISNYEPLLLLVITCCVLLFNFTISSKTKIDIIFAVQTIVFIWFIFHFVHSAI,53
+Q8K459,Peroxisomal testis-specific protein 1,Mus musculus,MQLRHIGDSVNHRVIQEHLAQEVGDVLAPFVALVFVRGQVLLRFFWNNHLL,51
+Q8U0E8,DNA-directed RNA polymerase subunit Rpo6,Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1),MFKYTRFEKARIIGARALQISMGAPVLIDVPPGITPLEAAILEFEKGVIPITVIRPS,57
+Q94K78,"Cytochrome b-c1 complex subunit 10, mitochondrial",Arabidopsis thaliana,MAGTSGLLNAVKPKIQTIDIQAAAGWGIAAAAGAIWVVQPFGWIKKTFIDPPPTEEK,57
+Q97ZH4,Small ribosomal subunit protein eS30,Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2),MPSHGSLTKAGKVRSQTPKIQPKEKHKEVPRVRNRKEYEKRVVKARQQAPAR,52
+Q9D173,Mitochondrial import receptor subunit TOM7 homolog,Mus musculus,MVKLSKEAKQRLQQLFKGGQFAIRWGFIPLVIYLGFTRGADPGMPEPSVLSLLWG,55
+Q9M3L0,Cytochrome b6-f complex subunit 6,Spinacia oleracea,MFTLTSYFGFLLAALTITSALFIGLNKIRLI,31
+Q9PRZ0,Phospholipase A2,Bothrops jararaca,NLMQFETMIMKXAGQ,15
+Q9PRZ3,Neuropeptide gamma,Oncorhynchus mykiss,SSANPQITRKRHKINSFVGLM,21
+Q9PRZ6,Somatostatin-1,Amia calva,SANPALAPRERKAGCKNFFWKTFTSC,26
+Q9PS30,Gastrin-releasing peptide,Oncorhynchus mykiss,SENTGAIGKVFPRGNHWAVGHLM,23
+Q9R4A1,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,Klebsiella pneumoniae,MKIGIIGAMEEEVTLLRDKIENRQTITIGGSEIYT,35
+Q9RSH2,Large ribosomal subunit protein bL34,Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1),MKRTYQPNNRKRAKTHGFRARMKTKSGRNILARRRAKGRHQLTVSDE,47
+Q9S926,Monodehydroascorbate reductase II,Glycine max,AKTFKYIILG,10
+Q9SD80,Mitochondrial import receptor subunit TOM5 homolog,Arabidopsis thaliana,MVNNVVSIEKMKALWHSEVHDEQKWAVNMKLLRALGMFAGGVVLMRSYGDLMGV,54
+P40849,M-factor,Schizosaccharomyces pombe (strain 972 / ATCC 24843),MDSMANTVSSSVVNTGNKPSETLNKTVKNYTPKVPYMCVIA,41
+P55235,Glucose-1-phosphate adenylyltransferase small subunit,Spinacia oleracea,VSDSQNSQDGLDPE,14
+P55236,Glucose-1-phosphate adenylyltransferase large subunit,Spinacia oleracea,SVTADNASETKVREIGQEKSS,21
+P55739,Serine/threonine-protein phosphatase 5,Oryctolagus cuniculus,KASYIHLRGSDLRPQFHQFTAVPHPNVKPMAYANALLQLGVM,42
+P55749,Carboxypeptidase 1,Aspergillus niger,LTNKTARFLVNGTSIPEVDFDVGE,24
+P62789,Histone H4,Medicago sativa,MSGRGKGGKGLGKGGAKRHRKVLRD,25
+P68191,Stationary-phase-induced ribosome-associated protein,Escherichia coli (strain K12),MKSNRQARHILGLDHKISNQRKIVTEGDKSSVVNNPTGRKRPAEK,45
+P69208,Morphogenetic neuropeptide,Homo sapiens,QPPGGSKVILF,11
+P71001,RapF inhibitor,Bacillus subtilis (strain 168),MKLKSKLLLSCLALSTVFVATTIANAPTHQIEVAQRGMI,39
+P73070,Photosystem II reaction center protein J,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),MFAEGRIPLWVVGVVAGIGAIGVLGLFFYGAYAGLGSSM,39
+P74787,Photosystem II reaction center protein T,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),MESVAYILVLTMALAVLFFAIAFREPPRIEK,31
+P80264,NADH dehydrogenase [ubiquinone] iron-sulfur protein 2,Solanum tuberosum,MTTKNRQIQNFTLNFGPQHPAAHGVLRLVLEMNGEVVERAEPHIGLL,47
+P80647,Dihydrolipoyl dehydrogenase,Hymenolepis diminuta,LSSGEKDLVVIGSGPGGYVAAIKAAQLGMLTVCIEKYPTFGGTCLNVGCIPSK,53
+P80678,Gonadoliberin-2,Chelyosoma productum,QHWSLCHAPG,10
+P80740,Superoxide dismutase [Cu-Zn] 1,Olea europaea,MVKAVTVLNSSEGPHGIVYFAQEGDGPTTV,30
+P81207,Peptidase T,Fusobacterium nucleatum subsp. polymorphum,MDXKXYVDLKERFLRYVKFN,20
+P81531,Peptidyl-prolyl cis-trans isomerase,Betula pendula,DFTAGNGTGGESIYGAKDXXXXXXXTGPGILSMANAGPGTNG,42
+P81543,Zinc-containing ferredoxin A,Sulfuracidifex metallicus,GIDPNYRTSRPEVGTHEGHKVYGPVENPKVLGIHGAIVGVDFDLCIADGSCINA,54
+P81765,Tyrosinase inhibitor,Musca domestica,AVTDNEIVPQCLANGSKCYSHDVCCTKRCHNYAKKCVT,38
+P82680,Glucomannokinase,Segatella bryantii,MNEQSMKPYVIGLDLGGTNSVFGIV,25
+P82858,Uricase,Puccinia recondita f. sp. triseti,APFSLATA,8
+P83129,Superoxide dismutase [Cu-Zn],Paralichthys olivaceus,MALKAVCVLKGAGETSGTVHFEQEDN,26
+P83214,Sperm protamine P1,Octopus vulgaris,RLSRRRVYSIGGRRRRRRRRSRGRRGRRRGRRRGRRRGRRRGRRRRRRRGGRRRRR,56
+P83246,Glutathione S-transferase,Asaphis dichotoma,PSYKLHYFDLRAAGE,15
+P83267,Sperm protamine R3 isoform 2,Hydrolagus colliei,ARRRHSMKKKRKSVRRRKTRKNQRKRKNSLGRSFKAHGFLKQPPRFRP,48
+P83402,Alpha-aminoadipic semialdehyde dehydrogenase,Acanthopagrus schlegelii,SGLLINQPKYSWLKELGL,18
+P83473,Osteocalcin,Halobatrachus didactylus,AAAELSLVQLESLREVCEQ,19
+P83657,Catalase-1,Comamonas terrigena,THCLTTAAGAPVARFSTVAGERGAADAERDIRRLFSYGDAARRLGVNHQHIPVNAPR,57
+P83837,Histone H2B,Cyprinus carpio,MPEPAKSAPKKGSTRTAAKGGKKRRKSRK,29
+P84101,Small EDRK-rich factor 2,Homo sapiens,MTRGNQRELARQKNMKKQSDSVKGKRRDDGLSAAARKQRDSEIMQQKQKKANEKKEEPK,59
+P84195,"Endo-1,4-beta-xylanase Xyn10A",Gloeophyllum trabeum,LYMGTATDNGATAMLNLVESLKYSWVPSTFSGQGAATPYDSNLVK,45
+P84351,Osteocalcin,Homo sapiens neanderthalensis,REVCELNPDCDELADHIGFQEAYR,24
+P84708,Chitinolytic alpha-amylase inhibitor PvCAI,Phaseolus vulgaris,HEDNAGIAVYWGQDAREGDLVTACN,25
+P84783,Carbamoylase-1,Mactra chinensis,VRTPVTVQTKVDNIKXY,17
+P84789,Philibertain g 1,Philibertia gilliesii,LPASVDWRKEGAVLPIRHQGQCG,23
+P84815,Peptide tyrosine arginine,Lithobates sevosus,YLKGCWTKSYPPKPCFSR,18
+P84821,Lectin 80 kDa subunit,Penaeus setiferus,DASNAQKQHDVNFLL,15
+P85091,Cytoplasmic FMR1-interacting protein 1,Bos taurus,MYLTPSEKRINLSKVHPTDKLADQIFAYYKEGERDGKDEIIKNVPLKRIRK,51
+P85413,Probable UDP-arabinopyranose mutase 1,Phoenix dactylifera,TIKVPEGFDYELYNRNDINRYVDAVLTIPKVICDHLGLGVKTGLPYIWHSKASNPFVNLK,60
+P85430,Laccase-2d,Cerrena unicolor,GTGPVADLHIINKDLSPDGFQRPTVVAGGGRDVVSIGRAGDNVTIRF,47
+P85800,Variegin,Amblyomma variegatum,SDQGDVAEPKMHKTAPPFDFEAIPEEYLDDES,32
+P86207,Ras-related protein Rab-2A,Mesocricetus auratus,SCLLLQFTDKRFQPVHDLTIGVEFGARGAAGALLVYDITRRTASNVEEAFINTAKEIYEK,60
+P86249,Cytosol aminopeptidase,Mesocricetus auratus,GVLFASGQNLARTLIEFLLR,20
+P86351,Laccase-1,Galerina sp,GPSTDLVIGNKGFDGGIDSAILR,23
+P86693,Serum amyloid P-component,Salmo salar,AHQDLSGKVFVIPMATSTSHVKLHARVSEPISAMTM,36
+P86906,Amyloid-beta precursor protein,Felis catus,DAEFRHESGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV,40
+P87284,Plasma membrane proteolipid 3,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MDSAKIINIILSLFLPPVAVFLARGWGTDCIVDIILTILAWFPGMLYALYIVLQD,55
+P95674,Light-harvesting protein B-800/850 beta 2 chain,Magnetospirillum molischianum,MAERSLSGLTEEEAVAVHAQFQTTFSAFIVLAAVAHVLVWVWKPWF,46
+P97253,Light-harvesting protein B-800/850 alpha chain,Magnetospirillum molischianum,MSNPKDDYKIWLVINPSTWLPVIWIVATVVAIAVHAAVLAAPGFNWIALGAAKSAAK,57
+Q09123,Fructokinase,Fusobacterium mortiferum,MIIGAVEAGGTKFVDGVGNEKGEIFER,27
+Q10721,Serine proteinase,Scedosporium boydii,AYTGQTGAPWGLA,13
+Q10724,"Peptidyl-prolyl cis-trans isomerase, microsomal",Zea mays,KKDLTEVTHKVYFDVEIDGKPAGRIVMGLF,30
+Q36257,ATP synthase protein 8,Yarrowia lipolytica (strain CLIB 122 / E 150),MPQLVPFYFTNQIFYGFASLSVIVYLFSIYILPHYLEIYVTRIFITKT,48
+Q4JAQ0,Alpha-aminoadipate/glutamate carrier protein LysW,Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770),MVLLKCPICGNDVNVPDDSLPGEIVEHECGAQLEVFNSNGKLALRLAEQVGEDWGE,56
+Q55438,Photosystem II reaction center protein Psb30,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),MELLAALNLEPIFQLTFLGLIVLAGPAVVFVLAFRGGDL,39
+Q57490,Methylmalonyl-CoA decarboxylase subunit epsilon,Veillonella parvula,MSNATTTNGKAPSQDVVAVIVGALAAMGYSADQIAHIRPIVSYNWKMEGRLRGNR,55
+Q5SIH3,Small ribosomal subunit protein bTHX,Thermus thermophilus (strain ATCC 27634 / DSM 579 / HB8),MGKGDRRTRRGKIWRGTYGKYRPRKKK,27
+Q5VRD7,Protein CADMIUM TOLERANCE 3,Oryza sativa subsp. japonica,MYNPPAAQEMSYSDHVKKRHEDKGCLYACLFTLCCCFCCYETCECCLECLCCC,53
+Q7WY62,Sporulation inhibitor sda,Bacillus subtilis (strain 168),MNWVPSMRKLSDELLIESYFKATEMNLNRDFIELIENEIKRRSLGHIISVSS,52
+Q8DMP8,Photosystem II assembly protein Psb34,Thermosynechococcus vestitus (strain NIES-2133 / IAM M-273 / BP-1),MRYTTDEGGRLNNFAIEPKVYQAQPWTPQQKVRAALLVGGGLLLVAGLVAIAVGVS,56
+Q96I36,Cytochrome c oxidase assembly protein COX14,Homo sapiens,MPTGKQLADIGYKTFSTSMMLLTVYGGYLCSVRVYHYFQWRRAQRQAAEEQKTSGIM,57
+Q97ZE3,Chromatin protein Cren7,Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2),MSSGKKPVKVKTPAGKEAELVPEKVWALAPKGRKGVKIGLFKDPETGKYFRHKLPDDYPI,60
+P86692,Unknown protein 3,Ichthyophis tricolor,FTAAAEAEAAAA,12
+P86703,Myosin light chain,Penaeus monodon,EGFQLMDRGTFDEIGR,16
+P86827,Venom peptide 6,Tityus serrulatus,FGVLNFF,7
+Q10581,Angiotensin-like peptide 1,Bothrops jararaca,DRVYVHPFYL,10
+Q10582,Angiotensin-like peptide 2,Bothrops jararaca,DRVYIHPF,8
+P82305,Hemocyanin subunit 4,Maja squinado,DGPAQKQNTVNQLLVLIYLYK,21
+P82308,Hemocyanin subunit 6,Maja squinado,GGPSQKQKQHKVNLVNIKVYI,21
+P82309,Hemocyanin subunit 4,Carcinus maenas,GFGEDIAMKQHQVNSLLDILFVF,23
+P82310,Hemocyanin subunit Ia,Panulirus japonicus,ADXQPGDSTDKLLAQKQDDV,20
+P82313,Hemocyanin subunit III,Panulirus japonicus,DAHGSGNAHKQQDINHLLD,19
+P82339,Photosystem I reaction center subunit N,Pisum sativum,SVFDEYLEKSKANK,14
+P82609,Phenol sulfotransferase,Ictalurus punctatus,SFFEQNXKIVYVARNAKD,18
+P82660,FMRFamide-like neuropeptide PF6,Panagrellus redivivus,NGAPQPFVRF,10
+P82661,FMRFamide-like neuropeptide PF5,Panagrellus redivivus,AMRNALVRF,9
+P82697,Peptide hormone 4,Periplaneta americana,TDPLWQLPGAHLEQYLS,17
+P82816,"Malate dehydrogenase, mitochondrial",Nicotiana tabacum,SSEAAPEEKVAILGA,15
+P82867,Putative 18 kDa spermidine-binding protein,Zea mays,DDSMEEVVTVFIRTGSSLKA,20
+P82868,Putative 60 kDa spermidine-binding protein,Zea mays,SXAAVVEPPETSQNRIAKGE,20
+P82899,Histone H1B,Olisthodiscus luteus,TYYELIKAAILALKERNGSSAQAIKKYILENNKIEFQQTFLR,42
+P82902,Superoxide dismutase [Cu-Zn] 2,Debaryomyces hansenii,KAVAVLRGDSNVSGVVRFEQTHESEPTKIFIGQNSILALTVVVHAGTDDYGK,52
+P82945,Voltage-dependent anion-selective channel protein,Doryteuthis pealeii,VPPVYADLGKGARDLFSKGYNYGFSKL,27
+P82955,Alkyl hydroperoxide reductase subunit F,Acinetobacter calcoaceticus,MLDQNIXTQLXAYLER,16
+P82956,Chaperone protein ClpB,Acinetobacter calcoaceticus,MXFEXFTNRLQQALSDAQSL,20
+P82965,Antidiuretic factor A,Tenebrio molitor,VVNTPGHAVSYHVY,14
+P83009,Phospholemman-like protein,Lamna nasus,VSDVPNNDDRFTY,13
+P83012,"Cytochrome c oxidase subunit 5A, mitochondrial",Scyliorhinus canicula,SHGKQETDEEFDANL,15
+P83061,"Probable FKBP-type peptidyl-prolyl cis-trans isomerase 2, chloroplastic",Spinacia oleracea,AGLPPEEKPKLCDAACE,17
+P83063,Large ribosomal subunit protein uL10,Bacillus cereus,MSKVIETKQQVVTEIADKLRA,21
+P83065,Large ribosomal subunit protein uL5,Bacillus cereus,MNRLKEIFQKEITPALVSKF,20
+P83067,Elongation factor G,Bacillus cereus,MAREXSKENTR,11
+P83075,Phosphoglycerate kinase,Bacillus cereus,MNKKSIRNVNLKGKRVFDRV,20
+P83076,Superoxide dismutase [Mn/Fe],Bacillus cereus,MAKFELPNLPTADDAL,16
+P83079,Outer membrane protein,Sodalis glossinidius,AEVYNKDGNKLDIYGKAVGLHYFS,24
+P83109,Antidiuretic factor B,Tenebrio molitor,YDDGSYKPHIYGF,13
+P83115,"Chlorocatechol 1,2-dioxygenase 1",Delftia acidovorans,MNERVKQVASALVDAIQKTLTEQRV,25
+P83116,"Chlorocatechol 1,2-dioxygenase 2",Delftia acidovorans,MKNPRVHEIATAMIDAVRKVLVDHQ,25
+P83117,Alkyl hydroperoxide reductase C,Delftia acidovorans,SVINTQIKPFKTQAFKNGKFIEVTE,25
+P83149,Outer membrane protein 40Va,Vibrio alginolyticus,AEVFKSEEGSVDFYGQLRPA,20
+P83150,Flagellin,Vibrio alginolyticus,AVNVNTNVSAMTAQRYLNQA,20
+P83152,Allophycocyanin beta chain,Anabaena sp. (strain L31),MAQDAITAV,9
+P83153,C-phycocyanin beta subunit,Anabaena sp. (strain L31),MTLDVFTKVVSQADSRG,17
+P83154,Phycobilisome rod-core linker polypeptide CpcG3,Anabaena sp. (strain L31),MALPLLEYKPT,11
+P83155,Fructose-bisphosphate aldolase,Anabaena sp. (strain L31),ALVPLRLLLDHAAENG,16
+P83156,Ferredoxin,Anabaena sp. (strain L31),MATIYKVTLINETEG,15
+P83157,Superoxide dismutase [Fe],Anabaena sp. (strain L31),AFVQEPLPY,9
+P83159,"Phycobilisome 32.1 kDa linker polypeptide, phycocyanin-associated, rod",Anabaena sp. (strain L31),MAITAAASRLGTEPF,15
+P83160,Ribulose bisphosphate carboxylase small subunit,Anabaena sp. (strain L31),MQTLPKERRY,10
+P83168,Alpha-2-antiplasmin,Struthio camelus,LQVDYLVLEVA,11
+P83169,Plasminogen,Struthio camelus,NILDGYVRXEGAWLLSRIYLDEVEGRDVVYYRT,33
+P83174,Hemocyanin subunit 1,Cancer pagurus,DSPGGASDTQKQHXVNSXXXKXY,23
+P83176,Hemocyanin subunit 1,Carcinus maenas,XDPASVSDAXKQ,12
+P83195,Wall protein 1,Perkinsus olseni,MEDEGAGG,8
+P83202,Pregnancy-associated glycoprotein 55,Ovis aries,RGSXLTILPLRNMRDIVY,18
+P83274,FMRFamide-like neuropeptide FLP1,Macrobrachium rosenbergii,DRNFLRF,7
+P83276,FMRFamide-like neuropeptide FLP3,Macrobrachium rosenbergii,NYDKNFLRF,9
+P83277,FMRFamide-like neuropeptide FLP4,Macrobrachium rosenbergii,APALRLRF,8
+P83278,FMRFamide-like neuropeptide FLP5,Macrobrachium rosenbergii,DRTPALRLRF,10
+P83279,FMRFamide-like neuropeptide FLP6,Macrobrachium rosenbergii,DGGRNFLRF,9
+P83280,FMRFamide-like neuropeptide FLP7,Macrobrachium rosenbergii,GYGDRNFLRF,10
+P83281,FMRFamide-like neuropeptide FLP8,Macrobrachium rosenbergii,VSHNNFLRF,9
+P83289,Superoxide dismutase [Mn/Fe],Drechslerella dactyloides,AYELPELPYAYDA,13
+P83308,FMRFamide-like neuropeptide,Gallus gallus,LPLRF,5
+P83316,FMRFamide-like neuropeptide FLP1,Penaeus monodon,GDRNFLRF,8
+P83317,FMRFamide-like neuropeptide FLP2,Penaeus monodon,AYSNLNYLRF,10
+P83319,FMRFamide-like neuropeptide FLP4,Penaeus monodon,SQPSMRLRF,9
+P83320,FMRFamide-like neuropeptide FLP5,Penaeus monodon,SMPSLRLRF,9
+P83321,FMRFamide-like neuropeptide FLP6,Penaeus monodon,DGRTPALRLRF,11
+P83322,FMRFamide-like neuropeptide FLP7,Penaeus monodon,GYRKPPFNGSIF,12
+P83347,Matrix Gla protein,Prionace glauca,DSSESNEIDDVLFLGRRDANSFMKYPQLGN,30
+P83348,Trypsin,Apis mellifera scutellata,IVGGTAADISQFPHQLSLQTT,21
+P83359,Cuticle protein 7 isoform a,Limulus polyphemus,QAVRYANGYTYDIETGQVSSPYTGRVYETKGKAPFYGFGFEHPYHYYPGYYHGYPHAFY,59
+P83379,Purple acid phosphatase isozyme LeSAP2,Solanum lycopersicum,FLFVGDL,7
+P83380,Purple acid phosphatase isozyme LeSAP1,Solanum lycopersicum,AGDVIYIVR,9
+P83424,Agglutinin beta-1 chain isoform 1,Morus nigra,NQQSGXSETKVVVG,14
+P83426,Agglutinin beta-2 chain isoform 2,Morus nigra,TQSTGTSQTVEVGLWGGPDN,20
+P83437,Conserved oligomeric Golgi complex subunit 5,Bos taurus,IGALQGAVDRVLTQPTQSIVRNVAVVNSLYK,31
+P83445,"Ferritin-2, chloroplastic",Pisum sativum,ATTDSPATLTGVI,13
+P83449,Chlorate reductase subunit beta,Stutzerimonas chloritidismutans,TVKXQLSMVLDLNKEIGGQTXTAA,24
+P83450,Chlorate reductase subunit gamma,Stutzerimonas chloritidismutans,EXSEQNPNILEIKPGDTVKVXT,22
+P83454,Alkaline protease Cc3,Coprinus comatus,GLTDQKSAPPGL,12
+P83488,Exochitosanase,Aspergillus flavus,LPTGPNNPTTLDNSSII,17
+P86311,Tachykinin-like peptide-XIV,Phoneutria nigriventer,QKKDKKDRFYGLF,13
+P86443,Neuropeptide F,Schistocerca gregaria,YSQVARPRF,9
+P86445,Short neuropeptide F,Schistocerca gregaria,SNRSPSLRLRF,11
+P86645,Periviscerokinin-2,Bisanthe pulchripennis,GASGLISFPRV,11
+P86659,Periviscerokinin-2,Mantis religiosa,GASGLIPFPRL,11
+P86671,Periviscerokinin-2,Sphodromantis viridis,GGSSGLIAFPRL,12
+P86688,C-reactive protein P1,Gadus morhua,IPQDLSGKMLTFPKEEDDDDVKLMTPK,27
+P86689,C-reactive protein P2 subunit 4,Gadus morhua,GRSLVFPEETANSFVELFPAKELSL,25
+P86782,Albumin-2,Lens culinaris,TLTGYIANFSVLNXEAYLFINDKYVLLDYAPGTXNDK,37
+P86833,"3,4-dihydroxybenzoate decarboxylase",Sedimentibacter hydroxybenzoicus,MNKVTDLRSAIELLKTIPGQLIETNXDV,28
+P86897,Dextransucrase,Leuconostoc mesenteroides,GLPGYFGVN,9
+P86978,Beta-enolase,Thunnus albacares,SITKIKAREILD,12
+P86990,Non-toxic venom protein,Rhopalurus junceus,KEGYPTNSEGCKITXLFNDPYCKGXCINLSTQAD,34
+P99505,Thioredoxin,Canis lupus familiaris,MVKQIEFKYAFQEALNSAGDK,21
+P99507,"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial",Canis lupus familiaris,LSLHEYMSMELLQEAGVSIP,20
+Q00410,F420-non-reducing hydrogenase vhu subunit U,Methanococcus voltae,MVDETKLNLIEIVLRAYDPUYSCAAHMIVEDAEGNVVFEIVNDE,44
+Q04680,Sodium/potassium-transporting ATPase subunit gamma,Ovis aries,ENEDPFYYDYETVRNGGLIFAALAFIVGLVIILSKRFRCGAKKKHRQIPEDGL,53
+Q05827,Protein HOR7,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MKLSQVVVSAVAFTGLVSAANSSNSSSSKNAAQPIAGLNNGKVAGAAGVALAGALAFLI,59
+Q06125,Small ribosomal subunit protein eS31,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),MPHNEYYNDDGELDRETCPRCGDTVLAEHEDRQHCGKCGYTEWK,44
+Q09053,Methanol dehydrogenase [cytochrome c] subunit 2,Methylomonas sp,YDGTNCKPGVCWEPKPGY,18
+Q09122,Sucrose-6-phosphate hydrolase,Fusobacterium mortiferum,MDKKEYINRLNEQKPLQEMXSRDRYLXNFHLIP,33
+Q09124,Fructokinase-1,Lactococcus lactis subsp. lactis,SVYYGSIEAGGTKFVLAIADEHFNI,25
+Q13072,B melanoma antigen 1,Homo sapiens,MAARAVFLALSAQLLQARLMKEESPVVSWRLEPEDGTALCFIF,43
+Q2W8J4,Magnetosome protein Mms5,Paramagnetospirillum magneticum (strain ATCC 700264 / AMB-1),MLSAKGVSLGLGLGLGAWGPVLLGVVGVAGAIALYGYYKNRNAEPAAAEAV,51
+P11917,Taurocyamine kinase,Arenicola marina,LGYLGTCPTNIGTGLR,16
+P11918,Lombricine kinase,Lumbricus terrestris,LGYITCPGSNLGTLR,15
+P11920,Ice-structuring glycoprotein 7R,Eleginus gracilis,AATAATPATAATPATAARA,19
+P11921,Ice-structuring glycoprotein 8R,Eleginus gracilis,AATAATPATAATPARA,16
+P11932,Sex pheromone cAM373,Enterococcus faecalis,AIFILAS,7
+P11975,Neuropeptide H,Cardisoma carnifex,RSADGFGRMESLLTSLRGSAESPAALGEASAAHPLE,36
+P12198,Large ribosomal subunit protein bL32c,Nicotiana tabacum,MAVPKKRTSTSKKRIRKNIWKRKGYSIALKAFSLAKSLSTGNSKSFFVRQTKINK,55
+P12308,Mannose/glucose-specific lectin alpha chain,Lathyrus sativus,VTSYTLNEVVPLKDVVPEWVRIGFSATTGAEFAAHEVLSWSFHSELGGTSASKQS,55
+P12320,Anthranilate phosphoribosyltransferase,Pectobacterium carotovorum,MQATLIKPTIFTHQPILEKLFKSQSMTQEESXQLFAAIV,39
+P12321,Anthranilate phosphoribosyltransferase,Serratia marcescens,MQPILEKLYRAESMSQQESQQLFSAIVRGELEPSQLAA,38
+P12322,Kallikrein-1,Cavia porcellus,VIGGQECARDSHPWQAAVYHFSDIECGGVLV,31
+P12358,Photosystem II 10 kDa polypeptide,Triticum aestivum,SGGKKIKVDKPLGLGGGLTVDIDA,24
+P12663,Retinol-binding protein 3,Ovis aries,FQPSLVLDMAQVLLDNYTFPENLM,24
+P12665,Retinol-binding protein 3,Cricetidae sp.,HPIQNLFQPSLVLDM,15
+P12666,Retinol-binding protein 3,Cavia porcellus,THLFQPSLVLDMAKVLLDN,19
+P12761,Amelogenin-like protein,Oryctolagus cuniculus,LPLPPHPGHPGYINFSYEVLTPLKXYQSI,29
+P12800,Fibrinogen gamma chain,Canis lupus familiaris,YTATRDNCCILDERFGSYCPTTCG,24
+P12802,Fibrinogen beta chain,Anas platyrhynchos,QASTDYDDEDESTVPEAR,18
+P13049,Leukopyrokinin,Rhyparobia maderae,QTSFTPRL,8
+P13193,Photosystem I reaction center subunit III,Zea mays,AIAGLTPPKESKAFAKXEKN,20
+P13571,Heptapoietin A light chain,Oryctolagus cuniculus,VVNGKPTRTNVGRMVSLKYRNKHI,24
+P13724,Neurotensin,Gallus gallus,QLHVNKARRPYIL,13
+P13737,Contraction-inhibiting peptide 2,Mytilus edulis,GAPMFV,6
+P14485,Larval cuticle protein SC1,Sarcophaga bullata,ALETSNGIHFVAIGGDEHGNIHGNFGWVTIEGEAVDITYVADE,43
+P14486,Larval cuticle protein SC4,Sarcophaga bullata,YGLELDNSIKADQEGHLEGDKTWVVKGDYEYVSKEGK,37
+P14487,Larval cuticle protein SC6,Sarcophaga bullata,NEDANVIKSYSDVGVDQFKYGLELDNSIKADQEGHLEGD,39
+P14610,Acetyl-CoA acetyltransferase,Sus scrofa,QAVLGAGLPCNTTTSPIIKVCASGMK,26
+P14627,"Photosystem I reaction center subunit psaK, chloroplastic",Spinacia oleracea,GDFIGSSTNLIMVTSTTLMLFAGRFGLXP,29
+P14803,Octopamine receptor,Photinus pyralis,DDIKLSQQYDVLDLFKYMHQ,20
+P15466,Ribonuclease PL1,Sus scrofa,IPKNLTRAQWFTIQHIQPSPLQXNKAMNGVNXYT,34
+P15506,Morphine-modulating neuropeptide A,Bos taurus,AGEGLSSPFWSLAAPQRF,18
+P15507,Morphine-modulating neuropeptide B,Bos taurus,FLFQPQRF,8
+P15526,Chlorosome envelope protein B,Pelodictyon luteolum,SNGSNIDVAGAVNTLVETAGKLFQ,24
+P15527,Bacteriochlorophyll c-binding protein,Pelodictyon luteolum,MSGGGVFTDILAAAGRIFEVMVEGHWETVGMLFDSLGKGTMRINRNAYGSMGGGTSLRGS,60
+P15871,Histone H1.1,Triticum aestivum,MVSEAIAALKEREGSSEFAIGKKKE,25
+P16223,Locustatachykinin-1,Locusta migratoria,GPSGFYGVR,9
+P16224,Locustatachykinin-2,Locusta migratoria,APLSGFYGVR,10
+P16346,Bowman-Birk type wound-induced trypsin inhibitor,Medicago sativa,TTACCNFCPCTRSIPPQCRCTDIGETCHSACKTCLCTKSIPPQCHCADITNFCYPKCN,58
+P16352,Lectin,Crotalaria juncea,AEEQSFSSTKFSTDQPNLILQGDA,24
+P16353,Hypertrehalosaemic hormone,Helicoverpa zea,QLTFSSGWGN,10
+P17226,"Photosystem I reaction center subunit psaK, chloroplastic",Pisum sativum,DFIGSSTNVIMVASTTLMLF,20
+P17229,Photosystem I reaction center subunit IX,Pisum sativum,MRDLKTYLXVAPV,13
+P17323,Lipopeptide,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),MKRLFLSFVALALLAGSIAACGQKGPLYLPDDEKAKKEHSKDRYGF,46
+P17337,Urease subunit alpha,Morganella morganii,PQISRQEYGGLFGPT,15
+P13062,Periplasmic [NiFe] hydrogenase small subunit,Desulfovibrio multispirans,ALTGRRPSVVYLHAAQCTGCSEALLRTTKPFR,32
+P13064,Periplasmic [NiFeSe] hydrogenase small subunit,Desulfomicrobium norvegicum (strain DSM 1741 / NCIMB 8310),MTQGAKKAPVIWVQGEGCTGCSVSLLNAVCPR,32
+P13066,Periplasmic [NiFeSe] hydrogenase large subunit,Desulfomicrobium norvegicum (strain DSM 1741 / NCIMB 8310),AQAATPAADGKKKISIDTR,19
+P13570,Bacterioferritin,Nitrobacter winogradskyi,MKGDPKVIDYLNKALRHELTAINQYWLHYRLLDNWGIKDLAKKWRAESIE,50
+P13636,Pepsin A,Ursus thibetanus,FIIKVPLVKKKSLRKNLKEHGLLKDFLKKHSPNPASKYFPQEAAVMATQPLENYMDMEYF,60
+P13858,Thermomycolin,Malbranchea cinnamomea,ALVTQSNAPSWGLGRISNRQAGIRDYHYLSGTSM,34
+P13920,Protein CopG,Streptococcus agalactiae,MKKRLTITLSESVLENLEKMAREMGLSKSAMISVALENYKKGQEK,45
+P14125,Large ribosomal subunit protein eL20,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),MSTYTVRGSFPARDGPQQFEKEVEAPNENVAEERVYSDFGSQHNLKRTQITIEEVA,56
+P14405,Xylose isomerase,Streptomyces violaceoruber,GVTFHDDDLIPF,12
+P14595,Adipokinetic hormone,Tabanus atratus,QLTFTPGW,8
+P14596,Hypertrehalosaemic factor,Tabanus atratus,QLTFTPGWGY,10
+P15114,Metallothionein-2,Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138),MPEQVNCQYDCHCSNCACENTCNCCAKPACACTNSASNECSCQTCKCQTCKC,52
+P15343,Sperm histone P2b,Equus caballus,AGSYYSYRRRRCSPRRLYRLRRRRYRSSRRRRRRPCRRRRHRRVCRRVRRRRRCCRRR,58
+P16101,Choline oxidase,Alcaligenes sp,DNPNHSR,7
+P16312,Peptidase 1,Dermatophagoides microceras,TQACRINSGNVPSELDLRSLRTVTPIRMQG,30
+P16339,Locupressin,Locusta migratoria,CLITNCPRG,9
+P16589,Trypsin inhibitor,Halocynthia roretzi,AHMDCTEFNPLCRCNKMLGDLICAVIGDAKEEHRNMCALCCEHPGGFEYSNGPCE,55
+P17604,"ATP synthase subunit O, mitochondrial",Pisum sativum,QQVPGZKETKIKVPIAMFGGSGNYAXALYIAAVKXNAV,38
+P18110,RO-1,Romalea microptera,QVNFTPNWGT,10
+P18647,Apolipoprotein A-I,Erythrocebus patas,DEPPQTPWDRVKDLVTVYVE,20
+P18686,Ferritin light chain,Ovis aries,MEAALLVEKNLNQALLDLHGLASARGDPHICDFLENHFLDEEV,43
+P18980,Hemoglobin subunit alpha-2,Saara hardwickii,VGPHLDDYGGEALHRNFEVYPQTKTYFPHFDASAGSNQLK,40
+P19094,C-reactive protein,Mustelus canis,SPVAASYRATAGLAGKALDF,20
+P19118,"Triosephosphate isomerase, cytosolic",Nicotiana plumbaginifolia,GRTFFVGGNW,10
+P19122,Alpha-lactalbumin I,Macropus giganteus,IDYRKCQASQILKEHGMDKVIPLPELVCTMFHISGLSPQAEV,42
+P19149,Xylose isomerase,Streptomyces sp. (strain NCL 82-5-1),RHAGSAHTF,9
+P19621,Neprilysin,Sus scrofa,PKPKKKQRWTPLEISLEVLVLVLVXI,26
+P19662,Uridine phosphorylase,Lacticaseibacillus rhamnosus,RLKVIPEKLKDVKLVCTDVFGDN,23
+P20137,Glutathione S-transferase 5,Gallus gallus,PNYKLTYFNLRGRAEISRYLFAYAGIKY,28
+P20161,Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain,Chlorobaculum thiosulfatiphilum,GTKRVVVVGGGFGGASTAKYLRKLDPSISVTLVEPKTAFVTCPFSNAV,48
+P20260,Phospholipase A2 pseudexin C chain,Pseudechis porphyriacus,NLIQLSNMIKCAIPGSRPLFQYTDYGCY,28
+P20278,Large ribosomal subunit protein bL36,Bacillus subtilis (strain 168),MKVRPSVKPICEKCKVIRRKGKVMVICENPKHKQKQG,37
+P20304,Isocitrate dehydrogenase [NADP] cytoplasmic,Sus scrofa,DLAGEIHGLSNVK,13
+P20466,Rhodotorucin-A peptides type 3,Rhodotorula toruloides,MVAYPEISWTRNGCTVAKYPEISWTRNGCTVSKYPEISWTRNGCTVA,47
+P20738,Alpha-2-macroglobulin homolog,Pacifastacus leniusculus,SYVITTPKMWVMPYGCGEQNMVNFAPNIFIME,32
+P20739,Ovostatin,Anas platyrhynchos,ASFSVVGDIMGTSMQNLHQLLQMPFGCGEQNM,32
+P20903,Citrate synthase,Streptomyces hygroscopicus,SDNSVVLRYGDGEYSYPVVD,20
+P21381,Thaumatopain,Thaumatococcus daniellii,NLPNSVDWWKKGAVAAVKNQRXCGSCXAFSSIKTS,35
+P21624,UI,Platichthys flesus,AAAAGDSAASDLLGDNILRSEDPPMSIDLTFHMLRNMIHMAKMEGEREQAQINRNLLDEV,60
+P21779,Somatostatin-37,Petromyzon marinus,ALRAAAVAGSPQQLLPLGQRERKAGCKNFFWKTFSSC,37
+P21805,C-type natriuretic peptide,Gallus gallus,GLSRSCFGVKLDRIGSMSGLGC,22
+P21886,"Small, acid-soluble spore protein C1",Clostridium perfringens (strain 13 / Type A),MSQHLVPEAKNGLSKFKNEVAAEMGVPFSDYNGDLSSKQCGSVGGEMVKRMVEQYEKGI,59
+P22110,Small hydrophobic protein,Mumps virus genotype A (strain Jeryl-Lynn),MPAIQPPLYLTFLLLTLLYLIITLYVWTILTINHNTAVRYAALYQRSFSRWGFDQSL,57
+P22397,Surfactant protein C,Canis lupus familiaris,GIPCFPSSLKRLLIIVVVIVLVVVVIVGALLMGL,34
+P22416,Glutathione S-transferase GST-7.3,Serratia marcescens,MKLFYKAGACSLSPHIVLRELGLDFTAXKVD,31
+P22452,Large ribosomal subunit protein eL39,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),MGKKSKATKKRLAKLDNQNSRVPAWVMLKTDREVQRNHKRRHWRRNDTDE,50
+P22508,rRNA/tRNA 2'-O-methyltransferase fibrillarin,Physarum polycephalum,XFEGRGGFGGRGGGDRGGRGXGGFGGG,27
+P22658,NAD-reducing hydrogenase HoxS subunit alpha,Rhodococcus opacus,SGDIKAILERNGSERTRLIDILWDVQHLYGHIPDEVL,37
+P22659,NAD-reducing hydrogenase HoxS subunit gamma,Rhodococcus opacus,SIEIEIDGVTVTTEESRTLVDVAAEAGVYIPTL,33
+P22661,NAD-reducing hydrogenase HoxS subunit beta,Rhodococcus opacus,STKLVIDPVTRIEGHGKVTVHLDDNNNVVDAHLHVVEF,38
+P22779,Cytochrome P450 2A,Bos taurus,MXYLPGPQQQAFKELQGL,18
+P22948,Methyl-coenzyme M reductase subunit alpha,Methanosarcina thermophila,AADIFAKFKTSMEVK,15
+P22949,Methyl-coenzyme M reductase subunit beta,Methanosarcina thermophila,SDTVDIYDAGKILERVII,18
+P22950,Methyl-coenzyme M reductase subunit gamma,Methanosarcina thermophila,AYERQFYPGATSVAENNIGH,20
+P23080,Photosystem I reaction center subunit IX,Trichormus variabilis (strain ATCC 29413 / PCC 7937),MADKADQSSYLIKFISTAPVAATIWLIITAGILIEFNRFFPDLLFHPLP,49
+P23308,Protein SinI,Bacillus subtilis (strain 168),MKNAKQEHFELDQEWVELMVEAKEANISPEEIRKYLLLNKKSAHPGPAARSHTVNPF,57
+A5A616,Small protein MgtS,Escherichia coli (strain K12),MLGNMNVFMAVLGIILFSGFLAAYFSHKWDD,31
+D4GWB3,Small ribosomal subunit protein aS21,Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2),MSESEQRHAHQCVSCGINIAGMSAATFKCPDCGQEISRCSKCRKQSNLYECPDCGFMGP,59
+E1B7R9,Photoreceptor disk component PRCD,Bos taurus,MCTTLFLLSTLAMLWRRRFANRVQPEPNGVDGAVSGSSLETDLQSSGREKEPLK,54
+E3YBA4,Methanobactin mb-OB3b,Methylosinus trichosporium,MTVKIAQKKVLPVIGRAAALCGSCYPCSCM,30
+P02819,Osteocalcin,Macaca fascicularis,YLYQWLGAPAPYPDPLEPKREVCELNPDCDELADHIGFQEAYRRFYGPV,49
+P07255,"Cytochrome c oxidase subunit 9, mitochondrial",Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MTIAPITGTIKRRVIMDIVLGFSLGGVMASYWWWGFHMDKINKREKFYAELAERKKQEN,59
+P0A7N9,Large ribosomal subunit protein bL33,Escherichia coli (strain K12),MAKGIREKIKLVSSAGTGHFYTTTKNKRTKPEKLELKKFDPVVRQHVIYKEAKIK,55
+P0AFW2,Ribosome modulation factor,Escherichia coli (strain K12),MKRQKRDRLERAHQRGYQAGIAGRSKEMCPYQTLNQRSQWLGGWREAMADRVVMA,55
+P10174,"Cytochrome c oxidase subunit 7, mitochondrial",Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MANKVIQLQKIFQSSTKPLWWRHPRSALYLYPFYAIFAVAVVTPLLYIPNAIRGIKAKKA,60
+P12239,Cytochrome b559 subunit beta,Thermostichus vulcanus,MTSNTPNQEPVSYPIFTVRWVAVHTLAVPTIFFLGAIAAMQFIQR,45
+P12343,"Aspartate aminotransferase, cytoplasmic",Oryctolagus cuniculus,MAPPSIFAEVPQAQPVLVFKLTADFREDPDP,31
+P18651,Fibroblast growth factor 1,Canis lupus familiaris,NYMKPKLLYXSNGGH,15
+P36937,Potassium-transporting ATPase KdpF subunit,Escherichia coli (strain K12),MSAGVITGVLLVFLLLGYLVYALINAEAF,29
+P37817,Stage V sporulation protein M,Bacillus subtilis (strain 168),MKFYTIKLPKFLGGIVRAMLGSFRKD,26
+P53507,Mitochondrial import receptor subunit TOM7,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MSFLPSFILSDESKERISKILTLTHNVAHYGWIPFVLYLGWAHTSNRPNFLNLLSPLPSV,60
+P53803,"DNA-directed RNA polymerases I, II, and III subunit RPABC4",Homo sapiens,MDTQKDVQPPKQQPMIYICGECHTENEIKSRDPIRCRECGYRIMYKKRTKRLVVFDAR,58
+P55736,Flavin reductase (NADPH),Aquarana catesbeiana,APKNIVLFGATGMTGQVTLGQALE,24
+P56100,Cytochrome bd-I ubiquinol oxidase subunit X,Escherichia coli (strain K12),MWYFAWILGTLLACSFGVITALALEHVESGKAGQEDI,37
+P56378,"ATP synthase F(0) complex subunit j, mitochondrial",Homo sapiens,MLQSIIKNIWIPMKPYYTKVYQEIWIGMGLMGFIVYKIRAADKRSKALKASAPAPGHH,58
+P62945,Small ribosomal subunit protein eS32,Homo sapiens,MRAKWRKKRMRRLKRKRRKMRQRSK,25
+P64512,PhoP/PhoQ regulator MgrB,Escherichia coli (strain K12),MKKFRWVVLVVVVLACLLLWAQVFNMMCDQDVQFFSGICAINQFIPW,47
+P72932,High light-inducible protein HliD,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),MSEELQPNQTPVQEDPKFGFNNYAEKLNGRAAMVGFLLILVIEYFTNQGVLAWLGLR,57
+P73563,High light-inducible protein HliC,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),MNNENSKFGFTAFAENWNGRLAMIGFSSALILELVSGQGVLHFFGIL,47
+P80225,"Beta-1,4-galactosyltransferase 1",Rattus norvegicus,PGATLQXAXXLLVAVXAXPPPPLGVXPKPXPG,32
+P80967,Mitochondrial import receptor subunit TOM5,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MFGLPQQEVSEEEKRAHQEQTEKTLKQAAYVAAFLWVSPMIWHLVKKQWK,50
+P81160,Ductus ejaculatorius peptide 99B,Drosophila melanogaster,MKTPLFLLLVVLASLLGLALSQDRNDTEWIQSQKDREKWCRLNLGPYLGGRCRK,54
+P81450,"ATP synthase subunit J, mitochondrial",Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MLKRFPTPILKVYWPFFVAGAAVYYGMSKAADLSSNTKEFINDPRNPRFAKGGKFVEVD,59
+P81563,Interstitial collagenase,Rattus norvegicus,DTLKSEKNADFKDLY,15
+P81747,NDMA-dependent alcohol dehydrogenase,Rhodococcus erythropolis,MKTKAAVLFETHKPFEIVELEL,22
+P82679,Monocyclic monoterpene ketone monooxygenase,Rhodococcus erythropolis,MQTIPSTTETAADFDAVIXGAGFXGLYALHR,31
+P83238,Osteocalcin,Danio rerio,AGTAXGDLTPFQLESLREVCEVNLACEHMADTXGIVAAYTAYYGY,45
+P83264,Sperm protamine alpha isoform 1,Scomber scombrus,MPRRRRRASRPVRRRRRARRSTAVRRRRRVVRRRR,35
+P83268,Eukaryotic translation initiation factor 2 subunit 1,Oryctolagus cuniculus,PGLSCRFYQHKFPEVEDVVMVNVRSIAEMGAYVSLLEYNNIEGRILLSELSR,52
+P83581,Heat shock 70 kDa protein 4L,Rattus norvegicus,LSAMLEDTENWLYEELSLTQDPVV,24
+P84109,Sorbin and SH3 domain-containing protein 1,Rattus norvegicus,LNRDDDSDLHSPRYSFSEDTKCDDGWFVGTSRRTK,35
+P85826,Diuretic hormone class 2,Rhodnius prolixus,GLDLGLSRGFSGSQAAKHLMGLAAANYAGGP,31
+P86195,Adenylate kinase isoenzyme 1,Mesocricetus auratus,IIFVVGGPGSGKGTQCEKYGYTHLSTGDLLRVDSSNGFLIDGYPRQGEEFERKRLETYYK,60
+P86215,Peroxiredoxin-6,Mesocricetus auratus,DFTPVCTTELGRLAPEFAKRVVFIFGPDKKLKLSILYPATTGRNFDEILR,50
+P9WK09,Metallothionein,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),MRVIRMTNYEAGTLLTCSHEGCGCRVRIEVPCHCAGAGDAYRCTCGDELAPVK,53
+Q00829,Phosphatase RapA inhibitor,Bacillus subtilis (strain 168),MKSKWMSGLLLVAVGFSFTQVMVHAGETANTEGKTFHIAARNQT,44
+Q08542,Movement protein p6,Beet yellows virus (isolate Ukraine),MDCVLRSYLLLAFGFLICLFLFCLVVFIWFVYKQILFRTTAQSNEARHNHSTVV,54
+Q13794,Phorbol-12-myristate-13-acetate-induced protein 1,Homo sapiens,MPGKKARKNAQPSPARAPAELEVECATQLRRFGDKLNFRQKLLNLISKLFCSGT,54
+Q28280,Amyloid-beta precursor protein,Canis lupus familiaris,ISEVKMDAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITLVML,58
+Q37935,"Spanin, outer lipoprotein subunit",Escherichia phage lambda,MLKLKMMLCVMMLPLVVVGCTSKQSVSQCVKPPPPPAWIMQPPPDWQTPLNGIISPSERG,60
+Q3LHN2,Keratin-associated protein 19-2,Homo sapiens,MCYGYGCGCGSFCRLGYGCGYEGCRYGCGHRGCGDGCCCPSCYRRYRFTGFY,52
+Q3LI70,Keratin-associated protein 19-6,Homo sapiens,MRYYGSYYRGLGYGCGGFGGLGYGCGCGGYRYGSGYGGYRYGCCRPSCREGYGFSGFY,58
+Q59HN7,Phosphatase RapH inhibitor,Bacillus subtilis (strain 168),MPIKKKVMMCLAVTLVFGSMSFPTLTNSGGFKESTDRNTTYIDHSPYKLSDQKKALS,57
+Q6Q547,H/ACA ribonucleoprotein complex subunit NOP10,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MHLMYTLGPDGKRIYTLKKVTESGEITKSAHPARFSPDDKYSRQRVTLKKRFGLVPGQ,58
+Q6X5V0,Small polypeptide DEVIL 1,Arabidopsis thaliana,MEMKRVMMSSAERSKEKKRSISRRLGKYMKEQKGRIYIIRRCMVMLLCSHD,51
+Q8C5Y2,Mitochondrial sheath formation-associated protein,Mus musculus,MIVLGWMLFVGLATYMGTFPEAMPPTLKWKERLPGQENKARRRIQALEEELLL,53
+Q8N4H5,Mitochondrial import receptor subunit TOM5 homolog,Homo sapiens,MFRIEGLAPKLDPEEMKRKMREDVISSIRNFLIYVALLRVTPFILKKLDSI,51
+Q99380,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST4,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MISDEQLNSLAITFGIVMMTLIVIYHAVDSTMSPKN,36
+Q9BZL3,Small integral membrane protein 3,Homo sapiens,MDAVSQVPMEVVLPKHILDIWVIVLIILATIVIMTSLLLCPATAVIIYRMRTHPILSGAV,60
+Q9NRQ5,Single-pass membrane and coiled-coil domain-containing protein 4,Homo sapiens,MRQLKGKPKKETSKDKKERKQAMQEARQQITTVVLPTLAVVVLLIVVFVYVATRPTITE,59
+Q9TS44,Cholecystokinins,Canis lupus familiaris,AVQKVDGEPRAHLGALLARYIQQARKAPSGRMSVIKNLQNLDPSHRISDRDYMGWMDF,58
+P83382,Periviscerokinin-1,Locusta migratoria,AAGLFQFPRV,10
+P83441,Mating pheromone En-1,Euplotes nobilii,NPEDWFTPDTCAYGDSNTAWTTCTTPGQTCYTCCSSCFDVVGEQACQMSAQC,52
+P83448,Chlorate reductase subunit alpha,Stutzerimonas chloritidismutans,LNMLEPVGETLASEYPYXK,19
+P83451,N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase,Asobara tabida,RIIEPIAGGPFIVMTWNYPGTIGIIAVDANGHIAVGTSTN,40
+P83470,Platelet factor 4,Oryctolagus cuniculus,SDDPKESEGDLHCVCVKTTRLVRPGHITXL,30
+P83505,"ATP synthase subunit beta, chloroplastic",Brassica campestris,KDALVYGQMNEPPGARMRVGLKDGSITSIQAV,32
+P83511,Lectin,Delonix regia,EITKFPKDQQNLIGQG,16
+P83567,SepOvotropin,Sepia officinalis,PKDSMLLLQVPVY,13
+P83569,Sperm-attracting peptide SepSAP,Sepia officinalis,PIDPGV,6
+P83570,Neuropeptide GWa,Sepia officinalis,GW,2
+P83628,Insulin-like growth factor-binding protein 2,Oncorhynchus tshawytscha,DLVFYCPKCTAERQTACPKL,20
+P83629,Pancreatic triacylglycerol lipase,Felis catus,KEICFPRLGCFSDDAPWAGIAQRPL,25
+P83672,Agglutinin-1,Pomacea flagellata,LAKTNFPLNFPIHVRDAGVQWSPLGRLTTGADVRHEIPARVGHRLARWA,49
+P83683,Orexigenic neuropeptide 26RFa,Pelophylax lessonae,VGTALGSLAEELNGYNRKKGGFSFRF,26
+P83708,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,Delftia acidovorans,AIVEVKVPXLXE,12
+P83712,Glutaminase-asparaginase,Delftia acidovorans,NVVVLATGGTIAGAGTNAFASQXGPLGMVVEGK,33
+P83722,Nuclear pore complex protein Nup160,Xenopus laevis,PVNIYVIMADQGPAHLPVSLAVHTDMLEYVPVSKDEYFQKLKKA,44
+P83795,Cytochrome b6-f complex subunit 6,Mastigocladus laminosus,MILGAVFYIVFIALFFGIAVGIIFAIKSIKLI,32
+P83864,Histone H3,Penaeus vannamei,KPHRYRPGTVALRSTELLIRKLPFQREIAQDFKTDLRDIQLAR,43
+P83891,Implantin,Mus musculus,XVGDLKTPAILRVTNAYLFN,20
+P83918,Manganese peroxidase,Irpex lacteus,LSLLGHDERVTPEPFDSVTAQNARGNQADVQSLPR,35
+P83921,Periviscerokinin-1,Rhyparobia maderae,GSSGLIPFGRT,11
+P83926,Periviscerokinin-2,Rhyparobia maderae,GSSGLISMPRV,11
+P83973,Alpha-(1-6)-linked fucose-specific lectin,Rhizopus stolonifer,IDPVNVKKLQCDGDTYKCTADLDFGDGR,28
+P83989,Aspartate racemase,Anadara broughtonii,PVAPEYLFKKEEDKGANKEEEEVAPELGIRA,31
+P84000,U10-ctenitoxin-Pr1a,Phoneutria reidyi,SCADAYKSCDSLKCCNNRTCMCSMIGTNCTCRKK,34
+P84005,Peptide tyrosine phenylalanine 1,Penaeus monodon,RARPRF,6
+P84007,Peptide tyrosine phenylalanine 3,Penaeus monodon,YAIAGRPRF,9
+P84008,Peptide tyrosine phenylalanine 4,Penaeus monodon,YSLRARPRF,9
+P84011,U11-ctenitoxin-Pn1b,Phoneutria nigriventer,ACLARGETCKDDCECCDCDNQCYCPFDWFGGKWHPVGCSCAYTNKYVCDHKKEKCKKA,58
+P84119,Cardioactive peptide,Carcinus maenas,PFCNAFTGC,9
+P84122,Thrombin,Salmo salar,SFGSGELVXGEXPXFEKIIVKGIDAEVASAPMQVML,36
+P84159,Germin-like protein,Citrus sinensis,TDPGHLQDVXVAINDPKXGVFVNRK,25
+P84194,Endoglucanase Cel5A,Gloeophyllum trabeum,VTGPAPLKFAGVNIAGFDYDALVQAXLNXGYLDSDNSGTLAINTETGGGNTASXVE,56
+P84196,Endoglucanase Cel12A,Gloeophyllum trabeum,GVQISQISSFPTTADVSYDFNITNALGGIQPVGSLK,36
+P84259,Hypertrehalosaemic factor 1,Periplaneta americana,QVNFSPNW,8
+P84307,SchistoFLRFamide,Schistocerca gregaria,PDVDHVFLRF,10
+P84340,C-phycocyanin alpha subunit,Limnospira fusiformis,MKTPLTEAVSIADSQGRFLSSTQIQVLFGRFRQAKAGLXAAKAL,44
+P84352,Periviscerokinin-1,Sarcophaga bullata,NGGTSGLFAFPRV,13
+P84353,Periviscerokinin-2,Sarcophaga bullata,AGLLVYPRL,9
+P84355,Periviscerokinin-2,Musca domestica,ASLFNAPRV,9
+P84371,Pyrokinin-6,Pseudoderopeltis foveolata,SDPEAPGIWFGPRL,14
+P84373,Periviscerokinin-2 type 2,Celatoblatta sp. (strain Blue Mountains),GSSGLISVPRV,11
+P82302,Hemocyanin subunit 1,Maja squinado,DQPGDVKTHKQYDVNYLFFKI,21
+P82303,Hemocyanin subunit 2,Maja squinado,GQLALKQQTVNRLLNKIYSPISDAYSELKQL,31
+Q3E758,Uncharacterized protein YHL048C-A,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MHDIWVITTSPACFEILYKYCKQKGRARMGGLIVKIIRFNHASV,44
+Q3E782,Uncharacterized protein YMR247W-A,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MAHKCASAKLLSGIMALLFNGKSLLRPICLHVHNHLVSNSDTNIVWP,47
+Q3E7A6,"Uncharacterized protein YML007C-A, mitochondrial",Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MVHFIFIALRSMRFMRRLVRNLQYLLLPITSSLLFI,36
+Q3E7Z4,Uncharacterized protein YIL046W-A,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MMCVCIPKKKLMDWRVYYIYSYVVCLYMCGSDCACICVLACVVQCVCFNVEMRL,54
+Q70LE5,Putative zinc finger protein ORF59a,Acidianus filamentous virus 1 (isolate United States/Yellowstone),MIEVSSMERVYQCLRCGLTFRTKKQLIRHLVNTEKVNPLSIDYYYQSFSVSLKDVNKII,59
+Q7M463,Neurotoxin BmK A3-6,Olivierus martensii,LPYPVNCKTECECVMCGLGIICKQCYYQQ,29
+Q7NSS5,Methyltransferase activator Trm112 homolog,Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / CCUG 213 / NBRC 12614 / NCIMB 9131 / NCTC 9757 / MK),MDAKFLEILVCPLCKGPLVFDKSKDELICKGDRLAFPIKDGIPMMLESEARELAPEEEVK,60
+Q8QL46,Uncharacterized protein 56B,Sulfolobus islandicus rod-shaped virus 1,MQTQEQSQKKKQKAVFGIYMDKDLKTRLKVYCAKNNLQLTQAIEEAIKEYLQKRNG,56
+Q9R4N8,Large ribosomal subunit protein bL33,Brevundimonas vesicularis,CKPASIKIRLNSTADTGFYV,20
+Q9R4P4,Large ribosomal subunit protein uL29,Brevundimonas diminuta,TKIADLRSQTVDQLSDXLXKL,21
+Q9R4P6,Small ribosomal subunit protein bS21,Brevundimonas diminuta,VQIFVXDNNVDQALK,15
+Q9R5V8,Large ribosomal subunit protein uL29,Ectopseudomonas mendocina,MKATELREKSAQQLNXQLL,19
+P08175,Male-specific sperm protein Mst87F,Drosophila melanogaster,MCCGPCGPCCGPCCGPCCGPCGPCGGGCGPCYGPNVCGPCYACGPCGGCYCGYPCC,56
+P08433,Protamine-Z1,Scyliorhinus canicula,MGSCKPKKKQAPCFLRRRHLRRLNVCKRDTSKTYRRRRHVRRLPKKRRRRC,51
+P09196,Natriuretic peptides A,Pelophylax ridibundus,APRSMRRSSDCFGSRIDRIGAQSGMGCGRF,30
+P09689,Acetylcholine receptor subunit beta,Electrophorus electricus,SEAENDLMNKLFTAYNPKVRPAEK,24
+P09691,Acetylcholine receptor subunit delta,Electrophorus electricus,RNEEERLINHLFKERGYNKELRPAQT,26
+P09692,Acetylcholine receptor subunit gamma,Electrophorus electricus,NEESDLIADKFTNYNKLIRPAKH,23
+P09873,Chymosin,Felis catus,SEITRVPLHKGKSLRKALKEHGLLEBFDKVSNEPLADFLDSEYFGKIYIGTPPZ,54
+P0A0E0,Mannitol-specific phosphotransferase enzyme IIA component,Staphylococcus aureus,MSELFSNDNIFLNVNVNSQNEAIEKAGKALVDSGAVTDAYIQVVSTFMGNGLAIPHGTDD,60
+P0A0V6,Histidine-rich metal-binding polypeptide,Helicobacter pylori (strain ATCC 700392 / 26695),MAHHEEQHGGHHHHHHHTHHHHYHGGEHHHHHHSSHHEEGCCSTSDSHHQEEGCCHGHHE,60
+P0AC92,Protein GnsA,Escherichia coli (strain K12),MNIEELKKQAETEIADFIAQKIAELNKNTGKEVSEIRFTAREKMTGLESYDVKIKIM,57
+P0C0U9,Hemoglobin subunit beta-2,Drymarchon melanurus erebennus,VHWSAEEKQL,10
+P0C2C3,Mitochondrial amidoxime reducing component 2,Sus scrofa,LWIYPVKSCKTEAYRCILTTVDPDTGVIDRKVGDPVYRMV,40
+P0C7S1,Bradykinin-potentiating peptide 2,Bothrops neuwiedi,EEGGRPPPPI,10
+P0C7S2,Bradykinin-potentiating peptide 13a,Bothrops neuwiedi,QGGWPRPGPEIPP,13
+P0C7S3,Bradykinin-potentiating peptide 5,Bothrops neuwiedi,EEGGSPPPVVI,11
+P0C7S6,Bradykinin-potentiating peptide POL-236,Crotalus atrox,QLWPRPQIPP,10
+P0C7T4,Minor histocompatibility protein HMSD variant form,Homo sapiens,MEIFIEVFSHFLLQLTELTLNMCLELPTGSLEKSLMISSQVLQIPVANSTKQR,53
+P0C8L2,Potassium channel toxin alpha-KTx 13.4,Tityus stigmurus,GCRQCGGGCNKHGKCINGKCKCY,23
+P0C8L5,Enolase-phosphatase E1,Klebsiella aerogenes,MIXAIVTDIEGTTSDTXFVXNVLFPY,26
+P0C8M2,Serine proteinase-like BMK-CBP,Olivierus martensii,IFGGTFAKNGEYPWMVVIDLPEFACGGVLISKKFVLTAAH,40
+P0C8M5,Transcriptional regulator SlrA,Bacillus subtilis (strain 168),MKTHVKKDLDKGWHMLIQEARSIGLGIHDVRQFLESETASRKKNHKKTVRQD,52
+P0C8X3,Hyaluronidase,Tityus stigmurus,EHPALYRRYSKEHTFCKTKNQXCN,24
+P0CK21,Entry-fusion complex protein OPG076,Vaccinia virus (strain Western Reserve),MLVVIMFFIAFAFCSWLSYSYLRPYISTKELNKSR,35
+P0CK45,Protein E5,Bovine papillomavirus type 1,MPNLWFLLFLGLVAAMQLLLLLFLLLFFLVYWDHFECSCTGLPF,44
+P0CU66,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 4,Canis lupus familiaris,MITDVQLAIFANMLGVSLFLLVVLYHYVAVNNPKKQE,37
+P0CV91,Peroxiredoxin-4,Crotalus atrox,GLFIIDDKQITMNDLPVGRSVDETLRLVQAFQYTDK,36
+P0DJJ5,Snake venom 5'-nucleotidase,Gloydius blomhoffii blomhoffii,SFELTILHTNDVHARVEIINVGSEKSDDGRQVPVVQAYAFGIQLHNYSSQEIGK,54
+P0DJZ5,Structural protein ORF5a,Porcine reproductive and respiratory syndrome virus (strain VR-2332),MFKYVGEMLDRGLLLAIAFFVVYRAVLFCCARQRQQRQQLPSTADLQLDAM,51
+P0DKT8,Neutral phospholipase A2 homolog cannitoxin beta chain 1,Oxyuranus scutellatus canni,NLVQFGKMIE,10
+P0DM37,Photosystem II reaction center protein Y,Thermostichus vulcanus,DWRVLVVLLPVLLAAGWAVRNILPYAVKQVQKLL,34
+P0DPT8,Phospholipase A2,Scolopendra dehaani,SLANFLSMTLTAAKRKPKEYDGYGNYCG,28
+P0DQQ7,Conotoxin Bn5a,Conus bandanus,NGCCIVRECC,10
+P0DQQ8,Angiotensin-converting enzyme inhibitory peptide,Chiropsoides quadrigatus,ACPGPNPGRP,10
+P0DQU2,Aminopeptidase A,Gloydius blomhoffii,YLTDHYFKVDLNSTVTQQRFLLDPSELAGITIMQPSDSNIEWLKQYRDDVATWLENS,57
+P0DQY3,Conotoxin Vi14b,Conus virgo,QQMCGRCGGTGQIIKNECKTCHGKKVTK,28
+P0DRJ6,Bradykinin-potentiating peptide Cdc,Crotalus durissus terrificus,PNLPNYLGIPP,11
+P0DSL8,U1-pseudomyrmecitoxin-Pt1 subunit LS2,Pseudomyrmex triplarinus,ISLAQIKKLLQIIKQGLKAICDNRDLIAKGCQA,33
+P0DSL9,U1-pseudomyrmecitoxin-Pt1 subunit SS1,Pseudomyrmex triplarinus,LFGGLLDKLKEKIKKYCNKENLDKACSKL,29
+P0DTK2,Movement protein P3a,Potato leafroll virus (strain Potato/Scotland/strain 1/1984),MDYKFLAGFALGFSSAIPFSVAGLYFVYLKISSHVRSIVNEYGRG,45
+P0DUH7,Protein HRURF,Homo sapiens,MAQPTASAQKLVRPIRAVCRILQIPESDPSNLRP,34
+P0DUK4,Phospholipase A2 inhibitor gamma subunit B1,Crotalus durissus terrificus,IECEVCMKPGDRCNGSMMT,19
+P0DV01,Beta-scoliidine,Scolia decorata ventralis,DYVTVKGFSPLRKA,14
+P0DV15,M-poneritoxin-Nc1a,Neoponera commutata,FWGAAAKMLGKALPGLISMFQKN,23
+P0DV72,Bradykinin-potentiating peptide Brachy,Brachycephalus ephippium,WPPPKVSP,8
+P0DW32,Arsenate respiratory reductase iron-sulfur subunit ArrB,Chrysiogenes arsenatis,AKYGMAIDLHKCAGCGACGLACKTQNNTDD,30
+P0DW50,Beta-campsomerin,Campsomeriella annulata,PRLRRLTGLSPLRAP,15
+P0DW51,Annulatin,Campsomeriella annulata,ISEALKSIIVG,11
+P0DXO3,uORF1 protein,Zika virus (isolate ZIKV/Human/Cambodia/FSS13025/2010),MRQFEFEAKASNSINRFYFGFGNESFWS,28
+P10846,Alpha-amylase inhibitor WDAI-3,Triticum aestivum,SGPWMCYPGYAFKVPALPGCRPVLLLQCNGSQVPEAVLRDCCQQ,44
+P11148,Colipase,Gallus gallus,GLIFNLDTGELCLQSAQCKSECCQEDSGLSLAXC,34
+P11389,Allophycocyanin alpha-B chain,Mastigocladus laminosus,TVVSQVILKADDELRYPSSGELKSITEFLQTGEQRVRIAQ,40
+P11419,Superoxide dismutase [Mn],Desulfovibrio desulfuricans,SIFVLPDLPYAKDALPKISAKTFDFGK,27
+P11727,"Ornithine carbamoyltransferase, catabolic",Pseudomonas putida,MAFNIHNRNLLSLEHHTNRELRYLLDLTRDLKAK,34
+P11804,Glutathione reductase,Spirulina sp,VAIAENSVVGGTCVIRGCVPKLTLTGDDTEPLIVDALLCATGRTTQSNIFAVGDCTDR,58
+P11860,Sperm-specific protein Phi-3,Mytilus californianus,AKAKRSPRKKKAAVKKSSKSKAKKPKSPKKKKAAKKPAKKAAKKK,45
+P11887,2-enoate reductase,Clostridium tyrobutyricum,MKNKSLFEVIKIGKVEVXXKIXMAVMGAFG,30
+P11925,Califin-C,Aplysia californica,ISINQDLKAITDMLLTEQIQARRRCLAALRQRLLDLDSDVSLFNGDLLPNGRCS,54
+P12245,C-reactive protein,Pleuronectes platessa,VVIKTLVFQSESNNSFVELIPMKPLNLRAFXL,32
+P12801,Fibrinogen alpha chain,Anas platyrhynchos,QDGKSSFQKEGGGVR,15
+P0DL08,Poly-His-poly-Gly peptide 1,Bothrops fonsecai,HHDHHAAVGGGGGGGGGA,18
+P0DL22,Toxin Tpa3,Tityus pachyurus,ADDDLEGFSEEDLKAIKEHRAGLAA,25
+P0DM75,Fr.III-4,Trichonephila clavipes,LTPETASFPR,10
+P0DMA4,Conotoxin pc16c,Conus pictus,SCSCQKHFSCCD,12
+P0DOZ3,Conotoxin reg6(gamma),Conus regius,RVLEPGXEDPDVGEPAGEYEHHLLEX,26
+P0DPC4,Protein YtiC,Escherichia coli (strain K12),MPVNGIFDVFDMLSIYIIYKLIVSNNTWLIMRK,33
+P0DPC6,iraD leader peptide,Escherichia coli (strain K12),MENEHQYSGARCSGQAAYVAKRQECAK,27
+P0DPL1,Alpha-conotoxin-like Sm3.2,Conus stercusmuscarum,CCIARQICEGCICCI,15
+P0DQD7,Protein GndA,Escherichia coli (strain K12),MLLLIPSNHISIKETSSLMVVTPSSRTLFVVIVSFQQRALTSSVPVFLAVKRGR,54
+P0DQT4,H-bracotoxin-Cf4,Cotesia flavipes,MSKLFIFFLLVALLAFVSSEAAECVAKGQNCIVGKSTCCIGQCIIKDHVLGSCE,54
+P0DSE4,Putative translational regulatory protein ArgL,Escherichia coli (strain K12),MNNYTYKVNFNSISGVRHARIKCPIYTKNTF,31
+P0DSH2,Putative translational regulatory protein BaxL,Escherichia coli (strain K12),MIKSDQET,8
+P0DTO0,Hachiman anti-defense 1,Bacillus phage SBSphiJ4,MEEFKMTVWTNGKAIRKYTGQDKHPDTNPSKRMEWFKATAIIKPDTGDNNERD,53
+P0DUS0,[des-Arg1]-proctolin,Tityus serrulatus,YLPT,4
+P0DUU7,Venom peptide Sa10,Sphex argentatus argentatus,EDDLEDFNPTIA,12
+P0DUU8,Venom peptide Sh41,Isodontia harmandi,DDLSDFNPKV,10
+P0DUU9,Venom peptide Sh42,Isodontia harmandi,EDDLSDFNPKV,11
+P0DUV0,Peptide Bm-10,Batozonellus maculifrons,QTAPVPKAISK,11
+P0DUW7,Antioxidant protein SmP90,Stomolophus meleagris,NLDTPYCFYSGDYGG,15
+P0DX30,Venom peptide 4,Orancistrocerus drewseni,LDPKVVQSLL,10
+P0DY20,Equinin A,Actinia equina,AVDKGGGKAEKKDGNRKKKLAGGEGGG,27
+P10095,Esterase-5,Drosophila mojavensis,SAAADPLIVELPNGKVRGRDNEGYYEAEGIPRAEPPVG,38
+P10420,Catch-relaxing peptide,Mytilus edulis,AMPMLRL,7
+P10625,Plastocyanin,Microcystis aeruginosa,ETFTVKMGGDAGTLQ,15
+P11340,DNA binding protein ORF8,Spiroplasma virus 4,MRRKVKNTKRHQWRLTHSARSIKRANIMPSNPRGGRRF,38
+P11500,Heat shock protein HSP 90,Oryctolagus cuniculus,MPEEVQTQDQPMETFAVQTFAFQAEIAQLMSLIYESLTDPSKLDSGK,47
+P11726,"Ornithine carbamoyltransferase, catabolic",Aeromonas caviae,AFNLRNRNFLKLLDFTPREIQYMIDLAIDL,30
+P11736,Cuticle protein 32,Locusta migratoria,GLLGLGYGGYGYGAALAAPAAVSYAAPAIAAAPAVSYAAPA,41
+P11738,Cuticle protein 54,Locusta migratoria,GYLGGYAAPAIAAAPAIAALPAASSIAANGY,31
+P84536,Parvalbumin beta,Rana temporaria,KVFEILDMDRSFIEEELKLFALSSAETAAFLKIGVEEFQALVK,43
+P84549,Tubulin alpha chain,Populus euphratica,AIFVDLEPTVIDEVRSLDIERPTYTNLNRFDGAINVDVTEFQTNLVPYPR,50
+P84619,Hemocyanin subunit A,Concholepas concholepas,LMRKDVDTLTD,11
+P84620,Hemocyanin subunit B,Concholepas concholepas,LXRKNVD,7
+P84633,"Granule-bound starch synthase 1, chloroplastic/amyloplastic",Fagopyrum esculentum,GMNLVFVGAEVAPWSKTGGLGDVLA,25
+P84668,Pyrokinin-5b,Pycnoscelus surinamensis,GGETGGEGKGMWFGPRL,17
+P84719,Putative lactoylglutathione lyase,Pinus strobus,ITACLDPDGWKEPGPLPGISTK,22
+P84755,Protease inhibitor 2,Cenchritis muricatus,AEDCVGRKACTREWYPVCGSDGVTYSNPCNFSAQQEQCDPNITIAHMGEC,50
+P84784,Ribonuclease,Thelephora ganbajun,DADIAVWAPPVNAQN,15
+P84812,Monoalkyl phthalate esterase,Micrococcus sp,SATAAREEYQRKRSQFIEIG,20
+P84865,Metallothionein,Neonectria lugdunensis,SPCTCSTCNCAGACNSCSCTSCSH,24
+P84867,Ribonuclease,Pleurotus ostreatus,VRPYLVAFYESH,12
+P84883,GPI-anchored glycoprotein NETNES,Trypanosoma cruzi,AQENETNESGSID,13
+P84885,Protease inhibitor,Antheraea mylitta,AEPLASQLKEPIAGGGWWAA,20
+P84954,Hyposin-H1,Pithecopus azureus,LRPAVIRPKGK,11
+P84955,Hyposin-H2,Pithecopus azureus,LRPAFIRPKGK,11
+P84991,"Chlorophyll a-b binding protein 3, chloroplastic",Populus euphratica,TTKPVPSGSPWYGPDRVKNRELEVIHSR,28
+P85026,Polyphenol oxidase,Zingiber officinale,EQGVGGDDGL,10
+P85044,Periviscerokinin,Rhipicephalus microplus,PALIPFPRV,9
+P85069,Ovarian jelly-peptide 3,Sepia officinalis,DEVKIVLD,8
+P85085,Ribulose bisphosphate carboxylase large chain,Vitis sp.,LTYYTPEYETKGLLLHXHRMSGGDHIHAGXVVGKEITLGFVDLLRVALEACVQAR,55
+P85106,Neuropeptide F,Helicoverpa zea,QAARPRF,7
+P85124,Small basic protein 2,Anas platyrhynchos,QVRKYCPKVGYCSSKCSKADVWSLSSDCKFYCCLPPGWK,39
+P85149,Laccase-2,Cerrena unicolor,AIGPVADLHI,10
+P85156,Subtilisin-like serine protease AS-E1,Acremonium sp,DNVPWGLARISHRTTGATSYVYDDSAGEGTCSYIIDTGIY,40
+P85157,Subtilisin-like serine protease AS-E2,Acremonium sp,AYVSQSGAPWGLGRISHK,18
+P85308,Laccase-1b,Cerrena unicolor,AIGPVADLH,9
+P85310,"Aspartate aminotransferase, mitochondrial",Catharanthus roseus,DDNGKPYVLPSVRTCGFDFTGAVEDISK,28
+P85312,Hemoglobin subunit beta-A,Pantosteus clarkii,VEWTDAERSAILSLWGKIDTDELGPALLARLXLVXXXTQRYF,42
+P85318,Fibrinolytic enzyme,Cordyceps militaris,IVGGVSVAIE,10
+P85410,Outer membrane protein P5,Glaesserella parasuis,APQANSFYVGAKAGD,15
+P85438,Acetyl-CoA carboxylase,Catharanthus roseus,RISSSVIAHKTQLDSGKREVYSSHMQLGGPK,31
+P85441,DEAD-box ATP-dependent RNA helicase 1,Catharanthus roseus,RELLMGIFEKNGTGKTAAFVIPLLQK,26
+P85456,FMRFamide-9/10/11/12,Lucilia cuprina,SPSQDFMRF,9
+P85498,Kunitz-type trypsin inhibitor alpha chain,Albizia kalkora,KELLDADGDILRNGGPAYPGLMPGVERDLPASGWGLPRRTGDESCPLNVKAVR,53
+P85512,Beta-hexosaminidase,Palythoa caribaeorum,GKSSSRPLGDATLGDLDFDIEVTQDYWDDLAR,32
+P85810,Sulfakinin-1,Rhodnius prolixus,QFNEYGHMRF,10
+P85816,Myosuppressin,Rhodnius prolixus,QDLDHVFMRF,10
+P85822,Allatostatin-1,Rhodnius prolixus,LPVYNFGL,8
+P85823,Allatostatin-2,Rhodnius prolixus,MRNYSFGL,8
+P85824,Allatostatin-3,Rhodnius prolixus,QVSLKYPEGKMYSFGL,16
+P85864,Pyrokinin,Schistocerca gregaria,DGAETPGAAASLWFGPRV,18
+P85865,Periviscerokinin-2,Locusta migratoria,GLLAFPRV,8
+P85867,Pyrokinin,Locusta migratoria,DGGEPAAPLWFGPRV,15
+P85913,Probable cinnamyl alcohol dehydrogenase 1,Pseudotsuga menziesii,MGSLESERFVVDVAASNLDK,20
+P85916,Probable cinnamyl alcohol dehydrogenase 2,Pseudotsuga menziesii,CGILGLGGVGHMGVKAFGLHVTVISSSDKFVVDVAASNLDK,41
+P85974,Beta-agarase AgaA34,Agarivorans albus,ASLVTSFEEA,10
+P85981,Trypsin inhibitor,Veronica hederifolia,NTDPEQCKVMCYAQRHSSPELLRRCLDNCEKEHD,34
+P85986,"Spectrin beta chain, non-erythrocytic 1",Capra hircus,VLLLSQDYGKYKEVAELTRTQILAASYELHK,31
+P86120,Phospholipase A2 2,Opisthacanthus cayaporum,FMKVIDPGTKWCGPGNKAADDTDNGKN,27
+P86241,"Peroxiredoxin-5, mitochondrial",Mesocricetus auratus,ETDLLLDDSLVSLFGNRR,18
+P86254,"Superoxide dismutase [Mn], mitochondrial",Alternaria alternata,FNAGGHINHSLFWQNLAPASSNEAK,25
+P86268,Antifreeze protein,Antarctomyces psychrotrophicus,AGLDLGAASXFGALAFEGVA,20
+P86290,Collagen alpha-2(I) chain,Brachylophosaurus canadensis,GSNGEPGSAGPPGPAGLRGLPGESGAVGPAGPPGSR,36
+P86297,Tachykinin-like peptide-XV,Phoneutria nigriventer,QKKDKKDRFPNGLV,14
+P86298,Tachykinin-like peptide-I,Phoneutria nigriventer,QKKDKKD,7
+P86300,Tachykinin-like peptide-III,Phoneutria nigriventer,QKKDKKDR,8
+P86302,Tachykinin-like peptide-V,Phoneutria nigriventer,QKKDKKDRF,9
+P86303,Tachykinin-like peptide-VI,Phoneutria nigriventer,QKKDRFLGLM,10
+P86304,Tachykinin-like peptide-VII,Phoneutria nigriventer,QKKDRFLGLF,10
+P86305,Tachykinin-like peptide-VIII,Phoneutria nigriventer,QKKDKKDRFY,10
+P86306,Tachykinin-like peptide-IX,Phoneutria nigriventer,QKKDKDRFYGLM,12
+P41865,CalliFMRFamide-10,Calliphora vomitoria,TPNRDFMRF,9
+P41867,CalliFMRFamide-12,Calliphora vomitoria,AAGQDNFMRF,10
+P41868,CalliFMRFamide-13,Calliphora vomitoria,AGQDGFMRF,9
+P41869,CalliMIRFamide-1,Calliphora vomitoria,APNQPSDNMIRF,12
+P41871,FMRFamide-like neuropeptide GDPFLRF-amide,Planorbella trivolvis,GDPFLRF,7
+P41872,FMRFamide-like neuropeptide PF1,Panagrellus redivivus,SDPNFLRF,8
+P41873,FMRFamide-like neuropeptide PF2,Panagrellus redivivus,SADPNFLRF,9
+P41875,FMRFamide-like neuropeptide PF4,Panagrellus redivivus,KPNFIRF,7
+P41966,FMRFamide-like neuropeptide GNFFRF-amide,Moniezia expansa,GNFFRF,6
+P41967,Neuropeptide F,Moniezia expansa,PDKDFIVNPSDLVLDNKAALRDYLRQINEYFAIIGRPRF,39
+P41989,Melanotropin gamma,Theromyzon tessulatum,YVMGHFRWDKF,11
+P42047,Photosystem I reaction center subunit IV,Cucumis sativus,XDEAAPPPAATAPXAAXTE,19
+P42049,Photosystem I reaction center subunit V,Cucumis sativus,ELNPSLVISLSXGL,14
+P42050,"Photosystem I reaction center subunit VI, chloroplastic",Cucumis sativus,XYXDKSVYFDLEDKGNTXGQXXXY,24
+P42052,Photosystem 1 reaction center subunit 8,Cucumis sativus,IQADXPTFQVIQDDN,15
+P42053,Photosystem I reaction center subunit N,Cucumis sativus,XVXEDYLEKSKANLELNDKKXXXT,24
+P42560,FMRFamide-like neuropeptide ALAGDHFFRF-amide,Mytilus edulis,ALAGDHFFRF,10
+P42564,FMRFamide-like neuropeptide GGKYMRF-amide,Hirudo medicinalis,GGKYMRF,7
+P42718,Chemotactic peptide,Parapolybia indica,ILGLLKGISALLS,13
+P42984,Myotropic neuropeptide 1,Leptinotarsa decemlineata,AYNGPLA,7
+P42985,Oviductal motility-stimulating peptide,Leptinotarsa decemlineata,IAYKPE,6
+P42999,Aspartocin,Squalus acanthias,CYINNCPLG,9
+P43000,Valitocin,Squalus acanthias,CYIQNCPVG,9
+P43170,FMRFamide-like neuropeptide AF5,Ascaris suum,SGKPTFIRF,9
+P43171,FMRFamide-like neuropeptide AF7,Ascaris suum,AGPRFIRF,8
+P43172,FMRFamide-like neuropeptide AF9,Ascaris suum,GLGPRPLRF,9
+P43173,FMRFamide-like neuropeptide AF11,Ascaris suum,SDIGISEPNFLRF,13
+P46364,Aryl-alcohol dehydrogenase,Acinetobacter guillouiae,SELKDIIAAVTPCKGADFELQALKIRQPQGDEVLVKXXATGM,42
+P46365,Benzaldehyde dehydrogenase [NAD(+)] I,Acinetobacter guillouiae,PNIQTKIIEQIWKEHIFQGTVVK,23
+P46980,Myoactive tetradecapeptide,Amynthas vittatus,GFRDGSADRISHGF,14
+P47733,Sulfakinin,Locusta migratoria,QLASDDYGHMRF,12
+P48429,Glutathione S-transferase 2,Ascaris suum,GYKVTYFAIRGLAEPIXLLL,20
+P49325,S-layer protein,Bacillus thuringiensis subsp. galleriae,XGKTFPDVXP,10
+P49820,NADH dehydrogenase [ubiquinone] flavoprotein 2,Canis lupus familiaris,GAGGALFVHRD,11
+P54712,"Superoxide dismutase [Mn], mitochondrial",Canis lupus familiaris,KHSLPDLPYDYGA,13
+P54713,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10,Canis lupus familiaris,LQYGPLAXILGE,12
+P55791,Nociceptin,Sus scrofa,FGGFTGARKSARKLANQ,17
+P55936,Guanylin,Didelphis virginiana,SHTCEICAFAACAGC,15
+P85516,Beta-glucosidase 1,Passalora fulva,LVAHEENVRVGKDEGFAKAGGLSRLPLEAGESGTATFNVR,40
+P85517,Beta-glucosidase 2,Passalora fulva,GVDVLLGQGLLAPRTPFTGEGPSQKSYGTELLSKPNDGK,39
+P85551,Periviscerokinin-1,Blattella germanica,GSSGLIPMGRV,11
+P85580,Periviscerokinin-1,Derocalymma cruralis,GSSGGLITFGRT,12
+P85581,Periviscerokinin-2,Derocalymma cruralis,GSLTGLISMPRT,12
+P85610,Periviscerokinin-3,Ergaula capucina,PQLGLPFPRV,10
+P85676,Hypertrehalosaemic factor,Lucihormetica verrucosa,QVNFSPGWG,9
+P85679,Periviscerokinin-2,Mastotermes darwiniensis,GSSGLIPMPRV,11
+P85680,Periviscerokinin-3,Mastotermes darwiniensis,SSSGLISMPRV,11
+P85693,Periviscerokinin-1,Panchlora sp. (strain SR-2005),GSSGLIPMGRT,11
+P85700,Periviscerokinin-3b,Panchlora viridis,GSSGGMIPFPRV,12
+P85740,Periviscerokinin-3,Polyphaga aegyptiaca,PQVGLIPFPRV,11
+P85787,Periviscerokinin-1,Therea petiveriana,GSSGLISFPRN,11
+P85789,Periviscerokinin-3,Therea petiveriana,GSSGLISMTRV,11
+P85802,Tachykinin-related peptide 1,Rhodnius prolixus,SGPGFMGVR,9
+P85803,Tachykinin-related peptide 2,Rhodnius prolixus,TSMGFQGVR,9
+P85805,Tachykinin-related peptide 4,Rhodnius prolixus,TPSDGFMGMR,10
+P85806,Tachykinin-related peptide 5,Rhodnius prolixus,APACVGFQGMR,11
+P85807,Tachykinin-related peptide 6,Rhodnius prolixus,GPSSSAFFGMR,11
+P85808,Tachykinin-related peptide 7,Rhodnius prolixus,SPATMGFAGVR,11
+P85809,Tachykinin-related peptide 8,Rhodnius prolixus,QERRAMGFVGMR,12
+P85813,Long neuropeptide F,Rhodnius prolixus,VAAGRPRF,8
+P85815,FMRFamide-related protein 1,Rhodnius prolixus,AKDNFLRF,8
+P85817,Short neuropeptide F,Rhodnius prolixus,NNRSPQLRLRF,11
+P85825,Allatotropin,Rhodnius prolixus,GFKNVQLSTARGF,13
+P85843,Alpha-amylase,Tityus serrulatus,KYYEPNTVQGRSVIVHLFEWRWKDVADECEQFLSPKGY,38
+P85875,Venom peptide PPM3,Polistes major,FLSALLGMLKNL,12
+P85879,Tachykinin-like peptide-I,Polistes lanio,QPPTPPEHRFPGLM,14
+P85880,Tachykinin-like peptide-II,Polistes lanio,ASEPTALGLPRIFPGLM,17
+P85895,Ovotransferrin,Dromaius novaehollandiae,AAPKATVRWCTISS,14
+P85903,"RuBisCO large subunit-binding protein subunit alpha, chloroplastic",Pseudotsuga menziesii,TNDSAGDGTTTASVLAR,17
+P85906,Aspartate aminotransferase 1,Pseudotsuga menziesii,LNLGVGAYREYLPIEGLAAFNKVATVQGLSGTGSLRQALYDSISSK,46
+P85909,Expansin-B1,Pseudotsuga menziesii,MAGASAKVVAMLLSLQGPXSLRMVSESG,28
+P85910,"Argininosuccinate synthase, chloroplastic",Pseudotsuga menziesii,WFDPLRITETTTGSVTLK,18
+P85911,Actin-1,Pseudotsuga menziesii,YPIEHGIVSNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPK,45
+P85918,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase,Pseudotsuga menziesii,FALESFWDGKGNASAHAMEMTK,22
+P85920,Malate dehydrogenase,Pseudotsuga menziesii,DDLFNINAGIVKLFGVTTLDVVR,23
+P85924,"Glucan 1,3-beta-glucosidase",Pseudotsuga menziesii,ATPILRNHLGVIIDLHAAPGSQNPWEHYAKVQMDVYGQAT,40
+P85926,Probable bZIP transcription factor,Pseudotsuga menziesii,KRMLSNRESARRSRMRKQK,19
+P85928,"NAD(P)H-quinone oxidoreductase subunit 5, chloroplastic",Pseudotsuga menziesii,SGSIIHSMEANVGYSPDKSQNMVLMGGLK,29
+P85929,Nucleoside diphosphate kinase 1,Pseudotsuga menziesii,GLVGEIISRGDFAIDIGR,18
+P85930,Nucleoside diphosphate kinase 2,Pseudotsuga menziesii,MIKPDGVQRGLVGEIISRGDFAIDIGR,27
+P85931,Probable serine acetyltransferase,Pseudotsuga menziesii,IANVFAVDIHPAAR,14
+P85932,Heat shock protein 81,Pseudotsuga menziesii,ELISNSSDALDKTNNSLTIIDSGIGMTK,28
+P85940,"L-ascorbate peroxidase, cytosolic",Pseudotsuga menziesii,EGLLQLPSDK,10
+P85945,Histone H4,Pseudotsuga menziesii,ISGLIYEETRIFLENVIR,18
+P85949,Phosphoglycerate kinase,Pseudotsuga menziesii,FLKPSVAGFLLQKIGVIESLLEKFAVGTESIAK,33
+P85950,Isoflavone reductase homolog 2,Pseudotsuga menziesii,ILIIGGTGYIGRKVDVVISAVKFLPSEFGNDVDRVVFVKEEDIGTFTIK,49
+P85951,Aspartate aminotransferase 2,Pseudotsuga menziesii,VATVQGLSGTGSLRNLGLYAERQIGMFSFTGLNK,34
+P85954,"Glyceraldehyde-3-phosphate dehydrogenase, cytosolic",Pseudotsuga menziesii,FGIVEGLMTTVHSITATQKVPTPDVSVVDLTVRLVSWYDNEWGYSSR,47
+P85955,Dehydration-responsive element-binding protein 1,Pseudotsuga menziesii,KPAGRKKFQETRHPIYRGVRLRKSGKWVCEVREPNKKSRIWLGTFK,46
+P85962,Large ribosomal subunit protein P2,Pseudotsuga menziesii,DITEVIAAGR,10
+P85976,Peroxidase 9,Cycas revoluta,AFEIINDIK,9
+P85980,Alpha-1B-glycoprotein,Oryctolagus cuniculus,ATFFDPQPRLLAD,13
+P85983,Pollen allergen Beta v 1,Beta vulgaris,VQGMVYCDTCRSANALGFMR,20
+P85984,Profilin,Beta vulgaris,YMVIQGEPGAVIRLGDYLIDQGL,23
+P85985,"Spectrin alpha chain, non-erythrocytic 1",Capra hircus,AQLADSFHLQQFFRSQLLGSAHEVQRLAQFVEHWKKVEDLFLTFAK,46
+P85994,Peroxidase 2,Vitis vinifera,ISPLTGTNGEIR,12
+P85996,Peroxidase 3,Solanum lycopersicum,MGRIGVLTGNAGEIR,15
+P85998,Peroxidase 4,Solanum lycopersicum,VHYHDCFVR,9
+P85999,Suberization-associated anionic peroxidase 1,Capsicum annuum,GFEVIAQAKLGGQTYTVALGREMVALAGAHTVGFARMGNLPPSAGAQLEIR,51
+P86000,Suberization-associated anionic peroxidase 2,Capsicum annuum,GVVDSAIDAETR,12
+P86001,Peroxidase 3,Capsicum annuum,GFEVIDNIKDSVVILGGPNWNVKMGDIRPLTGSNGEIRFDNNYFK,45
+P86002,Peroxidase 4,Capsicum annuum,EMVALSGSHTIGQAR,15
+P86004,Peroxidase 6,Capsicum annuum,GYEVIDTIK,9
+P86006,Peroxidase 7,Capsicum annuum,GFDVIDTIK,9
+P86007,Peroxidase 8,Capsicum annuum,VVSCADILTLAAR,13
+P86008,Peroxidase 9,Capsicum annuum,GFDVVDNIK,9
+P86014,Peroxidase 1,Vitis vinifera,VSCADILTMATRQFDNVYYKNLQQGK,26
+P86015,Peroxidase 3,Vitis vinifera,QTFVTIPGTLRDHPDNLSLAGDGFDTVIKVSCADILTMATR,41
+P86051,Fibrinolytic zinc metalloproteinase,Ganoderma lucidum,QQRFPQRYVQLVITVDHVMN,20
+P86054,Peroxidase 1,Daucus carota,WNETSDKDLYTDSR,14
+P86056,Peroxidase 3,Daucus carota,CTMLNVLTGTQEGLR,15
+P86062,Peroxidase 6,Daucus carota,LVSGCADLTALAAR,14
+P86063,Peroxidase 7,Daucus carota,NYPTQDSTMDKTFANNL,17
+P86064,Peroxidase 8,Daucus carota,NAPPNLTLR,9
+P86067,Peroxidase 10,Daucus carota,QGLFTSDQDLYTDSR,15
+P86071,Transaldolase,Capsicum annuum var. annuum,GVTSNPAIFQKAISTSNAYNDQFR,24
+P86073,Alpha-galactosidase,Capsicum annuum var. annuum,LGIYSDAGTQTCSK,14
+P86074,"Malate dehydrogenase, mitochondrial",Capsicum annuum var. annuum,DDLFNINAGIVKLFGVTTLDVVRTQDGGTEVVEAK,35
+P86075,Pectinesterase,Capsicum annuum var. annuum,SVVDGWTTFR,10
+P86084,Alpha-amylase 1,Capsicum chinense,FGNQQQLKSVADIVINHR,18
+P86085,Pectinesterase,Capsicum chinense,IDAFQDTLYTHTLRTYLGRPWK,22
+P86088,Alpha-amylase 2,Capsicum chinense,MWPFPSDK,8
+P86089,Alpha-amylase 3,Capsicum chinense,GIYCIFEGGTPDDR,14
+P86090,Alpha-amylase 4,Capsicum chinense,TDVGFDGWR,9
+P86107,Venom peptide Ocy2,Opisthacanthus cayaporum,XNPELRCGLKD,11
+P86109,Venom peptide Ocy4,Opisthacanthus cayaporum,NRTFKTNTKCHVKNQCNFLCQ,21
+P86111,Venom peptide Ocy5,Opisthacanthus cayaporum,LGKSVTN,7
+P86114,Venom peptide Ocy8,Opisthacanthus cayaporum,GSLGEKYAQKAAEVLTSIIP,20
+P86118,Venom peptide OcyTx1,Opisthacanthus cayaporum,FENEDEGYFQDPEDCS,16
+P86119,Phospholipase A2 1,Opisthacanthus cayaporum,DFTGVKFDNTIGCGKG,16
+P86175,Chaperone protein DnaK,Anabaena sp. (strain L31),QAVMNPENTFYSVKRIINEPTAASLAYGFDKK,32
+P86238,"Pyruvate dehydrogenase protein X component, mitochondrial",Mesocricetus auratus,FRLSPAARNILEKHSLDASQGTATGPR,27
+P86240,Fumarylacetoacetate hydrolase domain-containing protein 2A,Mesocricetus auratus,RALATQLPVIPRSQVTFLAPVTRPEK,26
+P86248,MICOS complex subunit MIC60,Mesocricetus auratus,VVSQYHELVVQARLSEQELEFR,22
+P86274,Hyaluronidase-Pk1a,Phoneutria keyserlingi,FEVYWNVPTLQCRAVYKMIFKLNRTYGIQXNA,32
+P86285,Deltorphin-like peptide,Phyllomedusa burmeisteri,YMFHLMN,7
+P86286,Tryptophyllin-like peptide PbT-1,Phyllomedusa burmeisteri,EPPPWVPV,8
+P86331,Alpha-amylase,Bacillus sp,AHQLPMGTLCNFYEWYRRDD,20
+P62934,Eledoisin,Eledone moschata,QPSKDAFIGLM,11
+P63295,Glucagon-like peptide,Anguilla rostrata,HAEGTYTSDVSSYLQDQAAKEFVSWLKTGR,30
+P64442,Uncharacterized protein YceO,Escherichia coli (strain K12),MRPFLQEYLMRRLLHYLINNIREHLMLYLFLWGLLAIMDLIYVFYF,46
+P64508,Protein YobF,Escherichia coli (strain K12),MCGIFSKEVLSKHVDVEYRFSAEPYIGASCSNVSVLSMLCLRAKKTI,47
+P64567,Uncharacterized protein YqgB,Escherichia coli (strain K12),MKKKPVAQLERQHSLLENPCAYGLLSQFQAAIVVNCFTLNKII,43
+P66521,Small ribosomal subunit protein bS21,Staphylococcus aureus (strain N315),MSKTVVRKNESLEDALRRFKRSVSKSGTIQEVRKREFYEKPSVKRKKKSEAARKRKFK,58
+P67785,Adipokinetic hormone G,Gryllus bimaculatus,QVNFSTGW,8
+P67857,Proctolin,Carcinus maenas,RYLPT,5
+P67880,FMRFamide-like neuropeptide AF2,Panagrellus redivivus,KHEYLRF,7
+P67935,Neurokinin-B,Pelophylax ridibundus,DMHDFFVGLM,10
+P68170,Trypsin inhibitor DE-3,Erythrina corallodendron,VLLDGNGEVVQNGGTYYLLP,20
+P68357,COP9 signalosome complex subunit 6b,Brassica oleracea,KLHPLVMLNISDHLTKALMDINESPVYVLLNPTINHAQKKMLNSRIRVLHQYLGSMQK,58
+P69144,Neurokinin-A,Gadus morhua,HKINSFVGLM,10
+P69461,Cytochrome b6-f complex subunit 5,Spinacia oleracea,MIEVFLFGIVLGLIPITLAGLFVTAYLQYRRGDQLDL,37
+P69548,DNA-binding protein J,Escherichia phage alpha3,MKKARRSPSRRKGARLWYVGGSQF,24
+P75447,Large ribosomal subunit protein bL35,Mycoplasma pneumoniae (strain ATCC 29342 / M129 / Subtype 1),MKVKSAAKKRFKLTKSGQIKRKHAYTSHLAPHKTTKQKRHLRKQGTVSASDFKRIGNLI,59
+P78015,Large ribosomal subunit protein bL33A,Mycoplasma pneumoniae (strain ATCC 29342 / M129 / Subtype 1),MAVKRSTRLGCNDCREINYLTFKNVKKNPEKLALNKFCSRCRKVVVHKEVKRK,53
+P80008,Aryl acylamidase,Nocardia globerula,MDVAEYAAHDATGLAELIREGQVSACEV,28
+P80059,Pars intercerebralis major peptide D1,Locusta migratoria,SCTEKTCPGTETCCTTPQGEEGCCPYKEGVCCLDGIHCCPSGTVCDEDHRRCIQ,54
+P80082,"ATP synthase subunit alpha, mitochondrial",Spinacia oleracea,MEFSPRAAELTTLLESRISNFYTNI,25
+P80088,"ATP synthase 28 kDa subunit, mitochondrial",Spinacia oleracea,TKXXEAPAPKGLKGNEMLKGIFLEVKKKFETA,32
+P80089,Luminal-binding protein,Phaseolus vulgaris,KEEAKVLGTVIGIDLGTQYL,20
+P80091,Cytochrome c-550,Virgibacillus halodenitrificans,GGSVDSAAAEEVFESNCASCHGADLSGAGPDLTQV,35
+P80110,Gastrin/cholecystokinin-like peptide,Trachemys scripta,DLLEALSQDQKLLMAKFLPHIYAELANREGNWHEDAALRPLHDHDYPGWMDF,52
+P80155,Ovohemerythrin,Theromyzon tessulatum,YDIPEPFRWDESFKVFYE,18
+P80159,Flagellar filament outer layer protein flaA2,Brachyspira hyodysenteriae,ETVPYMFEN,9
+P80182,Lymna-DF-amide 5,Lymnaea stagnalis,PFDRISSSAFSDF,13
+P80228,Major outer membrane protein P44,Mannheimia haemolytica,TTVYDAEGSKVDFDGSLRIIV,21
+P80262,NADH-ubiquinone oxidoreductase 29 kDa subunit,Solanum tuberosum,ATEAQAAINEXPDRVKKDYFYGR,23
+P80263,NADH-ubiquinone oxidoreductase 20 kDa subunit,Solanum tuberosum,XSNATDETXLKDVSA,15
+P80265,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9,Solanum tuberosum,ASNLATGGAGPLIXKGTGGRSS,22
+P80266,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5,Solanum tuberosum,AKVKETTGIVGLXVVPNAREVLINLYRKTLEEIKAVP,37
+P80267,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10,Solanum tuberosum,GRKKGVQFDEGAPDDFDPNNPYKKDVAFL,29
+P80268,NADH-ubiquinone oxidoreductase 18 kDa subunit,Solanum tuberosum,ASEALVEIKPGEIGMVSGIPDEHLRRFVVI,30
+P80275,Non-specific lipid-transfer protein P1,Vitis sp.,AITCGQVSSALSSCLGYLKNGGAVPPGSSCGIKNLNSA,38
+P80304,Epididymal sperm protein E,Sepia officinalis,ARSFSSYCVRCRRKTPSFNSKTVTFRNKRRAIRSHCAYCQVKKFRIIGHGG,51
+P80327,"Cytochrome c oxidase polypeptide 4, mitochondrial",Oncorhynchus mykiss,XXHGEVEVSAXGKNLSPXV,19
+P80328,"Cytochrome c oxidase subunit 5A, mitochondrial",Oncorhynchus mykiss,SHAKVETDEE,10
+P80330,"Cytochrome c oxidase subunit 5B liver, mitochondrial",Oncorhynchus mykiss,AVGGIPTDEEQATGLEEIVMVAAQXGADXYDVM,33
+P80331,Cytochrome c oxidase subunit 6C,Oncorhynchus mykiss,XLXVPAMGGL,10
+P80332,"Cytochrome c oxidase subunit 7A-heart, mitochondrial",Oncorhynchus mykiss,KNKVPXXQKL,10
+P80334,Cytochrome c oxidase polypeptide VIIc,Oncorhynchus mykiss,SHYSEGPGQNLPFSVQNKXRLLGMM,25
+P80336,"Cytochrome c oxidase subunit 8B, mitochondrial",Oryctolagus cuniculus,ISGKPARTPT,10
+P80337,"Cytochrome c oxidase subunit 8B, mitochondrial",Ovis aries,ITAKPAKTPT,10
+P80348,Fuctinin-2,Rattus norvegicus,ELPGLPKGEKEQQEAIEHIDEV,22
+P80349,Fuctinin-3,Rattus norvegicus,KELNSNHDGADETSEKEQQEAIEHIDEVQNEIDRLNETA,39
+P80355,Competence protein S,Bacillus subtilis (strain 168),MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK,46
+P80359,Pseudo-hevein,Hevea brasiliensis,EQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNCKGGG,45
+P80403,Alpha-amylase inhibitor AAI,Amaranthus hypochondriacus,CIPKWNRCGPKMDGVPCCEPYTCTSDYYGNCS,32
+P80413,"DYE-linked aldehyde dehydrogenase, alpha chain",Amycolatopsis methanolica,VGTRVVRIEDQQLITQGGTYVEDL,24
+P80414,"DYE-linked aldehyde dehydrogenase, gamma chain",Amycolatopsis methanolica,MKVSIEINGTTVSXEVXDRTL,21
+P80430,Cytochrome c oxidase subunit 6B1,Rattus norvegicus,QNXLDFHR,8
+P80444,Outer membrane protein A,Actinobacillus lignieresii,APKDDTWYTGAKLGWSQYHDT,21
+P80451,Major outer membrane protein,Avibacterium paragallinarum,ATVYNNEGTQVXVGGYFDVV,20
+P80459,Malate dehydrogenase,Rhodospirillum rubrum,ADKKIALVGAGNIGGTLAHLIGLKXLL,27
+P80460,Photosystem II extrinsic protein U,Synechocystis sp. (strain PCC 6714),MLNAVDAKLTTDFGQR,16
+P80464,Quinoline 2-oxidoreductase alpha chain,Comamonas testosteroni,AKSDVAELKPR,11
+P80465,Quinoline 2-oxidoreductase beta chain,Comamonas testosteroni,MKFPAFAYXR,10
+P80466,Quinoline 2-oxidoreductase gamma chain,Comamonas testosteroni,MIQAEKNPXL,10
+P80472,Aldehyde dehydrogenase beta chain,Amycolatopsis methanolica,MIPAQFTYRRVSSVDEALAAVAEHGD,26
+P80474,Aminopeptidase,Capnocytophaga gingivalis,DVNMLWYVXR,10
+P80497,"ATP synthase small subunit 6, mitochondrial",Solanum tuberosum,MRQFDPWPVFFRREWSRNWPFLVGFAVTGAIITKMSLGFTEEERKNSRFAQRHKN,55
+P80498,Cytochrome c oxidase subunit 2,Solanum tuberosum,DAAEPWQLGFQDAATPIMQGIIDLHH,26
+P80499,"Cytochrome c oxidase subunit 5B, mitochondrial",Solanum tuberosum,TVSENVVKKVEDVMPIATGHEREXLXAQ,28
+P80500,Cytochrome c oxidase subunit 5C,Solanum tuberosum,AGXXXAHXXYKGPSVVKELVIXXXLGLXAG,30
+P80502,"Chaperonin HSP60, mitochondrial",Solanum tuberosum,AAKDIKFGVEARGLMLQGVEQLADAVKVTMGPKGRNVVIE,40
+P80525,Putative phosphoenolpyruvate carboxykinase [GTP],Fasciola hepatica,YPDGFDGEAV,10
+P80527,Hemoglobinase-like protein 1,Fasciola hepatica,KNWAVLVAGSNGWPNYRHHA,20
+P80528,Cathepsin L-like cysteine proteinase,Fasciola hepatica,SNDVSWHEWKRMYNKEYNGA,20
+P80529,Cathepsin B-like cysteine proteinase,Fasciola hepatica,KPNYKRQFEPFSDELIHYINLEDLPESFDARQ,32
+P80532,Putative cathepsin L3,Fasciola hepatica,DVPASIDWREYGYVTEVKD,19
+P80533,Putative cathepsin-like enzyme,Fasciola hepatica,DVPDSLDWRQEXLVRK,16
+P80538,Malate dehydrogenase,Vogesella indigofera,AKPAKRVAVTGAAGQIAYSLL,21
+P80540,Malate dehydrogenase,Acidovorax delafieldii,XKKPVRVAVTGAAGQIG,17
+P80543,Malate dehydrogenase,Brevundimonas vesicularis,AXAKIALIGAGMIGGTLAA,19
+P80550,Eosinophil peroxidase,Sus scrofa,GDKYRXIXGRXNNVDXEKTXAQLPPXFPIKIPPNDXRI,38
+P80577,Pedibin,Hydra vulgaris,AGEDVSHELEEKEKALANHSE,21
+P80605,DNA-binding protein H3-RL,Rhizobium leguminosarum,MNKNELVSAVAERAGL,16
+P80606,Integration host factor subunit beta,Rhizobium leguminosarum,MIKSELVQIVAARNPHLYHRDVENIVNAFL,30
+P80619,"Glucose-6-phosphate 1-dehydrogenase, cytoplasmic isoform",Zea mays,XGRNEFVIRLQXSEA,15
+P80657,"Ribulose bisphosphate carboxylase small subunit, chloroplastic",Physcomitrium patens,XQVWNPIGQPKFETF,15
+P80659,"Phosphoglycerate kinase, chloroplastic",Physcomitrium patens,ALTEQASKVALTADL,15
+P80660,Oxygen-evolving enhancer protein 2,Physcomitrium patens,KKQTGFTPFIGNGFSLDVPXSITEYGPXEKXEDNFDATNNLFV,43
+P80661,Oxygen-evolving enhancer protein 2,Physcomitrium patens,KISTGFTPFAGNGFTXITEYGP,22
+P80662,Oxygen-evolving enhancer protein 2,Physcomitrium patens,AYGESANVFGAP,12
+P80673,Chaperonin GroEL,Mycolicibacterium smegmatis,AKTIAYDEEARRGLERGLNSLADAVKVT,28
+P80692,Chaperone protein DnaK,Mycolicibacterium smegmatis,ARAVGIDLGTTNXVXAV,17
+P80704,Aldehyde dehydrogenase beta chain,Comamonas testosteroni,MYAFSYSTPRTLDEVSAAS,19
+P80705,Aldehyde dehydrogenase gamma chain,Comamonas testosteroni,MNVQFTVNGRAASIDVPPNTLLVQ,24
+P80706,Formate ester dehydrogenase beta chain,Amycolatopsis methanolica,MIPAAFDYVAPSTVDEAVQAL,21
+P80707,Formate ester dehydrogenase gamma chain,Amycolatopsis methanolica,MRITVNVDGTSYTDEVEPRTLLVH,24
+P80709,Actin,Carcinus maenas,KCDVDIRK,8
+P80717,"Endo-1,4-beta-xylanase B",Dictyoglomus sp. (strain B4A),AKKTILDLKD,10
+P80718,"Endo-1,4-beta-xylanase A",Dictyoglomus sp. (strain B4A),MLNERFSILVLLLILLTFSLG,21
+P80730,NADH-ubiquinone oxidoreductase 16 kDa subunit,Solanum tuberosum,XSGKVLSEEEKAAANVYIKKME,22
+P80731,NADH-ubiquinone oxidoreductase 12 kDa subunit,Solanum tuberosum,VHMARNMXVPPXXAD,15
+P80732,Superoxide dismutase [Ni],Streptomyces griseus,HSDLPSGVYDPAQA,14
+P80736,Leukocyte cysteine proteinase inhibitor 2,Sus scrofa,LAGGLTEPRPADTEIQEIANKVKPQLEEKTNKKYD,35
+P80742,Hemolymph 65 kDa lectin BG01,Biomphalaria glabrata,VVVTLASGLEMCDTTTDGGGWTIFQ,25
+P80743,Hemolymph 65 kDa lectin BG04,Biomphalaria glabrata,GKPDGAFXDNITVVESVXFXI,21
+P23417,Superoxide dismutase [Cu-Zn],Aquarana catesbeiana,MKAIAVLKGXSEVTGVVRFEQQED,24
+P23473,Bifunctional chitinase/lysozyme,Parthenocissus quinquefolia,GGIAIYWGQNGNEGTLTQTCNTGKYSYVNIAFLNKFGNGQTPEINLA,47
+P24244,Putative cytochrome bd-II ubiquinol oxidase subunit AppX,Escherichia coli (strain K12),MWYLLWFVGILLMCSLSTLVLVWLDPRLKS,30
+P24641,Protamine-1,Bufo japonicus,MPPRRKRVSSAPRRRRRTYRRTTAHKHQDRPVHRRRRRRH,40
+P26351,Thymosin beta-11,Oncorhynchus mykiss,MSDKPNLEEVASFDKTKLKKTETQEKNPLPTKETIEQEKQAS,42
+P27067,Ribulose bisphosphate carboxylase large chain,Vigna unguiculata subsp. unguiculata,PQTETKASVGFKAGVK,16
+P27388,Packaging protein P22,Enterobacteria phage PRD1,MQLITDMAEWSSKPFRPDMSLTGWLAFVGLIIVAIILWQQIIRFIIE,47
+P27532,Coenzyme PQQ synthesis protein A,Acinetobacter calcoaceticus,MQWTKPAFTDLRIGFEVTMYFEAR,24
+P28270,Glutamate dehydrogenase,Electrophorus electricus,SEAVAEKEDDPNFFKMVEGFFDKGAAIVENKLVEDLKTRGSPEVEGNLTFT,51
+P28490,Calreticulin,Canis lupus familiaris,EPAIYFKEQFLDGXGFTDXRIKEK,24
+P28524,"Superoxide dismutase [Mn], mitochondrial",Hordeum vulgare,VATFTLPDLPYDYGALEPAV,20
+P28526,Germin GS2,Hordeum vulgare,YDPSPLQDFCIAD,13
+P83500,Pregnancy-associated glycoprotein 55h,Ovis aries,RVSNLTIHPLRNIIDLRYVG,20
+P83504,"Oxygen-evolving enhancer protein 1, chloroplastic",Brassica campestris,EGAPKRLTYDEIQSKTYMEVKGTGTANQCPT,31
+P83507,Major urinary protein,Cavia porcellus,SEINGDWNTIALSAD,15
+P83518,Ovary-derived ACE interactive factor,Sarcophaga bullata,NKLKPSQWISL,11
+P83540,GMP synthase [glutamine-hydrolyzing],Fructilactobacillus sanfranciscensis,ALGDQLLSVFVDHTLVDEVA,20
+P83568,Pheromone peptide ILME,Sepia officinalis,ILME,4
+P83575,NADP phosphatase 1,Arthrobacter sp. (strain KM),KSAAEVQNTQQAIIPAQEKANLGNQNIMA,29
+P83576,NADP phosphatase 2,Arthrobacter sp. (strain KM),SIPASQKANLGNQMIMAVACYQN,23
+P83601,Glyceraldehyde-3-phosphate dehydrogenase,Naegleria fowleri,VKVGINGFGRIGRXVFRA,18
+P83604,Kunitz-type serine protease inhibitor 3,Rhipicephalus microplus,EVHNFACLGKPDPGGCAHYIYRRYYYV,27
+P83605,Kunitz-type serine protease inhibitor 4,Rhipicephalus microplus,TPLKESTCYLPKETGPCVGYFFRYY,25
+P83607,Kunitz-type serine protease inhibitor D,Rhipicephalus microplus,AVDFSKVPTATAGPCKG,17
+P83650,Phospholemman-like protein,Scyliorhinus canicula,VNEPADXXARFTYDXYGLXVVGLIVAAVL,29
+P83661,Peptide Cd-125,Cyphononyx dorsalis,DTARLQWH,8
+P83687,Oxygen-evolving enhancer protein 2,Euglena gracilis,AYGEGANVFGKRKETDQFFEISGDGWSGKL,30
+P83688,Cytochrome b6/f complex 12.6 kDa peptide,Euglena gracilis,SGSGVRSAKKGGKAQGGQAGVGYKGSTEPG,30
+P83707,Superoxide dismutase [Mn/Fe],Delftia acidovorans,MEHTLPPLXYAIDAL,15
+P83709,Chaperone protein DnaK,Delftia acidovorans,KIIGIDLGTTNSXVA,15
+P83710,Elongation factor Tu,Delftia acidovorans,NMITGAAQMXGAILVAYDSIXAA,23
+P83715,"Catechol 1,2-dioxygenase",Acinetobacter calcoaceticus,MNXQQIDMLVKQLN,14
+P83717,2.39 kDa venom peptide,Heterometrus spinifer,AVSCFKACMKKRGIPFVCSVDC,22
+P83718,2.4 kDa venom peptide,Heterometrus spinifer,SNVCFNACMKISSSQKTCQILC,22
+P83720,C-phycocyanin alpha subunit,Tolypothrix scytonemoides,VKTPITEAIAAADTQG,16
+P83726,Isocitrate dehydrogenase [NADP],Naegleria fowleri,AXFQKIKVANPVVELDGDEM,20
+P83761,Hemoglobin subunit beta,Oreochromis mossambicus,VEWTDAERKAIASL,14
+P83830,Chymotrypsin inhibitor,Eisenia hortensis,SPAVQEKAAWPELVGKTPEEARAQILLDKPNANVVVLEHHD,41
+P83853,Vam6-like protein,Mus musculus,EWEEWLLA,8
+P83908,Cruciferin,Sinapis alba,RQSLGVPPQVKGPFQVVRPPLRTSVNSYTLPILQYIRALPLEVITNAFQISLEEAR,56
+P83955,Lectin 29 kDa subunit,Vigna unguiculata subsp. sesquipedalis,AFQTSFVFQRFYETN,15
+P83956,Lectin 31 kDa subunit,Vigna unguiculata subsp. sesquipedalis,ANQTYFNFQRFEETN,15
+P83961,Beta-benincasin,Benincasa hispida,RDWRREQERRQERR,14
+P84004,Peptide tyrosine phenylalanine,Loligo vulgaris,YAIVARPRF,9
+P84013,U9-ctenitoxin-Pk1a,Phoneutria keyserlingi,ECIGHRRSCKEDRNGCCKLYTCNCWYPTPDDQWCKCLL,38
+P84016,U6-ctenitoxin-Pr1a,Phoneutria reidyi,AFCRFNGQQCTSDGQCCNGRCINAFQGRICIG,32
+P84107,Rho-GTPase-activating protein,Rattus norvegicus,LFEENGGAL,9
+P84161,Non-specific lipid-transfer protein,Citrus sinensis,ITXGQVTGSLAPXIAFLRTK,20
+P84208,Enolase,Imperata cylindrica,SGETEDVTIADIVVGLRIEEELGDAAVYAGAK,32
+P84209,"Malate dehydrogenase, mitochondrial",Imperata cylindrica,VAILGAAGGIGQPLSLLMKDDLFNINAGIVK,31
+P84210,"Ferredoxin--NADP reductase, chloroplastic",Imperata cylindrica,LYSIASSAIGDFGFGDSKLDFAVSRGIDDIMVDLAAK,37
+P84286,Haemoporin,Aplysia californica,AAVPEAAAEATAEAAPVSEF,20
+P84341,C-phycocyanin beta subunit,Limnospira fusiformis,MFDAFTLVVSQADTRGEMLSTAQIDALSQMVAESNKYLDAVNYIT,45
+P84342,Peptidyl-prolyl cis-trans isomerase,Naegleria fowleri,ENFKIKHTEPGLLSMANAGKN,21
+P84462,Hemocyanin subunit 2,Liocarcinus depurator,DAPGGASDAQKQ,12
+P84526,Inulin-specific lectin,Xerocomus spadiceus,CSKGGVGRGYGIG,13
+P84533,Adenosylhomocysteinase 1,Populus euphratica,TEFGPSQPFKGAK,13
+P84538,Cysteine synthase,Populus euphratica,TPNSYILQQFENPANPKLIVAIFPSFGER,29
+P84539,NADP-dependent malic enzyme,Populus euphratica,SIQVIVVTDGERGLIYPPLSNIR,23
+P84540,Transketolase,Populus euphratica,ALPTYTPESPADATR,15
+P84541,Enolase,Populus euphratica,AAVPSGASTGVYEALELRFRAPVEPY,26
+P84542,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase,Populus euphratica,GVTGFGFDLVRYLFAGVVDGR,21
+P84543,Citrate synthase,Populus euphratica,YYTVLFGVSRALGLPLERPK,20
+P84544,Glyceraldehyde-3-phosphate dehydrogenase B,Populus euphratica,AVSLVLPQLK,10
+P84545,Dihydrolipoyl dehydrogenase,Populus euphratica,VGKFPLLANSR,11
+P84546,Biotin carboxylase,Populus euphratica,ILVANRGEIAVRLLEEAPSPALTPELRITAYLPSGGPFVR,40
+P84547,Sulfate adenylyltransferase,Populus euphratica,KADAVFAFQLR,11
+P84548,"Thiamine thiazole synthase, chloroplastic",Populus euphratica,FQPIKESIVSRLFNAVAAEDLIVKGGREIVPGMIVTGMEVAEIDGAPR,48
+P84553,Histone H1.A2,Gallus gallus,RLSKKPGKVKE,11
+P84555,Kunitz-type serine protease inhibitor RsTIQ7,Rhipicephalus sanguineus,EDFDSQCVPTADPGPCKAYIPMWWYNVLS,29
+P84556,Kunitz-type serine protease inhibitor RsTIS5,Rhipicephalus sanguineus,EAEPKPFNPVCYEPKEVGPCKAYVP,25
+P84557,GTP-binding nuclear protein Ran,Populus euphratica,ALPNQQTVDYPSFKSNYNFEKPFLYLAR,28
+P84559,"ATP synthase epsilon chain, chloroplastic",Populus euphratica,QIIEANLALRR,11
+P84561,"Photosystem II stability/assembly factor HCF136, chloroplastic",Populus euphratica,GTGITEEFEEVPVQSRGFGILDVGYR,26
+P84562,"Ribulose bisphosphate carboxylase/oxygenase activase, chloroplastic",Populus euphratica,LVDTFPGQSIDFFGALREGPPTFEQPAMTIEK,32
+P84563,Photosystem I reaction center subunit II,Populus euphratica,EAPVGFTPPELDPSTPSPIFGGSTGGLLR,29
+P84577,Putative heat shock protein HSP90,Populus euphratica,FLSVTEPSLLGDGGDLEIRVFISDDFDGELFPRGVVDSDDLPLNVSR,47
+P84578,"ATP-dependent zinc metalloprotease FTSH, chloroplastic",Populus euphratica,FLEYLDKDRVRVQLPGLSQELLQKTPGFSGADLANLLNEAAILAGRR,47
+P84579,20 kDa chaperonin,Populus euphratica,YTSIKPLGDRVAEAEEKTAGGLLLTETTKEKPSIGTVIAVGPGSLDEEGKITP,53
+P84581,"RuBisCO large subunit-binding protein subunit beta, chloroplastic",Populus euphratica,VVAAGANPVLITRDLVNVLEDAIR,24
+P84587,Zinc finger protein 326,Rattus norvegicus,QGYGFNEPEQTRNQGGSSWEAP,22
+P84632,Sex-specific storage protein 1,Amsacta albistriga,MRSVLVLACLAAASASAISDGMYGTMVFTKDMMVNLDMKMKELCIMKLLNHILQPT,56
+P84654,Periviscerokinin-1,Pycnoscelus surinamensis,GSPGLIPFGRS,11
+P84655,Periviscerokinin-1,Bantua robusta,GSTGLISFGRT,11
+P84657,Periviscerokinin-1,Perisphaeria virescens,GSTGLIPFGRP,11
+P84661,Periviscerokinin-3,Aptera fusca,GSSGIIPFPRV,11
+P84663,Periviscerokinin-3,Derocalymma versicolor,GSSGMISFPRT,11
+P84714,Peroxidase,Cynara cardunculus var. scolymus,VVSCADITALAARQGLFTSDQDLYTDSRMGQLNVLTGTQGEIR,43
+P84727,Putative oxygen-evolving enhancer protein 2,Pinus strobus,GEAANVMGAPK,11
+P84729,Putative 2-Cys peroxiredoxin BAS1,Pinus strobus,GLFIIDKEGVIQHSTINNEGVIQHSTINNLAIGRFGVLLADQGLALRSIPNGPSAL,56
+P84731,Putative phosphoglycerate kinase,Pinus strobus,FAVGTESIAKTFSEALDTTKISDVLSK,27
+P84749,Astacin-like peptidase p18,Argiope aurantia,NAIPGNYYRWPYAKVPYVID,20
+P84761,Angiotensin-1-converting enzyme inhibitory peptide,Macrocybe gigantea,GEP,3
+P84762,Agglutinin alpha chain,Artocarpus tonkinensis,GKAFDDGAFTGIREINLSINKETAIGD,27
+P84766,Granule-bound starch synthase 1,Aegilops tauschii subsp. strangulata,ATGSGGMNLVFVGAEMAPXXX,21
+P84767,Large ribosomal subunit protein bL32,Ectopseudomonas mendocina,CVQQNKKSRSARDMXXSXDALE,22
+P84795,Proteinase inhibitor CeKI,Paubrasilia echinata,FVVETENQLMSQGGRYYILPVIYGKGGGLG,30
+P84799,Proteasome subunit alpha,Halococcus dombrowskii,YGEPIGVETLTK,12
+P84800,Plastocyanin,Thalassiosira oceanica,AQTVEVKMGADGGLLVFEPAKAGPHNVVFDEDNIPPGV,38
+P84814,Opioid peptide,Amblyomma testudinarium,LVVYPWTKM,9
+P81080,Ribulose bisphosphate carboxylase large chain,Pinus pinaster,DTDILAAFRVTPQPGVPPEEAGAADVTLGFVDLLRWSPELAAACEIWK,48
+P81081,Probable caffeoyl-CoA O-methyltransferase,Pinus pinaster,VGGLIAYDNIEISQIPVGDGVTLC,24
+P81082,"Probable superoxide dismutase [Cu-Zn], chloroplastic",Pinus pinaster,HAGDLGNIVAGSDGV,15
+P81185,Propionyl-CoA carboxylase alpha chain,Myxococcus xanthus,PKIRKVLVANRGEIAIRVMRTXKELGIATV,30
+P81241,Bifunctional chitinase/lysozyme,Carica papaya,GIEKIISRSMFDQMLKHRNNPASFG,25
+P81244,Cytochrome c6,Prochlorothrix hollandica,AASGASIFSAKCAQCHLGGKNIINPTKTLSLADLQANGKDTVSAI,45
+P81348,Triosephosphate isomerase,Clostridium pasteurianum,MITPIIAGNXKLVNTISEE,19
+P81494,Cathepsin B,Coturnix japonica,LPDTFDSRKQWPNCPTISEIRDQGSVSVEVSAEDLLSCCGFECGMGCN,48
+P81542,Zinc-containing ferredoxin,Metallosphaera prunae,GIDPNFRTSRPVTGDHAGHKVYAPADPPVKEKALGIHG,38
+P81555,Periviscerokinin-2,Periplaneta americana,GSSSGLISMPRV,12
+P81593,2-aminomuconate deaminase,Ectopseudomonas oleovorans,STLSSNDAKVVDGKATPLGSFPHVKRAGDFLYVSGTSSRRPDNTIAGAELDSTS,54
+P81609,Collagenolytic protease,Carcinus maenas,IVGGMEATPHSWPHQVA,17
+P81626,Hypertrehalosaemic hormone,Locusta migratoria,QVTFSRDWSP,10
+P81643,Glutamine synthetase 2 isozyme,Emiliania huxleyi,XIAGSEEYGKHCFKGAVADAYLAKH,25
+P81663,"ATP synthase subunit beta, mitochondrial",Pinus pinaster,ESIASFQGVLDGKYD,15
+P81731,Aminopeptidase N,Helicoverpa armigera,GMYTHEGSDP,10
+P81733,Tachykinin-related peptide 2,Rhyparobia maderae,APEESPKRAPSGFLGVR,17
+P81737,Tachykinin-related peptide 5,Rhyparobia maderae,APAMGFQGVR,10
+P81738,Tachykinin-related peptide 6,Rhyparobia maderae,APAAGFFGMR,10
+P81739,Tachykinin-related peptide 7,Rhyparobia maderae,VPASGFFGMR,10
+P81740,Tachykinin-related peptide 8,Rhyparobia maderae,GPSMGFHGMR,10
+P81741,Tachykinin-related peptide 9,Rhyparobia maderae,APSMGFQGMR,10
+P81749,Gonadoliberin-1,Clupea pallasii,QHWSHGLSPG,10
+P81800,Alkaline phosphatase,Prevotella intermedia,TDMLAVSVSSTDAIGHKYGT,20
+P81801,Puromycin-hydrolyzing enzyme,Streptomyces morookaense,VSTAPYGAWQSPID,14
+P81802,Fibrinolytic enzyme large subunit,Eisenia fetida,VIGGTNASPGEIPWQLSQQRQSGSW,25
+P81874,Chaperonin GroEL,Acinetobacter calcoaceticus,SAKDVKFGDSARSMMIAGVNVIAD,24
+P81895,"2-oxoglutarate dehydrogenase, mitochondrial",Solanum tuberosum,AQAAPVPRPVXLSKKTDSF,19
+P81896,Dihydrolipoamide-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,Solanum tuberosum,XSNSGDLVDAVVPYMGESIS,20
+P81949,D-alpha-glycerophosphatase,Bacillus licheniformis,MKKCAFVSDFDGTISKQDFY,20
+P82015,Diuretic hormone 2,Hyles lineata,SFSVNPAVEILQHRYMEKVAQNNRNFLNRV,30
+P82447,Galectin-1,Podarcis hispanicus,PGITXTSLHVAPGARLAVKGDIPAGAKSWVINLGKGENDIMLHFNARFDAHGDIRTIV,58
+P82455,Orcomyotropin,Faxonius limosus,FDAFTTGF,8
+P82470,Tachykinin-1,Schistocerca gregaria,GNTKKAVPGFYGTR,14
+P82536,"Peptidyl-prolyl cis-trans isomerase TLP20, chloroplastic",Spinacia oleracea,SAEETPLQSKVTNKVYFDISIGNPVGKVVIGLFGDDVPQTAENFR,45
+P82539,DnaJ homolog subfamily C member 1,Canis lupus familiaris,WESGDLELFDLVEEVXLNFY,20
+P82543,Cytochrome c oxidase polypeptide 2A,Thermus thermophilus (strain ATCC 27634 / DSM 579 / HB8),MEEKPKGALAVILVLTLTILVFWLGVYAVFFARG,34
+P82607,Glutathione S-transferase 6.7,Dicentrarchus labrax,NPRGLPAFKHGNXVLNESYAXMYLESQFGSXGXLIPDADVIYYNWKVPEGERHD,54
+P82608,Glutathione S-transferase 8.2,Dicentrarchus labrax,MESIRWLLTVAQFDFDMKLVQSXAIVNYVANK,32
+P82618,Pyrokinin-3,Periplaneta americana,LVPFRPRL,8
+P82684,Pyrokinin-1,Carausius morosus,DEGGTQYTPRL,11
+P82685,Kinin-1,Periplaneta americana,RPSFNSWG,8
+P82686,Kinin-2,Periplaneta americana,DASFSSWG,8
+P82688,Kinin-4,Periplaneta americana,GAQFSSWG,8
+P82689,Kinin-5,Periplaneta americana,SPAFNSWG,8
+P82690,Pyrokinin-4,Validiblatta fuliginosa,DHLSHDVYSPRL,12
+P82691,Pyrokinin-1,Periplaneta americana,HTAGFIPRL,9
+P82692,Pyrokinin-2,Periplaneta americana,SPPFAPRL,8
+P82889,Capsid protein G8P,Thermus phage PH75,MDFNPSEVASQVTNYIQAIAAAGVGVLALAIGLSAAWKYAKRFLKG,46
+P82895,Acidic phospholipase A2 4,Trimeresurus stejnegeri,NLMQFELLIMKVAGRSGIVWYSDY,24
+P82989,Cytochrome c3,Desulfocurvibacter africanus,SETETKAASIEAETVLQFPVSFKFNRPEGRPTALFAEVKFSHYDH,45
+P82992,Inorganic pyrophosphatase,Blastochloris viridis,MRIDAIDXA,9
+P82996,Glutathione S-transferase,Pseudomonas putida,MYHYYSPDALRTXN,14
+P82997,Glutathione S-transferase,Pseudomonas sp. (strain CF600),MLKLHGFSVSNYYNMVKLALLEKG,24
+P82999,Glutathione S-transferase,Pseudomonas sp. (strain M1),MDYLITFYHSPQTNS,15
+P83000,Glutathione S-transferase,Pseudomonas sp. (strain M1),MLLVIGSKNLSSTNM,15
+P83048,Alpha-amylase inhibitor,Secale cereale,SEDCTPWTATPITVLAGCRDYVGEQ,25
+P83054,Heparin lyase,Bacteroides stercoris,MADEALQHTFFA,12
+P83077,Glyceraldehyde-3-phosphate dehydrogenase 2,Bacillus cereus,MKQGINGFARRGRL,14
+P83127,Alpha-N-acetylgalactosaminidase,Bos indicus,LENGLLRKPPMG,12
+P83128,Probable alpha-fetoprotein,Bos indicus,DKNAYGIDLIL,11
+P83145,Ribonuclease UK114,Gallus gallus,TTVFLADIKSNCPSRVSFQVAALPGARVEIEAIAIQGPI,39
+P83146,Acharan sulfate lyase 1,Bacteroides stercoris,NYIYSGHNYHQ,11
+P83147,Acharan sulfate lyase 2,Bacteroides stercoris,TEFATNDGGQR,11
+P83148,Major extrapallial fluid protein,Mytilus edulis,NPVDDHHDDHHDAPIVEHHD,20
+P83158,Photosystem I iron-sulfur center,Anabaena sp. (strain L31),MSHTVKIYD,9
+P83162,C-phycocyanin alpha subunit,Anabaena sp. (strain L31),MVKTPITEAIAAADTQGRFLS,21
+P83200,Peroxiredoxin-5,Vulpes vulpes,APIKVGDAIPXVXVFE,16
+P83212,Sperm protamine P2,Bolinus brandaris,RRRRRRGKGRGKKRKGKGKKRGKGRRRGSKGRKKKKGKGKKRKRRRRRRRKGSKGKGK,58
+P83213,Sperm protamine P3,Bolinus brandaris,RRRRRRGKGKGGKKKKGKKRRRRGRKGKGKGKKKGKRKGKRGGKRRRRRRKGKK,54
+P83215,Sperm protamine P3,Octopus vulgaris,RRRRRRRRHRRRRGRRGRRSRGRR,24
+P83222,34 kDa extracellular nuclease,Streptomyces antibioticus,GTLIGQDYK,9
+P83235,Mating pheromone En-2,Euplotes nobilii,DIEDFYTSETCPYKNDSQLAWDTCSGGTGNCGTVCCGQCFSFPVSQSCAGMADSNDCPNA,60
+P83241,Proteinase inhibitor PSI-1.2,Capsicum annuum,KACPRNCDTDIAYMVCPSSGERIIRKVCTNCCAAQKGCKLFRSNGSIKCTGT,52
+P83252,Beta-galactosidase,Hordeum vulgare,TGVTYDHRALVIDGXXXVLVSGSIHYPRAASSWYAVET,38
+P83340,Major allergen Epi p 1,Epicoccum nigrum,ADGIVAVELDTYRGSFXK,18
+P83350,FMRFamide-1,Sarcophaga bullata,QPSQDFMRF,9
+C0HJJ4,Glucagon-2,Huso dauricus,HSQDTFTNEYNKYLEAKHAQEFVQWLIKSKRRGGLT,36
+C0HJK1,U1-poneritoxin-Dq1c,Dinoponera quadriceps,LRPDDLSDT,9
+C0HJR4,Lactadherin,Equus asinus,ASGPCFPNPCQNDGECHVIDDSHR,24
+C0HJV1,Calcitonin-like peptide 2,Odorrana schmackeri,SCNLSTCATHNLVNELNKFDKSKPSSGGVGPESF,34
+C0HJW4,Peptide II.10.10,Centruroides tecomanus,IRRYCDPRVCDRECLEKGKYFGRCIRDICKCN,32
+C0HJX6,Profilin,Plantago lanceolata,AILGQDGSVWAQGLHLGGAKYVIAGEPGAVIRLGDYLLDQGL,42
+C0HKF3,Apolipophorin-1,Galleria mellonella,SVKSEVDNFDKHLKAESAPFNNE,23
+C0HKF4,Apolipophorin 2,Galleria mellonella,DDKCSIGCKGSATAPTFLNGH,21
+C0HKL3,Caerulein precursor fragment-related peptide BM4,Xenopus boumbaensis,GIGSALANAAKLVAGIV,17
+C0HKL4,Caerulein precursor fragment-related peptide BM5,Xenopus boumbaensis,GLGSLVGNALRIGAKLL,17
+C0HLL0,Phospholipase A2 CS24a,Rhinella diptycha,GLLEFNKMIKFETRKNAIPFYAFYGCYCGWGGRRRPKDA,39
+C0HLM4,Rhizopuspepsin,Rhizopus azygosporus,AGVGTVP,7
+C0HLM5,Mucorpepsin,Mucor thermohyalospora,AEGDGSVDTP,10
+C0HLM8,Globulin 1,Elaeis guineensis var. tenera,GLEETYCSMKIK,12
+C0HLQ5,Cytochrome c6,Chattonella marina var. antiqua,ADIENGEDIFTANAS,15
+C0HLQ6,Glyceraldehyde-3-phosphate dehydrogenase,Chattonella marina var. antiqua,EGDVIATGINGFGRIG,16
+C0HLR0,Ribulose bisphosphate carboxylase small subunit,Chattonella marina var. antiqua,MRLTQGAFSYLPDLTDAQII,20
+C0HLR1,Large ribosomal subunit protein bL12c,Chattonella marina var. antiqua,SKVENIVDELKTLTL,15
+C0HLT5,Endochitinase,Glutamicibacter uratoxydans,ADGTITFNGKVTDK,14
+C0HLW8,Septenin 1g,Osteopilus septentrionalis,DDAVANGVHAISGVVDS,17
+C0HLX2,Septenin 2,Osteopilus septentrionalis,IIGDTINGAITTADNIAGKIGII,23
+C0HM48,GTP-binding protein Rheb,Crocodylus siamensis,SSLTIQFVEGQFVDSYDPTIENTFTK,26
+C0HM50,Actin homolog,Crocodylus siamensis,VAPEEHPVLLTEAPLNPK,18
+C0HMD1,Non-specific lipid-transfer protein,Broussonetia papyrifera,DSCSNIIQPLTPCLNYVRALGQFSDIDIQTIPEQCGISATLPPID,45
+C1P5Z7,Putative inhibitor of glucose uptake transporter SgrT,Escherichia coli (strain K12),MRQFYQHYFTATAKLCWLRWLSVPQRLTMLEGLMQWDDRNSES,43
+C1P5Z8,Uncharacterized membrane protein YkgR,Escherichia coli (strain K12),MKENKVQQISHKLINIVVFVAIVEYAYLFLHFY,33
+C1P602,Uncharacterized membrane protein YoaK,Escherichia coli (strain K12),MRIGIIFPVVIFITAVVFLAWFFIGGYAAPGA,32
+C1P603,Uncharacterized protein YoaJ,Escherichia coli (strain K12),MKKTTIIMMGVAIIVVLGTELGWW,24
+C1P605,Uncharacterized protein AzuC,Escherichia coli (strain K12),MKLRKILKSMFNNYCKTFKDVPPGNMFR,28
+C1P609,Uncharacterized membrane protein YohP,Escherichia coli (strain K12),MKIILWAVLIIFLIGLLVVTGVFKMIF,27
+C1P610,Uncharacterized membrane protein YpdK,Escherichia coli (strain K12),MKYFFMGISFMVIVWAGTFALMI,23
+D1MEI9,Venom peptide 3,Eumenes pomiformis,MRFTFVLVIAATVAVLGFFGINAEPMPDPHAEPYPDAAINPKSVQSLLG,49
+D1MEJ2,Venom peptide 5,Eumenes pomiformis,MKTASFILSFVVLLIVIITWIGEVSAVSEPEPVAKATAHAAAVHVPPICSHRECRK,56
+M1YW29,Prokaryotic ubiquitin-like protein UBact,Nitrospina gracilis (strain 3/211),MEMTDPLRREEKKESSPDPKEESGPSRPDVSRPGRDSLLKRMKKVDPKQSEKYKQRTGQ,59
+O05635,Small ribosomal subunit protein uS14,Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770),MGKYKPPAERRFGKGVQLCKRCGSRDSVIQKYGLYLCRQCFREVAYPMGFRKTR,54
+O06718,Probable spore germination protein GerPD,Bacillus subtilis (strain 168),MIFTVINRSLEVGDIRMNGVSSSSVFHIGDTESIYLSSIFDTPPESLIIGPFAPLAPE,58
+O19882,Photosystem II reaction center protein I,Cyanidium caldarium,MFTLKIFVYSCVAFFCSLFIFGFLSNDPSRNPNRKDLE,38
+O24172,Major pollen allergen Ole e 6,Olea europaea,DEAQFKECYDTCHKECSDKGNGFTFCEMKCDTDCSVKDVKEKLENYKPKN,50
+O28935,Small ribosomal subunit protein eS27,Archaeoglobus fulgidus (strain ATCC 49558 / DSM 4304 / JCM 9628 / NBRC 100126 / VC-16),MHSRFVKVKCPDCEHEQVIFDHPSTIVKCIICGRTVAEPTGGKGNIKAEIIEYVDQIE,58
+O31552,"Small, acid-soluble spore protein H",Bacillus subtilis (strain 168),MNIQRAKEIVESPDMKKVTYNGVPIYIQHVNEETGTARIYPLDEPQEEHEVQLNSLKED,59
+O56125,Anti-apoptotic ORF4 protein,Porcine circovirus 2,MTCTLVFQSRFCIFPLTFKSSASPRKFLTNVTGCCSATVTRLPLSNKVLTAVDRSLRCP,59
+P00204,Ferredoxin-1,Chlorobium limicola,ALYITEECTYCGACEPECPVTAISAGDDIYVIDANTCNECAGLDEQACVAVCPAECIVQG,60
+P00863,Histidine decarboxylase small chain,Micrococcus sp,MKKTDKILKEIGIQRVAIMEGKKYSKGFMEDGDIGVQY,38
+P00881,4-carboxymuconolactone decarboxylase,Pseudomonas putida,MDEKQRYDAGMQVRRAVLGDAHVDRCLEKLNDFNGEFQEMITRHACGD,48
+P01069,Trypsin inhibitor,Trichosanthes kirilowii,LLMPVKPNDDRVIGCWCISRGYLCGCMPCKLNDDSLCGRKG,41
+P01079,Proteinase inhibitor PTI,Solanum tuberosum,RICTNCCAGYKGCNYYSANGAFICEGESDPKNPNVCPRNCDTNIAYSKCLR,51
+P01144,Sauvagin,Phyllomedusa sauvagei,QGPPISIDLSLELLRKMIEIEKQEKEKQQAANNRLLLDTI,40
+P01205,Beta-endorphin-2,Oncorhynchus keta,YGGFMKSWNERSQKPLLTLFKNVIIKDGQQ,30
+P22395,Locustamyotropin-1,Locusta migratoria,GAVPAAQFSPRL,12
+P22396,Locustamyotropin-2,Locusta migratoria,EGDFTPRL,8
+P22442,Karatasin,Bromelia plumieri,VPETWDXXDYGAQT,14
+P22583,Acidic lectin A3,Psophocarpus scandens,TETQSFNFNVFEPEN,15
+P22584,Basic lectin B1,Psophocarpus scandens,ETISFNFNQFQQND,14
+P22585,Basic lectin B2,Psophocarpus scandens,SQTQSFNFNKFEQNK,15
+P22702,Arginine attenuator peptide,Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987),MNGRPSVFTSQDYLSDHLWRALNA,24
+P22775,Fibrinogen,Panulirus interruptus,LQPKLEYQYKYHGIVALGIPSYKTQFYDAH,30
+P22790,Cardio-excitatory peptide 1,Lissachatina fulica,SGQSWRPQGRF,11
+P23032,Anti-H(O) lectin 3,Ulex europaeus,SSDYLSFKFDKFAPNQLNMYFQGDASVSTKGVLQL,35
+P23036,Cytochrome c-552,Schinkia azotoformans,TEQAAPAADDPEGMVKASCASCHGQNLEGGVGPALADVGSRNAMPAGMVDPAK,53
+P23037,Cytochrome c-555,Schinkia azotoformans,ALEASGCLNCHGTDLTGXPAXPATMPPGMFKGSNQQLKALSEFIHGLSAK,50
+P23078,Photosystem I reaction center subunit III,Thermostichus vulcanus,DVAGLVPAKDSPAFQKRAAAAVNTTAD,27
+P23260,Neuromedin-C,Pelophylax ridibundus,GSHWAVGHLM,10
+P23319,Photosystem I 4.8 kDa protein,Trichormus variabilis (strain ATCC 29413 / PCC 7937),MAKAKTPAVANTGAKPPYTFRTAWALLLLGVNFLVAAYYFHIIQ,44
+P23834,Diuretic hormone,Acheta domesticus,TGAQSLSIVAPLDVLRQRLMNELNRRRMRELQGSRIQQNRQLLTSI,46
+P24134,Ferredoxin--NAD(+) reductase,Streptomyces griseus,TXIVIIGGGPGGYEAA,16
+P24365,Phosphocarrier protein HPr,Streptococcus sanguinis,AIKVFHIVAETGIHARPAT,19
+P24743,Serine protease inhibitor 8,Solanum tuberosum,LPSDATPVLDVTGKELDPRLSYRIISIGRXALGGXVYLGKSP,42
+P24744,Cysteine protease inhibitor 2,Solanum tuberosum,LVLPEVYDQDGHPLRIGQRYIINNP,25
+P24816,Gastrin/cholecystokinin-like peptide D1,Nephrops norvegicus,SEGGQDFWL,9
+P24927,Trypsin inhibitor B chain,Albizia julibrissin,KDDHCKDLGSIDDDE,15
+P25072,Phospholipase A2 1,Micrurus tener microgalbineus,SLLBFKBMIEST,12
+P25271,Pheromonotropin,Mythimna separata,KLSYDDKVFENVEFTPRL,18
+P25418,Adipokinetic hormone,Libellula auripennis,QVNFTPSW,8
+P25510,Ornatin-A3,Placobdella ornata,IPQCADIKESGQPNDKCRCNGITCTVGKCKIGRGDDNDKCT,41
+P25513,Ornatin-D,Placobdella ornata,IYVRPTKDELLYCGEFRELGQPDKKCRC,28
+P25514,Ornatin-E,Placobdella ornata,IYVRPTKDELLYCGEFRELGQPDKKCRCDGKPCTVGRCNFARGDNDDKCI,50
+P25921,Cop-6 protein,Staphylococcus aureus,MVVDRKEEKKVAVTLRLTTEENEILNRIKEKYNISKSDATGILIKKYAKEEYGAF,55
+P25933,"Phosphoribulokinase, 40 kDa subunit",Monoraphidium minutum,XEKXIVVGLAADSG,14
+P25937,Photosystem I reaction center subunit XI,Thermostichus vulcanus,AEELVKPYNGDPFVGHLSTP,20
+P25973,Cystatin,Glycine max,GFTDITGAQNSIDIENLARFAVDEHNKKENAVLEFVRVKSAKKQVVSG,48
+P26226,Hemolymph trypsin inhibitor A,Manduca sexta,AGLYKPPNNIESENEVYTGNICFLPLEVGVCRALFFRYGYDPAIKACXEFMYGGCQ,56
+P26912,Probable non-specific lipid-transfer protein,Pinus pinea,AVDCNTVKSDLVGCVGYLPSGTGNPTPQCCDGVVKL,36
+P26913,Probable non-specific lipid-transfer protein,Triticum aestivum,AVANCGQVVSYLAPCISYAMGRVSAPGGGCCSGVRGLNAA,40
+P27203,Histone H1-like protein EM5,Ensis minor,MITAAVGALKERGGSSRQAILKYIQANFKVQANPAA,36
+P27205,Sperm protein EM1,Ensis minor,AGSKSRSRSRSRSRSKSPAKSASPKSAASPRASR,34
+P27387,Packaging protein P20,Enterobacteria phage PRD1,MVNWELLKNPINWLIVILMLTIAGMAATLVCNHFGKNAVTSE,42
+P27459,Alpha-lytic protease,Achromobacter lyticus,ANIVGGIEYSINNASICSVGFSVTR,25
+P27687,Myohemerythrin-2,Phascolopsis gouldii,GFDIPEPYVWDESFRVFYDLLDDEHKGLFQG,31
+P28308,Secreted proteinase,Haloferax mediterranei,DTANDPKYGSQYAPQKVNADVDQGVXXXHPEL,32
+P28498,Substance P,Gadus morhua,KPRPQQFIGLM,11
+P28502,Hirudin-1A,Hirudo medicinalis,VVYTDCTESGQNLCLCE,17
+P28587,Lectin-2,Axinella polypoides,TSLCAERQKYIVQNLETALYLTVNNPSGYADVTLXAFDFGXNQLFXLIP,49
+P28588,Lectin-3,Axinella polypoides,ASPXENYQXYVILNL,15
+P29135,Neurokinin-A,Pelophylax ridibundus,HKLDSFIGLM,10
+P29184,29 kDa hemocyte proteinase,Sarcophaga peregrina,DSXVPEXFDARKXXPN,16
+P29207,Ranakinin,Pelophylax ridibundus,KPNPERFYGLM,11
+P29261,Amygdalin beta-glucosidase 2,Prunus serotina,ADPPIHIASL,10
+P29262,Amygdalin beta-glucosidase II',Prunus serotina,TDPPIHIASLXRS,13
+P29263,Prunasin beta-glucosidase 1,Prunus serotina,TYPPVVXATLXRTH,14
+P29499,Metallothionein-1,Homarus americanus,PGPCCKDKCECAEGGCKTGCKCTSCRCAPCEKCTSGCKCPSKDECAKTCSKPCSCCXX,58
+P29532,Pseudogermin,Triticum aestivum,ADPDPLQDFXVADLXDNAVXV,21
+P29605,"Lipase, thermostable",Burkholderia cepacia,AVDDYAATRYPIILVHGLTTDSKYGGVVEYXYRNPNDLTSHXXAAYVYELRSDPLD,56
+P30249,Locustatachykinin-3,Locusta migratoria,APQAGFYGVR,10
+P30250,Locustatachykinin-4,Locusta migratoria,APSLGFHGVR,10
+P30253,Paralytic peptide 1,Manduca sexta,ENFAGGCATGYLRTADGRCKPTF,23
+P30259,Protamine S4,Scyliorhinus canicula,GCKKRKARKRPKCKKARKRPKCKRRKVAKKKC,32
+P30806,Calreticulin,Spinacia oleracea,KVFFEERFEDGWENRWVKKD,20
+P30895,Envelope protein H3,Vaccinia virus (strain L-IVP),PEKRNVVVVKDDPDHYKDYAHDKKIDXXXRFIITGNKVKTEKINRQILDNAAKYVE,56
+P31082,"Stromal 70 kDa heat shock-related protein, chloroplastic",Cucurbita maxima,QKVVGIDLGTTNSAVAAMEGGKPTIVTNAEGQRT,34
+P31229,Pancreatic polypeptide,Rana temporaria,APSEPHHPGDQATQDQLAQYYSDLYQYITFVTRPRF,36
+P31718,Cytochrome P450-RR1,Rhodococcus rhodochrous,TSTLSWLDEITMEELERNPY,20
+P31799,Locustamyoinhibiting peptide,Locusta migratoria,AWQDLNAGW,9
+P31832,Calreticulin,Pelophylax lessonae,DPLVFFKXXFXXG,13
+A0A1B0GTB2,Protein TUNAR,Homo sapiens,MVITSENDEDRGGQEKESKEESVLAMLGIIGTILNLIVIIFVYIYTTL,48
+A0A2L1DGG0,Peptide HSTX-I,Haemadipsa sylvestris,MRTLLVFLLLAIFVAVLIGNVQVEAACKEYWECGAFLFCIEGICVPMIG,49
+B3A0L4,Laccase,Hericium coralloides,AVGDDTPQLY,10
+B3EWG2,Laccase,Lepiota magnispora,VTIGKEGTLT,10
+B3EWP2,Hyaluronidase CdtHya1,Crotalus durissus terrificus,MQAKAPMYPNEPFLVFWNAPTTQCRLRYKVDLDLNTFHIVTNAR,44
+B3EWR5,Beta-hexosaminidase,Lupinus albus,VDSEDLIEAFKIYVEDDNEHLQGSVD,26
+B8YB64,DNA-directed RNA polymerase subunit Rpo12,Saccharolobus shibatae (strain ATCC 51178 / DSM 5389 / JCM 8931 / NBRC 15437 / B12),MAVYRCGKCWKTFTDEQLKVLPGVRCPYCGYKIIFMVRKPTIKIVKAI,48
+C0HJB2,Laccase,Sanghuangporus baumii,AIGPVDEV,8
+C0HJH4,Sarcolamban A,Drosophila melanogaster,MSEARNLFTTFGILAILLFFLYLIYAVL,28
+C0HJX5,Peptide tarsal-less 2A,Drosophila melanogaster,MAAYLDPTGQY,11
+C0HJY2,Peruvianin-1,Thevetia peruviana,ADPGPLQDFCLADLNSPLFINGYPCRNPALAISDDF,36
+C0HLU2,Transcriptional regulator SEHBP,Homo sapiens,MALRSIKSIAGSCLCSRQRRCGSSAAIFPEGIFRCLSPKFGQEFPE,46
+C0HLV0,Endoglucanase gh5,Fomes meliae,QAVLSETGGGDTASCDEYLYQELAYVK,27
+D0VWR3,Photosystem II reaction center protein Psb30,Thermostichus vulcanus,EVIAQLTMIAMIGIAGPMIIFLLAVRRGNL,30
+O31466,Tryptophan RNA-binding attenuator protein inhibitory protein,Bacillus subtilis (strain 168),MVIATDDLEVACPKCERAGEIEGTPCPACSGKGVILTAQGYTLLDFIQKHLNK,53
+O52748,Transcriptional regulator peptide PatS,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),MKAIMLVNFCDERGSGR,17
+O87942,Benzylsuccinate synthase gamma subunit,Thauera aromatica,MTTCKDCAFFFSIPEDADDFEKSKGDCVTQKDDEKGRYWLSKPVFENDQCCGAFHKR,57
+P00209,Ferredoxin-2,Megalodesulfovibrio gigas,PIEVNDDCMACEACVEICPDVFEMNEEGDKAVVINPDSDLDCVEEAIDSCPAEAIVRS,58
+P05747,Large ribosomal subunit protein eL29,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MAKSKNHTAHNQTRKAHRNGIKKPKTYKYPSLKGVDPKFRRNHKHALHGTAKALAAAKK,59
+P06545,DNA-binding protein,Autographa californica nuclear polyhedrosis virus,MVYRRRRRSSTGTTYGSTRRRRSSGYRRRPGRPRTYRRSRSRSSTGRRSYRTRYY,55
+P07503,Light-harvesting protein B-808/866 alpha chain,Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl),MQPRSPVRTNIVIFTILGFVVALLIHFIVLSSPEYNWLSNAEGGALLLSAARALFGI,57
+P07552,Cytochrome b-c1 complex subunit 10,Bos taurus,MLTRFLGPRYRQLARNWVPTASLWGAVGAVGLVWATDWRLILDWVPYINGKFKKDD,56
+P09927,Light-harvesting protein B-808/866 beta chain,Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl),MRDDDDLVPPKWRPLFNNQDWLLHDIVVKSFYGFGVIAAIAHLLVYLWKPWLP,53
+P0AD89,Tryptophanase operon leader peptide,Escherichia coli (strain K12),MNILHICVTSKWFNIDNKIVDHRP,24
+P0C0X9,Light-harvesting protein B-875 alpha chain,Cereibacter sphaeroides,MSKFYKIWMIFDPRRVFVAQGVFLFLLAVMIHLILLSTPSYNWLEISAAKYNRVAVAE,58
+P0C0Y2,Light-harvesting protein B-800/850 beta chain,Cereibacter sphaeroides,MTDDLNKVWPSGLTVAEAEEVHKQLILGTRVFGGMALIAHFLAAAATPWLG,51
+P0CY15,Mating-type M-specific polypeptide Mi,Schizosaccharomyces pombe (strain 972 / ATCC 24843),MSAEDLFTIQILCDQIELKLASIVINSNIKLQLKRKKKTQQL,42
+P0DKB3,Small protein MntS,Escherichia coli (strain K12),MNEFKRCMRVFSHSPFKVRLMLLSMLCDMVNNKPQQDKPSDK,42
+P0DKT9,Neutral phospholipase A2 homolog cannitoxin beta chain 2,Oxyuranus scutellatus canni,NLVQFGFMIECAIRNRQPALDFMNYGCYCGTVGRGTPVDD,40
+P0DKU0,Acidic phospholipase A2 homolog cannitoxin gamma chain,Oxyuranus scutellatus canni,SEIPQPSLDFEQFSNMIQCTIPPGEECLAY,30
+P0DN34,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1,Mus musculus,MTLFQLLREHWVHILVPAGFVFGCYLDRKDDEKLTAFRNKSMLFQRELRPNEEVTWK,57
+P0DOE2,Protein AimP,Bacillus phage phi3T,MKKVFFGLVILTALAISFVAGQQSVSTASASDEVTVASAIRGA,43
+P0DSN5,Phospholipase A2 hemilipin-2,Hemiscorpius lepturus,DSLSEDNWKFVVSSSCETILEILDIGGCAKGVAEYT,36
+P0DTD8,ORF7b protein,Severe acute respiratory syndrome coronavirus 2,MIELSLIDFYLCFLAFLLFLVLIMLIIFWFSLELQDHNETCHA,43
+P0DW56,Small protein SpfP,Escherichia coli (strain K12),MFYLSDLLLHVIGFG,15
+P55967,Photosystem II reaction center W protein,Triticum aestivum,LVDERMSTEGTGLSLGLSNN,20
+P56339,Photosystem II reaction center protein L,Chlorella vulgaris,MAKPNPNKQSVELNRTSLYWGLLLIFVLAVLFSSYIFN,38
+P56531,Phosvitin,Meleagris gallopavo,AELGTEPNAKTSSSSSSVSSTATSSSSSSASSPBRKKPMD,40
+P56586,Dihydroorotase-like protein,Pseudomonas fluorescens biotype A,MKLSILGARVIDPASGLXXV,20
+P56610,Toxin Tb4,Tityus bahiensis,GKEGYPTDKRGCKLTCFFT,19
+P56618,Diuretic hormone 1,Tenebrio molitor,SPTISITAPIDVLRKTWEQERARKQMVKNREFLNSLN,37
+P56651,Inter-alpha-trypsin inhibitor heavy chain H2,Bos taurus,LHYQEVKWRKLGSYEHRLHLKPGRLAKHELEVFNGYFVHFPAPENMIPIG,50
+P56675,Juvenile hormone-binding protein,Platyprepia virginalis,ETLFDPCSTQDIKKVGV,17
+P56738,Cytoplasmic filament protein A,Treponema phagedenis,AILELPQSPNVFHPEKPSAVG,21
+P56870,Putative maleylacetate reductase 2,Rhodococcus opacus,MRFEHENLPQRIXFG,15
+P56948,Manganese-dependent inorganic pyrophosphatase,Priestia megaterium,QKTLIFGHKNPDTDTI,16
+P57079,Small ribosomal subunit protein bS21,Mycoplasma pneumoniae (strain ATCC 29342 / M129 / Subtype 1),MPKIEVKNDDLELALKKFKRVSLEIRRLAQRHEYHLRKGMRLREKRKIAQKKRRKFRNMV,60
+P58261,Phytosulfokine-alpha,Daucus carota,YIYTQ,5
+P58516,Serine protease inhibitor 3,Solanum tuberosum,FVLPFDVLDSGRDLDRGWPYA,21
+P58547,Mating pheromone Er-23,Euplotes raikovi,GECEQCFSDGGDCTTCFNNGTGPCANCLAGYPAGCSNSDCTAFLSQCYGGC,51
+P58548,Mating pheromone Er-22,Euplotes raikovi,DICDIAIAQCSLTLCQDCENTPICELAVKGSCPPPWS,37
+P58602,Cysteine protease inhibitor 4,Solanum tuberosum,PVLQVVRDIHGDILTPDSRYIL,22
+P58705,Antho-KAamide,Anthopleura elegantissima,FFKA,4
+P58706,Antho-RIamide-1,Anthopleura elegantissima,FYRI,4
+P58707,Antho-RNamide,Anthopleura elegantissima,FLRN,4
+P59681,Small ribosomal subunit protein bS20,Geobacillus stearothermophilus,MANIKSAIKRAKTSEK,16
+P59682,Small ribosomal subunit protein bS6,Geobacillus stearothermophilus,MRKYEIMYIIRPDMD,15
+P59683,Small ribosomal subunit protein uS10,Geobacillus stearothermophilus,MAKEKIRIRLKAYDHR,16
+P59724,"FKBP-type peptidyl-prolyl cis-trans isomerase, chloroplastic",Vicia faba,AAEVAPCELTVAPSGLSFCDKVVGTGPQAVKGQLIKAHYVGRLEN,45
+P59866,Non-cysteinic peptide Bs 10,Hottentotta tamulus sindicus,VTMGYIKDGDGKKIAKKKNKNGRKHVEIDLNKVG,34
+Q9LJD9,Arabinogalactan protein 12,Arabidopsis thaliana,MESMKMKLIVVLMVAIVAFSAVGNVAAQTEAPAPSPTSDAAMFVPALFASVAALASGFLF,60
+Q9R4Y1,2-oxo-acid reductase,Proteus hauseri,MINGWTGNILRINLTTGAIS,20
+Q9UTP3,Inner kinetochore subunit fta6,Schizosaccharomyces pombe (strain 972 / ATCC 24843),MEDKYILLSAVETFKSRLEELLMQSAKVQKQTMLRKELASSMNDMASTVQEALNKKKSS,59
+A0A1D8PL68,Large ribosomal subunit protein eL40,Candida albicans (strain SC5314 / ATCC MYA-2876),MIEPSLKALASKYNCEKSICRKCYARLPPRATNCRKRKCGHTNQLRPKKKLK,52
+A0A1W6EVN2,Ampulexin 2,Ampulex compressa,MKAIMVLFYVMTLTIIGSFSMVSGSPGQNDYVNPKLQFACDLLQKAKERQ,50
+A0A1W6EVN4,Ampulexin 3,Ampulex compressa,MKAIMVLFYVMTLTIIGSFSMLLQKAKERQ,30
+A0A2K4Z9G8,Cortex morphogenetic protein A,Bacillus subtilis (strain 168),MPNWLKKQMQKAFLEKDNYQIKLLNQCWYFYRKKHCS,37
+A0A6G9KHD1,U6-myrmicitoxin-Mri1a,Manica rubida,MNPKALCSFLLATFLLLTVTIMPSVHANAEANADAIIGPCPKKPIGIVC,49
+A0A6M3Z4E7,U14-myrmicitoxin-Tb1a,Tetramorium bicarinatum,MKIIKLITIFTMMATLMXXVANGEPIPPNAVKSLQG,36
+A0A6M3Z4R4,U2-myrmicitoxin-Tb1a,Tetramorium bicarinatum,AEAMAEAMADAMADAMADAMADAMAEAAADPPPGFIGVRG,40
+A0A6M6R9M4,U17-myrmicitoxin-Tb1f,Tetramorium bicarinatum,MEKNRTTTFSVYLTIILFLISTFITMVITESNIIRVPEFQCPNGYRKDANGKCREVFHG,59
+A0A7L8Y648,Micropeptide inhibiting actin cytoskeleton,Homo sapiens,MERAGVPGFSPRRSSVEAKMQSTSCSVRKSSTVTAWPAVVLLLSWGQRRGG,51
+A5A618,Uncharacterized protein YnhF,Escherichia coli (strain K12),MSTDLKFSLVTTIIVLGLIVAVGLTAALH,29
+B0R5N8,Transcriptional regulator Brz,Halobacterium salinarum (strain ATCC 29341 / DSM 671 / R1),MPITDLHCPRCGSDVKMGLPMGATVKSVTAASRQEPTSDTQKVRTVECRNDHEFFVRFEW,60
+B3A0L6,Beta-enolase,Gadus morhua,SITKIKAREIL,11
+B3EWC6,Acid phosphatase,Schizophyllum commune,NAPWAQIDEV,10
+B3EWI2,Allatostatin-A1,Delia radicum,ARPYSFGL,8
+B3EWI3,Laccase,Agaricus placomyces,DVIGPQAQVTLANQD,15
+B3EWJ4,Allatostatin-A3,Delia radicum,VERYAFGL,8
+B3EWJ5,Allatostatin-C1,Delia radicum,QVRYRQCYFNPISCF,15
+B3EWJ7,FMRFamide-like neuropeptide GDNFMRF-amide,Delia radicum,GDNFMRF,7
+B3EWJ8,FMRFamide-like neuropeptide GQDFMRF-amide,Delia radicum,GQDFMRF,7
+B3EWJ9,FMRFamide-like neuropeptide PDNFMRF-amide,Delia radicum,PDNFMRF,7
+B3EWK1,FMRFamide-like neuropeptide PGQDFMRF-amide,Delia radicum,PGQDFMRF,8
+B3EWK2,FMRFamide-like neuropeptide APGQDFMRF-amide,Delia radicum,APGQDFMRF,9
+B3EWK3,FMRFamide-like neuropeptide TPGQDFMRF-amide,Delia radicum,TPGQDFMRF,9
+B3EWK4,FMRFamide-like neuropeptide SAPGQDFMRF-amide,Delia radicum,SAPGQDFMRF,10
+B3EWK5,FMRFamide-like neuropeptide LPEQDFMRF-amide,Delia radicum,LPEQDFMRF,9
+B3EWK6,Seminal plasma protein PDC-109,Bos indicus,DQDEGVSTEPTQVGPAELHNDETCVGPLVYRN,32
+B3EWK8,FMRFamide-like neuropeptide SAQGQDFMRF-amide,Delia radicum,SAQGQDFMRF,10
+B3EWL0,Leucokinin-like peptide,Delia radicum,NSVVLGKKQRFHSWG,15
+B3EWL1,CAPA-Pyrokinin,Delia radicum,AGPSATTGVWFGPRL,15
+B3EWL4,CAPA-Periviscerokinin-2,Delia radicum,AGLFAQPRL,9
+B3EWL5,HUG-Pyrokinin,Delia radicum,SVQFKPRL,8
+B3EWL7,Short neuropeptide F-1,Delia radicum,AQRSPSLRLRF,11
+B3EWM7,Adipokinetic hormone,Delia radicum,QLTFSPDW,8
+B3EWM8,Neuropeptide CCHamide-1,Delia radicum,SCLEYGHSCWGAH,13
+B3EWS0,Thaumatin-like protein 1a,Manilkara zapota,ATFDIVNQCTFT,12
+B8GWS7,Cell division inhibitor SidA,Caulobacter vibrioides (strain NA1000 / CB15N),MIRVARESFALVSVIGFVWMMCTVANLVA,29
+C0HJF2,Herinase,Hericium erinaceus,VPSSFRTTITDAQLRG,16
+C0HJH0,"Endo-beta-1,4-glucanase",Aspergillus versicolor,VAAIQTVLG,9
+C0HJJ8,Alkaline serine protease,Termitomyces clypeatus,GTQTNAPWGLARLIS,15
+C0HJL9,Tannase,Bacillus subtilis,VQPPHSHGDNFYIWT,15
+C0HJW8,Phospholipase A2 homolog nigroviriditoxin acidic subunit A,Bothriechis nigroviridis,SPENCQGESQPCGCYCDAEGQGWPQDAEENGDIVCGEXTPC,41
+C0HK48,Trypsin inhibitor,Cassia leiandra,SVELDSDGEPIRNGGGLYYILPVVQGKGGGLEFAKTGSQS,40
+C0HKS0,Allatostatin-C,Agrotis ipsilon,MRRALDGPGSSSLDTRQADKRQVRFRQCYFNPISCFRK,38
+C0HLB1,"ATP synthase subunit epsilon, mitochondrial",Yarrowia lipolytica (strain CLIB 122 / E 150),MSAWMSAGFS,10
+C0HLB8,Phospholipase A2,Micrurus lemniscatus,NRNNRDWWHFADYGCYCGYGGSGTPVDELDRC,32
+C0HLL7,Glutathione S-transferase,Lactiplantibacillus plantarum,YLFVMTNRMKLLNYSFEGLPNLKKLDEIMRQHPAVKRVLEQEGAPHTLTD,50
+C0HLL8,Glutathione peroxidase,Lactiplantibacillus plantarum,TELSGAPLDLYQYRGQVLLIPQFTGLLYQKSQQEGDVVDGLPSHQFHQY,49
+C0HLN0,Protein PIGBOS1,Rattus norvegicus,MLRRLTRPQLLFAAALGVAGGMYIYQPIFEQYSRDQKELKEKVKILQESEEKRS,54
+C0HLQ4,"ATP synthase subunit beta, chloroplastic",Chattonella marina var. antiqua,METTNESLGYTDQIIGPVLD,20
+C0HLZ6,HOXB-AS3 peptide,Homo sapiens,MPVLPGTQRYPHQRRRFQAAGGGAESGKRGSEEAPGVAWSGSESGRDAATPAW,53
+C0HM83,Protein SHMOOSE,Homo sapiens,MPPCLTTWLSQLLKDNSYPLVLGPKNFGATPNKSNNHAHYYNHPNPDFPNSPHPYHPR,58
+D4GTQ1,Zinc finger mu-protein HVO_0758,Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2),MKTTRKGLRDGELEKDTYGRLTCSECGESLKKKNDPDEVFSVRICADCGREWKELR,56
+F4B8X5,DNA-binding protein 7c,Acidianus hospitalis (strain W1),MATKVKFKYKGEEKEVDISKIKKVWRVGKMISFTYDDNGKTGRGAVSEKDAPKELLEKLK,60
+G2TRP5,Cytochrome c oxidase subunit 7,Schizosaccharomyces pombe (strain 972 / ATCC 24843),MKNTIVQQQRFLQSIHKPTYLQRPGSFALVYPYYAVMAGLGLYSLYASGRVIFGKKDAF,59
+L8EBJ9,Cell division inhibitor MciZ,Bacillus subtilis (strain 168),MKVHRMPKGVVLVGKAWEIRAKLKEYGRTFQYVKDWISKP,40
+O05522,Sec-independent protein translocase protein TatAy,Bacillus subtilis (strain 168),MPIGPGSLAVIAIVALIIFGPKKLPELGKAAGDTLREFKNATKGLTSDEEEKKKEDQ,57
+O26147,DNA-directed RNA polymerase subunit Rpo10,Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H),MIPVRCLSCGKPVSAYFNEYQRRVADGEDPKDVLDDLGLKRYCCRRMLISHVETW,55
+O32025,Phosphatase RapE inhibitor,Bacillus subtilis (strain 168),MKSKLFISLSAVLIGLAFFGSMYNGEMKEASRNVTLAPTHEFLV,44
+O97373,Tsetse thrombin inhibitor,Glossina morsitans morsitans,MKFFTVLFFLLSIIYLIVAAPGEPGAPIDYDEYGDSSEEVGGTPLHEIPGIRL,53
+B0M3E4,CAPA-Periviscerokinin-1,Karoophasma botterkloofense,EAAGLIPFPRVG,12
+B2RLW9,Large ribosomal subunit protein bL36,Porphyromonas gingivalis (strain ATCC 33277 / DSM 20709 / CIP 103683 / JCM 12257 / NCTC 11834 / 2561),MKVRASVKKRTPECKIVRRKGRLYVINKKNPKYKQRQG,38
+B3A079,CAPA-Pyrokinin,Lobatophasma redelinghuysense,SSGGGDGSGMWFGPRL,16
+B3A083,Extended FMRFamide-3,Lobatophasma redelinghuysense,LPDSSFLRL,9
+B3A088,Extended FMRFamide-9,Lobatophasma redelinghuysense,GHGGASNYVRL,11
+B3A0C2,Extended FMRFamide-3,Hemilobophasma montaguense,GPSAFLRL,8
+P61298,Somatostatin-14,Alligator mississippiensis,AGCKNFFWKTFTSC,14
+P61850,Neomyosuppressin,Sarcophaga bullata,TDVDHVFLRF,10
+P61901,"Cytochrome c oxidase subunit 6A2, mitochondrial",Ovis aries,ASAAKGEHGGXGAATLRFL,19
+P61903,"Cytochrome c oxidase subunit 6A1, mitochondrial",Ovis aries,SGGAHGEEGSARMXKALTYF,20
+P61905,"Cytochrome c oxidase subunit 8A, mitochondrial",Canis lupus familiaris,IHSKPPREQL,10
+P62809,Cyclic phosphodiesterase,Triticum aestivum,AAHGGPPFEPHATVVGAVAAAAAADVAPYTATTPYMPHVSLLYGDLTDEEK,51
+P62864,Small ribosomal subunit protein eS30,Rattus norvegicus,KVHGSLARAGKVRGQTPKVAKQEKKKKKTGRAKRRMQYNRRFVNVVPTFGKKKGPNANS,59
+P82153,Cydiastatin-2,Cydia pomonella,AYSYVSEYKRLPVYNFGL,18
+P82156,Cydiastatin-5,Cydia pomonella,ARGYDFGL,8
+P82157,Cydiastatin-6,Cydia pomonella,LPLYNFGL,8
+P82158,Cydiastatin-7,Cydia pomonella,KMYDFGL,7
+P82168,Cuticle protein 4.9,Locusta migratoria,AVYVASPYAAGYGYAYPYAAAAYRAAPVVGAYAAYPYGVATYPYYY,46
+P82210,"Myosin heavy chain, muscle",Bombyx mori,SKYESEGVARSEELQEVHQAFADAGRKPI,29
+P82256,Capsid protein VP1/VP2,Infectious hypodermal and hematopoietic necrosis virus (strain Hawaii),DAHNEDEEHAEGS,13
+P82288,"Endo-1,6-beta-glucanase",Acremonium sp,WLSGVDKIRGVNLGSAFIIE,20
+P82298,Hemocyanin subunit 3,Homarus americanus,GVPSVSTVNVAQKQHDVNFLLFKVYI,26
+P82299,Hemocyanin subunit 4,Homarus americanus,GAYGQGQNIGQLFVNILIFLFY,22
+P82300,Hemocyanin subunit 5,Homarus americanus,GAGEALNAKRQQDVNHLLDLIYDHLHY,27
+P82301,Hemocyanin subunit 6,Homarus americanus,SPAFQAQKQAKVNDVLDKLY,20
+B3A0G5,Extended FMRFamide-9,Praedatophasma maraisi,GRGGPSNYVRL,11
+B3A0H3,CAPA-Periviscerokinin-1,Tyrannophasma gladiator,EAAGLLAFPRV,11
+B3A0H6,Extended FMRFamide-1,Tyrannophasma gladiator,AQSFVRL,7
+B3A0H8,Extended FMRFamide-3,Tyrannophasma gladiator,GPETAFFRL,9
+B3A0H9,Extended FMRFamide-4,Tyrannophasma gladiator,GVDSSFVRL,9
+B3A0I3,Extended FMRFamide-9,Tyrannophasma gladiator,GRGASSNYVRL,11
+B3A0I5,Extended FMRFamide-12,Tyrannophasma gladiator,SPVPEDDRGDNFVRL,15
+B3A0I9,Pyrokinin-4,Tyrannophasma gladiator,AELPQGLWVRPRL,13
+B3A0J3,CAPA-Periviscerokinin-1,Pachyphasma brandbergense,EAAGLLAFPRT,11
+B3A0K4,Extended FMRFamide-12,Pachyphasma brandbergense,SPALADEHNDNFLRF,15
+B3A0N8,Serine protease inhibitor 1,Melanoplus sanguinipes,EQQCTPGQTKKEDCNNCTSGD,21
+B3A0N9,Serine protease inhibitor 2,Melanoplus sanguinipes,EISCEPGTTFQDKCNTCRCGKDGKSAAGCTLKACPQ,36
+B3EWG7,Peroxidase,Pleurotus pulmonarius,ADNPGDDGN,9
+B3EWI0,Galactose-binding lectin-2,Aplysia kurodai,VLYQAVNVFSMDVIDVNSAAPKTCD,25
+B3EWK7,Activity-dependent peptide,Helix pomatia,GSGASGSMPATTS,13
+B3EWK9,Neuropeptide Y-amide,Delia radicum,LPSIGHYY,8
+B3EWM9,APK peptide,Delia radicum,SVAALAAQGLLYNAPK,16
+B3EWN4,2S seed storage-like protein,Ricinus communis,QDYCAQEGQQEVQRKDLSDLERYLRQSRQR,30
+B9XEI9,Prokaryotic ubiquitin-like protein UBact,Pedosphaera parvula (strain Ellin514),MPDQAQKTRPVGPGPSGGGEGPGSPKVEKPNTEELLKRMRKVDPDQAKRYRQRTGQ,56
+C0HJA6,Odorant-binding protein 2,Oryctolagus cuniculus,VDPAQVSGSWRTAAIASD,18
+C0HJA7,Odorant-binding protein 1,Oryctolagus cuniculus,EQLIELVGPWKTVYIVHFNGET,22
+C0HJC5,Serum albumin,Duttaphrynus melanostictus,EAEPHSRI,8
+C0HJC7,Pregnancy-associated glycoprotein 62A,Dama dama,YQKSSPGSNITT,12
+C0HJC8,Pregnancy-associated glycoprotein 56B,Dama dama,YQTSSPGSNITIGPL,15
+C0HJC9,Pregnancy-associated glycoprotein 39C,Dama dama,DVGPSTLANN,10
+C0HJD0,Pregnancy-associated glycoprotein 56D,Dama dama,SLRKMHALGET,11
+C0HJD2,Serum albumin,Dama dama,DTHKSEIAHR,10
+C0HJE2,Glucoamylase,Bacillus licheniformis,SSNKLTTSWG,10
+C0HJE3,Dextranase,Bacillus licheniformis,AYTVTLYLQG,10
+C0HJE4,Alpha-amylase,Cytobacillus firmus,MLVGKKVQTF,10
+C0HJF1,Echinometrin,Echinometra lucunter,LRKLMLQR,8
+P28642,Photosystem II reaction center protein K,Pisum sativum,MLNIFSLVCICINSALYSSSFFLGKLPEAYAFLNPIVDFMPVIPLL,46
+P29116,Chitinase 47 kDa,Streptomyces olivaceoviridis,AGSKVVGYFTEWGTYDRKYYVKNIEXS,27
+P29177,Methylated-DNA--protein-cysteine methyltransferase,Bos taurus,NPIPILTPC,9
+P29188,Putative N-acylneuraminate cytidylyltransferase,Rattus norvegicus,AGCDHSQGIYIYXXGQGNGV,20
+P29427,"Superoxide dismutase [Cu-Zn], chloroplastic",Picea abies,MTKKAVVVLWGISQVEGVVNLLQE,24
+P29428,Superoxide dismutase [Cu-Zn] 2,Picea abies,MSPLKAVAVLTGADVKGVVQFT,22
+P30258,Protamine Z3,Scyliorhinus canicula,ARSRSRRSYGRGRRRGGRRRRRRRRRRRGGRRGRRSR,37
+P30370,Cellular retinoic acid-binding protein 2,Gallus gallus,MPNFSGNWKMKSSENFEELLKALGVNMMLRKIAVAAA,37
+P30800,Alpha-2-macroglobulin homolog,Octopus vulgaris,KPSGCGEQNMINFYPNVL,18
+P30802,Galanin,Gallus gallus,GWTLNSAGYLLGPHAVDNHRSFNDKHGFT,29
+P30880,Calcitonin gene-related peptide 1,Sus scrofa,SCNTATCVTHRLAGLLSRSGGMVKSNFVPTDVGSEAF,37
+P30918,N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase,Sus scrofa,SXPLPLIVNTWPFKXATTIGMVVIHLKGYTAAGT,34
+P30942,Phycoerythrin alpha-1 chain,Rhodomonas sp. (strain CS 24),AMDKSAKAPQITIFDHRGCSRAPKSETGGTATKDDQMMVKVSQV,44
+P30948,Gonadoliberin-3,Petromyzon marinus,QHWSHDWKPG,10
+P31233,"20 kDa chaperonin, chloroplastic",Pisum sativum,ATVVAPKYTAIKPLGDRVLVK,21
+P31236,Calsequestrin-1,Canis lupus familiaris,EEGLDFPEYDGVDRVVNVNAKNYKNVFKKYEVLALLYHEPPXXDKASQRQFDMEEL,56
+P31299,Secretin,Ovis aries,HSDGTFTSELSRLRDSARLQRLLQGLV,27
+P31886,Gastrin-releasing peptide,Alligator mississippiensis,APAPSGGGSAPLAKIYPRGSHWAVGHLM,28
+P32185,3-hydroxyisobutyrate dehydrogenase,Oryctolagus cuniculus,ASKTPVGFIGLGNMGNPMAKNLMKHGYPLIIYDVF,35
+P32441,"5,10-methenyltetrahydromethanopterin hydrogenase",Methanothermobacter wolfeii,MKLAILGAGCYRTDAASGI,19
+P32560,Neurotensin,Cavia porcellus,QLYENKSRRPYIL,13
+P32903,Plasma membrane ATPase proteolipid 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MTLPGGVILVFILVGLACIAIIATIIYRKWQARQRGLQRF,40
+P33162,Alanine racemase,Pseudomonas fluorescens,MXPARALIDLQALRHNYQLAAEVIG,25
+P33889,Galactose-inhibitable lectin,Euphorbia marginata,AYPGSHISGPNGFXMDVK,18
+P34936,Superoxide dismutase [Cu-Zn],Hordeum vulgare,MXKAVAVLTGSEGVXGTIFFTQ,22
+P35090,Light-harvesting protein B-800/820 alpha chain,Rhodoblastus acidophilus,MNQGKIWTVVNPAVGLPLLLGSVAITALLVHLAVLTHTTWFPAFTQGGLKKAA,53
+P35104,Light-harvesting protein B-800-850 alpha chain D,Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),MNQGRIWTVVKPTVGLPLLLGSVAIMVFLVHFAVLTHTTWVAKFMNGKAAAIESSIKAV,59
+P35387,"Chlorophyll a-b binding protein 22, chloroplastic",Pisum sativum,LAVPGILVPEALGLGNXV,18
+P35422,Sperm-specific protein Phi-1,Mytilus californianus,PSPTRRSKSRSKSRSRSRSASAGKAAKRAKSKTAK,35
+P35490,Urotensin-2,Scyliorhinus canicula,NNFSDCFWKYCV,12
+P35808,Adipokinetic prohormone type 2,Schistocerca gregaria,QLNFSTGWGRRYADPNADPMAFLTKLIQIEARKLSGCSN,39
+P35902,Arylalkyl acylamidase,Pseudomonas putida,TRRTAFLFDELSLWHSASQYALILPVGG,28
+P36215,"Superoxide dismutase [Mn], mitochondrial",Aquarana catesbeiana,KHTLPDLPYDFGALQPHISAEIM,23
+P36232,"Phosphoglycerate kinase, chloroplastic",Scenedesmus fuscus,AKKSVGDLTKADLEGKRVFVRADLNVPLDKEQKXTD,36
+P36885,Sulfakinin-1,Periplaneta americana,EQFDDYGHMRF,11
+P37154,Alpha-lactalbumin,Felis catus,KQFTKCELSQVLKDMDGYGGIALP,24
+P38027,Alpha-1-antiproteinase,Notamacropus eugenii,EELPDSKDRAXPLSASKXISPYMKEAIPMSIPPVIDFNKPFLIIXY,46
+P38031,Alpha-1-antiproteinase 4,Equus caballus,EDLQGTAVQERSAKASDEEEAIRTLLLTNVEFNRPFVLSIYDR,43
+P38383,Protein translocase subunit SecE,Thermus thermophilus (strain ATCC 27634 / DSM 579 / HB8),MFARLIRYFQEARAELARVTWPTREQVVEGTQAILLFTLAFMVILGLYDTVFRFLIGLLR,60
+P40765,Coatomer subunit alpha,Canis lupus familiaris,MLTKFETKSARVKGLSFHPKRPWILTSLHNGVIQL,35
+P41522,Insulin,Anguilla anguilla,DVEPLLGFLSPKSGQENEVDDFPYKGQGELXXGIVEQCCHKPCNIFDLQNYCN,53
+P41839,Callatostatin-1,Calliphora vomitoria,DPLNEERRANRYGFGL,16
+P41841,Callatostatin-5,Calliphora vomitoria,GPPYDFGM,8
+P42048,Photosystem I reaction center subunit III,Cucumis sativus,DISGLTPCKESKQFXKREKQQXKXLE,26
+P42365,Thiol peroxidase,Streptococcus pneumoniae,MTTFLGNPVTFTGSQLQVGDTAHDFSLTTPNLEKKSLADFAGKKKVLSVI,50
+P42692,Somatoliberin,Cyprinus carpio,HADGMFNKAYRKALGQLSARKYLHTLMAKRVGGGSMIEDDNEPLS,45
+P42706,Thrombopoietin,Sus scrofa,SPAPPACDPRLLNKLLRDDHVLHGRL,26
+P42992,Vasotocin-neurophysin VT,Sclerophrys regularis,CYIQNCPRGGKRSYPDTAVPQCIPCGP,27
+P42993,Isotocin,Cyprinus carpio,CYISNCPIG,9
+P42994,Glumitocin,Raja clavata,CYISNCPQG,9
+P42995,Seritocin,Sclerophrys regularis,CYIQSCPIG,9
+P42996,Asvatocin,Scyliorhinus canicula,CYINNCPVG,9
+P42997,Phasvatocin,Scyliorhinus canicula,CYFNNCPVG,9
+P42998,Annetocin,Eisenia fetida,CFVRNCPTG,9
+P43511,Pheromone biosynthesis-activating neuropeptide,Lymantria dispar,LADDMPATMADQEVYRPEPEQIDSRNKYFSPRL,33
+P43649,Stanniocalcin,Oncorhynchus nerka,FSPNSPSDVARCLNGALDVGCGTFACLENSTCDTDGMHDI,40
+P46380,3-dehydroquinate dehydratase,Amycolatopsis methanolica,MKVFVLNGPNLGRLGKREPA,20
+Q9S8T1,Agglutinin beta-1 chain,Artocarpus tonkinensis,KQRSGESQNIIVGSWGAKVS,20
+Q9SKE0,"Succinate dehydrogenase subunit 8, mitochondrial",Arabidopsis thaliana,MIYRKWSLLSGPPVILGGAVIAAVAVGFVLQNVTKGEQKKNVSTNK,46
+Q9TRZ8,"Cytochrome c oxidase subunit 7A1, mitochondrial",Canis lupus familiaris,FENKVAEKQKLFQADNGLPVXLK,23
+Q9URB1,Manganese peroxidase H5,Phanerodontia chrysosporium,AVXHPGTXVSXAAXXXFIPL,20
+Q9XJR8,Peptidoglycan hydrolase P7,Pseudoalteromonas phage PM2,MINKTTIKTVLITLGVLAAVNKVSALRSVKRLIS,34
+V5IM60,Large ribosomal subunit protein bL33m,Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987),MAKKAKSRIINVRLISMAMTGYFYTFTRPRTSLPMSMLKYDPIVRRKVLFLEQKRKGRS,59
+A5A617,Uncharacterized protein YdgU,Escherichia coli (strain K12),MVGRYRFEFILIILILCALITARFYLS,27
+A5A621,Uncharacterized protein YpfM,Escherichia coli (strain K12),MIERELGNWKDFIEVMLRK,19
+A8DYQ1,Uncharacterized protein YthA,Escherichia coli (strain K12),MIKNFIFDNLIILAVPFMIKTSLKTNLIFFFLCVFVPHMAS,41
+B0M3B4,Extended FMRFamide-10,Striatophasma naukluftense,PVPDSSFLRDP,11
+B0M3C7,Extended FMRFamide-2,Mantophasma kudubergense,ADYLQLARA,9
+B0M3D4,Extended FMRFamide-10,Mantophasma kudubergense,PAASESGFRRDP,12
+B0U7C5,Extended FMRFamide-10,Karoophasma botterkloofense,PAPESSFIRDP,11
+B3A082,Extended FMRFamide-2,Lobatophasma redelinghuysense,SDYLQLARG,9
+B3A0E0,Extended FMRFamide-2,Austrophasma gansbaaiense,PDYLQLARA,9
+B3A0E7,Extended FMRFamide-10,Austrophasma gansbaaiense,PAPETNYLRDP,11
+B3A0H7,Extended FMRFamide-2,Tyrannophasma gladiator,ADYLRLARA,9
+B3A0I4,Extended FMRFamide-10,Tyrannophasma gladiator,PASDSGFLRDP,11
+B3EWP9,Non-specific lipid-transfer protein,Foeniculum vulgare,AITXGQVTSKLG,12
+C0HJD1,Alpha-2-HS-glycoprotein,Dama dama,IPLDTIAGYKE,11
+C0HJJ9,Peptide 9797,Tityus serrulatus,AENRERVMVQ,10
+C0HM37,Alpha-amylase inhibitor 1,Dolomiaea costus,SWCDPATLKYVSGITGCRAMVKLQCL,26
+C0HMC4,Protocetin subunit alpha,Protobothrops mucrosquamatus,DTPSDWSXFTRYTYK,15
+C1P612,Uncharacterized protein YqcG,Escherichia coli (strain K12),MSEENKENGFNHVKTFTKIIFIFSVLVFNDNEYKITDAAVNLFIQI,46
+H2A0N0,Uncharacterized shell protein 5,Margaritifera margaritifera,MYDTWFVLTAVVLFVLVLIGNVHGYPPWAWSGFMGSKWYNSWGPWAWRGWDDDWFDD,57
+P01207,Melanotropin beta,Squalus acanthias,DGDDYKFGHFRWSVPL,16
+P01358,Gastric juice peptide 1,Homo sapiens,LAAGKVEDSD,10
+P02865,Omega-gliadin,Triticum monococcum,ARQLNPSDQELQSPQQLYPQQPYPQQPY,28
+P04576,Myo-inositol-binding protein,Pseudomonas sp,DMKIGVSMSQFDDTHLTYLQQSMDEKAKSYPDGVVLL,37
+P06294,Galactose oxidase inhibitor,Gibberella zeae,AGQNTES,7
+P09037,Crinia-angiotensin-2,Crinia georgiana,APGDRIYVHPF,11
+P0C5P3,Uncharacterized protein YKL145W-A,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MGHLVLVRHYVLVLLLIELMQLLLGSLGLS,30
+P0C5Q3,Uncharacterized protein YMR013C-A,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MWAGILEILSAFIRILFKLLYCWALFFTVLKGFSRGPLLPLIYLINKSL,49
+P0C6P4,65 kDa membrane protein,Staphylococcus aureus,AAKPLDKSSSSLHHGYSKVHVP,22
+P0CAR6,Long neurotoxin F1,Micrurus pyrrhocryptus,LICYVSXDXEXAAAPP,16
+P0DPN0,Protein YahV,Escherichia coli (strain K12),MCDILLNVLNIVFIGIAIILVIIC,24
+P0DPN1,Protein YkiC,Escherichia coli (strain K12),MNYKAFTQIAIDLLSAKLCNCTQAIMTHIIASFLAFMFF,39
+P0DPN4,Protein YldA,Escherichia coli (strain K12),MAEAFYILIGFLIMAAIIVMAVLYLENHS,29
+P0DPO1,Protein YmiC,Escherichia coli (strain K12),MINTNMKYWSWMGAFSLSMLFWAELLWIITH,31
+P0DPO4,Protein YnaM,Escherichia coli (strain K12),MNSILIITSLLIIFSIFSHALIKLGIGISNNPDKTDV,37
+P0DPP0,Protein YnfS,Escherichia coli (strain K12),MNNPVCLDDWLIGFKSLCCTLAVIALLII,29
+P0DPP7,Protein YqiD,Escherichia coli (strain K12),MFIAWYWIVLIALVVVGYFLHLKRYCRAFRQDRDALLEARNKYLNSTREETAEKVE,56
+P0DQY4,Conopeptide Vi002,Conus virgo,LSSGATALSGVPRLTKPAGRLTTTTVAVAF,30
+P0DQY5,Conopeptide Vi003,Conus virgo,NTESTKGESLLGK,13
+P0DRD9,Cryptide TyPep-2,Tityus serrulatus,GCDALLSGDHGGLISANGC,19
+P0DRF9,Cryptide Pep-14,Tityus obscurus,VYWLPAVLGSLLGFTP,16
+P0DRG1,Cryptide Pep-16,Tityus obscurus,PHWLFFGVSVLC,12
+P0DSF4,Putative zinc-binding protein YnfU,Escherichia coli (strain K12),MSERKNSKSRRNYLVKCSCPNCTQESEHSFSRVQKGALLICPHCNKVFQTNLKAVA,56
+P0DSF8,Protein YodE,Escherichia coli (strain K12),MGNDAFKLSSADRGDITINNESGHLIVNTAILSGDIVTLRGGEIRLVL,48
+P11735,Cuticle protein 30,Locusta migratoria,GLLGLGYGGY,10
+P11737,Cuticle protein 36,Locusta migratoria,GGPAAYSXYXNGADFGAVGEXLGSXSKGL,29
+P13268,Sex pheromone CAD1,Enterococcus faecalis,LFSLVLAG,8
+P13269,Sex pheromone cPD1,Enterococcus faecalis,FLVMFLSG,8
+P13722,Alanine carboxypeptidase,Geobacillus stearothermophilus,KAWFVLSMRAVGGLFVDLWTSVAKTVKGWL,30
+P15534,S-crystallin 3,Nototodarus gouldi,PAPNYTLYYFNGRGRAEILRMLFAAAGQKFNDKXXEFN,38
+P18691,Angiotensin-converting enzyme inhibitor,Thunnus albacares,PTHIKWGD,8
+P19574,Fructose 5-dehydrogenase [NADP(+)],Erwinia citreus,AEQQNFLSDLTGSFSSPCNENPTVAMMXISYXXQXIWAS,39
+P20104,Sex pheromone cCF10,Enterococcus faecalis,LVTLVFV,7
+P20139,Pepsin-1,Thunnus orientalis,LLQVPLEKGQSAREYLQEQGLWEQYRLKYPYNPMAKFDPSFAVAGEPMTNDADLAYYG,58
+P20242,39 kDa major outer membrane protein,Aggregatibacter actinomycetemcomitans,VKVYNQFGTKVELGVSMRIF,20
+P23063,Glucagon-like peptide,Hydrolagus colliei,HADGIYTSDVASLTDYLKSKRFVESLSNYNKRQNDRRM,38
+P23320,Photosystem I 4.8 kDa protein,Thermostichus vulcanus,ATKSAKPTYAFRTFXAVLLLAINFLVAAY,29
+P29009,Uncharacterized protein YdfB,Escherichia coli (strain K12),MDFDTIMEKAYEEYFEGLAEGEEALSFSEFKQALSSSAKSNG,42
+P33404,Cysteine proteinase,Trichomonas vaginalis,GADDSDWRKKGAVNVIXKDQGQ,22
+P46366,Benzaldehyde dehydrogenase [NAD(+)] II,Acinetobacter guillouiae,SIFTKELWDKKLFNGSWQSAQDTYSVIEVATGXVLGEIGYATAQ,44
+P55224,Fimbrin sef21,Salmonella enteritidis,ADPTPVSVSGGTIHFEGKLVNAAAXVSXXSAD,32
+P80072,Maltase,Bacillus thermoamyloliquefaciens,MKKAWWKEGVVYQIY,15
+P80149,Proline-rich protein,Mycobacterium bovis (strain BCG / Pasteur 1173P2),TPPXEXPPPPQXVXL,15
+P80501,Unidentified mitochondrial matrix protein,Solanum tuberosum,ASNVPKELVEKGQNRV,16
+P80510,Cytochrome c3 hydrogenase small chain,Acidithiobacillus ferrooxidans,ANVLWLQGGAXSGNTMSFLNAEEPSAXDLVTDFGINVLXQ,40
+P80578,Pedin,Hydra vulgaris,EELRPEVLPDVSE,13
+P80580,Maleylpyruvate isomerase,Klebsiella pneumoniae,MKLYSFFNXRA,11
+P80693,Major exported protein,Pseudomonas syringae pv. ribicola,ATPAYMSITGTKQGLITAGAFTADSVGNTYQEGFEDQVMVQGFDPAVIIPTGPVYGQ,57
+P80694,Phosphate starvation-inducible protein 1,Pseudomonas fluorescens,AVDAKLLDMLKANGQISASQYTELQAELAKDQKEKQIAQ,39
+P81000,Gas vesicle protein C,Spirulina sp. (strain CCAP 1475/10),ALQDDWQQSHLERRQVLAESQKQIQATIGALXXERQXXA,39
+P81095,Cold shock protein CSI5,Bacillus subtilis,MRNIKVKPFLN,11
+P81285,Antennal odorant-binding protein,Mamestra brassicae,EDKYTDKYDNINLDE,15
+P81496,Allergen C-C,Triticum aestivum,SFREQCVPGREITYECLNACAEYAVRQ,27
+P81622,Cold shock protein CspSt,Streptococcus thermophilus,KNGTVKWFNAEKGFGFITSED,21
+P81671,ATP-dependent Clp protease ATP-binding subunit ClpA homolog,Pinus pinaster,AESEAGDASPLVTEVLIGSPPGYVGYTEGG,30
+P81672,Heat shock 70 kDa protein,Pinus pinaster,VEIIANDQGNR,11
+P81758,Putative esterase/lipase,Lacticaseibacillus casei,SIITDVLAXE,10
+P81778,Thylakoid lumenal 17.4 kDa protein,Spinacia oleracea,ANQRLPPLSNDPDRCERAFVGNT,23
+P81870,Putative alpha-amylase inhibitor,Phaseolus vulgaris,XXXGLXIVDAFVQPNLILQGDAKVEDNGXL,30
+P82257,Allergen Asp fl 1,Aspergillus flavus,TPSQCTAAQANKCCTGLTNGILNLNVLPALNP,32
+P82258,Allergen Asp fl 2,Aspergillus flavus,FDKNQPWGVIRDLNVVNFKR,20
+P82259,Allergen Asp fl 3,Aspergillus flavus,DSGGLTPPHADCVPGKXQXNGNYGAVPNKKQQ,32
+P82322,Unknown protein from spot 103 of 2D-PAGE of thylakoid,Pisum sativum,FKGGGPYGQGVTRG,14
+P82323,Unknown protein from spot 104 of 2D-PAGE of thylakoid,Pisum sativum,AILEADDDVELLEGYLKDWEAFVSSAAAFEK,31
+P82324,Unknown protein from spot 105 of 2D-PAGE of thylakoid,Pisum sativum,SVVAAYMV,8
+P82325,Unknown protein from spot 106 of 2D-PAGE of thylakoid,Pisum sativum,AKAGVNKPELLP,12
+P82326,Unknown protein from spot 107 of 2D-PAGE of thylakoid,Pisum sativum,ATQRLPPLSTEPNR,14
+P82327,Unknown protein from spot 108 of 2D-PAGE of thylakoid,Pisum sativum,VVKQGLLAGRIPGL,14
+P82328,Unknown protein from spot 110 of 2D-PAGE of thylakoid,Pisum sativum,AGLPTEEKPPLL,12
+P82329,Unknown protein from spot 111 of 2D-PAGE of thylakoid,Pisum sativum,RDVAVGSFLPPS,12
+P82330,Unknown protein from spot 112 of 2D-PAGE of thylakoid,Pisum sativum,ATKGSSDNRVLTGV,14
+P82331,Unknown protein from spot 114 of 2D-PAGE of thylakoid,Pisum sativum,EQQQQQQPQNRRFRE,15
+P82332,Unknown protein from spot 115 of 2D-PAGE of thylakoid,Pisum sativum,SPTEQPYSSAAPLI,14
+P82333,Unknown protein from spot 118 of 2D-PAGE of thylakoid,Pisum sativum,EEQEQEQEQDTKMA,14
+P82335,Unknown protein from spot 119 of 2D-PAGE of thylakoid,Pisum sativum,AAQEGETLTVEETV,14
+P09865,Bdellin B-3,Hirudo medicinalis,DTECVCTKELHRVCGSDGVTYDNECLATCHGASVAHDHACEGHEEHHVDEHGEDHD,56
+P0A3Y1,Cytochrome b6-f complex subunit 7,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),MSGELLNAALLSFGLIFVGWALGALLLKIQGAEE,34
+P0A427,Photosystem I reaction center subunit VIII,Thermosynechococcus vestitus (strain NIES-2133 / IAM M-273 / BP-1),MMGSYAASFLPWIFIPVVCWLMPTVVMGLLFLYIEGEA,38
+P0AD92,trp operon leader peptide,Escherichia coli (strain K12),MKAIFVLKGWWRTS,14
+P0C029,Photosystem I reaction center subunit Z,Gloeobacter violaceus (strain ATCC 29082 / PCC 7421),MQSYNVFPALVIITTLVVPFMAAAALLFIIERDPS,35
+P0C065,Large ribosomal subunit protein bL25,Anabaena variabilis,ALTVETKKRPIGSKPXALRRVGFILNXAPY,30
+P0C228,Gastrin,Macropus giganteus,QLHPQDLPHLMTDLSKKKGPWQEEDAAYGWMDF,33
+P0C229,Cholecystokinin,Macropus giganteus,DYMGWMDF,8
+P0C2M4,Cationic protein C1,Bunodosoma caissarum,GLRDFNVAVRASNGKYWTRRPESGTLV,27
+P0C2S2,Endoglucanase A,Acetivibrio thermocellus,AGVPFNTKTPYGPT,14
+P0C737,Protein BNLF2a,Epstein-Barr virus (strain AG876),MVHVLERALLEQQSSACGLPGSSTETRPSHPCPEDPDVSRLRLLLVVLCVLFGLLCLLLI,60
+P0C7I2,IgA-inducing protein,Bos taurus,MKKRSVSGCNITILAVVFSHLSAGNSPCGNQANVLCISRLEFVQYQS,47
+P0C7K5,Poly-His-poly-Gly peptide 1,Atheris chlorechis,EDDHHHHHHHHHGVGGGGGGGGGG,24
+P0C7S8,Bradykinin-potentiating peptide S,Lycosa erythrognatha,QAPWPDTISPP,11
+P0C8W6,Pape peptide,Tityus stigmurus,KQLLKEALAPEPAPKPAPEPAPEPAPEPAPEAAPEPAAAAPEAAPE,46
+P0C8W7,Peptide 1196,Tityus stigmurus,KIKETNA,7
+P0C8W8,Peptide 2699,Tityus stigmurus,KPAPEPAPEPAPEAAPEA,18
+P0C8W9,Peptide 4913,Tityus stigmurus,GKFGKCKPSIXATCQ,15
+P0C8X0,Peptide 7629,Tityus stigmurus,TKCPTCQNDTCSNKI,15
+P0C8X1,Peptide 9797,Tityus stigmurus,AENRERVMVQGEEENTKELTGIEFENGFISCMQN,34
+P0CAP8,Inorganic pyrophosphatase,Pseudanabaena galeata (strain PCC 6901),MDLSRIPPQPKAGILNVLIEIPAGS,25
+P0CAS8,Phospholipase A2 homolog A1,Micrurus pyrrhocryptus,NFKQIIKMIQCTNTRPWXNFLDYGCY,26
+P0CB62,Protein YmiA,Escherichia coli (strain K12),MRLAMPSGNQEPRRDPELKRKAWLAVFLGSALFWVVVALLIWKVWG,46
+P0CH75,Kunitz-type serine protease inhibitor hainantoxin F7-25.66,Cyriopagopus hainanus,IDTCRLPSDRGRCKASFERWYFNGRTCAKFIYG,33
+P0CH88,Venom protease,Bombus terrestris,VVGGKPAKLGAWPWMVALGF,20
+P0CH89,Hyaluronidase,Vespula maculifrons,DRCIWPKEGFSIYWNIPTHFCHNFGVYFKEL,31
+P0CT85,Feruloyl esterase A,Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006),ASTQGISEDLYNRLVEMATIIQAAYADLAIYNAQTDINGASGNQAFASY,49
+P0DJZ4,Structural protein ORF5a,Porcine reproductive and respiratory syndrome virus (strain Lelystad),MFSQIGAFLDSALLLLVAFFAVYRLVLVLCRWQRRQLDIPIHI,43
+P81422,"Catechol 1,2-dioxygenase",Acinetobacter radioresistens,TAANVKIFNTEEVQNFINLL,20
+P81424,71 kDa F-actin-binding protein,Tetrahymena pyriformis,MFFKIDLKNHPYLIRLKKQEE,21
+P81440,3-phytase B,Aspergillus ficuum,RDPTGCEVDQVIMVKRHGERYPSPSAGK,28
+P81471,Apolipophorin-3,Diatraea grandiosella,DAPSTTPPQDXEKKAAEFQKTFTEQXNQLANK,32
+P81495,Membrane alanyl aminopeptidase,Bombyx mori,DPAFRLPTTTRPRHYQAAIPDFSAGA,26
+P81527,Superoxide dismutase [Fe],Photobacterium damsela subsp. piscicida,AFELPALPYAKDALEPHISA,20
+P81530,L-dopachrome-methyl ester tautomerase,Trichuris muris,PIFTFASNVPADTITGFFL,19
+P81540,Ambineela,Acidianus ambivalens,MKKIVIVGGGIAGMGIANTLADKLKGKAEITVINKEDFYFAGPSRXIL,48
+P81551,Repressor-like protein SSo7c3,Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2),MPVEEVVKVSRNYQVTIPAKVRQKFPVKEGDLVKVIYDENGGVVKIQILDSP,52
+P81585,Cuticle protein CP434,Cancer pagurus,ALVGPSGMILADGTPVQFPAHAKPVLTGPSGIVFSNGQNIQLH,43
+P81588,Cuticle protein CP498,Cancer pagurus,AAPSKATVGESGIITPGGRLIQLPHGVSIILEGPSAALLSNGDFVTYESS,50
+P81589,Cuticle protein CP575,Cancer pagurus,GDIIDVDNDLFEHEQDGVAGTSVHGEYEAYDAYGNEYEVKYIADHLGFRVL,51
+P81624,Acyl-CoA-binding protein 1,Digitalis lanata,ALKDEFEEHAEKAKTLPENTSNENKLILYG,30
+P81625,Acyl-CoA-binding protein 2,Digitalis lanata,ALKEEFEEHAEKAKTLPENTSSENKLTLYGLYKQATVGNV,40
+P81627,Juvenile hormone-binding protein,Bombyx mori,DGDALLKPCKLGDMQKLSSA,20
+P81629,Endoplasmic reticulum resident protein 29,Trichosurus vulpecula,LHTKGSVPLDTITFYKVIPKHKFVLVKFDTQY,32
+P81638,Ferredoxin,Pyrococcus woesei,MKVKVDADACIGCGVCVELCP,21
+P81647,Odorant-binding protein 1,Hystrix cristata,EVVRSNNFDPSKLSGKWYSILLASDRKE,28
+P81648,Odorant-binding protein 2,Hystrix cristata,EHIDYSQVSGDWHSLSIAADSMDKIRENGELRMHLNHL,38
+P81664,Phosphoribulokinase,Pinus pinaster,ANNFDLMYEQVKFYGEVTQQMLKVSVLEMDGQFDR,35
+P81665,Oxygen-evolving enhancer protein 1,Pinus pinaster,LTYDEIQSKGGSTGYDNAVALPAGGR,26
+P81666,"Triosephosphate isomerase, cytosolic",Pinus pinaster,TFDVCYEQLFFVGGNWK,17
+P81669,Putative beta-galactosidase,Pinus pinaster,VNIGVNYGMLGNSYPTGPETERHFGLNPDTLHVVRHAQGFHNLA,44
+P81720,Protease 2 large chain,Achromobacter lyticus,NDGNGRDSDPHDPGDWTTAGQCGLWQPARNSQHWTLV,37
+P81728,Sproutin,Rattus norvegicus,MVDLWPVSTRPRVLFRAAPSLLNSASAASMLWAELIAMAPSIPSALPPFS,50
+P81735,Tachykinin-related peptide 3,Rhyparobia maderae,NGERAPGSKKAPSGFLGTR,19
+P81736,Tachykinin-related peptide 4,Rhyparobia maderae,APSGFMGMR,9
+P81753,Tachykinin-related peptide 10,Rhyparobia maderae,SGLDSLSGATFGGNR,15
+P81786,Aldehyde dehydrogenase,Moraxella sp. (strain TAE123),MLYANPNTESSPVGFRKKYDNFI,23
+P81794,Mitochondrial import receptor subunit TOM7-2,Solanum tuberosum,AKGKNTKKFAAVVDEEGGAVTAXYXF,26
+P81796,Neurotensin,Rhinella marina,QAIVSKARRPYIL,13
+P81805,Carcinustatin-2,Carcinus maenas,EAYAFGL,7
+P81806,Carcinustatin-3,Carcinus maenas,EPYAFGL,7
+P81808,Carcinustatin-5,Carcinus maenas,NPYAFGL,7
+P81809,Carcinustatin-7,Carcinus maenas,ASPYAFGL,8
+P81813,Carcinustatin-10,Carcinus maenas,APQPYAFGL,9
+P81814,Carcinustatin-11,Carcinus maenas,ATGQYAFGL,9
+P81815,Carcinustatin-12,Carcinus maenas,PDMYAFGL,8
+P81816,Carcinustatin-13,Carcinus maenas,EYDDMYTEKRPKVYAFGL,18
+P81817,Carcinustatin-14,Carcinus maenas,YSFGL,5
+P81818,Carcinustatin-15,Carcinus maenas,AGPYSFGL,8
+P81819,Carcinustatin-16,Carcinus maenas,GGPYSYGL,8
+P81820,Carcinustatin-17,Carcinus maenas,SGQYSFGL,8
+P81821,Carcinustatin-18,Carcinus maenas,SDMYSFGL,8
+P81822,Carcinustatin-19,Carcinus maenas,APTDMYSFGL,10
+P81823,Carcinustatin-20,Carcinus maenas,GYEDEDEDRPFYALGLGKRPRTYSFGL,27
+P81833,"Thylakoid lumenal 29 kDa protein, chloroplastic",Spinacia oleracea,ADLIQRRQRSEFQSDIKGILYTVIKKNPDL,30
+P81834,Thylakoid lumenal 13.3 kDa protein,Spinacia oleracea,APLEDEDDLELLEKVKRDRKKRLERQGAIN,30
+P81869,Otoconin-90,Cavia porcellus,HALDTPHFPQELTSALSKNICITFFSGMFKNVESVAEIFDSLGPSFKQDQA,51
+P81875,Chaperone protein DnaK,Acinetobacter calcoaceticus,AKIIGIDGLTTNSWVAVLESDKVHV,25
+P81876,Chaperone protein HtpG,Acinetobacter calcoaceticus,SEXASQNYSFQAEVAQ,16
+P81879,Somatostatin-2,Piaractus mesopotamicus,GRSHMVLNSALEGARGGPGGEEIPERFSIPELQWMLSNAELAPVQADEPPQSRMDLV,57
+P81905,Inducible serine protease inhibitor 1,Galleria mellonella,DLVXGTNFXKNNPXSTRVAANSXRSPSVYRQXXXXHAKKAAXPPAVVTLL,50
+P81906,Inducible serine protease inhibitor 2,Galleria mellonella,LDPKCTLPLETGICRAELHRFGYDTKLKECTQFVYGGCHHNENNFKKLEVCR,52
+P81907,Inducible serine protease inhibitor 3,Galleria mellonella,NKTNLKQLKAEAARKKAXMQDMXTSVKVEPLXAXXNGAXRM,41
+P81987,Inorganic pyrophosphatase,Euglena gracilis,MDTKLGLVEEEAAN,14
+P81988,Inorganic pyrophosphatase,Ochromonas danica,XYAFGINGTXRI,12
+P82008,Translocation protein SEC63 homolog,Canis lupus familiaris,AGQQFQYDDSGNTFFYQMAEVFEKEQSIXAAXE,33
+P82009,Translocation protein SEC62,Canis lupus familiaris,MGHRVDYFIASKAVDXLLMKYDKDIKKEKEKGKAESGKE,39
+P82064,Fletcherin,Limnodynastes fletcheri,AGPVSKLVSGIGL,13
+P82079,Dynastin-1,Limnodynastes interioris,GLLSGLGL,8
+P82080,Dynastin-2,Limnodynastes dumerilii,GLLSSLGLNL,10
+P82081,Dynastin-3,Limnodynastes terraereginae,GLVPNLLNNLGL,12
+P82083,Dynastin-5,Limnodynastes salmini,GLISNLGI,8
+P82084,Dynastin-6,Limnodynastes salmini,GAVSGLLTNL,10
+P82085,Dynastin-7,Limnodynastes salmini,GAVSGLLTNLGL,12
+P82108,Chymotrypsin inhibitor,Mythimna unipuncta,FDESFGFQGPSTYEKTPLGEPA,22
+P82109,Trypsin inhibitor,Mythimna unipuncta,APSDTTIAETLTITEEFFPD,20
+P82122,Cuticle protein 9,Blaberus craniifer,AVVPASTVKTALAYTYPIHPYHSVYAHPHSVVIY,34
+P82126,Neuronal protein NP-190,Sus scrofa,VAHDRKFKNVQPKDXXKVPAIAVANPKEEVIVKNKDEKMADLRNVPKXDVIXK,53
+P82150,Feruloyl-CoA thioesterase,Nicotiana tabacum,PFNVGGLDKFGTLN,14
+P82152,Cydiastatin-1,Cydia pomonella,SPHYNFGL,8
+P86333,Non-specific lipid-transfer protein,Musa acuminata,ITCSKVYGDIISCVGYIKGGPIACVGYLKGGPLQQYVHN,39
+P86355,Canavanine hydrolase,Heliothis virescens,KFVPISCPMPTNRQPKSLVVNINENSVKKMPWFTNXXTYFGXT,43
+P86357,Chitinase-like protein,Heliothis virescens,VLLSVGGDADTESPEKKNLGGVSIVDLSMDDFRGLLT,37
+P86371,Pregnancy-associated glycoprotein 62,Bubalus bubalis,RGSXLTHLPLRNISD,15
+P86417,Non-specific lipid-transfer protein,Solanum lycopersicum,ATCSASQLSPCLGAI,15
+P86450,Beta-xylosidase/alpha-L-arabinofuranosidase 1,Medicago sativa,GVQRYTFDAVVSQQDTILSGLDLDCGSYLGYTSPLQGLTAFVPTS,45
+P86517,Phospholipase A2,Carcinus aestuarii,XIGAGATSKLVY,12
+P86529,Phospholipase A2 1,Daboia russelii,NLFQFGEMILEKTGKEA,17
+P86534,C-type lectin domain-containing protein 2,Daboia russelii,NQDCRPGWSFYEQNCYKVF,19
+P86542,Phospholipase A2 3,Naja naja,NLYQFKNMIQCTVPS,15
+P86549,Kunitz-type serine protease inhibitor SOTI,Spinacia oleracea,TVAACNSPKVGLDSDAELVR,20
+P86557,Tachykinin-related peptide 1,Acrosternum hilare,GPSGFLGMR,9
+P86559,Tachykinin-related peptide 3,Acrosternum hilare,GPSSGFFGMR,10
+P86561,Tachykinin-related peptide 5,Acrosternum hilare,APLMGFQGVR,10
+P86562,Tachykinin-related peptide 6,Acrosternum hilare,APSMGFMGMR,10
+P86584,Tachykinin-related peptide 3,Oncopeltus fasciatus,APSSGFFGTR,10
+P86585,Tachykinin-related peptide 4,Oncopeltus fasciatus,NPASGFFGMR,10
+P86596,Tachykinin-related peptide 3,Pyrrhocoris apterus,GPSSGFFGTR,10
+P86598,Tachykinin-related peptide 5,Pyrrhocoris apterus,APVMGFQGMR,10
+P86603,Skin secreted peptide P1-2,Phasmahyla jandaia,KPEEDWGHR,9
+P86604,Skin secreted peptide P1-3,Phasmahyla jandaia,KPEEDWGRES,10
+P68001,Pro-opiomelanocortin,Balaenoptera physalus,SYSMEHFRWGKPVGKKRRPVKVYPNGAEDESAEAFPLEF,39
+P68352,COP9 signalosome complex subunit 1,Brassica oleracea,ELEALLITDNQIQARIDSHNKILYARHADQRNATFQK,37
+P68353,COP9 signalosome complex subunit 2,Brassica oleracea,KSAVTRNYSEKKNERLWFKKNYDHAGNQRRIQKWNTQLK,39
+P68354,COP9 signalosome complex subunit 5a,Brassica oleracea,KNILTVEQPDSSSSDGIFYYDEASKRVQISALAL,34
+P68358,COP9 signalosome complex subunit 3,Brassica oleracea,KSIQGLSASPGDLSALHGKEAEMHVLQMIQDGQIHALINQKDGMVRFLEDPEQYK,55
+P68359,COP9 signalosome complex subunit 4,Brassica oleracea,KRKFLDAALRYYSISQIEKKAYLPDKSTVLDRAMIEHNNLLSASK,45
+P68396,COP9 signalosome complex subunit 8,Brassica oleracea,LWTRDYAGVYEAIRGFDWSQDAK,23
+P17338,Urease subunit beta,Morganella morganii,SNTKQPTPLGGVIFA,15
+P17339,Urease subunit gamma,Morganella morganii,MQLTPPEVEK,10
+P17350,Decorsin,Macrobdella decora,APRLPQCQGDDQEKCLCNKDECPPGQCRFPRGDADPYCE,39
+P17440,Transaldolase-1,Cyberlindnera jadinii,HGIHCBTLL,9
+P17441,Transaldolase-3,Cyberlindnera jadinii,YGIHCNTLL,9
+P17603,24 kDa flagellin,Methanospirillum hungatei,FSGLEAAIVLIAFVVVAAVFSYVMLGAGFFAT,32
+P17726,Tick anticoagulant peptide,Ornithodoros moubata,YNRLCIKPRDWIDECDSNEGGERAYFRNGKGGCDSFWICPEDHTGADYYSSYRDCFNACI,60
+P17874,Soluble hydrogenase 50 kDa subunit,Anabaena cylindrica,XEEFDYDLVIIGAG,14
+P17877,Endoglucanase 1,Ruminiclostridium josui,YDASLKPNLQIPQKNIPNNDAVNIK,25
+P17916,Broad specificity amino acid racemase,Pseudomonas putida,LTAVLKADAYGXGIGL,16
+P18144,Natriuretic peptides A,Anguilla japonica,SKSSSPCFGGKLDRIGSYSGLGCNSRK,27
+P18523,FMRFamide-like neuropeptide,Manduca sexta,QDVVHSFLRF,10
+P18638,Histone H5,Coturnix japonica,TESLVLSPAPAKPKRA,16
+P18821,Ferredoxin,Porphyridium purpureum,ATYKVRLLSEAEGIDVTIDCADDVYILDAAEE,32
+P18992,Hemoglobin subunit beta-2,Saara hardwickii,FFGDFGNISSAAAITGNPK,19
+P19095,Serum amyloid P-component,Mustelus canis,GFPGKSLIF,9
+P19371,Inorganic pyrophosphatase,Nitratidesulfovibrio vulgaris (strain ATCC 29579 / DSM 644 / CCUG 34227 / NCIMB 8303 / VKM B-1760 / Hildenborough),NYTIGNDNVLTEPLSEIKTAGLMYKMGVQ,29
+P19376,"Histone H1, sperm",Strongylocentrotus purpuratus,PASPQKRAASPRRSPKKSPRKSPKKSPRKRSASP,34
+P19500,Rubredoxin,Thermoanaerobacterium thermosaccharolyticum (strain ATCC 7956 / DSM 571 / NCIMB 9385 / NCA 3814 / NCTC 13789 / WDCM 00135 / 2032),MEKWQCTVCGYIYDPEVGDPTQNIPPGTKFEDLPDDWVCPDCGVGKDQFEKI,52
+P19589,Oxygen-evolving enhancer protein 3,Pisum sativum,EAIPIKVGGPPPLSXGLPGTLNSDEARDLKLP,32
+P19628,Carboxypeptidase B,Protopterus aethiopicus,EPTPRSFNGDKVFRV,15
+P19663,Thymidine phosphorylase,Lacticaseibacillus rhamnosus,MVKIGINEFGRIGRLAFRRIYEL,23
+P19851,Neurokinin-A,Gallus gallus,HKTDSFVGLM,10
+P19864,Cystatin WCPI-3,Wisteria floribunda,YGNTGGYTPVPDIDDIHVVEIANYAVTEYNKKSGVVAGVNYRFVLK,46
+P19865,Gamma-II crystallin,Rhizoprionodon acutus,GKITFYEDRNFQGRCYECSTDCPDLSPYFS,30
+P19916,Carbon monoxide dehydrogenase large chain,Afipia carboxydohydrogena,MGHP,4
+P19917,Carbon monoxide dehydrogenase medium chain,Afipia carboxydohydrogena,MMIPGHFDYHRPKSV,15
+P19918,Carbon monoxide dehydrogenase small chain,Afipia carboxydohydrogena,MAKA,4
+P19977,Malate dehydrogenase,Actinoplanes missouriensis,AEPNVTVTGAAGQIGYALLFRI,22
+P19981,Malate dehydrogenase,Planomonospora venezuelensis,AQTPVKVTVTGAAGQIGYALLFRI,24
+P19982,Malate dehydrogenase,Streptomyces atratus,TRTPVNVTVTGAAGQIGYALLFRIASGHLLG,31
+P19985,Juvenile hormone esterase,Manduca sexta,RIPSTEEVVVRTESG,15
+P19987,Leucokinin-5,Rhyparobia maderae,GSGFSSWG,8
+P19988,Leucokinin-6,Rhyparobia maderae,QSSFHSWG,8
+P19989,Leucokinin-7,Rhyparobia maderae,DPAFSSWG,8
+P19990,Leucokinin-8,Rhyparobia maderae,GADFYSWG,8
+P20011,Ligninase A,Trametes versicolor,VTXPDGKNTATNA,13
+P20012,Ligninase B,Trametes versicolor,VTXPDGVNTATNA,13
+P20016,NAD-specific glutamate dehydrogenase,Thunnus thynnus,CAVVDVPFGGAKAGVK,16
+P20034,Platelet-derived growth factor subunit B,Sus scrofa,SLGSPAVAEPAVIAE,15
+P20057,Hemopexin,Gallus gallus,RPLTQHKPHTPGDEHPHGAEPPGXDTALAQIXGD,34
+P20117,Photosystem I reaction center subunit II,Pisum sativum,XTEDKTDAATDVATXEAPVGFTPXELDPNTXSXIFG,36
+P20118,Photosystem I reaction center subunit IV,Pisum sativum,ASEDTAEAAAPSA,13
+P20120,Photosystem I reaction center subunit V,Pisum sativum,ELNPSLVISLSTGLSLFLGRFVFFNFQRENVAKQGLPEQ,39
+P20121,Photosystem I reaction center subunit VI,Pisum sativum,KYGDKSVYFDLEDIGNTTGQWDLYGSDAPSPYSXLQ,36
+P20404,Locustapyrokinin-1,Locusta migratoria,QDSGDGWPQQPFVPRL,16
+P20406,Probable RecBCD inhibitor gp5.9,Escherichia phage T7,MSRDLVTIPRDVWNDIQGYIDSLERENDSLKNQLMEADEYVAELEEKLNGTS,52
+P20412,Giant hemoglobin AI chain,Lamellibrachia sp.,TDCGMLQRIKVKQQWASVYSSGIAREDFGEAIWKAVFALAP,41
+P20413,Giant hemoglobin AIV chain,Lamellibrachia sp.,SGNVAEAPKHYHCSYEDADIVMREWYHVWGSG,32
+P20479,Glutamine synthetase,Phormidium lapideum,TTPQEVLSRIKDQGIKLIDLKFI,23
+P20677,Serum amyloid P-component,Pleuronectes platessa,ZPIDLMGKVFVFDKELSPBI,20
+P20728,Calotropin-DI,Calotropis gigantea,QRPEYPVWREKGAV,14
+P20734,Collagenolytic protease 36 kDa C,Paralithodes camtschaticus,IVGGSEATSGQFPYQXSFQD,20
+P20860,F7-1 fimbrial protein,Escherichia coli,XNNIVFYSLGNVNSYQGG,18
+P20900,Photosystem I reaction center subunit IV,Thermostichus vulcanus,MVQRGSKVKILRPESYVYNEVGTVAS,26
+P21140,Leucokinin-1,Rhyparobia maderae,DPAFNSWG,8
+P21141,Leucokinin-2,Rhyparobia maderae,DPGFSSWG,8
+P21142,Leucokinin-3,Rhyparobia maderae,DQGFNSWG,8
+P21143,Leucokinin-4,Rhyparobia maderae,DASFHSWG,8
+P21305,Ferredoxin,Methanothermococcus thermolithotrophicus,SVTIDYDKCKGPECAECVNACPMEVFEIQGDKVVVAKEDDCTFCMVCVDVCPTDAITVKE,60
+P21586,Rathke gland glycoprotein,Caretta caretta,SDDDGTVVLTTSGPI,15
+P21587,Rathke gland glycoprotein,Lepidochelys kempii,SDDDGTVVLTTSGPIRGKRLQVGSAAVTAF,30
+P21800,Veratryl alcohol oxidase,Pleurotus ostreatus,KPTADFDYIVVGAGNAGNVVAYRTVQAL,28
+P21833,Endoglucanase 1,Sclerotinia sclerotiorum,AXSGKLQWIGASESGAEFGQGNLPGVVGTDYTFP,34
+P21834,Endoglucanase 2,Sclerotinia sclerotiorum,NIYYAGVAESGGEFGVYSGSGTVLXXLPLTF,31
+P21843,Mast cell protease 3,Mus musculus,IIGGVESRPHSRPYMATLEIT,21
+P21983,Flagellar filament outer layer protein,Treponema phagedenis,EQATLIDFGKLNADIVPDKNGGMTQ,25
+P21986,Flagellar filament 32 kDa core protein,Spirochaeta aurantia,MIINHNMSAINANRVLGBT,19
+P21987,Flagellar filament 31.5 kDa core protein,Spirochaeta aurantia,MIINHNMSAINANRVLGBTNADITKDL,27
+P22074,Caltrin-like protein 1,Cavia porcellus,AFAPSKVDSDRPNCSRYVQHLYMCTKELDPVCGTDGHTYGNRSIF,45
+P22075,Caltrin-like protein 2,Cavia porcellus,RRLHGQAINRPGSCPRVMIYCPARHPPNKCTSDYDCPKPQKCCPGYCGKQCYQPE,55
+P22103,Pneumadin,Homo sapiens,AGEPKLDAGV,10
+P84816,Aggression-stimulating peptide,Leptodactylus fallax,GLWDDLKAAAKKVVSSLASAAIEKL,25
+P84819,Pyruvate/ketoisovalerate oxidoreductases common subunit gamma,Pyrococcus endeavori,MIEIRFHGRGGQGAV,15
+P84827,Skin secreted peptide 2,Ascaphus truei,RHHRKRIGHTIKQLAKLVKHIHEY,24
+P84828,Skin secreted peptide 3,Ascaphus truei,ILCINVAGRRIC,12
+P84829,Skin secreted peptide 4,Ascaphus truei,CHYIFNTC,8
+P84830,Skin secreted peptide 5,Ascaphus truei,ITKDFDALMKYIKRI,15
+P84846,Hemocyanin subunit 1,Necora puber,DSPAGVSDAQKQ,12
+P84847,Pseudohemocyanin,Necora puber,DEPDGVPTTQKQ,12
+P84852,Metalloproteinase inhibitor 1,Lupinus albus,IEPERQEEEEEETRQRVRRGQVRQQQQ,27
+P84855,Major urinary protein,Rattus rattus,LCVAHGITREKIEENGSMRENIIDVTKTNRVFMQHIDVLENSLGFK,46
+P84890,Trypsin inhibitor AeTI,Archidendron ellipticum,AKELLDSDGIILRNGANYYI,20
+P84913,Hemolymph clottable protein,Penaeus paulensis,LQPGLEYQYRYSARV,15
+P84951,Novel peptide 1,Pithecopus azureus,FLFFAFPHPL,10
+P84958,Hyposin-H3,Pithecopus azureus,LGPALITRKPLKGKP,15
+P84959,Novel peptide 2,Pithecopus azureus,QQGEGGPYGGLSPLRFS,17
+P84960,Novel peptide 3,Pithecopus azureus,VMYYSLPRPV,10
+P84973,Elongation factor 1-delta,Populus euphratica,LGSAPITEEAIATPPSAETKLVPVGYGIKK,30
+P84981,"Ferredoxin--NADP reductase, chloroplastic",Populus euphratica,DPNATIIMLGTGTGIAPFR,19
+P84982,Probable ATP-dependent Clp protease proteolytic subunit,Populus euphratica,IALQSPAGAARIRDYLYNELSK,22
+P84983,Glutathione S-transferase 1,Populus euphratica,VLDIYEQKLGQTRVLDIYEQK,21
+P84984,Glutathione S-transferase 2,Populus euphratica,LGKLLDVYESRLLDVYESRVLDIYESRLGKVLDIYESR,38
+P84988,"Chlorophyll a-b binding protein 1, chloroplastic",Populus euphratica,TGALLLDGNTLNYFGKIFLPDGLLDRYQAFELIHARKPEDFEKYQAFELIHAR,53
+P84990,"Chlorophyll a-b binding protein 2, chloroplastic",Populus euphratica,SAPQSIWYGPDRPKNRELEVIHSRFGEAVWFK,32
+P85030,U18-ctenitoxin-Co1b,Ctenus ornatus,ITFSKIYRSCKSNSVCGNQKCVRGRCV,27
+P85042,BPTI-like protein,Daboia siamensis,FGTYGHPRPRFYYNP,15
+P85067,Ovarian jelly-peptide 1,Sepia officinalis,DQVKIVL,7
+P85080,Dextransucrase,Leuconostoc mesenteroides,DSTNTV,6
+P85087,Glutamine synthetase,Vitis sp.,TLSGPVSDPAKNDGGFEVIKKHKEHIAAYGEGNERHETADINTFLWGVANR,51
+P85089,Dextransucrase 2,Leuconostoc mesenteroides,DSTNY,5
+P85093,Very early lactation protein,Trichosurus vulpecula,DVNELNDVEERRAVVPQVWEIDIMITKHNDEIIQIEER,38
+P85099,Cysteine-rich venom protein,Philodryas patagoniensis,VDFDSESPRRPEIQ,14
+P85110,S-layer protein 2,Bacillus thuringiensis subsp. konkukian,LDTDLQGTMPEVYASERAAFL,21
+P85122,S-layer protein 1,Bacillus thuringiensis subsp. konkukian,SATVELYSNLAAKGLAVEFTSTSLKAALLNILSVDGVPATTAK,43
+P85217,Cystathionine beta lyase,Papiliotrema laurentii,HDVYGGDYRITGDDGHS,17
+P85218,Endoglucanase 1,Hypocrea rufa,SYPNKQPYGPSGFWM,15
+P85236,U20-ctenitoxin-Co1a,Ctenus ornatus,GFCAEAGIKCNDIHCCGNLKCKAVGSNRV,29
+P85237,U22-ctenitoxin-Co1a,Ctenus ornatus,EWCGTNSDCGEGECCTGGSFNRH,23
+P85293,Expansin-B,Paspalum notatum,GPPKVAPGKXISASFGGEWL,20
+P85296,Polymeric immunoglobulin receptor,Capra hircus,YGETAAVYVAVESR,14
+P85297,Lactadherin,Capra hircus,DFGHIQYVAAYR,12
+P85303,"Photosystem II stability/assembly factor HCF136, chloroplastic",Spinacia oleracea,EDSLSDWERVYLPIDPGVVL,20
+P85307,Flagellin,Bacillus cereus,MRINTNINSM,10
+P85311,Hemoglobin subunit beta-C,Pantosteus clarkii,VEWSDSERKTLVSVWGKI,18
+P85320,Pregnancy-associated glycoprotein 55B,Bison bonasus,RGSNLTHPL,9
+P85321,Pregnancy-associated glycoprotein 50C,Bison bonasus,SQISLRGSNLTI,12
+P85323,Pregnancy-associated glycoprotein 55E,Bison bonasus,RGSNLTHPLRNI,12
+P85324,Pregnancy-associated glycoprotein 50F,Bison bonasus,SQISLRGS,8
+P85327,Pregnancy-associated glycoprotein 50I,Bison bonasus,SGSNLTTV,8
+P85331,Peroxidase 1,Betula pendula,GLTQKDLVALSGAHTIGKAR,20
+P85333,Peroxidase 2,Betula pendula,VVSCADILAVAAR,13
+P85334,Peroxidase 3,Betula pendula,NLAPLDLQTPTAFDNNYYK,19
+P85335,Peroxidase 4,Betula pendula,FYDTTCPK,8
+P85336,Germin-like protein 1,Betula pendula,ILGLNTLGVSLAR,13
+P85348,Peroxidase 3,Cycas revoluta,MGQLNVLTGSKGEIR,15
+P85349,Peroxidase 4,Cycas revoluta,YYVDLQNR,8
+P85351,Peroxidase 5,Betula pendula,VALGGCLPTVQLGR,14
+P85352,Germin-like protein 2,Betula pendula,AFQLDTNLVESLQK,14
+P85353,Germin-like protein 3,Betula pendula,FSGLGSQNPGLLVLAK,16
+P85354,Germin-like protein 4,Betula pendula,DFFFQGLNTPR,11
+P85362,2-isopropylmalate synthase,Cycas revoluta,FAQLLNDLK,9
+P85412,Beta-galactosidase,Phoenix dactylifera,EIQNAGLYAILR,12
+P85431,Peroxidase 5,Cycas revoluta,TQLEAACPNVVSCADILALAAR,22
+P85432,Peroxidase 6,Cycas revoluta,AQVESVCPGVVSC,13
+P85437,Complement receptor 3-related protein,Candida albicans,DINGGGATLPQALXQITGVIT,21
+P85439,Peroxidase 1,Catharanthus roseus,LVCFVVVVFMAAAAAMAGADRELKYLSHGGVDFPVPAGRLDGVVSR,46
+P85440,Alcohol dehydrogenase 1,Catharanthus roseus,SEESNLCDLLRDYDKPAQEVIAEMTDGGVDR,31
+P85444,Peptidyl-prolyl cis-trans isomerase,Penicillium glabrum,KFADENFQLKH,11
+P85445,"ATP synthase subunit delta, mitochondrial",Penicillium glabrum,KIANGSGSEQDIAEAKI,17
+P85448,FMRFamide-1,Lucilia cuprina,SVQDNFIRF,9
+P85449,FMRFamide-2,Lucilia cuprina,GDNFMRF,7
+P85451,FMRFamide-4,Lucilia cuprina,GGNDFMRF,8
+P85452,FMRFamide-5,Lucilia cuprina,SPTQDFMRF,9
+P85453,FMRFamide-6,Lucilia cuprina,AAASDNFMRF,10
+P85454,FMRFamide-7,Lucilia cuprina,QANQDFMRF,9
+P85455,FMRFamide-8,Lucilia cuprina,AAGQDFMRF,9
+P85457,FMRFamide-13,Lucilia cuprina,GPSQDFMRF,9
+P85458,FMRFamide-14,Lucilia cuprina,AGQDNFMRF,9
+P85459,FMRFamide-15,Lucilia cuprina,NPQQDFMRF,9
+P85460,FMRFamide-16,Lucilia cuprina,TPQQDFMRF,9
+P85462,FMRFamide-18,Lucilia cuprina,TPPQPADNFIRF,12
+P85463,FMRFamide-19,Lucilia cuprina,SANAKNDFMRF,11
+P85466,FMRFamide-9,Sarcophaga bullata,GHADNFMRF,9
+P85467,FMRFamide-10,Sarcophaga bullata,GDNFMRF,7
+P85468,FMRFamide-11,Sarcophaga bullata,SLNTKNDFMRF,11
+P85469,FMRFamide-7,Sarcophaga bullata,GSNDFMRF,8
+P85470,FMRFamide-12,Sarcophaga bullata,SAPSQDFMRF,10
+P85471,FMRFamide-16,Sarcophaga bullata,AAAGDNFMRF,10
+P85472,FMRFamide-13,Sarcophaga bullata,TNDFMRF,7
+P85473,FMRFamide-14,Sarcophaga bullata,DPHHDFMRF,9
+P85475,FMRFamide-2,Sarcophaga bullata,TPSQDFMRF,9
+P85476,FMRFamide-3,Sarcophaga bullata,SPPSQDFMRF,10
+P85477,FMRFamide-4,Sarcophaga bullata,ASNQDFMRF,9
+P85478,FMRFamide-5,Sarcophaga bullata,LSPTQDFMRF,10
+P85479,FMRFamide-6,Sarcophaga bullata,TPTHDFMRF,9
+P85480,FMRFamide-8,Sarcophaga bullata,AGGADNFMRF,10
+P85481,FMRFamide-15,Sarcophaga bullata,THDFMRF,7
+P85483,"Glucan endo-1,3-beta-glucosidase",Pinus halepensis,TYNNNLIR,8
+P85508,Calcium-binding shell glycoprotein P95,Unio pictorum,TSHGGGKAGKSKLLDVNY,18
+P85509,Calcium-binding shell glycoprotein P50,Unio pictorum,KDALEHTGFAPKKDGEEHVEWNYN,24
+P85510,Calcium-binding shell glycoprotein P29,Unio pictorum,KDALEHTGFAPK,12
+P0DW81,Poly-ADP-ribosylation-amplifying and CtIP-maintaining micropeptide,Homo sapiens,MAASGGTKKAQSGGRRLREPSSRPSRRARQRPRRGALRKAGRFL,44
+P10118,Sperm protamine P1,Rattus norvegicus,MARYRCCRSKSRSRCRRRRRRCRRRRRRCCRRRRRRCCRRRRSYTFRCKRY,51
+P10626,Acrosin,Capra hircus,RDNTTCDGPCGIRFRQNRXXXXRIIGGQDAAHGSWPWMVSLQIFTYHNNRRYHVCGGSLL,60
+P11956,Metallothionein-2,Drosophila melanogaster,MVCKGCGTNCQCSAQKCGDNCACNKDCQCVCKNGPKDQCCSNK,43
+P12163,Photosystem II reaction center protein K,Spinacia oleracea,MLNIFSLICLNSALYSSSFFFGKLPEAYAFLSPIVDFMPVIPLFFFLLAFVWQAAVSFR,59
+P13191,Alanine aminotransferase 1,Sus scrofa,QELASFHSVSKGFMGECGFR,20
+P13281,"Histone H2B.1, sperm",Echinus esculentus,MPSQKSPTKRSPTKRSPQKGGKGAKR,26
+P13282,"Histone H2B.2, sperm",Echinus esculentus,MPKSPSKSSPRKGSPRKASPKRGGKGAKRA,30
+P13283,"Histone H2B.3, sperm",Echinus esculentus,MPRSPSKSSPKKGSPRKASPKRGGKGAKRAGKGGRRRTVVK,41
+P16392,Endoplasmic reticulum chaperone BiP,Equus caballus,EEEDKKEDVGTVVGI,15
+P17306,Spermatid nuclear transition protein 1,Sus scrofa,MSTSRKLKSHGMRRGKNRAPHKGVKRGGSKRKYRKGSLKSRKRCDDANRNYRSHL,55
+P18263,Photosystem II reaction center protein K,Chlamydomonas reinhardtii,MTTLALVLAKLPEAYAPFAPIVDVLPVIPVFFILLAFVWQAAVSFR,46
+P19640,Ribonuclease pancreatic,Odocoileus virginianus virginianus,KETAAAKFERQHMDPAPAAAXXQNYCNQMM,30
+P20609,Cytochrome c oxidase subunit 7e,Dictyostelium discoideum,MSHALPALIKMHITKDIGYGLLLGIIPGVWFKYQIGQSIQKREDFYAAYDKRN,53
+P21778,ATP-dependent 6-phosphofructokinase 2,Thermus thermophilus (strain ATCC 27634 / DSM 579 / HB8),MKRIGVLTSGGDSPGMNAAIRAVVR,25
+P22660,NAD-reducing hydrogenase HoxS subunit delta,Rhodococcus opacus,MKHSEKNEIASHELPTTPLDPVLAAGRES,29
+P26460,Creatine kinase B-type,Squalus acanthias,AKVLTLDLYKKLRDKSTPSGFTLDDIIQNEHLGYVLTCPSNLGTXLRAXVHV,52
+P28467,Isocitrate lyase,Acinetobacter calcoaceticus,MTYQTAIDAVRELKA,15
+P32410,Large ribosomal subunit protein eL37,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),MTGAGTPSQGKKNTTTHTKCRRCGEKSYHTKKKVCSSCGFGKSAKRRDYEWQSKAGE,57
+P34039,S-adenosylmethionine decarboxylase subunit alpha,Acanthamoeba castellanii,SSMFVWNTKLILKTCGTXL,19
+P34165,Mating hormone A-factor 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MQPSTATAAPKEKTSSEKKDNYIIKGVFWDPACVIA,36
+P31859,Basic phospholipase A2,Vipera berus,SLLEFGMMILEE,12
+P31889,FMRFamide-like neuropeptide AF1,Ascaris suum,KNEFIRF,7
+P32734,Kunitz-type trypsin inhibitor beta chain,Neltuma juliflora,SDRCKDLGISIDEENNRRLVVKDGDPLAVRFVKANRRG,38
+P32956,Cysteine proteinase 3,Vasconcellea cundinamarcensis,YPESIDWRKKGAVTPVKNQGSCGSCWAFSTIATVEGINKIVHG,43
+P33036,Nitrilase,Acinetobacter sp. (strain AK226),VSYNSKFLAATVQAEPVVLDA,21
+P33047,Apolipoprotein C-I,Oryctolagus cuniculus,APDFSTLELIPDKLKEFGNTLEEKARMA,28
+P33163,Malate dehydrogenase,Thermoleophilum album,MSILPLVHAMANVRGDIEYLTEA,23
+P33581,Growth hormone-related protein 4,Rattus norvegicus,IPACMVEDGGCWDPLGEAFNSATQRAETLRNL,32
+P33714,Gastrin,Macaca mulatta,QGPWMEEEEAAYGWMDF,17
+P33888,Lectin,Euphorbia characias,SESYTPISGPNGYXVDVK,18
+P34033,Cytochrome P450IIB,Cavia porcellus,MELSLLLFLALLLGLLLLLF,20
+P34070,Tremerogen A-I,Tremella brasiliensis,DSGSSRDPGASSGGC,15
+P34156,Collagenolytic protease 23 kDa,Chionoecetes opilio,AAILQDEYLXSGGVVPYVFG,20
+P34169,General odorant-binding protein,Antheraea polyphemus,TAEVMSXVTAXFGXALEEXXDEXG,24
+P34172,General odorant-binding protein,Hyalophora cecropia,TAEVMSXVTAXFGXALXE,18
+P34173,General odorant-binding protein,Lymantria dispar,TAEVMSHVXAHFGKALEE,18
+P34178,Pheromone-binding protein,Orgyia pseudotsugata,SKEVMKSLSINFSKPLEVXKQEMGLQDAVMQDFYN,35
+P34965,Neuromedin-U-25,Oryctolagus cuniculus,FPVDEEFQSPFGSRSRGYFLFRPRN,25
+P34966,Neuromedin-U-9,Cavia porcellus,GYFLFRPRN,9
+P35002,Chymotrypsin,Penaeus monodon,IVGGVEAVPGVWPYQAALFIIDMYFCGGSLI,31
+P35051,Trypsin,Protopterus aethiopicus,FPIEEDKIVGGYECPKHXVPW,21
+P35430,20-alpha-hydroxysteroid dehydrogenase,Tetrahymena pyriformis,LAKTVPLNDGTNFPIFGG,18
+P35491,Parvalbumin,Scyliorhinus canicula,PMTKVLNAADISKALNAFEAPGSFDHKKFFQLVGLKGKTHEQVKKVFNIL,50
+P35586,Cocoonase,Limulus polyphemus,IVGGFTIGIDTVPY,14
+P35634,Flagellin,Bartonella bacilliformis,GAAILTNDNAMDALQDL,17
+P35707,Flavodoxin,Nostoc sp. (strain MAC),SKKIGLFYGTZTGKTESVAEIIDEFGDEVVTLDID,35
+P35756,Iron-regulated 31 kDa protein,Haemophilus influenzae,KFKVVTTFTVIQDIAQNVAGDAAT,24
+P35758,Translationally-controlled tumor protein homolog,Trypanosoma brucei brucei,MKIFRDILTNAEVVXDNDKPMDVLDEIVYAXQGRYIE,37
+P35904,Achatin-1,Lissachatina fulica,GFAD,4
+P35919,WWamide-1,Lissachatina fulica,WREMSVW,7
+P36231,N-acetyl-D-galactosamine-binding lectin subunit B,Iris hollandica,VDDTTPLSEETMMRIGGYMV,20
+P36515,Putative large ribosomal subunit protein YmL1,Saccharomyces cerevisiae,SVTP,4
+P36522,Putative large ribosomal subunit protein YmL12,Saccharomyces cerevisiae,WXDGYFVEVIVRFNP,15
+P36530,Putative large ribosomal subunit protein YmL35,Saccharomyces cerevisiae,GNATSERLPTDPVYPXV,17
+P37086,Orcokinin,Faxonius limosus,NFDEIDRSGFGFN,13
+P37356,N-acyl-L-amino acid amidohydrolase,Parageobacillus thermoglucosidasius,MTNEEIKRLVDEVKEGVIAXRRHL,24
+P37365,Pyrrole-2-carboxylate oxygenase,Arthrobacter sp. (strain Py1),MRTGKQYLKSLNDGRTVILDGEVVGNVLXH,30
+P38026,Alpha-1-antiproteinase,Chinchilla lanigera,EDAQVTDLPDHEQEHLAXHKIAPXLAEFAY,30
+P38495,FMRFamide-like neuropeptide,Callinectes sapidus,GYNRSFLRF,9
+P38497,Lom-AG-myotropin-2,Locusta migratoria,AHRFAAEDFGALDTA,15
+P38498,Cardio-excitatory FMRFamide homolog DF2,Procambarus clarkii,DRNFLRF,7
+P38499,Cardio-excitatory FMRFamide homolog NF1,Procambarus clarkii,NRNFLRF,7
+P38588,High-molecular-weight cytochrome c,Megalodesulfovibrio gigas (strain ATCC 19364 / DSM 1382 / NCIMB 9332 / VKM B-1759),ATPGPASTAEPKVILIVGELAVGFGKLEMPFVMFD,35
+P38589,High-potential iron-sulfur protein,Rhodopila globiformis,QDKIDPKMVQYQDSPKDGNKCSTCVNFEAPSSCKIVAGKISPNGWCIAYAPMEDKKG,57
+P39085,Non-specific lipid-transfer protein 2,Triticum aestivum,ACEVTQLAVCASAILGGTKPSGECCGNL,28
+P39089,Vasoactive intestinal peptide,Didelphis virginiana,HSDAVFTDSYTRLLKQMAMRKYLDSILN,28
+P39090,Alpha-1B-glycoprotein,Equus asinus,AVVFDPQPALWAEADTQLEP,20
+P39092,Alpha-1B-glycoprotein,Sus scrofa,ALFLDPPPNLWAEAQSLLEPWANVTLTSQSRLPVLNFQGL,40
+P40751,Urechistachykinin-1,Urechis unicinctus,LRQSQFVGSR,10
+P40752,Urechistachykinin-2,Urechis unicinctus,AAGMGFFGAR,10
+P41321,Neuropeptide F,Cornu aspersum,STQMLSPPERPREFRHPNELRQYLKELNEYYAIMGRTRF,39
+P41333,Substance P,Scyliorhinus canicula,KPRPGQFFGLM,11
+P41334,Neuropeptide F,Arthurdendyus triangulatus,KVVHLRPRSSFSSEDEYQIYLRNVSKYIQLYGRPRF,36
+P41486,FMRFamide-like neuropeptide 3,Homarus americanus,SDRNFLRF,8
+P41488,Locustapyrokinin-2,Locusta migratoria,QSVPTFTPRL,10
+P41489,Locustamyotropin-3,Locusta migratoria,RQQPFVPRL,9
+P41490,Locustamyotropin-4,Locusta migratoria,RLHQNGMPFSPRL,13
+P41491,Locustakinin-1,Locusta migratoria,AFSSWG,6
+P41492,Neosulfakinin-1,Sarcophaga bullata,FDDYGHMRF,9
+P41493,Neosulfakinin-2,Sarcophaga bullata,XXEEQFDDYGHMRF,14
+P41495,Trypsin-modulating oostatic factor,Sarcophaga bullata,NPTNLH,6
+P41517,Callitachykinin-1,Calliphora vomitoria,APTAFYGVR,9
+P41518,Callitachykinin-2,Calliphora vomitoria,GLGNNAFVGVR,11
+P41589,Melanotropin alpha,Anolis carolinensis,SYAMEHFRWGKPV,13
+P41837,Periviscerokinin-1,Periplaneta americana,GASGLIPVMRN,11
+P41840,Callatostatin-4,Calliphora vomitoria,DRPYSFGL,8
+P41853,FMRFamide-like neuropeptide RYIRF-amide,Arthurdendyus triangulatus,RYIRF,5
+P41857,CalliFMRFamide-2,Calliphora vomitoria,TPSQDFMRF,9
+P41858,CalliFMRFamide-3,Calliphora vomitoria,SPSQDFMRF,9
+P41859,CalliFMRFamide-4,Calliphora vomitoria,KPNQDFMRF,9
+P41860,CalliFMRFamide-5,Calliphora vomitoria,APGQDFMRF,9
+P41862,CalliFMRFamide-7,Calliphora vomitoria,AXGQDFMRF,9
+P84452,Trypsin inhibitor 5,Sechium edule,CPRILMKCKLDTDCFPTCTCRPSGFCG,27
+P84468,Ferric reductase A,Paracoccus denitrificans,SRLPPATRDKLADEITFFPA,20
+P84469,Ferric reductase B,Paracoccus denitrificans,MVKTVAVMVGSLRKDSLAHKLMKVLQK,27
+P84476,Myofibril-bound serine protease,Saurida wanieso,IVGGAECVPY,10
+P84478,Myofibril-bound serine protease,Saurida undosquamis,IVGGYECEAYSKPYQVSINLGY,22
+P84520,Adenosine deaminase 2,Gallus gallus,TPLWSLMQDLMM,12
+P84534,"Ketol-acid reductoisomerase, chloroplastic",Populus euphratica,FYEKEGLPAFPMGK,14
+P49277,Mite allergen Der p 6,Dermatophagoides pteronyssinus,AIGXQPAAEAEAPFQISLMK,20
+P00273,Desulforedoxin,Megalodesulfovibrio gigas,MANEGDVYKCELCGQVVKVLEEGGGTLVCCGEDMVKQ,37
+P00728,Thermophilic aminopeptidase 1 alpha chain,Geobacillus stearothermophilus,AKLDETLTMLKALTDAKGVPGNEREARDVM,30
+P01016,Angiotensinogen,Equus caballus,DRVYIHPFHLLVYS,14
+P01081,Proteinase inhibitor IIA,Solanum tuberosum,SEGSPENRICTNNCAGYKGCNYNCDTNIASYKSVCEGEFDPKCLR,45
+P01082,Proteinase inhibitor IIB,Solanum tuberosum,ICTNNCAGYKGCNYACPLNDHPIAYKSCEGEFDPKSKCPR,40
+P01265,Calcitonin-3,Oncorhynchus kisutch,CSNLSTCMLGKLSQDLHKLQTFPRTNTGAGVP,32
+P01331,Insulin,Proechimys guairae,YVGQRLCGSQLVDTLYSVCKHRGFYRPSEGIVDQCCTNICSRNQLLTYCN,50
+P01349,Relaxin,Carcharias taurus,QLCGRGFIRAIIFACGGSRWATSPAMSIKCCIYGCTKKDISVLC,44
+P02260,Histone H5,Columba livia,TESPIPVPAPAPAAKPKPKRVSKRPASHPPYSDMIAAA,38
+P02324,Protamine-A,Acipenser stellatus,ARRRRRHASTKLKRRRRRRRHGKKSHK,27
+P02326,Protamine-1B,Oncorhynchus mykiss,PRRRRRRSSSRPIRRRRPRRVSRRRRRGGRRRR,33
+P02334,Protamine-2C,Oncorhynchus mykiss,MPRRRRSSRRPVRRRRRPRVSRRRRRRGGRRRR,33
+P02456,Collagen alpha-1(I) chain,Oryctolagus cuniculus,SYGYBZKSAGVSVPGPMGPSGPRGLPGPPGAPGPZGFZGPPGZPGZPGSSGPM,53
+P03622,Capsid protein G8P,Xanthomonas phage Xf,SGVGDGVDVVSAIEGAAGPIAAIGGAVLTVMVGIKVYKWVRRAM,44
+P03623,Capsid protein G8P,Pseudomonas phage Pf3,MQSVITDVTGQLTAVQADITTIGGAIIVLAAVVLGIRWIKAQFF,44
+P04362,Phospholipase A2,Heloderma horridum horridum,GAFIMPGTLWCGAGNAASDYSQLGTEKDTDMCCRDHDHC,39
+P04378,Gonadoliberin-1,Petromyzon marinus,QHYSLEWKPG,10
+P04542,Serine protease inhibitor Kazal-type 1,Canis lupus familiaris,NNMLQRQANCNLKVNGCNKIYNPICGSDGITYANECLLCLENKKRQTSILVEKSGPC,57
+P05390,Large ribosomal subunit protein P2,Triticum aestivum,MKLIAAYLLAYLGGNSSPSAADVKDILNAVGAEANEEKLEFL,42
+P06841,Protamine Z2,Scyliorhinus canicula,MKCGRKRRRRRRHACKRKKRACKQRSSTIVRAHLVHRRRAARRCP,45
+P07216,Metallothionein,Pleuronectes platessa,MDPCECSKTGTCNCGGSCTCKNCSCTTCNKSCCPCCPSGCPKCASGCVCKGKTCDTSCCQ,60
+P86605,Skin secreted peptide P1-4,Phasmahyla jandaia,KPEEDWDRTD,10
+P86606,Skin secreted peptide P2-1,Phasmahyla jandaia,GPPLLPPLP,9
+P86607,Skin secreted peptide P3-1,Phasmahyla jandaia,LFFKGEKKL,9
+P86608,Skin secreted peptide P4-1,Phasmahyla jandaia,KPENENEEALHE,12
+P86609,Skin secreted peptide P5-1,Phasmahyla jandaia,LLGMIPVAISAINLMKL,17
+P86644,Periviscerokinin-1,Bisanthe pulchripennis,QGLIPFPRV,9
+P86646,Periviscerokinin-1,Chroicoptera sp. (strain Kasungu),QGLIAFPRV,9
+P86654,Periviscerokinin-2,Gongylus gongylodes,GASGLIAFPRL,11
+P86660,Periviscerokinin-3,Mantis religiosa,GKTKGVTSGLIAFPRL,16
+P86667,Periviscerokinin-2,Polyspilota aeruginosa,TSGLIAFPRL,10
+P86678,Periviscerokinin-1,Polyspilota aeruginosa,QTLIPMPRL,9
+P86694,Serum amyloid P-component,Anarhichas lupus,APQDLSGKMFIFPQETSTANVXLTARSQDF,30
+P86709,Peptide TRP-J1,Phasmahyla jandaia,LMYYTLPRPV,10
+P86777,Parvalbumin beta 3,Merluccius senegalensis,AFAGVLADADIKAALAGCAAAESFNYKTFFKFFAIIDQDHSGFIEEEELKALSDAETK,58
+P86826,Venom peptide 3,Tityus serrulatus,YDRYEVVYR,9
+P86829,Apolipophorin-3,Melanoplus sanguinipes,DAAQVPDFATAVQNLXHTLSEAA,23
+P86830,Acetylajmalan esterase,Rauvolfia verticillata,NALFILGNIGNNDVNYAFPDRAIEEIRFYVPFITEAVANATREIIR,46
+P86838,Non-specific lipid-transfer protein,Cannabis sativa,KCGVSIPYKISPSTDCSSVK,20
+P86940,Insulinotropic peptide 2,Agalychnis spurrelli,MLADVFEKIMGD,12
+P86979,Fructose-bisphosphate aldolase A,Thunnus albacares,PHAFPFLTPEQKKELSDIAHKIVAPGKGILAADESTG,37
+P86980,Fructose-bisphosphate aldolase A,Gadus morhua,PHAYPFLSPEQKKEL,15
+P89035,Putative movement protein p6.6,Panicum mosaic virus (strain United States/Kansas 109S),MATGKCYCPEDPRVGPLLVLCLLLLLILFSRSWNVAPVVVPSYHTVYHHEKYQNIEIQK,59
+P92277,Photosystem II reaction center protein M,Chlamydomonas reinhardtii,MEVNIYGLTATALFIIIPTSFLLILYVKTASTQD,34
+P99501,"Cytochrome c oxidase subunit 5A, mitochondrial",Canis lupus familiaris,SHGSHETDEEF,11
+Q09095,Avenin-A,Avena sativa,PSEQYQPYPEQQQPFLQQQPLELQQQQXXLVLFLQK,36
+Q09115,Glutamate dehydrogenase,Pyrococcus woesei,VEQDPYEIVIKQLERAAQYMEISE,24
+Q0P3J8,Photosystem I reaction center subunit XII,Ostreococcus tauri,MPLSDTQVFTALFVALITGILSLRLGTQLYK,31
+Q10753,80 kDa carcinoembryonic antigen-binding protein,Rattus norvegicus,PLEALNVQLYNVEVXXTNDKGEADXPGEIQ,30
+Q10986,Bacterioferritin light chain,Absidia spinosa,MKGNREVINQLNQVLYHHLCAINQYFLHSRMND,33
+Q10997,Serine proteinase inhibitor,Halocynthia roretzi,TKKDGEEKVA,10
+Q27176,Trichocyst matrix protein T4-C,Paramecium tetraurelia,GAVGEIQILLNNIASQLNGDQKKADKV,27
+Q2EES1,Uncharacterized protein YniD,Escherichia coli (strain K12),MPTKRFDKKHWKMVVVLLAICGAMLLLRWAAMIWG,35
+Q2EES6,UPF0387 membrane protein YohO,Escherichia coli (strain K12),MRIAKIGVIALFLFMALGGIGGVMLAGYTFILRAG,35
+Q37958,Protein P4,Pseudoalteromonas phage PM2,MQKPSGKGLKYFAYGVAISAAGAILAEYVRDWMRKPKAKS,40
+Q38503,Protein p56,Bacillus phage phi29,MVQNDFVDSYDVTMLLQDDDGKQYYEYHKGLSLSDFEVLYGNTADEIIKLRLDKVL,56
+Q3E7B0,Uncharacterized protein YER053C-A,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MQDLEIFLSIFAFIFVFYFGAHRTVMNRNKSDVPYLQ,37
+Q41183,Pollen allergen Dac g 2,Dactylis glomerata,EAPVTFTVEKGSDEKNLALSIKYNKEGDSMAEVELK,36
+Q45100,Cold shock-like protein CspE,Bacillus cereus,MTLTGKVKWFNSEKGFGFIEVADGSDVFVHFSAITGDGFKSLDEGQEVSFEVED,54
+Q45966,Protein ScvA,Coxiella burnetii (strain RSA 493 / Nine Mile phase I),MERQNVQQQRGKDQRPQRPGASNPRRPNQR,30
+Q4FUC6,Large ribosomal subunit protein bL32,Psychrobacter arcticus (strain DSM 17307 / VKM B-2377 / 273-4),MAVQKSRKSRSRRDMRRSHHRMEIAEISIDATTGEKHRRHHMTKDGFYRGRQLFKVSQDA,60
+Q4G371,Photosystem I reaction center subunit XII,Emiliania huxleyi,MITDSQIFFALCIALTAAVLAIGLGRQLYV,30
+Q4G373,Photosystem I reaction center subunit VIII,Emiliania huxleyi,MSASFLPSILTPVVTLVFPGLMFALFFVLIEQEEIA,36
+Q53391,Fimbrial protein,Pseudomonas aeruginosa,DVNGGWSCATTVDAKFRPNGCTD,23
+Q5JFH3,Zinc-finger protein TK0143,Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1),MAVLKAIKIEDRDGEILFRCPRCGMVFRSAKAYTRHVNKAHGHLFRK,47
+Q60189,A-type ATP synthase subunit G,Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88),MAECDDRPNLVERAVMKLGEPKNQARLLQVAWRISLLMMVIGFIIIIKTISPNFM,55
+Q6A6P4,Large ribosomal subunit protein uL30,Cutibacterium acnes (strain DSM 16379 / KPA171202),MSKLKITQIKSGIATKPNHRETLRSLGLKRIGDTVIKEDRPEFRGMVRTVRHLVTMEEVD,60
+Q7LZ48,Des[Ser(1)Pro(2)] scyliorhinin-2,Torpedo marmorata,SNSKCPDGPDCFVGLM,16
+Q7LZT3,Fibrinogen alpha chain,Tiliqua rugosa,EDTGTFEEGHGGVR,14
+Q7M258,Ferredoxin-2,Pisum sativum,ATYNIKLITPEGTKEITCSDSEYILDAAEEKGLDLPYSCR,40
+Q7M3C4,Relaxin B chain,Phocoenoides dalli dalli,QRTNDFIKACGRELVRVWVEICGSVSWGRTA,31
+Q7M427,Egg-laying hormone,Aplysia fasciata,ISINQDLKAITDMLLTEQIRERQRYLADLRQRLLEK,36
+Q7M458,Dart gland peptide,Cornu aspersum,SINNTGGSGNRRLDKNGFAGQ,21
+Q7M459,Attractin,Aplysia fasciata,DQNCDIGNITSQCEMQHQNCDDANGCNTIIEECKTSMVERCQNQEFESASGSTTLGPQ,58
+Q7M471,Venom protein HR-3,Vespa orientalis,ASVHEFLVK,9
+Q7NHY3,Photosystem I reaction center subunit XII,Gloeobacter violaceus (strain ATCC 29082 / PCC 7421),MAATVVSGAQVAIAFVVALIAGIAALLLSTALGK,34
+Q7WY58,"Small, acid-soluble spore protein J",Bacillus subtilis (strain 168),MGFFNKDKGKRSEKEKNVIQGALEDAGSALKDDPLQEAVQKKKNNR,46
+Q7WY59,"Small, acid-soluble spore protein G",Bacillus subtilis (strain 168),MSENRHENEENRRDAAVAKVQNSGNAKVVVSVNTDQDQAQAQSQDGED,48
+Q7WY65,"Small, acid-soluble spore protein M",Bacillus subtilis (strain 168),MKTRPKKAGQQKKTESKAIDSLDKKLGGPNRPST,34
+Q7WY66,"Small, acid-soluble spore protein L",Bacillus subtilis (strain 168),MKKKDKGRLTGGVTPQGDLEGNTHNDPKTELEERAKKSNTKR,42
+Q7WY75,"Small, acid-soluble spore protein K",Bacillus subtilis (strain 168),MVRNKEKGFPYENENKFQGEPRAKDDYASKRADGSINQHPQERMRASGKR,50
+Q8TGQ7,Uncharacterized protein YPR159C-A,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MATLDFTTKPLALVIYMSVVLLLMVGVPLLFSS,33
+Q8U0V6,Large ribosomal subunit protein eL40,Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1),MARFPEAEARIFKKYVCLRCGATNPWGAKKCRKCGYKRLRPKAKEPRGGGR,51
+Q8U1R4,Ribosome biogenesis protein Nop10,Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1),MRFRIRKCPKCGRYTLKEVCPVCGEKTKVAHPPRFSPEDPYGEYRRRWKREVLGIGRKEK,60
+Q8U232,Small ribosomal subunit protein eS32,Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1),MKRRPRKWKKKGRMRWKWIKKRIRRLKRQRKKERGLI,37
+Q8X3T6,Small toxic protein ZorP,Escherichia coli O157:H7,MDSLTQKLTVLIAVLELLVALLRLIDLLK,29
+Q8YVQ2,Cytochrome b6-f complex subunit 6,Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576),MLAIVAYIGFLALFTGIAAGLLFGLRSAKIL,31
+Q8ZTX6,Large ribosomal subunit protein eL39,Pyrobaculum aerophilum (strain ATCC 51768 / DSM 7523 / JCM 9630 / CIP 104966 / NBRC 100827 / IM2),MARNKPLGKKLRLAAAFKXNRNPPVWVVVKTKRRVTRSPARRHWRRVKLKA,51
+Q99039,Degradation enzyme regulation protein DegQ,Bacillus subtilis (strain 168),MEKKLEEVKQLLFRLELDIKETTDSLRNINKSIDQLDKYNYAMKIS,46
+Q99283,"Histone H1.3, embryonic",Parechinus angulosus,HVVAAITALKERGGSSHQALKKYKAAN,27
+Q9PRP6,Motilin,Gallus gallus,FVPFFTQSDIQKMQEKERNKGQ,22
+Q9R4N9,Large ribosomal subunit protein bL32,Brevundimonas vesicularis,CVPKRKVSPSXRNMRXAHDXLT,22
+Q9R4P3,Large ribosomal subunit protein uL30,Brevundimonas vesicularis,AEKKTVTVKQTGSPIXXXK,19
+Q9R4P5,Large ribosomal subunit protein uL24,Brevundimonas diminuta,AAKIKKGDNVVVLTG,15
+Q9R4P7,Small ribosomal subunit protein bS20,Brevundimonas diminuta,ANNAGARKAIRKIEARTEVN,20
+Q9R4P8,Large ribosomal subunit protein uL30,Brevundimonas diminuta,AKTENKTVTVRQTASPIXXXK,21
+Q9R5H8,Gas vesicle protein A,Dactylococcopsis salina,AVEKTNSSSSLGEVVDRILDKGVVVDLWVRVSLVGIELLALEARVVI,47
+Q9R5V7,Large ribosomal subunit protein bL31,Ectopseudomonas mendocina,MKADIHPNYVEIDATXSXGN,20
+Q9R5V9,Large ribosomal subunit protein uL30,Ectopseudomonas mendocina,ANTVKVTLIKSTNGRLANHKAXVK,24
+P80744,Hemolymph 65 kDa lectin BG05,Biomphalaria glabrata,LEIADLAQYVVDLTAR,16
+P80745,Hemolymph 65 kDa lectin BG06,Biomphalaria glabrata,FFTTFDKDNDDQQNDN,16
+P80883,Cytochrome b6-f complex subunit 7,Spinacia oleracea,NAAAEIFRIAAVMNGLTLVGVAIGFVLLRIEATVEE,36
+P80891,Putative cytochrome c4,Aliivibrio fischeri,QEDIEAGKQKSATCTACHGQEGNST,25
+P80892,Thioredoxin reductase,Aliivibrio fischeri,MNVKHSKLLILGSGPAGYTAAVYAARANLNPVMITGMQQGGQLTN,45
+P80896,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,Gallus gallus,VFTHVLQPYPEIRPRFPLVGGWKTHYXV,28
+P80897,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2,Gallus gallus,NAIFSKKNFETLSEAFSVFQTLKYLAILGGVTFLAG,36
+P80917,Acyl carrier protein,Alcaligenes faecalis,MESIEQRVKKIVAEQLGVAEAEIKA,25
+P80926,33.0 kDa cold shock protein,Arachis hypogaea,AQITLTNKASYTVTPPAQANAADA,24
+P80933,Pregnancy-associated glycoprotein 62,Capra hircus,RDSXVTIVPLRNMRDIVYVGXITIGTP,27
+P80972,"Cytochrome c oxidase subunit 5A-1, mitochondrial",Thunnus obesus,SHGKVETDEEFDARWVTYFS,20
+P80974,"Cytochrome c oxidase subunit 5B, mitochondrial",Thunnus obesus,GTLKGIPTDDEQATGLERRT,20
+P80975,"Cytochrome c oxidase subunit 6A, mitochondrial",Thunnus obesus,KEQPEFVPY,9
+P80976,Cytochrome c oxidase subunit 6B,Thunnus obesus,KALYAPFDATFPNQNQTRNKAVDTAPCEWYRRVY,34
+P80978,Cytochrome c oxidase subunit 6C-2,Thunnus obesus,KMLGVVAKKPMSDYE,15
+P80979,"Cytochrome c oxidase subunit 7A, mitochondrial",Thunnus obesus,XNYVPEAQKLFQAHN,15
+P80981,"Cytochrome c oxidase subunit 7B-liver, mitochondrial",Thunnus obesus,SNTSHQDFHSFYGTNLMIGG,20
+P80982,"Cytochrome c oxidase polypeptide 7C, mitochondrial",Thunnus obesus,SHYAEGPGKN,10
+P80983,"Cytochrome c oxidase subunit 8B, mitochondrial",Thunnus obesus,VSAKPAKXXVTAGEQAIAMT,20
+P80984,"Cytochrome c oxidase subunit 8A, mitochondrial",Thunnus obesus,VHGKPATIDHFALIXVSYF,19
+P81001,Gas vesicle protein C,Microcystis sp. (strain CCAP 1450/13),PALIEKFRQERLSIAGEVAKLSQEVQAFLSDVKTERQKQAQEQATALRXFFLQV,54
+P81011,Esterase 56 kDa subunit,Schizaphis graminum,NPVVRITNGAIRGQN,15
+P81012,Esterase 52 kDa subunit,Schizaphis graminum,APIVSGGYDF,10
+P81022,Urotensin-2,Polyodon spathula,GSTSECFWKYCV,12
+P81029,Somatostatin-2,Oreochromis niloticus,SADQPNSIPPRERKAGCKNFYWKGLTSC,28
+P81037,Miltpain,Oncorhynchus keta,LPSFLYAEMVGYNIL,15
+P81050,Antithrombin-III,Mesocricetus auratus,NPVDDIXIAKPRDIPMNPMXIYRSP,25
+P81063,Cytin chain A,Theromyzon tessulatum,AEVNPPEAFNQDVDTYLKIFRNGRYPLDKMAVICSQTGFKLDK,43
+P81064,Cytin chain B,Theromyzon tessulatum,LKCEWDGLVGTRGEIAKETIER,22
+P81070,Fibrinogen,Pacifastacus leniusculus,LHSNLEYQYRYSGRVASGIP,20
+P81071,Trypsin,Felis catus,FPIDDDDKIVGGYTNR,16
+P81074,"Troponin C, skeletal muscle",Protopterus dolloi,GKSEEELAEFFRIFDKNADGYIDAEELAEIIRSSGEHVTDEEIEELMKDGDK,52
+P81083,Probable class I heat shock protein,Pinus pinaster,YFDPFSLDVWDPFQA,15
+P81084,"Ribulose bisphosphate carboxylase/oxygenase activase, chloroplastic",Pinus pinaster,SFQCELVFAK,10
+P81085,Actin,Pinus pinaster,DLYGNIVLSGGSTMF,15
+P81087,Glutathione peroxidase homolog,Pinus pinaster,YKDQGLEILAFPCNQFG,17
+P81098,Seed fatty acyl-ester hydrolase,Helianthus annuus,DPQVPXYFIFGDSLYDNG,18
+P81104,70 kDa peptidyl-prolyl isomerase,Pinus pinaster,XGESWETPETGDEVE,15
+P81107,Probable glutamine synthetase leaf isozyme,Pinus pinaster,DVNWPLGWPVGGYPG,15
+P81149,Cytochrome c3-1,Nitratidesulfovibrio vulgaris,AAPKAPADGLKMDKTKQXVVFNH,23
+P81151,Cytochrome c3-2,Nitratidesulfovibrio vulgaris,GNAPAADMVLKAPGDAKMTKTAVP,24
+P81161,"Heat shock 22 kDa protein, mitochondrial",Solanum lycopersicum,FNTNTQMTAYDQDRMXXXXLPVENVRVALEENTLIMKNGVLKVAVPKVKQEERKDV,56
+P81163,Superoxide dismutase [Cu-Zn],Striga hermonthica,IVAVLHSSEGVAGTITFIADSQIPLTGPNSI,31
+P81175,"Fatty acid-binding protein, intestinal",Rhamdia sapo,YQLESQEGFVPFSVSEIEQRVTVTTGSKTVVTL,33
+P81179,Endo-polygalacturonase,Diaprepes abbreviatus,IYTYVIGRG,9
+P81188,67 kDa serum albumin,Trachemys scripta,DAEHKSEIVHRFNDLKEEKFKGAALITFAQFLHKKPEEEA,40
+P81189,68 kDa serum albumin,Trachemys scripta,DVDETHTLGHXFXEL,15
+P81190,Endoglucanase,Schizophyllum commune,SLQAATEWLKANNQRGFLGEMGAGSNAD,28
+P81216,Dander allergen Equ c 2.0101,Equus caballus,SQXPQSETDYSQLSGEWNTIYGAASNIXK,29
+P81217,Dander allergen Equ c 2.0102,Equus caballus,XQDPQSETDYSQLSGEWNT,19
+P81247,Cytochrome b-c1 complex subunit 8,Equisetum arvense,QKVAVRLKEVVYTLSPHQQN,20
+P81266,Elongation factor 1-alpha,Microplitis croceipes,AKEKIHINIVVIGHV,15
+P81298,FMRFamide-like neuropeptide PF3,Haemonchus contortus,KSAYMRF,7
+P81336,Acetoacetate decarboxylase,Clostridium pasteurianum,MLKSEVSKQISMPLTAPAF,19
+P81337,Butyrate kinase,Clostridium pasteurianum,MYKLLIINP,9
+P81338,Co-chaperonin GroES,Clostridium pasteurianum,MKITPLGDNVVIKKLLATA,19
+P81339,Chaperonin GroEL,Clostridium pasteurianum,AKSILLGEEGRHSMQAGVDKLANTVKVTLG,30
+P81340,Cysteine synthase,Clostridium pasteurianum,NVTELIGNTPLVELI,15
+P81343,3-hydroxybutyryl-CoA dehydrogenase,Clostridium pasteurianum,MKKVHVLGAGTMGAGI,16
+P81344,Pyruvate kinase,Clostridium pasteurianum,MQKTKMIFTIGPASXTEEMLVXFI,24
+P81346,Putative phosphoglycerate kinase,Clostridium pasteurianum,XYNLLTIEDIDVKGKRVLVR,20
+P81347,Acetyl-CoA acetyltransferase,Clostridium pasteurianum,MKEVVIASAVXTAXG,15
+P81350,Elongation factor G,Clostridium pasteurianum,KYPLEKFQNIG,11
+P81356,Pyridoxal 5'-phosphate synthase subunit PdxS,Clostridium pasteurianum,MGYDINXXLAQMXKGGVIMXXXXXXQAVI,29
+P81357,Short-chain-enoyl-CoA hydratase,Clostridium pasteurianum,MGFNGGILEGEEXKAVVTINXP,22
+P81361,Thiol peroxidase,Clostridium pasteurianum,MKVTFQGNEVTLQGKEVKVG,20
+P81407,Elongation factor Tu,Mycoplasmopsis synoviae,AKLDFDRSKEHVNVGTIGVH,20
+P81419,"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial",Solanum tuberosum,ISAVKEMTVRDALNSA,16
+P81420,55 kDa dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,Solanum tuberosum,SSADSLPXHGAGXMP,15
+P81421,78 kDa dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,Solanum tuberosum,ISAEAPLYAEVGMPALSPTMT,21
+P01251,Splenin,Bos taurus,PEFLEDPSVLTKEKLKSELVANNVTLPAGEQRKEVYVELYLQHLTALKR,49
+P01370,Tremerogen A-13,Tremella mesenterica,EGGGNRGDPSGVC,13
+P01371,Tremerogen A-10,Tremella mesenterica,EHDPSAPGNGYC,12
+P01372,Paragonial peptide PS-1,Drosophila funebris,DVPSANANANNQRTAAAKPQANAEASS,27
+P02217,"Globin, minor monomeric component",Glycera dibranchiata,GLSAAERQVVASCWKDIAGADXGAGVGKEXLIKFISAAPEMAAVF,45
+P02343,DNA-binding protein HU,Synechocystis sp. (strain PCC 6701),MNKGELVDAVMAKATVTKKQADAFILALDIVA,32
+P02729,Urine glycopeptide,Homo sapiens,CEHSHDGA,8
+P02732,Ice-structuring glycoprotein 3,Pagothenia borchgrevinki,AATAATAATAATAATAATAATAATAATAATA,31
+P02733,Ice-structuring protein 3,Pseudopleuronectes americanus,DTASDAAAAAALTAABAAAAAKLTABBAAAAAAATAA,37
+P02807,Metallothionein,Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987),MGDCGCSGASSCNCGSGCSCSNCGSK,26
+P02875,Lectin,Macrotyloma axillare,ANIQSFSFKNFNSPSFILQGDATVSSGKLQLP,32
+P03044,Protease inhibitor III,Escherichia phage lambda,MQYAIAGWPVAGCPSESLLERITRKLRDGWKRLIDILNQPGVPKNGSNTYGYPD,54
+P03050,Transcriptional repressor arc,Salmonella phage P22,MKGMSKMPQFNLRWPREVLDLVRKVAEENGRSVNSEIYQRVMESFKKEGRIGA,53
+P03618,Capsid protein G8P,Enterobacteria phage ZJ/2,AEGDDPAKAAFDSLQASATEYIGYAWAMVVVIVGATIGIKLFKKFASKAS,50
+P03776,Gene 0.4 protein,Escherichia phage T7,MSTTNVQYGLTAQTVLFYSDMVRCGFNWSLAMAQLKELYENNKAIALESAE,51
+P04082,Alpha-amylase inhibitor AI-3688,Kitasatospora aureofaciens,ATGSPAPDCVESFQSWRYTDVRNGCSDAVTVVVQYE,36
+P04126,Light-harvesting protein B-1015 gamma chain,Blastochloris viridis,YFAADGSVVPSISDWNLWVPLGILGIPTIWIALTYR,36
+P04358,Metallothionein,Agaricus bisporus,GDCGCSGASSCTCASGQCTCSGCGK,25
+P04567,Mast cell degranulating peptide,Bombus pensylvanicus,MCICKNGKPLPGFIGKICRKICMMQQTH,28
+P05393,Large ribosomal subunit protein bL12,Clostridium pasteurianum,MSKEQIIQAIKGMTVLELNELVKSIEEEFGVSAAAPV,37
+P07448,Dentinal fluid transport-stimulating peptide,Rattus norvegicus,GVIAWELQHNEPGRKDSTAG,20
+P07840,Large ribosomal subunit protein bL32,Geobacillus stearothermophilus,MAVPFRRTSKTRKRLRRTHFKLQVPGMVQCPNCGEWKLAHRVCKACGTYKGRDVVNK,57
+P08002,Metallothionein,Synechococcus sp,TSTTLVKCACEPCLCNVDPSKAIDRNGLYYCCEACADGHTGGSKGCGHTGCNC,53
+P08521,Arginine attenuator peptide,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),MFSLSNSQYTCQDYISDHIWKTSSH,25
+P08608,Scyliorhinin-1,Scyliorhinus canicula,AKFDKFYGLM,10
+P08939,Red pigment-concentrating hormone,Pandalus borealis,QLNFSPGW,8
+P09181,Lysis protein for colicin N,Escherichia coli,MCGKILLILFFIMTLSACQVNHIRDVKGGTVAPSSSSRLTGLKLSKRSKDPL,52
+P09355,Larval-specific very high density lipoprotein,Apis mellifera,VAPFPHGKLVTYKYIADVKAGVDPSLV,27
+P09680,Gastric inhibitory polypeptide,Bos taurus,YAEGTFISDYSIAMDKIRQQDFVNWLLAQKGKKSDWIHNITQ,42
+P09864,Bowman-Birk type proteinase inhibitor II-4,Triticum aestivum,ATRPWKCCDRAICTKSFPPMCRCMDMVEQCAATCKKCGPATSDSSRRVCEDXY,53
+P82336,Unknown protein from spot 125 of 2D-PAGE of thylakoid,Pisum sativum,XAEIEAEQNIE,11
+P82337,Unknown protein from spot 19 of 2D-PAGE of thylakoid,Pisum sativum,VLNQYLTELYYQVEANNKSYASNNELAVFPDQR,33
+P82338,Unknown protein from spots 23/28/205 of 2D-PAGE of thylakoid,Pisum sativum,ADLIERRQRSEFQFSAVGLGPRTDYEVDILTTFTKLNYEAYTYPR,45
+P82340,Unknown protein from spot 204 of 2D-PAGE of thylakoid,Pisum sativum,AESGFQPVVDRKGD,14
+P82341,Unknown protein from spot 251 of 2D-PAGE of thylakoid,Pisum sativum,XXEVAPEILDVXQF,14
+P82342,Unknown protein from spot 123 of 2D-PAGE of thylakoid,Pisum sativum,EETLSEXERVYL,12
+P82452,Large ribosomal subunit protein uL24,Spinacia oleracea,MKYNPRVSSNRRKS,14
+P82453,Large ribosomal subunit protein eL21,Spinacia oleracea,PAGHGARARTRDLFAR,16
+P82454,Large ribosomal subunit protein uL13,Spinacia oleracea,VSGSGIMAKRVVVDA,15
+P82537,Thylakoid lumenal 17 kDa protein,Spinacia oleracea,AESKKGFLPVIDKKDGYTFLYPFGGQEVSI,30
+P82657,Thylakoid lumenal 11 kDa protein,Spinacia oleracea,FKGGGPYGQGVTRGQDLSGKDF,22
+P82671,Thylakoid lumenal 9 kDa protein,Spinacia oleracea,GFLSGSTGIEXIPGPQL,17
+P82681,Thylakoid lumenal 13.8 kDa protein,Spinacia oleracea,LDEFRVYSDDANKYKISIPQD,21
+P82682,Thylakoid lumenal 14.7 kDa protein,Spinacia oleracea,KTGVNKPELLPKEETTVIDV,20
+P82694,Peptide hormone 1,Periplaneta americana,SDLTWTYQSPGDPTNSKN,18
+P82695,Peptide hormone 2,Periplaneta americana,LDLTPGSHVDSYVEA,15
+P82796,Thylakoid lumenal 22 kDa protein,Spinacia oleracea,EQSAGFREYIDFFDGYSLTY,20
+P82799,Thylakoid lumenal 18.4 kDa protein,Spinacia oleracea,DSPTPNTYNIYYGTAASAXN,20
+P82944,Seed allergenic protein 1,Prunus dulcis,VTXEEGXYSISDQSKVGEQXIRSPDREM,28
+P83010,13 kDa protein,Triakis scyllium,AGEPANNEDRFNY,13
+P83011,13.2 kDa protein,Scyliorhinus canicula,MIFTAXDRSAIEXV,14
+P83090,Thylakoid lumenal 20 kDa protein,Spinacia oleracea,RDVDVGSFLPKSPSDPSMVL,20
+P83092,Thylakoid lumenal 33.6 kDa protein,Spinacia oleracea,VLYSPDTKVPR,11
+P83151,Outer membrane protein W,Vibrio alginolyticus,HKQGDFVLRVGAASVVPNDS,20
+P83161,Putative RNA-binding protein RbpA,Anabaena sp. (strain L31),SIYVGNLSYD,10
+P83204,Placental protein,Ovis aries,TLNKVYKFDRDRRFL,15
+P83233,Verectin,Aloe vera,DEDNVLLT,8
+P83315,Glycosylation-dependent cell adhesion molecule 1,Lama glama,SLVSLNEPKDEIYMESQP,18
+P83329,Putative carbonic anhydrase,Streptococcus thermophilus,XXFENFLNANXAYVNLD,17
+P83352,Cuticle protein 16 isoform D,Limulus polyphemus,EIFPFNVPEGKNDPAFLQNLQQEALNYINQQQVPNLEKHKAEELKVAAKERAAYNAGYY,59
+P83357,Cuticle protein 10,Limulus polyphemus,LGEKGYSYSTGDSSVTVQHDTLPYSRYQGLYNYAHPGYNTYPYNQYQG,48
+P83358,Cuticle protein 6 isoform b,Limulus polyphemus,GYYYPYHGGHYYGAHYGGYPYGHFYNYRHTPYYSGLRYYGSYGYPHHF,48
+P83446,29 kDa outer membrane protein,Acinetobacter baumannii,DEAVVHDSYAFDKNQLIPVGARAE,24
+P83765,Preblooming protein 2,Prorocentrum triestinum,AEYDVSDADIEAFYQXXTMTW,21
+P83766,Preblooming protein 3,Prorocentrum triestinum,AEYDVSDADIEAFYQ,15
+P83767,Blooming-related protein 2,Prorocentrum triestinum,VSAEYLERQGPKDDXDCFDD,20
+P83854,Putative G-protein coupled receptor,Mus musculus,GPQQENMMEE,10
+P83855,Putative sperm adenylate cyclase,Mus musculus,GVYMEIGRCRXEAXRRRKEAV,21
+P83885,Allergen Ani s 4,Anisakis simplex,GMLGGSSDVDXNXP,14
+P84108,Flagellin-like protein,Gluconacetobacter diazotrophicus,SLSINTNTSEMIALQTLDA,19
+P84558,Large ribosomal subunit protein P1,Populus euphratica,LGAEISSLTLEEAR,14
+P84560,Glycine-rich RNA-binding protein 1,Populus euphratica,GFGFVTFGNEK,11
+P84564,Thioredoxin H-type,Populus euphratica,MIAPIFAELAKTVGADKDGLPTLVAK,26
+P84588,Heat shock cognate 71 kDa protein 2,Rattus norvegicus,STAGDTHLGGEDF,13
+P84721,Putative NAD(P)-dependent glyceraldehyde-3-phosphate dehydrogenase PS5,Pinus strobus,LVSMVDERAVAWRAHAMGNPVNLPWKLAAANLVPTSTAQK,40
+P84764,Large ribosomal subunit protein bL33,Ectopseudomonas mendocina,MRELIRLVSSAGTGHFYT,18
+P84876,Secreted protein F1,Globisporangium hypogynum,AMTEELEAVENNGVR,15
+P84877,Secreted protein F2,Globisporangium hypogynum,CSYPSKLCNNHRANVNQQRMQQKLIRQQMVER,32
+P84976,Glycine-rich RNA-binding protein 2,Populus euphratica,GIINDRETGRSRGFGFVTFNNEKGFGFVTFNNEKGFGFVTFNNEKSMR,48
+P84977,Glycine-rich RNA-binding protein 3,Populus euphratica,SRGFGFVTFGDEKGFGFVTFGDEKDAIEGMNGQDLDGRNITVNEAQSR,48
+P84985,Putative GDSL-motif lipase/hydrolase-like protein,Populus euphratica,QSPKDAYPYDISELVKDAYPYDISELVK,28
+P85096,Rubusin,Rubus idaeus,AVTSSVADTTTVVRDDF,17
+P85203,"Glucan endo-1,3-beta-glucosidase 1",Papiliotrema laurentii,VPATIPLTITNDSGG,15
+P85238,"Glucan endo-1,3-beta-glucosidase 2",Papiliotrema laurentii,APGDLLWSDEFDGAAGSAPNP,21
+P85304,Thylakoid lumenal 18.3 kDa protein,Spinacia oleracea,DLNKFEAEMRGEFGIXSA,18
+P85305,Thylakoid lumenal 25.3 kDa protein,Spinacia oleracea,AIANAPLLDTTITDRVFFD,19
+P85340,Thaumatin-like protein 2,Taxus baccata,NQCPQAYSYAK,11
+P85356,Thaumatin-like protein 4,Taxus baccata,DDPTSTFTCPGGSNYK,16
+P85357,Thaumatin-like protein 5,Taxus baccata,NACSSDLNSK,10
+P85358,Putative glycosyltransferase,Taxus baccata,LTPNTLSDLNSK,12
+P85414,Monocopper oxidase-like protein 1,Zinnia elegans,GSFVNPTTPIR,11
+P85844,Major urinary protein 2,Rattus norvegicus,NNVDKLNGDW,10
+P85904,Putative heat shock protein 1,Pseudotsuga menziesii,ELVSNASDALDKLR,14
+P85905,Translationally-controlled tumor protein homolog 2,Pseudotsuga menziesii,VVDIVDTFRNNIQGATK,17
+P85915,Elongation factor 1-alpha,Pseudotsuga menziesii,RXSDKPLRIGGIGTVPVGR,19
+P85917,Putative heat shock protein 2,Pseudotsuga menziesii,ELLSEINR,8
+P85936,"Protein DCL, chloroplastic",Pseudotsuga menziesii,AWVDWEDQILQDTVPLVNFVRMI,23
+P85937,Actin-2,Pseudotsuga menziesii,LAYVALDYEQELETAKSYELPDGQVITIGAER,32
+P85943,Non-symbiotic hemoglobin,Pseudotsuga menziesii,VFEIAPSAK,9
+P85947,Isoflavone reductase homolog 1,Pseudotsuga menziesii,GVYVIEEDVATYTIK,15
+P85957,Peroxidase,Pseudotsuga menziesii,AMAGTATVQGQGTR,14
+P86108,Venom peptide Ocy3,Opisthacanthus cayaporum,DNLKKRRRCADDD,13
+P86112,Venom peptide Ocy6,Opisthacanthus cayaporum,GWGRTIRTHXSIDLNXGE,18
+P86113,Venom peptide Ocy7,Opisthacanthus cayaporum,AKNSAEANENSXDANE,16
+P86337,Venom peptide 8,Brotheas amazonicus,ISDDIQSIIQGIF,13
+P86338,Venom peptide 7,Brotheas amazonicus,VAIRIIWSDIQD,12
+P86339,Venom peptide 4,Brotheas amazonicus,IIDFIPQIE,9
+P86340,Venom peptide 2,Brotheas amazonicus,IWSGIQSAF,9
+P86341,Venom peptide 1,Brotheas amazonicus,IWSGIQGAF,9
+P86343,Venom peptide 5,Brotheas amazonicus,FIGDIWSGIQG,11
+P86344,Venom peptide 3,Brotheas amazonicus,IGDIWSGIQG,10
+P86498,Keratin,Cervus elaphus,YSSQLAQVQGLIGNVESQLAEIR,23
+P86593,Tachykinin-related peptide 6,Pyrrhocoris apterus,APSSMGFMGMR,11
+P86690,Unknown protein 1,Ichthyophis tricolor,DWTYTTWLWWWWWWT,15
+P86691,Unknown protein 2,Ichthyophis tricolor,DDDDDDHTIEHFETF,15
+P69043,Oxytocin,Oryctolagus cuniculus,CYIQNCPLG,9
+P69106,Gonadoliberin-3,Clupea pallasii,QHWSYGWLPG,10
+P69129,Vasotocin,Petromyzon marinus,CYIQNCPRG,9
+P69145,FMRFamide,Macrocallista nimbosa,FMRF,4
+P69535,Tail virion protein G7P,Enterobacteria phage M13,MEQVADFDTIYQAMIQISVVLCFALGIIAGGQR,33
+P69538,Tail virion protein G9P,Enterobacteria phage M13,MSVLVYSFASFVLGWCLRSGITYFTRLMETSS,32
+P69592,DNA-binding protein J,Enterobacteria phage phiX174,MSKGKKRSGARPGRPQPLRGTKGKRKGARLWYVGGQQF,38
+P71031,"Small, acid-soluble spore protein O",Bacillus subtilis (strain 168),MVKRKANHVINGMNDAKSQGKGAGYIENDQLVLTEAERQNNKKRKTNQ,48
+P72717,Cytochrome b6-f complex subunit 8,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),MDILTLGWVSVLVLFTWSISMVVWGRNGF,29
+P74810,Cytochrome b6-f complex subunit 7,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),MTAESMLANGAFIMIGLTLLGLAWGFVIIKLQGSEE,36
+P77921,Cytochrome c oxidase subunit 4,Paracoccus denitrificans,MASHHEITDHKHGEMDIRHQQATFAGFIKGATWVSILSIAVLVFLALANS,50
+P80027,Cephalotocin,Octopus vulgaris,CYFRNCPIG,9
+P80055,Cytochrome P450 2A7,Papio sp.,MLASGLLLVALLACLTVMVL,20
+P80056,Cytochrome P450 3A5,Papio sp.,MDLIPDLAVETWLLLAVTLV,20
+P80083,"ATP synthase subunit beta, mitochondrial",Spinacia oleracea,ASSAAAAXAPSTPLA,15

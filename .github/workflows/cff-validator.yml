@@ -1,0 +1,27 @@
+name: CFF validation
+
+on:
+  push:
+    branches: [main]
+    paths: ["CITATION.cff"]
+  pull_request:
+    paths: ["CITATION.cff"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Validate CITATION.cff
+        run: |
+          pip install --upgrade pip cffconvert
+          cffconvert --validate --infile CITATION.cff
+      - name: Show rendered citation
+        run: cffconvert --infile CITATION.cff --format apalike

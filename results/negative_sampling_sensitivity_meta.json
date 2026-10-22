@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "n_features": 300,
+  "strategies": [
+    "baseline",
+    "length_matched",
+    "shuffled_positives"
+  ],
+  "fixed_test_set": true,
+  "note": "All strategies are evaluated on the identical held-out test split; only the composition of the training negatives changes."
+}

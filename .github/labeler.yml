@@ -1,0 +1,29 @@
+"docs":
+  - changed-files:
+      - any-glob-to-any-file: "docs/**"
+      - any-glob-to-any-file: "*.md"
+
+"src":
+  - changed-files:
+      - any-glob-to-any-file: "src/**"
+
+"upstream":
+  - changed-files:
+      - any-glob-to-any-file: "ampmodel/**"
+
+"tests":
+  - changed-files:
+      - any-glob-to-any-file: "test/**"
+      - any-glob-to-any-file: "tests/**"
+
+"ci":
+  - changed-files:
+      - any-glob-to-any-file: ".github/**"
+
+"results":
+  - changed-files:
+      - any-glob-to-any-file: "results/**"
+
+"figures":
+  - changed-files:
+      - any-glob-to-any-file: "figures/**"

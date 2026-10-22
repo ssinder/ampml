@@ -1,0 +1,7 @@
+Model,TN,FP,FN,TP
+Logistic Regression,148,37,32,167
+Random Forest,159,26,33,166
+SVM,157,28,32,167
+XGBoost,154,31,29,170
+Gradient Boosting,157,28,24,175
+Voting Ensemble,158,27,25,174

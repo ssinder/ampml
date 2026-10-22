@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "AMP-ML: A Reproducible Machine Learning Benchmark for Antimicrobial Peptide Classification"
+abstract: >-
+  A reproducible machine learning benchmark for antimicrobial peptide (AMP)
+  binary classification. The pipeline extracts 4,921 physicochemical and
+  sequence-derived descriptors from peptide sequences, selects 300 features via
+  a five-method competition, trains six models under nested cross-validation,
+  and evaluates them on a held-out independent test set (n=384) that is never
+  used for model selection. The repository ships a one-command reproduction
+  pipeline (run_all.sh), an environment self-check, a five-layer independent
+  verification audit covering 30 numerical checks, SHAP-based feature
+  attribution, publication-ready figures, and an explicit audit of negative-sample
+  distribution bias.
+type: software
+version: 0.1.0
+date-released: "2026-10-22"
+license: MIT
+repository-code: "https://github.com/ssinder/ampml"
+url: "https://github.com/ssinder/ampml"
+keywords:
+  - antimicrobial peptides
+  - bioinformatics
+  - machine learning
+  - reproducibility
+  - interpretability
+  - drug discovery
+authors:
+  - family-names: "ssinder"
+    given-names: "J"
+    alias: "ssinder"
+  - name: "AMP-ML Contributors"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.0000000"
+    description: "Zenodo concept DOI (auto-generated once the repository is linked to Zenodo)."

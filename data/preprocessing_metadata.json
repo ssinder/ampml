@@ -1,0 +1,35 @@
+{
+  "data_source": "rawdata/all_features_combined_standard.csv",
+  "total_samples": 2557,
+  "total_features": 4921,
+  "split_ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "sample_counts": {
+    "train": 1789,
+    "val": 384,
+    "test": 384
+  },
+  "class_distribution": {
+    "train": {
+      "L0": 861,
+      "L1": 928
+    },
+    "val": {
+      "L0": 185,
+      "L1": 199
+    },
+    "test": {
+      "L0": 185,
+      "L1": 199
+    }
+  },
+  "missing_values": "None",
+  "constant_features_count": 301,
+  "outliers_detected": 4430,
+  "imputer_strategy": "median",
+  "scaler_type": "StandardScaler",
+  "random_state": 42
+}

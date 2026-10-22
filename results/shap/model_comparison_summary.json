@@ -1,0 +1,51 @@
+{
+  "common_top20_features": [],
+  "unique_top20_features": {
+    "Logistic Regression": [
+      "CKSAAP_CF.gap4",
+      "DDE_QF",
+      "CKSAAP_EP.gap4",
+      "CKSAAP_IY.gap3",
+      "CKSAAP_MQ.gap2",
+      "CKSAAP_DH.gap3",
+      "EP",
+      "CKSAAP_YT.gap2",
+      "DDE_YV",
+      "CKSAAP_IN.gap3",
+      "CKSAAP_RQ.gap4",
+      "CKSAAP_MQ.gap4",
+      "CKSAAP_VS.gap3",
+      "CKSAAP_DI.gap3"
+    ],
+    "Random Forest": [
+      "CKSAAP_TE.gap5",
+      "CKSAAP_EF.gap3",
+      "CKSAAP_HY.gap1",
+      "CKSAAP_KM.gap4",
+      "CKSAAP_MN.gap1",
+      "KSCTriad_g6.g2.g5.gap0",
+      "CTriad_g5.g7.g4",
+      "KSCTriad_g5.g7.g4.gap0",
+      "CKSAAP_EN.gap4"
+    ],
+    "XGBoost": [
+      "CKSAAP_YS.gap4",
+      "CKSAAP_DP.gap2",
+      "CKSAAP_AT.gap5",
+      "CKSAAP_FE.gap5",
+      "CKSAAP_IF.gap5",
+      "CKSAAP_PS.gap5",
+      "CKSAAP_EN.gap5",
+      "CKSAAP_HC.gap5",
+      "CKSAAP_HC.gap2",
+      "CKSAAP_YF.gap1",
+      "CKSAAP_NS.gap1",
+      "CKSAAP_FP.gap2"
+    ],
+    "Gradient Boosting": [
+      "AutoCorr_5"
+    ]
+  },
+  "n_models": 4,
+  "n_common_features": 0
+}

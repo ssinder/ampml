@@ -1,0 +1,67 @@
+# ===== Python 环境 =====
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# ===== macOS / Windows =====
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# ===== 上游无效残留（Windows 版 venv，白占 1.3G） =====
+ampmodel/venv/
+
+# ===== 构建产物 =====
+_site/
+output/
+logs/
+help/
+
+# ===== 大体积可再生中间产物 =====
+# 说明：以下文件均可由 src/01 与 src/02 重新生成（约 15 分钟），
+#       因此不入库，以保持 clone 轻量。
+#       上游 78 MB 特征表通过 GitHub Release 资产分发，
+#       获取方式见 README「Quick start」与 docs/REPRODUCIBILITY.md。
+data/train_data.csv
+data/val_data.csv
+data/test_data.csv
+data/train_data_selected.csv
+data/val_data_selected.csv
+data/*.npy
+rawdata/*.csv
+
+# 上游特征提取的中间产物：全部可由 ampmodel/feature_extraction/ 再生，
+# 且与 rawdata/ 中的同名文件重复（MD5 7ce771dc55f1cf66d0dd28f8609c0bcb）。
+ampmodel/feature_extraction/features/results/*.csv
+ampmodel/feature_extraction/features/results/standardized_features/
+ampmodel/feature_extraction/features/results/ifeature/
+ampmodel/data_processing/**/*.xlsx
+
+# ===== 但以下小体积复现凭证必须入库 =====
+# 指标 CSV：README 与报告中所有数值的唯一权威来源
+!results/*.csv
+!data/selected_features.csv
+!data/test_data_selected.csv
+!data/sample_id_mapping.csv
+!data/feature_names_raw.csv
+!data/*metadata.json
+!results/training_metadata.json
+!results/verification_report.json
+!results/negative_sampling_sensitivity*.csv
+!results/negative_sampling_sensitivity_meta.json
+
+# ===== 临时文件 =====
+*.log
+*.tmp
+*.bak
+*.ipynb_checkpoints/

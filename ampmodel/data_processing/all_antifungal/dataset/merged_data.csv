@@ -1,0 +1,563 @@
+Camp_ID,gi,UniProt_id,PDBID,Title,Source_Organism,Taxonomy,Seqence,Length,Pubmed_id,Activity,Gram_Nature,Validation
+CAMPSQ4,10863973,P81172,"1M4E,1M4F,2KEF,3H0T",Hepcidin-20,Homo sapiens ,Animalia (Mammals),ICIFCCGCCHRSKCGMCCKT,20,11113131,"Antibacterial, Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ83,119852237,A1IKN3,,Preprotemporin-1SKa ,Rana sakuraii,Animalia (Amphibians),FLPVILPVIGKLLNGILGK,19,17174009,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ136,,P80070,,Tricholongin BI ,Trichoderma longibrachiatum ,Fungi,AGFAAQAAASLAPVAAQQL,19,1935961,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ144,146324981,P0C2U6,,Lycocitin-1,Lycosa singoriensis,Animalia (Arachnids),GKLQAFLAKMKEIAAQTL,18,14991689,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ145,146324982,P0C2U7,,Lycocitin-2,Lycosa singoriensis,Animalia (Arachnids),GRLQAFLAKMKEIAAQTL,18,14991689,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ215,18202402,P82419,,Ponericin-G6,Pachycondyla goeldii ,Animalia (Insects),GLVDVLGKVGGLIKKLLP,18,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ216,18202403,P82420,,Ponericin-G7, Pachycondyla goeldii ,Animalia (Insects),GLVDVLGKVGGLIKKLLPG,19,11279030,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ239,20664097,P82358,1KFP,Gomesin,Acanthoscurria gomesiana,Animalia (Arachnids),ZCRRLCYKQRCVTYCRGR,18,10942757,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ257,24637996,"P83080, Q58T74, Q58T41",,Maximin H1,Bombina maxima,Animalia (Amphibians),ILGPVISTIGGVLGGLLKNL,20,11835991,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ260,24637998,P83082,,Maximin H2,Bombina maxima,Animalia (Amphibians),ILGPVLSMVGSALGGLIKKI,20,11835991,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ262,24637999,"P83083, Q58T79 , Q58T77 , Q58T70 , Q58T68 , Q58T62 , Q58T52 , Q58T44 , Q58T42",,Maximin H3 ,Bombina maxima,Animalia (Amphibians),ILGPVLGLVGNALGGLIKKI,20,11835991,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ279,2498604,Q26464,,Pilosulin-2 ,Myrmecia pilosula,Animalia (Insects),GLLSKFGRLARKLARVIPKV,20,15639237,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ281,2500218,P56029,"1OT0,1P0G,1P0J,1P0L,1P0O,1P5K,1P5L",50S ribosomal protein L1 , Helicobacter pylori ,Bacteria,AKKVFKRLEKLFSKIQNDK,19,16255716,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ300,26391707,P83186,,Alpha-basrubrin,Basella alba ,Viridiplantae,GADFQECMKEHSQKQHQHQG,20,11688973,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ506,52782770,P84158,,Cucurmoschin,Cucurbita maxima,Viridiplantae,PQRGEGGRAGNLLREEQEI,19,14499274,Antifungal,,Experimentally Validated
+CAMPSQ775,,,,Dybowskin-6,Rana dybowskii,Animalia (Amphibians),FLPLLLAGLPLKLCFLFKKC,20,17698251,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ866,,,,Winter flounder Y,Pseudopleuronectes americanus,Animalia (Pisces),FFRLLFHGVHHGGGYLNAA,19,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ867,,Q7SZH0,,Winter flounder Z,Pseudopleuronectes americanus,Animalia (Pisces),FFRLLFHGVHHVGKIKPRA,19,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ870,32396190,Q7SZG8,,Witch flounder GC3.8-t,Glyptocephalus cynoglossus,Animalia (Pisces),GWKKWLRKGAKHLGQAAIK,19,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1064,,,,CGA 41-60,Synthetic construct,,TLRGDERILSILRHQNLLKE,20,10753865,Antifungal,,Experimentally Validated
+CAMPSQ1141,,,,Tricholongin BII,Trichoderma longibrachiatum ,Fungi,AGFAAQAAASLAPVAIQQL,19,1935961,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ1165,193885211,,"2RLH, 2RLG", Rp-1,Synthetic construct,,ALYKKFKKKLLKSLKRLG,18,18712851,"Antibacterial, Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1316,68052293,Q58T87,,Maximin H12,Bombina maxima,Animalia (Amphibians),LLGPVLGLVSNALGGLLKNI,20,11835991,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1321,68052844,"Q58T95, Q58T65 , Q58T64 , Q58T48",,Maximin-H11,Bombina maxima,Animalia (Amphibians),ILGPVLGLVGSALGGLIKKI,20,,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1322,68052842,"Q58T93, Q58T40",,Maximin-H16,Bombina maxima,Animalia (Amphibians),ILGPVLSLVGNALGGLIKKI,20,,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ22,110348525,A0SN46,,Amolopin-2a ,Amolops loloensis,Animalia (Amphibians),FLPIVGKLLSGLSGLL,16,17000029,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ114,1296456,P54228,2KET,Myeloid antimicrobial peptide BMAP-27 ,Bos taurus ,Animalia (Mammals),GRFKRFRKKFKKLFKKLS,18,8910461,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ115,1296458,P54229,,Myeloid antimicrobial peptide BMAP-28,Bos taurus ,Animalia (Mammals),GGLRSLGRKILRAWKKYG,18,8910461,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ118,130777,P14215,"1RKK,1X7K,2B5K",Polyphemusin-1 ,Limulus polyphemus ,Animalia,RRWCFRVCYRGFCYRKCR,18,2514185,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ119,130778,P14216,,Polyphemusin-2 ,Limulus polyphemus ,Animalia,RRWCFRVCYKGFCYRKCR,18,2514185,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ133,135267,P14214,,Tachyplesin-2 ,Tachypleus tridentatus ,Animalia,RWCFRVCYRGICYRKCR,17,2514185,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ175,158705868,A0SPI0,,Mastoparan-like peptide 12c precursor,Vespa magnifica ,Animalia (Insects),INLKAIAALAKKLLG,15,17046111,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ301,26391709,P83187,,Beta-basrubin,Basella alba ,Viridiplantae,KIMAKPSKFYEQLRGR,16,11688973,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ329,29336553,Q90WP7,,Peptide leucine arginine precursor ,Rana pipiens,Animalia (Amphibians),LVRGCWTKSYPPKPCFVR,18,14636071,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ358,32396192,Q7SZG7,,Pleurocidin-like peptide GC3.2,Glyptocephalus cynoglossus,Animalia (Pisces),GWKKWFTKGERLSQRHFA,18,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ457,41688618,P83663,,Ranacyclin-E,Rana esculenta (edible frog ),Animalia (Amphibians),SAPRGCWTKSYPPKPCK,17,14636071,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ481,47117121,P83719,,Ranacyclin-T,Rana temporaria,Animalia (Amphibians),GALRGCWTKSYPPKPCK,17,14636071,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ547,59798978,P84381,,Antimicrobial peptide 7 ,Xenopus tropicalis,Animalia (Amphibians),GLLGPLLKIAAKVGSNLL,18,11738090,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ552,59798983,P84386,,Antimicrobial peptide 6 ,Xenopus tropicalis,Animalia (Amphibians),GFLGSLLKTGLKVGSNLL,18,11738090,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ653,91208278,P84797,,Agrocybin,Agrocybe cylindracea ,Fungi,ANDPQCLYGNVAAKF,15,15629530,"Antibacterial,Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ690,160380514,P0C5X0,,"Brevinin-1DYe , Dybowskin-2",Rana dybowskii,Animalia (Amphibians),FLIGMTQGLICLITRKC,17,"17688900 , 17698251","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ691,160380513,P0C5W9,,"Brevinin-1DYd , Dybowskin-1",Rana dybowskii,Animalia (Amphibians),FLIGMTHGLICLISRKC,17,17688900 17698251,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ714,,A6MBS3,,Odorranain-U1 antimicrobial peptide,Odorrana grahami,Animalia (Amphibians),GCSRWIIGIHGQICRD,16,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ747,206944351,B6D434,,Cathelicidin-BF-15,Bungarus fasciatus,Animalia (Reptiles),KFFRKLKKSVKKRAK,15,18795096,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ859,1730504,P32195,,Protegrin-2,Sus scrofa,Animalia (Mammals),RGGRLCYCRRRFCICV,16,8335113,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ860,1730505,P32196,"1KWI,1LXE,1PFP",Protegrin-3,Sus scrofa,Animalia (Mammals),RGGGLCYCRRRFCVCVGR,18,8335113,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1236,109940031,P81904,,Histone H2B 3 ,Ictalurus punctatus,Animalia (Pisces),PDPAKTAPKKKSKKAVT,17,9645227,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ2026,57013024,P84334,,Thaumatin-like protein,Cassia didymobotrya,Viridiplantae,ATITFTNKCTRTVWPGG,17,,Antifungal,,Experimentally Validated
+CAMPSQ2304,332310267,P86896,,Putative antimicrobial peptide 2,Lippia sidoides  ,Viridiplantae,PPEAAYGPGNTNSDSGDK,18,21210197,Antifungal,,Experimentally Validated
+CAMPSQ2305,332310247,P86895,,Putative antimicrobial peptide 1,Lippia sidoides  ,Viridiplantae,ALYNSEDLYEETSDSDD,17,21210197,Antifungal,,Experimentally Validated
+CAMPSQ11,110278920,P0C1M3,,Vespid chemotactic peptide 5g,Vespa magnifica ,Animalia (Insects),FLIIRRPIVLGLL,13,16330062,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ14,110279044,P0C1M4,,Mastoparan-like peptide 12a,Vespa magnifica ,Animalia (Insects),INWKGIAAMAKKLL,14,16330062,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ16,110279046,P0C1M5,,Mastoparan-like peptide 12b,Vespa magnifica ,Animalia (Insects),INWKGIAAMKKLL,13,16330062,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ23,110348531,A0SN48,,Amolopin-2b,Amolops loloensis,Animalia (Amphibians),FLPIVGKLLSGLL,13,17000029,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ24,110348533,A0SN50,,Amolopin-2c, Amolops loloensis,Animalia (Amphibians),LLPIVGKLLSGLL,13,17000029,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ170,157872589,,1D6X,Tritrpticin ,Sus scrofa,Animalia (Mammals),VRRFPWWWPFLRR,13,8706838,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ176,158705869,P0C5G7,,Mastoparan-like peptide 12d,Vespa magnifica ,Animalia (Insects),INLKAIAAMAKKLL,14,17046111,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ267,2493350,P79874,,Temporin-B,Rana temporaria,Animalia (Amphibians),LLPIVGNLLKSLL,13,9022710,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ448,41018252,P82883,,Temporin-1Cd,Rana clamitans,Animalia (Amphibians),FLPFLASLLSKVL,13,10822101,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ498,51316202,P84073,,Ribosome-inactivating protein luffacylin ,Luffa aegyptiaca,Viridiplantae,PRGSPRTEYEAARR,14,12126727,Antifungal,,Experimentally Validated
+CAMPSQ533,56748934,P84292,,Hylaseptin-P1 ,Hypsiboas punctatus,Animalia (Amphibians),GILDAIKAIAKAAG,14,14715660,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ707,,,,OdG1,Odorrana grahami,Animalia (Amphibians),FMPILSCSRFKRC,13,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ711,,,,OdR1,Odorrana grahami,Animalia (Amphibians),GFSPNLPGKGLRIS,14,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ712,,A6MBR9,,OdS1,Odorrana grahami,Animalia (Amphibians),FLPPSPWKETFRTS,14,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ713,,,,OdT1,Odorrana grahami,Animalia (Amphibians),TSRCYIGYRRKWCS,14,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ774,,,,Dybowskin-4,Rana dybowskii,Animalia (Amphibians),VWPLGLVICKALKIC,15,17698251,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ788,84468533,Q2PGA8,,Temporin-1TGa,Rana tagoi ,Animalia (Amphibians),FLPILGKLLSGIL,13,"12804591 , 16675060","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ846,2507565,P80511,"1E8A,1GQM,1ODB,2WC8,2WCB,2WCE,2WCF",Calcitermin,Homo sapiens ,Animalia (Mammals),VAIALKAAHYHTHKE,15,11522286,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ1003,,,,Temporin-1Sa,Pelophylax saharica,Animalia (Amphibians),FLSGIVGMLGKLF,13,18584916,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1004,,,,Temporin-1Sb,Pelophylax saharica,Animalia (Amphibians),FLPIVTNLLSGLL,13,18584916,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1005,,,,Temporin-1Sc,Pelophylax saharica,Animalia (Amphibians),FLSHIAGFLSNLF,13,18584916,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1057,158706431,A0SPI1,,Vespid chemotactic peptide 5h,Vespa magnifica ,Animalia (Insects),FLPIIGKLLSGLL,13,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1063,,,,CGA 47-60,Synthetic construct,,RILSILRHQNLLKE,14,10753865,Antifungal,,Experimentally Validated
+CAMPSQ1110,26391011,P83137,,Antifungal protein 3,Malva parviflora,Viridiplantae,PEDPQRRYQEEQRRE,15,11302747,Antifungal,,Experimentally Validated
+CAMPSQ1120,68064398,P83957,,Thaumatin-like protein,Castanopsis chinensis,Viridiplantae,AKITFTNNHPRTIWP,15,12565869,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ6,109892826,P84866,,Pleurostatin,Pleurotus ostreatus ,Fungi,VRPYLVAF,8,15941607,Antifungal,,Experimentally Validated
+CAMPSQ7,109894868,P84868,,Sesquin,Vigna unguiculata subsp. sesquipedalis ,Viridiplantae,KTCENLADTY,10,15949629,"Antibacterial, Antifungal, Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ9,110278918,P0C1M1,,Vespid chemotactic peptide 5e,Vespa magnifica ,Animalia (Insects),FLPIIAKLLGGLL,13,16330062,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ10,110278919,P0C1M2,,Vespid chemotactic peptide 5f,Vespa magnifica ,Animalia (Insects),FLPIPRPILLGLL,13,16330062,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ17,110287794,P84869,,Antifungal lectin PVAP,Phaseolus vulgaris ,Viridiplantae,SNDIYFNFQR,10,16026901,Antifungal,,Experimentally Validated
+CAMPSQ87,122004,P02264,,Histone H2A,Oncorhynchus mykiss,Animalia (Pisces),AERVGAGAPVYL,12,12164782,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ120,13431930,P82651,,Tigerinin-1,Hoplobatrachus tigerinus ,Animalia (Amphibians),FCTMIPIPRCY,11,11031261,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ121,13431931,P82652,,Tigerinin-2,Hoplobatrachus tigerinus ,Animalia (Amphibians),RVCFAIPLPICH,12,11031261,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ122,13431932,P82653,,Tigerinin-3,Hoplobatrachus tigerinus ,Animalia (Amphibians),RVCYAIPLPICY,12,11031261,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ123,13431933,P82654,,Tigerinin-4,Hoplobatrachus tigerinus ,Animalia (Amphibians),RVCYAIPLPIC,11,11031261,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ497,51315827,P84071,,Ascalin, Allium cepa var. aggregatum,Viridiplantae,YQCGQGG,7,12126728,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ519,55583845,P84200,,Gymnin,Gymnocladus chinensis ,Viridiplantae,KTCENLADDY,10,14499273,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ593,71153693,P84528,,Antimicrobial ribonuclease,Lentinus sajor-caju,Fungi,DNGEAGRAAR,10,15003351,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ651,90109840,P84760,,Alveolarin,Polyporus alveolaris ,Fungi,GVCDMADLA,9,15165727,Antifungal,,Experimentally Validated
+CAMPSQ652,90183454,P84785,,Coccinin,Phaseolus coccineus ,Viridiplantae,KQTENLADTY,10,15572193,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ654,91208279,P84796,,Alliumin,Allium sativum,Viridiplantae,DDFLCAGGCL,10,15629528,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ665,20138866,O18330,,Jellein-1 ,Apis mellifera,Animalia (Insects),PFKISIHL,8,15203237,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ666,20138866,O18330,,Jellein-2,Apis mellifera,Animalia (Insects),TPFKISIHL,9,15203237,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ715,,,,OdV1,Odorrana grahami,Animalia (Amphibians),GLLSGTSVRGST,12,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ731,23200406,,1M02,Pw2,Synthetic construct,,HPLKQYWWRPSI,12,11849705,"Antifungal, Antiparasitic",,Experimentally Validated
+CAMPSQ736,193805999,P85870,,Decoralin,Oreumenes decoratus,Animalia (Insects),SLLSLIRKLIT,11,17981364,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ749,110560642,A6MBP9,,Odorranain-N1,Odorrana grahami,Animalia (Amphibians),DEKGPKWKR,9,17272268,Antifungal,,Experimentally Validated
+CAMPSQ771,,,,Antifungal protein from coconut,Cocos nucifera,Viridiplantae,EQCREEEDDR,10,16308082,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ1091,223635095,P86168,,Colutellin-A,Colletotrichum dematium,Fungi,VISIIPV,7,18599825,Antifungal,,Experimentally Validated
+CAMPSQ1607,71153732,Q9GLR2,,Demidefensin-3 ,Macaca mulatta,Animalia (Mammals),RCICVLGIC,9,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1113,6093527,P12670,2I0W,Protein NP24,Solanum lycopersicum,Viridiplantae,ATIEVRNNCPYTVWAASTPIGGGRRLNRGQTWVINAPRGTKMARIWGRTGCNFNAAGRGTCQTGDCGGVLQCTGWGKPPNTLAEYALDQFSNLDFWDISLVDGFNIPMTFAPTKPSGGKCHAIHCTANINGECPRALKVPGGCNNPCTTFGGQQYCCTQGPCGPTELSKFFKKRCPDAYSYPQDDPTSTFTCPGGSTNYRVVFCPNGVADPNFPLEMPASTDEVAK,226,9115696,Antifungal,,Experimentally Validated
+CAMPSQ1535,123978,P13867,,Antifungal protein,Zea mays ,Viridiplantae,AVFTVVNQCPFTVWAASVPVGGGRQLNRGESWRITAPAGTTAARIWARTGCQFDASGRGSCRTGDCGGVVQCTGYGRAPNTLAEYALKQFNNLDFFDISILDGFNVPYSFLPDGGSGCSRGPRCAVDVNARCPAELRQDGVCNNACPVFKKDEYCCVGSAANNCHPTNYSRYFKGQCPDAYSYPKDDATSTFTCPAGTNYKVVFCP,206,1731773,Antifungal,,Predicted
+CAMPSQ1545,418127,Q01591,,Osmotin-like protein TPM-1,Solanum lycopersicum,Viridiplantae,ATFEVRNNCPYTVWAASTPIGGGRRLDRGQTWVINAPRGTKMARIWGRTNCNFDGDGRGSCQTGDCGGVLQCTGWGKPPNTLAEYALDQFSNLDFWDISLVDGFNIPMTFAPTNPSGGKCHAIHCTANINGECPGSLRVPGGCNNPCTTFGGQQYCCTQGPCGPTDLSRFFKQRCPDAYSYPQDDPTSTFTCPSGSTNYRVVFCPNGVTSPNFPLEMPSSDEEAK,225,8278538,Antifungal,,Predicted
+CAMPSQ1546,1731426,P33679,1DU5,Zeamatin,Zea mays ,Viridiplantae,AAVFTVVNQCPFTVWAASVPVGGGRQLNRGESWRITAPAGTTAARIWARTGCKFDASGRGSCRTGDCGGVLQCTGYGRAPNTLAEYALKQFNNLDFFDISLIDGFNVPMSFLPDGGSGCSRGPRCAVDVNARCPAELRQDGVCNNACPVFKKDEYCCVGSAANDCHPTNYSRYFKGQCPDAYSYPKDDATSTFTCPAGTNYKVVFCP,207,7846159,Antifungal,,Predicted
+CAMPSQ1589,129098,P25871,1AUN,Pathogenesis-related protein PR-5d,Nicotiana tabacum,Viridiplantae,SGVFEVHNNCPYTVWAAATPVGGGRRLERGQSWWFWAPPGTKMARIWGRTNCNFDGAGRGWCQTGDCGGVLECKGWGKPPNTLAEYALNQFSNLDFWDISVIDGFNIPMSFGPTKPGPGKCHGIQCTANINGECPGSLRVPGGCNNPCTTFGGQQYCCTQGPCGPTELSRWFKQRCPDAYSYPQDDPTSTFTCTSWTTDYKVMFCPYGSAHNETTNFPLEMPTSTHEVAK,230,9297844,Antifungal,,Predicted
+CAMPSQ1656,75296769,Q7Y238,,Hevein-like antimicrobial peptide,Euonymus europaeus,Viridiplantae,QQCGRQAGNRRCANNLCCSQYGYCGRTNEYCCTSQGCQSQCRRCGVRTVGEIVVGDIGGIISKGMFNNILKHRDDDACEGKGFYTYEAFVAAARSFPAFGSTGDDATRKREIAAFLAQTSHETSAGWPSAPDGPYAWGYCFVRERNPPSKYCDTTTPCPKSYYGRGPIQLTWNYNYEQAGRAIGADLLNNPDLVATDAVISFKTAIWFWMTAQSSKPSCHDVITGSWRPSASDNSVCHVPDYAVVTNIISGEIEY,299,15048569,Antifungal,,Predicted
+CAMPSQ1683,28380030,P59287,,Casbene synthase,Ricinus communis,Viridiplantae,STTHQEVRPLAYFPPTVWGNRFASLTFNPSEFESYDERVIVLKKKVKDILISSTSDSVETVILIDLLCRLGVSYHFENDIEELLSKIFNSQPDLVDEKECDLYTAAIVFRVFRQHGFKMSSDVFSKFKDSDGKFKESLRGDAKGMLSLFEASHLSVHGEDILEEAFAFTKDYLQSSAVELFPNLKRHITNALEQPFHSGVPRLEARKFIDLYEADIECRNETLLEFAKLDYNRVQLLHQQELCQFSKWWKDLNLA,545,8954576,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1689,,P25871,1AUN,Osmotin-like protein,Nicotiana tabacum,Viridiplantae,SGVFEVHNNCPYTVWAAATPVGGGRRLERGQSWWFWAPPGTKMARIWGRTNCNFDGAGRGWCQTGDCGGVLECKGWGKPPNTLAEYALNQFSNLDFWDISVIDGFNIPMSFGPTKPGPGKCHGIQCTANINGECPGSLRVPGGCNNPCTTFGGQQYCCTQGPCGPTELSRWFKQRCPDAYSYPQDDPTSTFTCTSWTTDYKVMFCPYG,208,9297844,Antifungal,,Predicted
+CAMPSQ1975,132580,P04399,,Protein synthesis inhibitor II,Hordeum vulgare,Viridiplantae,AAKMAKNVDKPLFTATFNVQASSADYATFIAGIRNKLRNPAHFSHNEPVLPPVEPNVPPSRWFHVVLKASPTSAGLTLAIRADNIYLEGFKSSDGTWWELTPGLIPGATYVGFGGTYRDLLGDTDKLTNVALGRQQLEDAVTALHGRTKADKASGPKQQQAREAVTTLLLMVNEATRFQTVSGFVAGLLHPKAVEKKSGKIGNEMKAQVNGWQDLSAALLKTDVKPPPGKSPAKFTPIEKMGVRTAEQAAATLGI,280,3942788,Antifungal,,Predicted
+CAMPSQ2028,25091419,Q9SMH2,,Thaumatin-like protein1,Castanea sativa,Viridiplantae,AKITFTNNCPRTIWPGTLTSDQKPQLPNTGFVLASKASLTLGVQAPWKGRFWARTRCTTNSGKFTCETADCSTGQVACNGNGAIPPASLVEINIAANRGMDFYDVSLVDGYNLPVSVATRGGTGDCKATSCRANVNAVCPAELQVKGSDASVLACKSACTAFNQPQYCCTGAFDTARTCPATKYSRIFKQQCPQAYSYAYDDSTSTFTCSGAPDYVITFCP,221,,Antifungal,,Predicted
+CAMPSQ2034,132577,P22244,"4FB9,4FBA,4FBB,4FBC,4FBH",Protein synthesis inhibitor I,Hordeum vulgare,Viridiplantae,AAKMAKNVDKPLFTATFNVQASSADYATFIAGIRNKLRNPAHFSHNRPVLPPVEPNVPPSRWFHVVLKASPTSAGLTLAIRADNIYLEGFKSSDGTWWELTPGLIPGATYVGFGGTYRDLLGDTDKLTNVALGRQQLADAVTALHGRTKADKPSGPKQQQAREAVTTLLLMVNEATRFQTVSGFVAGLLHPKAVEKKSGKIGNEMKAQVNGWQDLSAALLKTDVKPPPGKSPAKFAPIEKMGVRTAVQAANTLGI,280,,Antifungal,,Predicted
+CAMPSQ2163,,P17931,"1A3K,1KJL,1KJR,2NMN,2NMO,2NN8,2XG3,3AYA,3AYC,3AYD,3AYE,3T1L,3T1M,3ZSJ,3ZSK,3ZSL,3ZSM",Galectin-3,Homo sapiens ,Animalia (Mammals),ADNFSLHDALSGSGNPNPQGWPGAWGNQPAGAGGYPGASYPGAYPGQAPPGAYPGQAPPGAYPGAPGAYPGAPAPGVYPGPPSGPGAYPSSGQPSATGAYPATGPYGAPAGPLIVPYNLPLPGGVVPRMLITILGTVKPNANRIALDFQRGNDVAFHFNPRFNENNRRVIVCNTKLDNNWGREERQSVFPFESGKPFKIQVLVEPDHFKVAVNDAHLLQYNHRVKKLNEISKLGISGDIDLTSASYTMI,249,16982911,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ322,2833324,Q25055,,Holotricin-3,Holotrichia diomphalia,Animalia (Insects),YGPGDGHGGGHGGGHGGGHGNGQGGGHGHGPGGGFGGGHGGGHGGGGRGGGGSGGGGSPGHGAGGGYPGGHGGGHHGGYQTHGY,84,8535393,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ852,116242500,P22749,1L9L,Granulysin,Homo sapiens ,Animalia (Mammals),RLSPEYYDLARAHLRDEEKSCPCLAQEGPQGDLLTKTQELGRDYRTCLTIVQKLKKMVDKPTQRSVSNAATRVCRTGRSRWRDVCRNFMRRYQSRVTQGLVAGETAQQICEDLRLCIPSTGPL,123,10644038,"Antibacterial,Antifungal,Antiparasitic","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ908,2833331,Q27270,,Tenecin-3,Tenebrio molitor,Animalia (Insects),DHHDGHLGGHQTGHQGGQQGGHLGGQQGGHLGGHQGGQPGGHLGGHQGGIGGTGGQQHGQHGPGTGAGHQGGYKTHGH,78,8573176,Antifungal,,Experimentally Validated
+CAMPSQ910,21311450,Q8MVY9,,Antifungal peptide gallerimycin,Galleria mellonella,Animalia (Insects),MKIAFIVAISLAFLAVTSCIEFEKSTESHDIQKRGVTITVKPPFPGCVFYECIANCRSRGYKNGGYCTINGCQCLR,76,12811766,Antifungal,,Experimentally Validated
+CAMPSQ944,2493577,P80957,"2RNG,2RQ2",Big defensin,Tachypleus tridentatus ,Animalia,NPLIPAIYIGATVGPSVWAYLVALVGAAAVTAANIRRASSDNHSCAGNRGWCRSKCFRHEYVDTYYSAVCGRYFCCRSR,79,8586631,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ947,2497758,Q41258,,Antimicrobial protein Ace-AMP1,Allium cepa,Viridiplantae,QNICPRVNRIVTPCVAYGLGRAPIAPCCRALNDLRFVNTRNLRRAACRCLVGVVNRNPGLRRNPRFQNIPRDCRNTFVRPFWWRPRIQCGRIN,93,7480341,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ948,57012935,Q43871,,Non-specific lipid-transfer protein Cw18 precursor,Hordeum vulgare,Viridiplantae,AITCGQVSSALGPCAAYAKGSGTSPSAGCCSGVKRLAGLARSTADKQATCRCLKSVAGAYNAGRAAGIPSRCGVSVPYTISASVDCSKIH,90,8420795,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ949,6225764,Q43767,,Non-specific lipid-transfer protein 4.1,Hordeum vulgare,Viridiplantae,AISCGQVSSALSPCISYARGNGAKPPAACCSGVKRLAGAAQSTADKQAACKCIKSAAGGLNAGKAAGIPSMCGVSVPYAISASVDCSKIR,90,8420795,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ950,2497734,Q43748,,Non-specific lipid-transfer protein,Beta vulgaris,Viridiplantae,ITCGLVASKLAPCIGYLQGAPGPSAACCGGIKSLNSAAASPADRKTACTCLKSAATSIKGINYGKAASLPRQCGVSVPYAISPNTNCNAIH,91,8790287,Antifungal,,Experimentally Validated
+CAMPSQ955,122248693,Q2QYL3,,Non-specific lipid-transfer protein 3,Oryza sativa Japonica Group,Viridiplantae,AVSCGDVTSSIAPCLSYVMGRESSPSSSCCSGVRTLNGKASSSADRRTACSCLKNMASSFRNLNMGNAASIPSKCGVSVAFPISTSVDCSKIN,93,14659081,Antifungal,,Experimentally Validated
+CAMPSQ960,3121752,P80915,1C01,Antimicrobial peptide 1 MiAMP1,Macadamia integrifolia ,Viridiplantae,SAFTVWSGPGCNNRAERYSKCGCSAIHQKGGYDFSYTGQTAALYNQAGCSGVAHTRFGSSARACNPFGWKSIFIQC,76,9108242,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ1035,,P04284,1CFE,P14a,Solanum lycopersicum,Viridiplantae,QNSPQDYLAVHNDARAQVGVGPMSWDANLASRAQNYANSRAGDCNLIHSGAGENLAKGGGDFTGRAAVQLWVSERPSYNYATNQCVGGKKCRHYTQVVWRNSVRLGCGRARCNNGWWFISCNYDPVGNWIGQRPY,135,7784503,Antifungal,,Experimentally Validated
+CAMPSQ1105,20139729,Q9H1E1,2HKY,Ribonuclease7,Homo sapiens ,Animalia (Mammals),KPKGMTSSQWFKIQHMQPSPQACNSAMKNINKHTKRCKDLNTFLHEPFSSVAATCQTPKIACKNGDKNCHQSHGPVSLTMCKLTSGKYPNCRYKEKRQNKSYVVACKPPQKKDSQQFHLVPVHLDRVL,128,"12244054 ,17150966","Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ1125,1709917,Q10464,,Puroindoline-B,Triticum aestivum,Viridiplantae,EVGGGGGSQQCPQERPKLSSCKDYVMERCFTMKDFPVTWPTKWWKGGCEHEVREKCCKQLSQIAPQCRCDSIRRVIQGRLGGFLGIWRGEVFKQLQRAQSLPSKCNMGADCKFPSGYYW,119,"12668449 , 16240178","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1508,52782738,Q8I948,,Acanthoscurrin-1,Acanthoscurria gomesiana,Animalia (Arachnids),DVYKGGGGGRYGGGRYGGGGGYGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGRGGGYGGGGGYGGGYGGGYGGGKYK,132,12818635,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ1690,157876964,Q9RCK8,"1G6E , 1GH5",Antifungal Protein 1,Streptomyces tendae,Bacteria,XINRTDCNENSYLEIHNNEGRDTLCFANAGTMPVAIYGVNWVESGNNVVTLQFQRNLSDPRLETITLQKWGSWNPGHIHEILSIRIX,87,11350173,Antifungal,,Predicted
+CAMPSQ1805,52782737,Q8I6R7,,Acanthoscurrin-2,Acanthoscurria gomesiana,Animalia (Arachnids),DVYKGGGGGRYGGGRYGGGGGYGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGGLGGGGLGGGKGLGGGGLGGGGLGGGRGGYGGGGYGGGYGGGYGGGKYKG,131,12818635,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ1949,224493299,P0C8W5,,Hg-scorpine-like 2,Hadrurus gertschi,Animalia (Arachnids),GILREKYAHKAIDVLTPMIGVPVVSKIVNNAAKQLVHKIAKNQQLCMFNKDVAGWCEKSCQQSAHQKGYCHGTKCKCGIPLNYK,84,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1953,74845676,Q5WR01,,Opiscorpine-2,Opistophthalmus carinatus,Animalia (Arachnids),KWLNEKSIQNKIDEKIGKNFLGGMAKAVVHKLAKNEFMCMANMDPTGSCETHCQKASGEKGYCHGTKCKCGVPLSY,76,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1954,74845675,Q5WQZ9,,Opiscorpine-4,Opistophthalmus carinatus,Animalia (Arachnids),KWLNEKSIQNKIDEKIGKNFLGGMAKAVVHKLAKNEFMCVANIDMTKSCDTHCQKASGEKGYCHGTKCKCGVPLSY,76,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1955,74845673,Q5WQZ7,,Opiscorpine-3,Opistophthalmus carinatus,Animalia (Arachnids),KWLNEKSIQNKIDEKIGKNFLGGMAKAVVHKLAKNEFMCVANVDMTKSCDTHCQKASGEKGYCHGTKCKCGVPLSY,76,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1973,190358875,P81370,,Thaumatin-like protein,Actinidia deliciosa,Viridiplantae,ATFNIINNCPFTVWAAAVPGGGKRLDRGQNWIINPGAGTKGARVWPRTGCNFDGAGRGKCQTGDCNGLLQCQAFGQPPNTLAEYALNQFNNLDFFDISLVDGFNVAMEFSPTSGGCTRGIKCTADINGQCPNELRAPGGCNNPCTVFKTDQYCCNSGNCGLTNFSKFFKDRCPDAYSYPKDDQTSTFTCPAGTNYKVVFCP,201,,Antifungal,,Predicted
+CAMPSQ2021,75172332,Q9FSI9,,Hordoindoline-B1,Hordeum vulgare,Viridiplantae,QYSVGGGYNDVGGGGGSQQCPQERPNLGSCKDYVMERCFTMKDFPLTWPTKWWKGGCEQEVREKCCQQLSQIAPQCRCDAIRGVIQGKLGGIFGIGGGDVFKQIQRAQILPSKCNMGADCKFPSGYYW,128,,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ2162,,P06702,1IRJ,Calprotectin,Homo sapiens ,Animalia (Mammals),MTCKMSQLERNIETIINTFHQYSVKLGHPDTLNQGEFKELVRKDLQNFLKKENKNEKVIEHIMEDLDTNADKQLSFEEFIMLMARLTWASHEKMHEGDEGPGHHHKPGLGEGTP,114,12874352,Antifungal,,Experimentally Validated
+CAMPSQ2165,,P03973,,SLPI,Homo sapiens ,Animalia (Mammals),SGKSFKAGVCPPKKSAQCLRYKKPECQSDWQCPGKKRCCPDTCGIKCLDPVDTPNPTRRKPGKCPVTYGQCLMLNPPNFCEMDGQCKRDLKCCMGMCGKSCVSPVKA,107,16336202,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Predicted
+CAMPSQ117,129874,P02775,"1F9P,1NAP,1TVX",Platelet basic protein precursor ,Homo sapiens ,Animalia (Mammals),AELRCMCIKTTSGIHPKNIQSLEVIGKGTHCNQVEVIATLKDGRKICLDPDAPRIKKIVQKKLAGD,66,10877842,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ344,3024416,P81058,1UEO,Penaeidin-3a ,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),QVYKGGYTRPIPRPPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYS,62,"9353298 , 10561573","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ621,74782548,Q5WR03,,Opiscorpine-1,Opistophthalmus carinatus,Animalia (Arachnids),KWFNEKSIQNKIDEKIGKNFLGGMAKAVVHKLAKNEFMCVANVDMTKSCDTHCQKASGEKGYCHGTKCKCGVPLSY,76,15241551,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ626,75207036,Q9SPL5,,Vicilin-like antimicrobial peptides 2-1 precursor ,Macadamia integrifolia ,Viridiplantae,RQRDPQQQYEQCQKHCQRRETEPRHMQTCQQRCERRYEKEKRKQQKRYEEQQREDEEKYEERMKEEDN,68,10571855,Antifungal,,Experimentally Validated
+CAMPSQ744,75164757,Q948Z4,,Snakin-1,Solanum tuberosum,Viridiplantae,GSSFCDSKCKLRCSKAGLADRCLKYCGICCEECKCVPSGTYGNKHECPCYRDKKNSKGKSKCP,63,11891250,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ745,75249332,Q93X17,,Snakin-2,Solanum tuberosum,Viridiplantae,YSYKKIDCGGACAARCRLSSRPRLCNRACGTCCARCNCVPPGTSGNTETCPCYASLTTHGNKRKCP,66,11891250,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ843,109940051,P81644,,Antimicrobial peptide BAMP-1,Bos taurus ,Animalia (Mammals),QAEESNLQSLVSQYFQTVADYGKDLVEKAKGSELQTQAKAYFEKTQEELTPFFKKAGTDLLNFLSSFIDPKKQPAT,76,9538260,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ881,,G5EC68,,ABF-2,Caenorhabditis elegans,Animalia,DIDFSTCARMDVPILKKAAQGLCITSCSMQNCGTGSCKKRSGRPTCVCYRCANGGGDIPLGALIKRG,67,11772394,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ909,728865,Q08617,,Antifungal protein,Sarcophaga peregrina,Animalia (Insects),QHGHGGQDQHGYGHGQQAVYGKGHEGHGVNNLGQDGHGQHGYAHGHSDQHGHGGQHGQHDGYKNRGY,67,8505329,Antifungal,,Experimentally Validated
+CAMPSQ924,74765257,P91818,1DQC,Tachycitin,Tachypleus tridentatus ,Animalia,YLAFRCGRYSPCLDDGPNVNLYSCCSFYNCHKCLARLENCPKGLHYNAYLKVCDWPSKAGCTSVNKECHLWKT,73,9010778,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1062,116548,P05059,"1CFK,1N2Y",Vasostatin-1,Bos taurus ,Animalia (Mammals),LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSKECFETLRGDERILSILRHQNLLKELQDLALQGAKERTHQQ,76,10753865,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ1146,74764779,O96447,,Antimicrobial peptide lumbricin-1,Lumbricus rubellus,Animalia (Annelids (Clitellata)),FSKYERQKDKRPYSERKNQYTGPQFLYPPERIPPQKVIKWNEEGLPIYEIPGEGGHAEPAAA,62,9784609,"Antibacterial, Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1287,3024417,P81059,,Penaeidin-3b ,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),QVYKGGYTRPVPRPPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYS,62,9353298,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Predicted
+CAMPSQ1288,3024418,P81060,,Penaeidin-3c ,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),QVYKGGYTRPIPRPPFVRPVPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYS,61,9353298,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Predicted
+CAMPSQ1588,15636909,Q95NH5,,Drosomycin-like A,Drosophila triauraria,Animalia (Insects),MIQIKFLCLFLAIMTIVVLDSNVAEARDCLSGTFKGPCWAWSGEKCRRLCIEEGRVSGHCSGGSKCWCEGC,71,,Antifungal,,Predicted
+CAMPSQ1693,75266171,Q9SPL4,,Vicin-like antimicrobial peptide 2c-3,Macadamia integrifolia ,Viridiplantae,RQRDPQQQYEQCQERCQRHETEPRHMQTCQQRCERRYEKEKRKQQKRYEEQQREDEEKYEERMKEED,67,10571855,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1699,75207035,Q9SPL3,,Vicin-like antimicrobial peptide 2c-3,Macadamia integrifolia ,Viridiplantae,RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQKRYEEQQREDEEKYEERMKEGD,67,10571855,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1958,41019501,P83418,,Megourin-2,Megoura viciae,Animalia (Insects),YLDVNQIASYLLCLGQGAVFNGRKTCQIGCRAACQQPGCGGYKECEQIPNIRLHKYRCHCNSG,63,,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ1959,41019500,P83417,,Megourin-1,Megoura viciae,Animalia (Insects),YLDVKQLANYLLCIGNGQVFNGRKTCQIGCRAVCQQPGCSGYKECEQIPNIRLHKYRCHCNEA,63,,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ1960,25090711,P83419,,Megourin-3,Megoura viciae,Animalia (Insects),YLDVNQIASYLLCLGEGAVFNGRKTCQIGCRAACQQPGCGGYKECEQIPNIRLHKYRCHCISG,63,,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ1964,25090996,Q963D9,,Penaeidin-3j,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),QVYKGGYTRPVPRPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYS,61,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1965,25090995,Q963D0,,"Penaeidin-3d , Penaeidin-3f",Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),QVYKGGYTRPIPRPPPFVRPLPGGPIGPYNGCPISCRGISFSQARSCCSRLGRCCHVGKGYS,62,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1966,25090988,Q963C7,,Penaeidin-3g,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),QVYKGGYTRPIPRPPPFVRPLPGGPISPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYS,62,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1967,25090986,Q963C6,,Penaeidin-3h,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),QVYKGGYTRPIPRPPPFVRPLPGGPIGPYNGCPISCRGISFSQARSYCSRLGRCCHVGKGYS,62,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1968,25090985,Q963C5,,Penaeidin-3i,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),QVYKGGYTRPIPRPPPFVRPLPGGPIGPYNGRPVSCRGISFSQARSCCSRLGRCCHVGKGYS,62,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ160,156630460,P85216,,Anionic antimicrobial peptide 2,Galleria mellonella,Animalia (Insects),ETESTPDYLKNIQQQLEEYTKNFNTQVQNAFDSDKIKSEVNNFIESLGKILNTEKKEAPK,60,17194500,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ302,26392176,P83282,,Cicadin,Cicada flammata ,Animalia (Insects),NEYHGFVDKANNENKRKKQQGRDDFVVKPNNFANRRRKDDYNENYYDDVDAADVV,55,11814612,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ385,3913449,P81462,,Defensin,Bombus pascuorum ,Animalia (Insects),VTCDLLSIKGVAEHSACAANCLSMGKAGGRCENGICLCRKTTFKELWDKRF,51,9219367,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ617,73671197,Q3Y683,,Penaeidin 5-2 ,Fenneropenaeus chinensis ,Animalia (Crustaceans (Malacostraca)),QGYKSGHTGPYPRPLYGSRPIGLRPITRPDPSCAGCRILTLDDAIACCRRLGRCCSALKG,60,17049988,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ671,26393023,P81571,,Antimicrobial peptide D2 ,Spinacia oleracea,Viridiplantae,GIFSSRKCKTPSKTFKGICTRDSNCDTSCRYEGYPAGDCKGIRRRCMCSKPC,52,9762899,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ746,51701746,P84117,,Perinerin,Perinereis aibuhitensis,Animalia (Annelids (Polychaeta)),FNKLKQGSSKRTCAKCFRKIMPSVHELDERRRGANRWAAGFRKCVSSICRY,51,15113828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ911,75139849,Q7M1F3,1BK8,"Defensin AMP1 , Ah-Amp1",Aesculus hippocastanum,Viridiplantae,LCNERPSQTWSGNCGNTAHCDKQCQDWEKASHGACHKRENHWKCFCYFNC,50,7628617,Antifungal,,Experimentally Validated
+CAMPSQ912,3915600,P30224,,Cysteine-rich antifungal protein 1 (At-AFP1),Arabidopsis thaliana,Viridiplantae,QKLCERPSGTWSGVCGNSNACKNQCINLEKARHGSCNYVFPAHKCICYFPC,51,8422949,Antifungal,,Experimentally Validated
+CAMPSQ915,75139850,"Q7M1F4, P0C8Y5",,Defensin AMP1,Heuchera sanguinea,Viridiplantae,DGVKLCDVPSGTWSGHCGSSSKCSQQCKDREHFAYGGACHYQFPSVKCFCKRQC,54,7628617,Antifungal,,Experimentally Validated
+CAMPSQ917,1703204,P30231,,Cysteine-rich antifungal protein 1 (Sa-AFP1),Sinapis alba ,Viridiplantae,QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC,51,8422949,Antifungal,,Experimentally Validated
+CAMPSQ918,1703192,P30232,,Cysteine-rich antifungal protein 2 (Sa-AFP2),Sinapis alba,Viridiplantae,QKLCQRPSGTWSGVCGNNNACRNQCINLEKARHGSCNYVFPAHKCICYFPC,51,8422949,Antifungal,,Experimentally Validated
+CAMPSQ922,1703206,P30230,,Cysteine-rich antifungal protein 2,Raphanus sativus,Viridiplantae,QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSCNYVFPAHKCICYFPC,51,7780308,Antifungal,,Experimentally Validated
+CAMPSQ1033,59798992,P69241,1AYJ,Raphanus Sativus Antifungal Protein 1 ,Raphanus sativus var. niger,Viridiplantae,QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC,51,"7780308, 1639777",Antifungal,,Experimentally Validated
+CAMPSQ1129,18202901,"Q9FI23 , O80994, Q9FI23, Q9FI22",,"Low-molecular cysteine-rich antifungal protein LCR77 , cysteine-rich antifungal protein At2g26020",Arabidopsis thaliana,Viridiplantae,QKLCEKPSGTWSGVCGNSNACKNQCINLEGAKHGSCNYVFPAHKCICYVPC,51,8989885,Antifungal,,Experimentally Validated
+CAMPSQ1167,229890071,P0C8Y4,,DmAMP1,Dahlia merckii,Viridiplantae,ELCEKASKTWSGNCGNTGHCDNQCKSWEGAAHGACHVRNGKHMCFCYFNC,50,7628617,Antifungal,,Experimentally Validated
+CAMPSQ1239,25090979,Q962B1,,Penaeidin-3m ,Litopenaeus setiferus,Animalia (Crustaceans (Malacostraca)),QGCKGPYTRPILRPYVRPVVSYNACTLSCRGITTTQARSCCTRLGRCCHVAKGYS,55,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1240,25090978,Q962B0,,Penaeidin-3n ,Litopenaeus setiferus,Animalia (Crustaceans (Malacostraca)),QGYKGPYTRPILRPYVRPVVSYNACTLSCRGITTTQARSCSTRLGRCCHVAKGYS,55,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1484,,P17737,1AFP,Antifungal Protein From Aspergillus Giganteus,Aspergillus giganteus,Fungi,XTYNGKCYKKDNICKYKAQSGKTAICKCYVKKCPRDGAKCEFDSYKGKCYC,51,,Antifungal,,Predicted
+CAMPSQ1591,1703193,Q10989,,Cysteine-rich antifungal protein 2B,Sinapis alba,Viridiplantae,QKLCARPSGTWSSGNCRNNNACRNFCIKLEKSRHGSCNIPFPSNKCICYFPC,52,8836771,Antifungal,,Predicted
+CAMPSQ1655,11386634,O80995,,Probable cysteine-rich antifungal protein,Arabidopsis thaliana,Viridiplantae,QKLCEKPSGTWSGVCGNSNACKNQCINLEGAKHGSCNYVFPAHKCICYFPC,51,,Antifungal,,Experimentally Validated
+CAMPSQ1942,68060021,Q95ZN4,,Neuropeptide-like protein 33,Caenorhabditis elegans,Animalia,QWGYGGPYGGYGGGYGGGPWGYGGGWRRRHWGGYGGGPWGGYGGGPWGGYY,51,,Antifungal,,Predicted
+CAMPSQ1969,25090981,Q962B2,,Penaeidin-3k,Litopenaeus setiferus,Animalia (Crustaceans (Malacostraca)),QGYKGPYTRPILRPYVRPVVSYNACTLSCRGITTTQARSCCTRLGRCCHVAKGYS,55,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1970,25090976,Q962A9,,Penaeidin-2d,Litopenaeus setiferus,Animalia (Crustaceans (Malacostraca)),QRGGFTGPIPRPPPHGRPPLGPICNACYRLSFSDVRICCNFLGKCCHLVK,50,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1971,25090975,Q962A8,,Penaeidin-3l,Litopenaeus setiferus,Animalia (Crustaceans (Malacostraca)),QGYKGPYTRPILRPYVRPVVSYNVCTLSCRGITTTQARSCCTRLGRCCHVAKGYS,55,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1972,25090919,Q963C4,,Penaeidin-2b,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),YRGGYTGPIPRPPPIGRPPLRPVCNACYRLSVSDARNCCIKFGSCCHLVK,50,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ2,103485139,Q8WTQ1,,Human Defensin  beta 104A ,Synthetic construct,,ELDRICGYGTARCRKKCRSQEYRIGRCPNTYACCLRK,48,11481241,"Antibacterial, Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ51,115544,P06833,,Caltrin precursor ,Bos taurus ,Animalia (Mammals),SDEKASPDRHHRFSLSRYAKLANRLSKWIGNRGNRLANPKLLETFKSV,48,8485159,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ237,20139323,P81930,,Defense-related peptide 2 ,Pisum sativum,Viridiplantae,KTCENLSGTFKGPCIPDGNCNKHCRNNEHLLSGRCRDDFRCWCTNRC,47,10860545,Antifungal,,Experimentally Validated
+CAMPSQ238,20141302,P81605,"2KSG,2YMK",Dermcidin ,Homo sapiens ,Animalia (Mammals),SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSV,47,11694882,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ312,27806807,P06833,,Seminalplasmin ,Bos taurus ,Animalia (Mammals),SDEKASPDKHHRFSLSRYAKLANRLANPKLLETFLSKWIGDRGNRSVK,48,16453469,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ343,3024356,P81057,,Penaeidin-2a ,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),YRGGYTGPIPRPPPIGRPPFRPVCNACYRLSVSDARNCCIKFGSCCHLVK,50,11028917,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ732,157881028,Q962A7,1XV3,Penaeidin 4,Litopenaeus setiferus,Animalia (Crustaceans (Malacostraca)),HSSGYTRPLRKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHL,47,15699044,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ772,,,,White cloud bean defensin ,Phaseolus vulgaris,Viridiplantae,KTCENLADTFRGPCFATSNCDDHCKNKEHLLSGRCRDDFRCWCTRNC,47,16687191,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ914,75232038,Q7M1F2,,"Defensin AMP1 , cysteine-rich antimicrobial protein ",Clitoria ternatea,Viridiplantae,NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFNC,49,7628617,Antifungal,,Experimentally Validated
+CAMPSQ916,44887846,Q8H6Q1,1N4N,Floral defensin-like protein 1PhD1,Petunia x hybrida,Viridiplantae,ATCKAECPTWDSVCINKKPCVACCKKAKFSDGHCSKILRRCLCTKEC,47,12644678,Antifungal,,Experimentally Validated
+CAMPSQ921,44887845,Q8H6Q0,,Floral defensin-like protein 2,Petunia x hybrida,Viridiplantae,GTCKAECPTWEGICINKAPCVKCCKAQPEKFTDGHCSKILRRCLCTKPC,49,12644678,Antifungal,,Experimentally Validated
+CAMPSQ932,18202534,Q43413,,Defensin J1-1,Capsicum annuum,Viridiplantae,KICEALSGNFKGLCLSSRDCGNVCRREGFTDGSCIGFRLQCFCTKPCA,48,8883377,Antifungal,,Experimentally Validated
+CAMPSQ935,44887844,Q8GTM0,"4AAZ,4AB0",Flower-specific defensin precursor ,Nicotiana alata,Viridiplantae,RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC,47,12644678,Antifungal,,Experimentally Validated
+CAMPSQ1238,25090983,Q963C3,,Penaeidin-4c ,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),YSSGYTRPLPKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHR,47,12242595,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1487,25090972,Q95NT0,,Penaeidin-4a,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),HSSGYTRPLPKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHR,47,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1493,159162710,P32026,1MR4,Nad1,Nicotiana tabacum,Viridiplantae,RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC,47,12473460,Antifungal,,Predicted
+CAMPSQ1541,17373811,O65740,,Defensin J1-2,Capsicum annuum,Viridiplantae,RTCESQSHRFKGLCFSKSNCGSVCHTEGFNGGHCRGFRRRCFCTRHC,47,8883377,Antifungal,,Predicted
+CAMPSQ1592,75263249,Q9FZ31,,Putative antifungal protein,Arabidopsis thaliana,Viridiplantae,LCKRESETWSGRCVNDYQCRDHCINNDRGNDGYCAGGYPWYRSCFCFFSC,50,,Antifungal,,Predicted
+CAMPSQ1597,11386640,Q39313,,Cysteine-rich antifungal protein 3 precursor ,Brassica napus,Viridiplantae,KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC,50,,Antifungal,,Predicted
+CAMPSQ1654,11386627,O24331,,Cysteine-rich antifungal protein 4,Raphanus sativus,Viridiplantae,QKLCERSSGTWSGVCGNNNACKNQCINLEGARHGSCNYIFPYHRCICY,48,7780308,Antifungal,,Experimentally Validated
+CAMPSQ1691,75266171,Q9SPL4,,Vicin-like antimicrobial peptide 2a ,Macadamia integrifolia ,Viridiplantae,ESEFDRQEYEECKRQCMQLETSGQMRRCVSQCDKRFEEDIDWSKYDNQD,49,10571855,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1694,75266171,Q9SPL4,,Vicin-like antimicrobial peptide 2c-2,Macadamia integrifolia ,Viridiplantae,RQRDPQQQYEQCQERCQRHETEPRHMQTCQQRCERRYEKEKRKQQKR,47,10571855,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1700,75207035,Q9SPL3,,Vicin-like antimicrobial peptide 2c-2,Macadamia integrifolia ,Viridiplantae,RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQKR,47,10571855,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ2115,11386628,O24332,,Cysteine-rich antifungal protein 3 precursor ,Raphanus sativus,Viridiplantae,KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC,50,7780308,Antifungal,,Experimentally Validated
+CAMPSQ2291,288816935,D3Y2M3,,Antimicrobial peptide  ,Aspergillus clavatus  ,Fungi,TYDGKCYKKDNICKYKAQSGKTAICKCYVKVCPRDGAKCEFDSYKGKCY,49,20440534,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Predicted
+CAMPSQ68,1169363,P41964,1MYN,Drosomycin ,Drosophila melanogaster,Animalia (Insects),DCLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC,44,7806546,Antifungal,,Experimentally Validated
+CAMPSQ162,156630495,P85213,,Defensin,Galleria mellonella,Animalia (Insects),DTLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFLNVNCWCEE,44,17194500,Antifungal,,Experimentally Validated
+CAMPSQ163,156630496,P85215,,Defensin-like peptide ,Galleria mellonella,Animalia (Insects),DKLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFWNVNCWCEE,44,17194500,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ236,20139322,P81929,"1JKZ,2IIW,2IJ1,2IJT,2IJU,2IJV,2IJW,2IKL,2IKM,2IKN,2IKP,2IKR,2IKT,2IKV,2IKW,2IKX,2IKY,2IKZ,2IL0,2ILC,2ILD,2ILE,2ILF,2ILG,2ILH,2ILJ",Defense-related peptide 1 ,Pisum sativum,Viridiplantae,KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC,46,10860545,Antifungal,,Experimentally Validated
+CAMPSQ307,26397622,P83312,,Parabutoporin,Parabuthus schlechteri ,Animalia (Arachnids),FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ,45,12354111,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ459,416969,P32414,,Esculentin-1,Rana esculenta,Animalia (Amphibians),GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC,46,8508915,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ623,74834657,P84156,"1OZZ,1P00,1P0A",Defensin ARD1,Archaeoprepona demophon ,Animalia (Insects),DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ657,9756284,P81534,1KJ6,Beta-defensin-3 ,Homo sapiens ,Animalia (Mammals),GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK,45,11085990,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ729,159162451,P81544,"1I2U,1I2V",Heliomicin,Heliothis virescens,Animalia (Insects),DKLIGSCVWGAVNYTSDCNGECKRRGYKGGHCGSFANVNCWCET,44,10092609,Antifungal,,Experimentally Validated
+CAMPSQ880,74849791,Q9U8X3,1CIX,Tachystatin-A2,Tachypleus tridentatus ,Animalia,YSRCQLQGFNCVVRSYGLPTIPCCRGLTCRSYFPGSTYGRCQRY,44,"10473569 , 11959852","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ913,6225076,P81493,,Antifungal protein AX1,Beta vulgaris,Viridiplantae,AICKKPSKFFKGACGRDADCEKACDQENWPGGVCVPFLRCECQRSC,46,7655063,Antifungal,,Experimentally Validated
+CAMPSQ919,7993732,P82010,,Antifungal protein AX2,Beta vulgaris,Viridiplantae,ATCRKPSMYFSGACFSDTNCQKACNREDWPNGKCLVGFKCECQRPC,46,7655063,Antifungal,,Experimentally Validated
+CAMPSQ925,417986,P33044,,Antifungal protein R,Hordeum vulgare,Viridiplantae,ATITVVNRCSYTVWPGALPGGGVRLDPGQRWALNMPAGTAGAAV,44,1936240,Antifungal,,Experimentally Validated
+CAMPSQ930,150387843,P0C1Z7,,Tachystatin-A 1,Tachypleus tridentatus ,Animalia,YSRCQLQGFNCVVRSYGLPTIPCCRGLTCRSYFPGSTYGRCQRF,44,10473569,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ946,2507457,P09618,,Leaf-specific thionin BTH6,Hordeum vulgare,Viridiplantae,KSCCKDTLARNCYNTCRFAGGSRPVCAGACRCKIISGPKCPSDYPK,46,16453847,Antifungal,,Experimentally Validated
+CAMPSQ991,,,,Esculentin-IGra,Rana grahami,Animalia (Amphibians),GLFSKFAGKGIKNLIFKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC,46,16621155,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1145,263406454,P85966,2LB7,WAMP-1a,Triticum kiharae,Viridiplantae,AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGC,44,19583772,Antifungal,,Experimentally Validated
+CAMPSQ1191,28201848,P83314,,Opistoporin-2,Opistophthalmus carinatus,Animalia (Arachnids),GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNFVAEKIGATPS,44,12354111,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1212,25091023,P83421,,Psychimicin,Oiketicus kirbyi ,Animalia (Insects),INNWVRVPPCDQVCSRTNPEKDECCRAHGHAFHATCSGGMQCYRR,45,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1483,159162452,P81544,"1I2U,1I2V",Heliomicin Mutant,Heliothis virescens,Animalia (Insects),DKLIGSCVWGAVNYTSDCNGECLLRGYKGGHCGSFANVNCWCET,44,11580275,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1489,1170248,P80359,,Pseudo-hevein,Hevea brasiliensis,Viridiplantae,EQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNCKGGG,45,,Antifungal,,Predicted
+CAMPSQ1590,544188,Q01784,,Disease resistance response protein 39,Pisum sativum,Viridiplantae,NTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHDWKCFCTQNC,46,,Antifungal,,Predicted
+CAMPSQ1652,75262792,Q9FPM3,,Antifungal protein precursor ,Medicago sativa,Viridiplantae,RTCENLADKYRGPCFSGCDTHCTTKENAVSGRCRDDFRCWCTKRC,45,11101813,Antifungal,,Predicted
+CAMPSQ1695,75266171,Q9SPL4,,Vicin-like antimicrobial peptide 2c-1,Macadamia integrifolia ,Viridiplantae,RQRDPQQQYEQCQERCQRHETEPRHMQTCQQRCERRYEKEKRKQQ,45,10571855,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1701,75207035,Q9SPL3,,Vicin-like antimicrobial peptide 2c-1,Macadamia integrifolia ,Viridiplantae,RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQ,45,10571855,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ147,146737992,A5JSU6,,Moricin-like peptide B,Galleria mellonella,Animalia (Insects),GKIPVKAIKKGGQIIGKALRGINIASTAHDIISQFKPKKKKNH,43,18207081,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ164,156630949,P85211,,Lebocin-like anionic peptide 1,Galleria mellonella,Animalia (Insects),EADEPLWLYKGDNIERAPTTADHPILPSIIDDVKLDPNRRYA,42,17194500,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ313,28201847,P83313,,Opistoporin-1,Opistophthalmus carinatus,Animalia (Arachnids),GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNLVAEKIGATPS,44,12354111,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ351,32363160,P83596,,Antifungal peptide 1 ,Eucommia ulmoides ,Viridiplantae,QTCASRCPRPCNAGLCCSIYGYCGSGNAYCGAGNCRCQCRG,41,12067732,Antifungal,,Experimentally Validated
+CAMPSQ352,32363161,P83597,"1P9G,1P9Z",Antifungal peptide 2 ,Eucommia ulmoides ,Viridiplantae,QTCASRCPRPCNAGLCCSIYGYCGSGAAYCGAGNCRCQCRG,41,12067732,Antifungal,,Experimentally Validated
+CAMPSQ929,150387844,P0C1Z8,2DCV,Tachystatin-B1,Tachypleus tridentatus ,Animalia,YVSCLFRGARCRVYSGRSCCFGYYCRRDFPGSIFGTCSRRNF,42,10473569,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ931,150387846,P0C200,,Tachystatin-C,Tachypleus tridentatus ,Animalia,DYDWSLRGPPKCATYGQKCRTWSPPNCCWNLRCKAFRCRPR,41,10473569,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ966,159163764,Q4GWV4,2B68,Recombinant Crassostrea Gigas Defensin,Crassostrea gigas,Animalia (Molluscs (Bivalvia)),GFGCPGNQLKCNNHCKSISCRAGYCDAATLWLRCTCTDCNGKK,43,16246846,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ989,145566912,P85114,,Ostricacin-2,Struthio camelus,Animalia (Aves),APGNKAECEREKGYCGFLKCSFPFVVSGKCSRFFFCCKNIW,41,16459058,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1036,,,,ETD151,Synthetic construct,,DKLIGSCVWGAVNYTSNCRAECKRRGYKGGHCGSFANVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1037,,,,ETD131,Synthetic construct,,DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCQT,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1038,,,,ETD130,Synthetic construct,,DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCER,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1039,,,,ETD140,Synthetic construct,,NKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1040,,,,ETD150,Synthetic construct,,DKLIGSCVWGAVNYTRNCNAECKRRGYKGGHCGSFANVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1041,,,,ETD152,Synthetic construct,,DKLIGSCVWGAVNYTSRCNAECKRRGYKGGHCGSFANVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1042,,,,ETD135,Synthetic construct,,DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFLNVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1043,,,,ETD132,Synthetic construct,,DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFINVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1044,,,,ETD133,Synthetic construct,,DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANINCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1045,,,,ETD134,Synthetic construct,,DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFLNINCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1046,,,,ETD154,Synthetic construct,,DKLIGSCVWLAVNYTSNCNAECKRRGYKGGHCGSFLNVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1047,,,,ETD156,Synthetic construct,,DKLIGSCVWLAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1048,,,,ETD179,Synthetic construct,,DKLIGSCVWGAVNYTSNCRAECKRRGYKGGHCGSFLNVNCWCET,44,14978308,Antifungal,,Experimentally Validated
+CAMPSQ1302,37594698,Q5VJS9,,Opistoporin4 ,Opistophthalmus carinatus,Animalia (Arachnids),GKVWDWIKKTAKDVLNSDVAKQLKNKALNAAKNFVAEKIGATPS,44,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Predicted
+CAMPSQ1692,75266171,Q9SPL4,,Vicin-like antimicrobial peptide 2b ,Macadamia integrifolia ,Viridiplantae,DPQTDCQQCQRRCRQQESGPRQQQYCQRRCKEICEEEEEYN,41,10571855,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1698,75207035,Q9SPL3,,Vicin-like antimicrobial peptide 2b ,Macadamia integrifolia ,Viridiplantae,DPQTECQQCQRRCRQQESDPRQQQYCQRRCKEICEEEEEYN,41,10571855,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ146,146737990,,,Moricin-like peptide A,Galleria mellonella,Animalia (Insects),KVNVNAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH,39,18207081,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ150,146737998,A5JSU9,,Moricin-like peptide C3,Galleria mellonella,Animalia (Insects),KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRQ,38,18207081,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ151,"146738000, 146738002","A5JSV0, A5JSV1",,"Moricin-like peptide C4, Moricin-like peptide C5",Galleria mellonella,Animalia (Insects),KVPVGAIKKGGKAIKTGLGVVGAAGTAHEVYSHIRNRH,38,18207081,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ152,146738004,A5JSV2,,Moricin-like peptide D,Galleria mellonella,Animalia (Insects),KGIGSALKKGGKIIKGGLGALGAIGTGQQVYEHVQNRQ,38,18207081,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ161,156630481,P85210,,Cecropin-D-like peptide,Galleria mellonella,Animalia (Insects),ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD,39,17194500,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ275,2494049,Q28880,,Lingual antimicrobial peptide ,Bos taurus ,Animalia (Mammals),VRNSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCRRK,40,7886453,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ277,2495138,P55897,,Buforin-1 ,Bufo gargarizans,Animalia (Amphibians),AGRGKQGGKVRAKAKTRSSRAGLQFPVGRVHRLLRKGNY,39,8573171,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ291,25091208,P83411,,Spodomicin,Spodoptera littoralis ,Animalia (Insects),VHVGPCDQVCSRIDPEKDECCRAHGYRGHSSCYYGRMECY,40,,Antifungal,,Experimentally Validated
+CAMPSQ292,25452970,P83171,,Ginkbilobin ,Ginkgo biloba,Viridiplantae,ANTAFVSSAHNTQKIPAGAPFNRNLRAMLADLRQNAAFAG,40,11118300,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ469,462270,P34084,,Histatin-1,Macaca fascicularis,Animalia (Mammals),DSHEERHHGRHGHHKYGRKFHEKHHSHRGYRSNYLYDN,38,2229609,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ542,5902771,P81591,,Antimicrobial protein PN-AMP1,Ipomoea nil,Viridiplantae,QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCRS,41,9507071,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ555,"6016131, 546442",P46156,,Gallinacin-1,Gallus gallus,Animalia (Aves),GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIW,39,8150085,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ618,"73915343, 546441",P46157,,Gallinacin-1 alpha,Gallus gallus ,Animalia (Aves),GRKSDCFRKNGFCAFLKCPYLTLISGKCSRFHLCCKRIW,39,8150085,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ694,110560620,A6MBN8,,Odorranain-k1 antimicrobial peptide ,Odorrana grahami,Animalia (Amphibians),GLFTLIKGAAKLIGKTVPKKQARLGMNLWLVKLPTNVKT,39,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ710,,A6MBR1,,OdP2a,Odorrana grahami,Animalia (Amphibians),GLLSGILGAGKHIVCGLSGPCQSLNRKSSDVEYHLAKC,38,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ734,38641346,Q6TN20,,Cathelicidin,Canis lupus familiaris,Animalia (Mammals),RLKELITTGGQKIGEKIRRIGQRIKDFFKNLQPREEKS,38,17462733,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ738,123134,P15515,,Histatin-1,Homo sapiens ,Animalia (Mammals),DSHEKRHHGYRRKFHEKHHSHREFPFYGDYGSNYLYDN,38,3286634,Antifungal,,Experimentally Validated
+CAMPSQ848,61252268,P83404,,Defensin,Phlebotomus duboscqi,Animalia (Insects),ATCDLLSAFGVGHAACAAHCIGHGYRGGYCNSKAVCTCRR,40,15557638,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ855,6647598,P82102,,Myticin-B,Mytilus galloprovincialis,Animalia (Molluscs (Bivalvia)),HPHVCTSYYCSKFCGTAGCTRYGCRNLHRGKLCFCLHCSR,40,10491159,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ959,75172159,Q9FR52,,Shepherin II,Capsella bursa-pastoris,Viridiplantae,GYHGGHGGHGGGYNGGGGHGGHGGGYNGGGHHGGGGHG,38,11117262,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1055,25090166,Q8T0W8,2E2F,Diapause-specific peptide ,Gastrophysa atrocyanea,Animalia (Insects),AVRIGPCDQVCPRIVPERHECCRAHGRSGYAYCSGGGMYCN,41,17994764,Antifungal,,Experimentally Validated
+CAMPSQ1139,5902771,P81591,,Antimicrobial protein PN-AMP1,Ipomoea nil,Viridiplantae,QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCR,40,9507071,Antifungal,,Experimentally Validated
+CAMPSQ1400,31071995,,,TPA_exp: DEFB4-like protein,Papio anubis,Animalia (Mammals),IRNPVTCIRSGAICYPRSCPGSYKQIGVCGVSVIKCCKKP,40,,"Antibacterial,Antifungal,Antiviral",Gram+ve,Predicted
+CAMPSQ1608,71152311,Q9EPV9,,Beta-defensin 5,Mus musculus,Animalia (Mammals),KTINNPVSCCMIGGICRYLCKGNILQNGNCGVTSLNCCKRK,41,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ2302,306530873,C7C1L2,,Probable antimicrobial peptide Con13,Opisthacanthus cayaporum  ,Animalia (Arachnids),SKIKDFAKKAWNSPLANELKSKALNAAKNFVSEKIGATP,39,19379768,"Antibacterial,Antifungal",,Predicted
+CAMPSQ135,135310,P25068,,Tracheal antimicrobial peptide precursor ,Bos taurus ,Animalia (Mammals),NPVSCVRNKGICVPIRCPGSMKQIGTCVGRAVKCCRKK,38,2023943,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ148,146737994,A5JSU7,,Moricin-like peptide C1,Galleria mellonella,Animalia (Insects),KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRH,38,18207081,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ149,146737996,A5JSU8,,Moricin-like peptide C2,Galleria mellonella,Animalia (Insects),KVPIGAIKKGGKIIKKGLGVLGAAGTAHEVYNHVRNRQ,38,18207081,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ165,156633553,P85214,,Proline-rich antimicrobial peptide 1,Galleria mellonella,Animalia (Insects),DIQIPGIKKPTHRDIIIPNWNPNVRTQPWQRFGGNKS,37,11995991,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ169,157841288,A6YPB1,,Putative antimicrobial peptide A Northern Europe Heligoland variant ,Ciona intestinalis ,Animalia,AALRGALRAVARVGKAILPHVAIANPYVRTPYVHNNP,37,17658598,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ187,1703271,P25403,,Antimicrobial peptide 1 ,Mirabilis jalapa,Viridiplantae,QCIGNGGRCNENVGPPYCCSGFCLRQPGQGYGYCKNR,37,"1733929 , 7647302","Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ188,1703274,P25404,,Antimicrobial peptide 2 ,Mirabilis jalapa,Viridiplantae,CIGNGGRCNENVGPPYCCSGFCLRQPNQGYGVCRNR,36,"1733929 , 7647302","Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ282,2506236,P80398,2G9L,Gaegurin-4,Rana rugosa ,Animalia (Amphibians),GILDTLKQFAKGVGKDLVKGAAQGVLSTVSCKLAKTC,37,7999137,"Antibacterial,Antifungal,Antiparasitic","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ415,41016980,P82827,,Esculentin-2L,Rana luteiventris,Animalia (Amphibians),GILSLFTGGIKALGKTLFKMAGKAGAEHLACKATNQC,37,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ416,41016981,P82839,,Esculentin-2B,Rana berlandieri,Animalia (Amphibians),GLFSILRGAAKFASKGLGKDLTKLGVDLVACKISKQC,37,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ450,4102640,P25068,,Tracheal antimicrobial peptide ,Bos taurus ,Animalia (Mammals),NPVSCVRNKGICVPIRCPGNMKQIGTCVGRAVKCCR,36,8506305,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ565,6226952,P81418,1DKC,Antimicrobial peptide 1,Phytolacca americana,Viridiplantae,AGCIKNGGRCNASAGPPYCCSSYCFQIAGQSYGVCKNR,38,10759497,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ693,37547390,P83943,,Beta defensin 1,Chinchilla lanigera ,Animalia (Mammals),QRYFCRVRGGRCAALTCLPRETQIGRCSVKGRKCCR,36,14996845,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ742,41016819,P83653,1Q3J,Antimicrobial peptide Alo-3,Acrocinus longimanus,Animalia (Insects),CIKNGNGCQPNGSQGNCCSGYCHKQPGWVAGYCRRK,36,14661954,Antifungal,,Experimentally Validated
+CAMPSQ786,,,,HFIAP-1,Myxine glutinosa,Animalia (Pisces),GFFKKAWRKVKHAGRRVLDTAKGVGRHYVNNWLNRYRZ,38,15019197,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ789,115503705,Q1KLX8,,"HmdSL-37, Antibacterial protein LL-37",Hylobates moloch,Animalia (Mammals),SLGNFFRKARKKIGEEFKRIVQRIKDFLQHLIPRTEA,37,16720578,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ790,,,,PobRL-37,Cercopithecidae,Animalia (Mammals),RLGNFFRKAKKKIGRGLKKIGQKIKDFLGNLVPRTES,37,16720578,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ791,,,,CjaRL-37,Platyrrhini,Animalia (Mammals),RLGDILQKAREKIEGGLKKLVQKIKDFFGKFAPRTES,37,16720578,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ885,41019461,P83430,1UT3,Spheniscin-2,Aptenodytes patagonicus,Animalia (Aves),SFGLCRLRRGFCARGRCRFPSIPIGRCSRFVQCCRRVW,38,"14525994 , 15123713","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ923,74813990,Q86SC0,1IYC,Scarabaecin,Oryctes rhinoceros,Animalia (Insects),ELPKLPDDKVLIRSRSNCPKGKVWNGFDCKSPFAFS,36,12859949,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ926,417989,P33045,,Antifungal protein S,Hordeum vulgare,Viridiplantae,ATFTVINKCQYTVWAAAVPAGGGQKLDAGQTWSIXXP,37,1936240,Antifungal,,Experimentally Validated
+CAMPSQ994,110560103,A6MAW5,,Esculentin-2-OG10,Rana grahami,Animalia (Amphibians),GLFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC,37,"16621155, 17272268","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1109,26391013,P83138,,Antifungal protein 4,Malva parviflora,Viridiplantae,DRQIDMEEQQLEKLNKQDRXPGLRYAAKQQMXTXRMG,37,11302747,Antifungal,,Experimentally Validated
+CAMPSQ1551,6225049,O81338,,Antimicrobial peptide 1,Mesembryanthemum crystallinum,Viridiplantae,AKCIKNGKGCREDQGPPFCCSGFCYRQVGWARGYCKNR,38,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1562,41019460,P83429,,Spheniscin-1,Aptenodytes patagonicus,Animalia (Aves),SFGLCRLRRGFCAHGRCRFPSIPIGRCSRFVQCCRRVW,38,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ60,116092,P01510,,Cecropin-D,Hyalophora cecropia,Animalia (Insects),WNPFKELEKVGQRVRDAVISAGPAVATVAQATALAK,36,7140755,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ142,13959581,P82321,1MM0,Termicin,Pseudacanthotermes spiniger ,Animalia (Insects),ACNFQSCWATCQAQHSIYFRRAFCDRSQCKCVFVRG,36,11053427,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ255,24636789,P83376,,Dolabellanin-B2,Dolabella auricularia,Animalia,SHQDCYEALHKCMASHSKPFSCSMKFHMCLQQQ,33,12590964,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ286,25089858,P83413,,Cecropin-A,Heliothis virescens,Animalia (Insects),RWKVFKKIEKVGRNIRDGVIKAAPAIEVLGQAKAL,35,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ326,289396,P25068,,Tracheal antimicrobial peptide,Bos taurus ,Animalia (Mammals),NPVSCVRNKGICVPIRCPGSMKQIGTCVGRAVKCCR,36,8506305,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ332,"29337160, 740957",P24302,,Dermaseptin-1 ,Phyllomedusa sauvagii,Animalia (Amphibians),ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ,34,"9614066 , 1909573","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ341,3024115,P56425,,Antibacterial peptide BMAP-34 precursor,Bos taurus ,Animalia (Mammals),GLFRRLRDSIRRGQQKILEKARRIGERIKDIFRG,34,9409740,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ388,3913453,P81468,,Neutrophil defensin 4 ,Mesocricetus auratus,Animalia (Mammals),VTCFCKRPVCDSGETQIGYCRLGNTFYRLCCRQ,33,8890190,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ396,399352,P12838,1ZMM,Neutrophil defensin 4 ,Homo sapiens ,Animalia (Mammals),VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV,33,"2500436 , 17088326","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ458,416897,P80223,,Corticostatin-6 ,Oryctolagus cuniculus,Animalia (Mammals),GICACRRRFCLNFEQFSGYCRVNGARYVRCCSRR,34,8397087,"Antibacterial,Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ465,"461936, 740958",P80278,,Dermaseptin-2 ,Phyllomedusa sauvagii,Animalia (Amphibians),ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ,34,8306981,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ471,46395677,P82290,,Cecropin-A precursor,Anopheles gambiae,Animalia (Insects),GRLKKLGKKIEGAGKRVFKAAEKALPVVAGVKALG,35,10672074,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ571,66864905,Q863C8,,Canine beta-defensin ,Canis lupus familiaris,Animalia (Mammals),KCWNLRGSCREKCIKNEKLYIFCTSGKLCCLKPK,34,15845463,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ704,,,,"OdC1, Brevinin -2 GrB",Odorrana grahami,Animalia (Amphibians),GVLGTVKNLLIGAGKSAAQSVLKTLSCKLSNDC,33,"17272268 , 16621155","Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ705,,,,OdD1,Odorrana grahami,Animalia (Amphibians),GFLDTFKNLALNAAKSAGVSVLNSLSCKLFKTC,33,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ740,41016817,P83651,,Antimicrobial peptide Alo-1,Acrocinus longimanus,Animalia (Insects),CIKNGNGCQPDGSQGNCCSRYCHKEPGWVAGYCR,34,14661954,Antifungal,,Experimentally Validated
+CAMPSQ741,41016818,P83652,,Antimicrobial peptide Alo-2,Acrocinus longimanus,Animalia (Insects),CIANRNGCQPDGSQGNCCSGYCHKEPGWVAGYCR,34,14661954,Antifungal,,Experimentally Validated
+CAMPSQ992,"110560015, 110560722","A6MAU3, A6MBT9",,"Brevinin -2 Gra , Brevinin-2E-OG1, Brevinin-2E-OG6",Rana grahami,Animalia (Amphibians),GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC,33,"16621155 , 17272268","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1034,,,,Raphanus Sativus Antifungal Protein 2 ,Raphanus sativus var. niger,Viridiplantae,QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSC,36,1639777,Antifungal,,Experimentally Validated
+CAMPSQ1107,205829605,P82592,,Cecropin-A,Aedes aegypti,Animalia (Insects),GGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKAL,34,10400619,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1399,31071997,,,TPA_exp: DEFB103-like protein,Papio anubis,Animalia (Mammals),QKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCR,36,,"Antibacterial,Antifungal,Antiviral",Gram+ve,Predicted
+CAMPSQ1412,894209,Q28880,,Lingual antimicrobial peptide ,Bos taurus ,Animalia (Mammals),NSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCR,36,7886453,"Antibacterial,Antifungal ",,Experimentally Validated
+CAMPSQ1696,75266171,Q9SPL4,,Vicin-like antimicrobial peptide 2d,Macadamia integrifolia ,Viridiplantae,KRDPQQREYEDCRRRCEQQEPRQQYQCQRRCREQQ,35,10571855,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1697,75207035,Q9SPL3,,Vicin-like antimicrobial peptide 2a ,Macadamia integrifolia ,Viridiplantae,QCMQLETSGQMRRCVSQCDKRFEEDIDWSKYDNQE,35,10571855,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1702,75207035,Q9SPL3,,Vicin-like antimicrobial peptide 2d,Macadamia integrifolia ,Viridiplantae,KRDPQQREYEDCRRHCEQQEPRLQYQCQRRCQEQQ,35,10571855,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ69,1169813,P80395,,Gaegurin-1,Rana rugosa ,Animalia (Amphibians),SLFSLIKAGAKFLGKNLLKQGACYAACKASKQC,33,7999137,"Antibacterial,Antifungal,Antiparasitic","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ70,1169814,P80396,,Gaegurin-2,Rana rugosa ,Animalia (Amphibians),GIMSIVKDVAKNAAKEAAKGALSTLSCKLAKTC,33,7999137,"Antibacterial,Antifungal,Antiparasitic","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ71,1169815,P80397,,Gaegurin-3,Rana rugosa ,Animalia (Amphibians),GIMSIVKDVAKTAAKEAAKGALSTLSCKLAKTC,33,7999137,"Antibacterial,Antifungal,Antiparasitic","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ76,118419,P01376,,Corticostatin-3 precursor ,Oryctolagus cuniculus,Animalia (Mammals),VVCACRRALCLPRERRAGFCRIRGRIHPLCCRR,33,2745983,"Antibacterial,Antifungal,Antiviral",Gram+ve,Experimentally Validated
+CAMPSQ77,"118422, 246393","P01377, G1U2G9",,Corticostatin-4 precursor ,Oryctolagus cuniculus,Animalia (Mammals),VVCACRRALCLPLERRAGFCRIRGRIHPLCCRR,33,2745983,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ111,126793,P28794,,Antimicrobial peptide MBP-1,Zea mays ,Viridiplantae,RSGRGECRRQCLRRHEGQPWETQECMRRCRRRG,33,1527010,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ287,25089860,P83414,,Cecropin-B,Heliothis virescens,Animalia (Insects),KWKVFKKIEKVGRNIRDGIVKAGPAIAVLGQAN,33,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ288,25089862,P83415,,Cecropin-C,Heliothis virescens,Animalia (Insects),RWKVFKKIEKMGRNIRDGVIKAAPAIEVLGQAK,33,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ379,38502898,P82319,,Neutrophil defensin 4  ,Macaca mulatta,Animalia (Mammals),RRTCRCRFGRCFRRESYSGSCNINGRIFSLCCR,33,10531277,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ380,38502899,P82320,,Neutrophil defensin 6  ,Macaca mulatta,Animalia (Mammals),RRTCRCRFGRCFRRESYSGSCNINGRISSLCCR,33,10531277,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ386,3913450,P81465,,Neutrophil defensin 1 ,Mesocricetus auratus,Animalia (Mammals),VTCFCRRRGCASRERHIGYCRFGNTIYRLCCRR,33,8890190,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ387,3913452,P81467,,Neutrophil defensin 3 ,Mesocricetus auratus,Animalia (Mammals),VTCFCRRRGCASRERLIGYCRFGNTIYGLCCRR,33,8890190,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ433,41017613,P82828,,Ranatuerin-2La,Rana luteiventris,Animalia (Amphibians),GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC,32,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ434,41017614,P82829,,Ranatuerin-2Lb,Rana luteiventris,Animalia (Amphibians),GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC,32,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ487,483220,Q62716,,Defensin NP-1 - rat,Rattus norvegicus,Animalia (Mammals),VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR,32,2543629,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ489,50401306,O18495,,Styelin-D,Styela clava ,Animalia,GWLRKAAKSVGKFYYKHKYYIKAAWQIGKHAL,32,10978343,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ538,"585056, 260423",P31107,,Adenoregulin ,Phyllomedusa bicolor,Animalia (Amphibians),GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV,33,8306981,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ562,6225739,P81614,,Mytimycin,Mytilus edulis ,Animalia (Molluscs (Bivalvia)),DCCRKPFRKHCWDCTAGTPYYGYSTRNIFGCTC,33,8702979,Antifungal,,Experimentally Validated
+CAMPSQ574,67460988,P0C008,,Nigrocin-1,Rana nigromaculata (dark-spotted frog ),Animalia (Amphibians),GLLDSIKGMAISAGKGALQNLLKVASCKLDKTC,33,11682065,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ706,,,,OdE1,Odorrana grahami,Animalia (Amphibians),GLGGAKKNFIIAANKTAPQSVKKTFSCKLYNG,32,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ730,109156995,Q01523,"1ZMP,3I5W,4E82,4E83,4E86",Human Defensin-5,Homo sapiens,Animalia (Mammals),ATCYCRTGRCATRESLSGVCEISGRLYRLCCR,32,"18191790 , 17088326","Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ748,210060761,B5AKV3,2K1I,Oral Mucosal Alpha-Defensin ,Macaca mulatta,Animalia (Mammals),RRTCHCRSRCLRRESNSGSCNINGRIFSLCCR,32,18930922,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ773,160380517,P0C5X3,,"Dybowskin-3 , Brevinin-2DYc",Rana dybowskii,Animalia (Amphibians),GLFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC,33,"17698251 , 17688900","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ987,90109769,P84757,,Defensin-1,Papio hamadryas,Animalia (Mammals),RICRCRIGRCLGLEVYFGVCFLHGRLARRCCR,32,16978151,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1148,261263168,A7UDM9,,Ixosin-B,Ixodes sinensis  ,Animalia (Arachnids),QLKVDLWGTRSGIQPEQHSSGKSDVRRWRSRY,32,18295522,"Antibacterial, Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ103,123143,P15516,,Histatin-3,Homo sapiens ,Animalia (Mammals),DSHAKRHHGYKRKFHEKHHSHRGYRSNYLYDN,32,3286634,Antifungal,,Experimentally Validated
+CAMPSQ131,1352227,P49112,,Neutrophil cationic peptide 2 precursor ,Cavia porcellus,Animalia (Mammals),RRCICTTRTCRFPYRRLGTCLFQNRVYTFCC,31,8173076,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ189,1703289,"P27275, Q9S8Z7","1MMC,1ZNT,1ZUV,1ZWU",AC-AMP2,Amaranthus caudatus,Viridiplantae,VGECVRGRCPSGMCCSQFGYCGKGPKYCGR,30,1567877,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ194,1706455,P80282,,Dermaseptin B2 ,Phyllomedusa bicolor,Animalia (Amphibians),AMWKDVLKKIGTVALHAGKAALGAVADTISQ,31,8306981,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ203,17433719,P56871,1BH4,Circulin-A ,Chassalia parviflora ,Viridiplantae,GIPCGESCVWIPCISAALGCSCKNKVCYRN,30,10430870,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ210,18202397,P82414,,Ponericin-G1,Pachycondyla goeldii ,Animalia (Insects),GWKDWAKKAGGWLKKKGPGMAKAALKAAMQ,30,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ211,18202398,P82415,,Ponericin-G2,Pachycondyla goeldii ,Animalia (Insects),GWKDWLKKGKEWLKAKGPGIVKAALQAATQ,30,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ212,18202399,P82416,,Ponericin-G3,Pachycondyla goeldii ,Animalia (Insects),GWKDWLNKGKEWLKKKGPGIMKAALKAATQ,30,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ272,2494046,Q62715,,Neutrophil antibiotic peptide NP-2 precursor ,Rattus norvegicus,Animalia (Mammals),VTCYCRSTRCGFRERLSGACGYRGRIYRLCCR,32,2254017,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ274,2494048,Q62714,,Neutrophil antibiotic peptide NP-4 precursor ,Rattus norvegicus,Animalia (Mammals),ACYCRIGACVSGERLTGACGLNGRIYRLCCR,31,2543629,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ285,25089847,P83420,,Cecropin,Oiketicus kirbyi ,Animalia (Insects),WKPFKKIEKAVRRVRDGVAKAGPAVAVVGQAT,32,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ342,3024355,P81056,,Penaeidin-1 ,Litopenaeus vannamei,Animalia (Crustaceans (Malacostraca)),YRGGYTGPIPRPPPIGRPPLRLVVCACYRLS,31,11028917,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ345,"30316323, 4503305","P59666, Q6EZF9","1DFN,1ZMH,1ZMI,1ZMK,2PM4,2PM5","Neutrophil defensin 3, Defensin-6",Homo sapiens ,Animalia (Mammals),DCYCRIPACIAGERRYGTCIYQGRLWAFCC,30,2006422,"Antibacterial,Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ376,38502875,P60030,,Neutrophil defensin 1 ,Macaca mulatta,Animalia (Mammals),ACYCRIPACLAGERRYGTCFYLGRVWAFCC,30,10531277,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ377,38502876,"P60031, Q7M3C3",,Neutrophil defensin 3 ,Macaca mulatta,Animalia (Mammals),ACYCRIPACLAGERRYGTCFYRRRVWAFCC,30,10531277,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ378,38502877,P60032,,Neutrophil defensin 8  , Macaca mulatta,Animalia (Mammals),ACYCRIPACLAGERRYGTCFYLRRVWAFCC,30,10531277,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ439,41017619,P82878,,Ranatuerin-2Ca,Rana clamitans,Animalia (Amphibians),GLFLDTLKGAAKDVAGKLLEGLKCKIAGCKP,31,10822101,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ466,"461937, 740959",P80279,,Dermaseptin-3 ,Phyllomedusa sauvagii,Animalia (Amphibians),ALWKNMLKGIGKLAGKAALGAVKKLVGAES,30,9395500,"Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ632,7993923,P82317,,Neutrophil defensin 2 ,Macaca mulatta,Animalia (Mammals),ACYCRIPACLAGERRYGTCFYMGRVWAFCC,30,10531277,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ673,3913451,P81466,,Neutrophil defensin 2 ,Mesocricetus auratus,Animalia (Mammals),CFCKRPVCDSGETQIGYCRLGNTFYRLCCRQ,31,8890190,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ743,75284710,Q5I2B2,,Antimicrobial peptide Ar-AMP,Amaranthus retroflexus,Viridiplantae,AGECVQGRCPSGMCCSQFGYCGRGPKYCGR,30,16126239,Antifungal,,Experimentally Validated
+CAMPSQ1053,399355,"P11478, Q64365",,Neutrophil cationic peptide 1 ,Cavia porcellus,Animalia (Mammals),RRCICTTRTCRFPYRRLGTCIFQNRVYTFCC,31,"2473036 , 3623703","Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1112,90109770,P84758,,Defensin-3,Papio hamadryas,Animalia (Mammals),RTCRCRLGRCSRRESYSGSCNINGRIYSLCCR,32,16978151,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1118,68064400,P83959,,Thaumatin-like protein,Phaseolus vulgaris,Viridiplantae,ANFEIVNNCPYTVWAAASPGGGRRLDRGQT,30,10486265,Antifungal,,Experimentally Validated
+CAMPSQ2303,338817703,B6D434,,Cathelicidin-BF antimicrobial peptide,Bungarus fasciatus,Animalia (Reptiles),KFFRKLKKSVKKRAKEFFKKPRVIGVSIPF,30,18795096,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ48,115311727,Q1ELU9,,Latarcin-5 ,Lachesana tarabaevi,Animalia (Arachnids),GFFGKMKEYFKKFGASFKRRFANLKKRL,28,16735513,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ202,17433718,P56254,"1JJZ,1K48,1KAL,1N1U,1NB1,1ORX,2F2I,2F2J,2JUE,2KHB",Kalata-B1 precursor,Oldenlandia affinis ,Viridiplantae,VCGETCVGGTCNTPGCTCSWPVCTRNGLP,29,10430870,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ213,18202400,P82417,,Ponericin-G4,Pachycondyla goeldii ,Animalia (Insects),DFKDWMKTAGEWLKKKGPGILKAAMAAAT,29,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ273,2494047,Q62713,,Neutrophil antibiotic peptide NP-3 precursor ,Rattus norvegicus,Animalia (Mammals),CSCRTSSCRFGERLSGACRLNGRIYRLCC,29,2543629,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ435,41017615,P82840,,Ranatuerin-2B,Rana berlandieri,Animalia (Amphibians),GLLDTIKGVAKTVAASMLDKLKCKISGC,28,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ467,461938,P80280,"2DCX,2DD6",Dermaseptin-4 ,Phyllomedusa sauvagii,Animalia (Amphibians),ALWMTLLKKVLKAAAKALNAVLVGANA,27,11850249,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ468,"461939, 740961",P80281,,Dermaseptin-5 ,Phyllomedusa sauvagii,Animalia (Amphibians),GLWSKIKTAGKSVAKAAAKAAVKAVTNAV,29,8306981,Antifungal,,Experimentally Validated
+CAMPSQ485,47605787,P61508,,Lycotoxin-2 ,Hogna carolinensis,Animalia (Arachnids),KIKWFKTMKSIAKFIAKEQMKKHLGGE,27,9442044,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ491,50401829,P83960,,Alpha-benincasin,Benincasa hispida ,Viridiplantae,RDWERREFERRQNELRREQEQRREELL,27,12576080,Antifungal,,Experimentally Validated
+CAMPSQ682,,,,Ranatuerin 2SKa ,Rana sakuraii,Animalia (Amphibians),GLLDAIKDTAQNLFANVLDKIKCKFTKC,28,17174009,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ687,1708946,P54229,,"Cathelicidin-5 , Antibacterial peptide BMAP-28 , Myeloid antibacterial peptide 28",Bos taurus ,Animalia (Mammals),GGLRSLGRKILRAWKKYGPIIVPIIRIG,28,8910461,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ697,110560567,A6MBL3,,Odorranain-F1 antimicrobial peptide,Odorrana grahami,Animalia (Amphibians),GFMDTAKNAAKNVAVTLLDNLKCKITKAC,29,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ708,,A6MBP5,,OdM1,Odorrana grahami,Animalia (Amphibians),ATAWDFGPHGLLPIRPIRIRPLCGKDKS,28,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ877,1710861,"P49928 , P49929",1FRY,Cathelin-related peptide SC5,Ovis aries,Animalia (Mammals),RGLRRLGRKIAHGVKKYGPTVLRIIRIAG,29,8549789,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ957,75313070,"Q9S8Z6, P27275","1MMC, 1ZNT, 1ZUV, 1ZWU",AC-AMP1,Amaranthus caudatus,Viridiplantae,VGECVRGRCPSGMCCSQFGYCGKGPKYCG,29,1567877,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ958,75172159,Q9FR52,,Shepherin I,Capsella bursa-pastoris,Viridiplantae,GYGGHGGHGGHGGHGGHGGHGHGGGGHG,28,11117262,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1065,,,,CGA 41-70,Synthetic construct,,TLRGDERILSILRHQNLLKELQDLALQGAK,30,10753865,Antifungal,,Experimentally Validated
+CAMPSQ1147,74764779,O96447,,Lumbrican,Lumbricus rubellus,Animalia (Annelids (Clitellata)),RQKDKRPYSERKNQYTGPQFLYPPERIPP,29,9784609,"Antibacterial, Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1235,"505484, 743626",P80282,,Dermaseptin B1,Phyllomedusa bicolor,Animalia (Amphibians),DVLKKIGTVALHAGKAALGAVADTISQ,27,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1752,68052272,"Q58T45 , Q58T39",,Maximin-10,Bombina maxima,Animalia (Amphibians),GIGGALLSAGKSALKGLAKGLAEHFAS,27,,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1754,68052034,Q58T55,,Maximin-9,Bombina maxima,Animalia (Amphibians),GIGRKFLGGVKTTFRCGVKDFASKHLY,27,11835991,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1775,68052422,Q58T90,,Maximin-z,Bombina maxima,Animalia (Amphibians),GIGGALLSAGKSALKGLAKGLVEHFAN,27,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1778,68052276,"Q58T51, Q58T41",,Maximin-11,Bombina maxima,Animalia (Amphibians),GIGTKIIGGLKTAVKGALKELASTYVN,27,,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1781,68052035,Q58T56,,Maximin-8,Bombina maxima,Animalia (Amphibians),GIGTKILGGLKTAVKGALKELASTYVN,27,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1843,62286499,Q5G863,,Neutrophil defensin1,Pan troglodytes,Animalia (Mammals),ACYCRIPACLAGERRYGTCIYQGRLWAFCC,30,,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Predicted
+CAMPSQ39,115057,P29003,,Bombinin-like peptide 2 ,Bombina orientalis,Animalia (Amphibians),GIGSAILSAGKSALKGLAKGLAEHFAN,27,1744108,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ50,115502205,P84995,,Ganodermin,Ganoderma lucidum ,Fungi,AGETHTVMINHAGRGAPKLVVGGKKLS,27,16039755,Antifungal,,Experimentally Validated
+CAMPSQ159,156619799,"A8DY01, B5L1I4",,Pleurain-a1,Rana pleuraden,Animalia (Amphibians),SIITMTKEAKLPQLWKQIACRLYNTC,26,"17764786, 19028675","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ168,156778015,A8B5P0,,Pleurain-a2,Rana pleuraden,Animalia (Amphibians),SIITMTKEAKLPQSWKQIACRLYNTC,26,17764786,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ196,1708945,P54228,2KET,Antibacterial peptide BMAP-27 ,Bos taurus ,Animalia (Mammals),GRFKRFRKKFKKLFKKLSPVIPLLHLG,27,8910461,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ221,18202408,P82425,,Ponericin-W3,Pachycondyla goeldii ,Animalia (Insects),GIWGTLAKIGIKAVPRVISMLKKKKQ,26,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ222,18202409,P82426,,Ponericin-W4,Pachycondyla goeldii ,Animalia (Insects),GIWGTALKWGVKLLPKLVGMAQTKKQ,26,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ256,24637996,P83080,,Maximin 1,Bombina maxima,Animalia (Amphibians),GIGTKILGGVKTALKGALKELASTYAN,27,11835991,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ258,24637997,"P83081 , Q58T49",,Maximin 2,Bombina maxima,Animalia (Amphibians),GIGTKILGGVKTALKGALKELASTYVN,27,11835991,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ259,24637998,"P83082, Q58T83 , Q58T80 , Q58T70 , Q58T69 , Q58T68 , Q58T64 , Q58T48 , Q58T46 , Q58T40",,Maximin 3,Bombina maxima,Animalia (Amphibians),GIGGKILSGLKTALKGAAKELASTYLH,27,11835991,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ261,24637999,"P83083, Q58T79 , Q58T77 , Q58T62 , Q58T52 , Q58T44 , Q58T42",,Maximin 4,Bombina maxima,Animalia (Amphibians),GIGGVLLSAGKAALKGLAKVLAEKYAN,27,11835991,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ263,24638000,"P83084, Q58T61 , Q58T60",,Maximin 5,Bombina maxima,Animalia (Amphibians),SIGAKILGGVKTFFKGALKELASTYLQ,27,11835991,"Antibacterial,Antifungal,Antiviral","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ354,32396180,Q7SZH3,,Pleurocidin-like peptide AP2,Hippoglossoides platessoides,Animalia (Pisces),GWKKWFNRAKKVGKTVGGLAVDHYLG,26,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ356,32396186,,,Pleurocidin-like peptide GcSc4C5,Glyptocephalus cynoglossus,Animalia (Pisces),GWGSIFKHIFKAGKFIHGAIQAHNDG,26,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ360,32396196,Q7SZG5,,Pleurocidin-like peptide Hb18,Hippoglossus hippoglossus,Animalia (Pisces),GFLGILFHGVHHGRKKALQMNSERRS,26,12878506,"Antibacterial,Antifungal",Gram-ve,Experimentally Validated
+CAMPSQ440,41017620,P82879,,Ranatuerin-2Cb,Rana clamitans,Animalia (Amphibians),GLFLDTLKGLAGKLLQGLKCIKAGCKP,27,10822101,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ463,461478,P30227,,Cysteine-rich antifungal protein 1 (Br-AFP1),Brassica rapa subsp. rapa,Viridiplantae,QKLCERPSGTWSGVCGNNNACKNQCIN,27,8422949,Antifungal,,Experimentally Validated
+CAMPSQ464,461481,P30228,,Cysteine-rich antifungal protein 2 (Br-AFP2),Brassica rapa subsp. rapa,Viridiplantae,QKLCERPSGTXSGVCGNNNACKNQCIR,27,8422949,Antifungal,,Experimentally Validated
+CAMPSQ553,59798984,P84387,,Antimicrobial peptide 1 ,Xenopus tropicalis,Animalia (Amphibians),GFLGPLLKLAAKGVAKVIPHLIPSRQQ,27,11738090,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ868,,,,Witch flounder GcSc4C5,Glyptocephalus cynoglossus,Animalia (Pisces),AGWGSIFKHIFKAGKFIHGAIQAHND,26,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ871,,,,Halibut Hb18,Halibut,Animalia (Pisces),GFLGILFHGVHHGRKKALHMNSERRS,26,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1311,68052268,"Q58T41 , Q58T59",,Maximin-6 ,Bombina maxima,Animalia (Amphibians),GIGGALLSAGKSALKGLAKGLAEHFAN,27,11835991,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1538,24638002,"P83086 , Q58T74 , Q58T58",,Maximin-7,Bombina maxima,Animalia (Amphibians),GIGAKILGGVKTALKGALKELASTYVN,27,,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1767,166220569,A8B5Q0,,Pleurain-A4,Rana pleuraden,Animalia (Amphibians),SIITTTKEAKLPQLWKQIACRLYNTC,26,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Predicted
+CAMPSQ1768,166220568,A8B5P7,,Pleurain-A3,Rana pleuraden,Animalia (Amphibians),SIITMTREAKLPQLWKQIACRLYNTC,26,,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Predicted
+CAMPSQ42,115311720,Q1ELT9,2PCO,Latarcin-1 ,Lachesana tarabaevi,Animalia (Arachnids),SMWSGMWRRKLKKLRNALKKKLKGE,25,16735513,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ43,115311721,Q1ELU1,2G9P,Latarcin-2a ,Lachesana tarabaevi,Animalia (Arachnids),GLFGKLIKKFGRKAISYAVKKARGKH,26,16735513,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ44,115311722,Q1ELU0,,Latarcin-2b ,Lachesana tarabaevi,Animalia (Arachnids),GLFGKLIKKFGRKAISYAVKKARGKN,26,16735513,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ153,148228030,P07198,,Xenopsin precursor fragment ,Xenopus laevis,Animalia (Amphibians),GWASKIGQTLGKIAKVGLKELIQPK,25,1717472,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ178,159162186,P56684,1CZ6,Androctonin,Androctonus australis,Animalia (Arachnids),RSVCRQIKICRRRGGCYYKCTNRPY,25,8939880,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ219,18202406,P82423,,Ponericin-W1,Pachycondyla goeldii ,Animalia (Insects),WLGSALKIGAKLLPSVVGLFKKKKQ,25,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ220,18202407,P82424,,Ponericin-W2,Pachycondyla goeldii ,Animalia (Insects),WLGSALKIGAKLLPSVVGLFQKKKK,25,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ253,236997,P39080,,Antimicrobial peptide PGQ,Xenopus laevis,Animalia (Amphibians),GVLSNVIGYLKKLGTGALNAVLKQ,24,1717472,"Antibacterial,antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ270,2493581,Q24395,,Metchnikowin,Drosophila melanogaster,Animalia (Insects),HRHQGPIFDTRPSPFNPNQPRPGPIY,26,7588819,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ305,26393021,P81570,,Antimicrobial peptide D3 ,Spinacia oleracea,Viridiplantae,GIFSSRKCKTVSKTFRGICTRNANC,25,9762899,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ327,29123270,Q800R4,,Dermaseptin-like PBN2,Phyllomedusa bicolor,Animalia (Amphibians),GLVTSLIKGAGKLLGGLFGSVTGGQS,26,12709067,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ353,32396178,Q7SZH4,,Pleurocidin-like peptide AP1,Hippoglossoides platessoides,Animalia (Pisces),GWKSVFRKAKKVGKTVGGLALDHYLG,26,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ355,32396184,Q7SZH1,,Pleurocidin-like peptide YT2 ,Limanda ferruginea,Animalia (Pisces),RWGKWFKKATHVGKHVGKAALTAYL,25,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ366,34101171,Q6JWQ9,,Epinecidin-1 ,Epinephelus coioides,Animalia (Pisces),FIFHIIKGLFHAGKMIHGLVTRRRH,25,"Aquaculture, Volume 253, Issues 1-4, 31 March 2006, Pages 204-211","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ424,41017604,P82741,,Ranatuerin-1,Rana catesbeiana,Animalia (Amphibians),SMLSVLKNLGKVGLGFVACKINKQC,25,9784389,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ436,41017616,P82875,,Ranatuerin-1C,Rana clamitans,Animalia (Amphibians),SMLSVLKNLGKVGLGLVACKINKQC,25,10822101,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ484,47605786,P61507,,Lycotoxin-1 ,Hogna carolinensis,Animalia (Arachnids),IWLTALKFLGKHAAKHLAKQQLSKL,25,9442044,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ569,66773950,P84525,,Eryngin,Pleurotus eryngii ,Fungi,ATRVVYCNRRSGSVVGGDDTVYYEG,25,15003349,Antifungal,,Experimentally Validated
+CAMPSQ663,1052591,Q24395,,Metchnikowin-2,Drosophila melanogaster,Animalia (Insects),RRQGPIFDTRPSPFNPNQPRPGPIY,25,7588819,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ863,,,,Winter flounder 1a1,Pseudopleuronectes americanus,Animalia (Pisces),GRRKRKWLRRIGKGVKIIGGAALDHL,26,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ865,14030283,Q90ZX8,,Winter flounder 4,Pseudopleuronectes americanus,Animalia (Pisces),GWGSIFKHGRHAAKHIGHAAVNHYL,25,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ983,159162673,P81172,"1M4E,1M4F,2KEF,3H0T",Hepcidin-25 / LEAP,Homo sapiens ,Animalia (Mammals),DTHFPICIFCCGCCHRSKCGMCCKT,25,"11034317 , 11113131","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1286,68052843,Q58T94,,Maximin y type 2 precursor,Bombina maxima,Animalia (Amphibians),GIGGALLSAGKAALKGLAKGFAEHF,25,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1323,146324984,P0C2U8,,Lycocitin-3,Lycosa singoriensis,Animalia (Arachnids),KIKWFKTMKSLAKFLAKEQMKKHLGE,26,14991689,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1772,68052841,Q58T91,,Maximin-y,Bombina maxima,Animalia (Amphibians),GIGGALLSAGKSALKGLAKGFAEHF,25,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ21,110348521,A0SN44,,Amolopin-1d,Amolops loloensis,Animalia (Amphibians),FLPMLAGLAANFLPELFCKITKKC,24,17000029,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ47,115311726,Q1ELU4,,Latarcin-4b,Lachesana tarabaevi,Animalia (Arachnids),SLKDKVKSMGEKLKQYIQTWKAKF,24,16735513,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ72,1169818,P80400,,Gaegurin-6,Rana rugosa ,Animalia (Amphibians),FLPLLAGLAANFLPTIICKISYKC,24,7999137,"Antibacterial,Antifungal,Antiparasitic","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ223,18202410,P82427,,Ponericin-W5,Pachycondyla goeldii ,Animalia (Insects),FWGALIKGAAKLIPSVVGLFKKKQ,24,11279030,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ242,21542188,P83188,,Pseudin-1,Pseudis paradoxa,Animalia (Amphibians),GLNTLKKVFQGLHEAIKLINNHVQ,24,11689009,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ243,21542189,P83189,,Pseudin-2,Pseudis paradoxa,Animalia (Amphibians),GLNALKKVFQGIHEAIKLINNHVQ,24,11689009,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ283,2506237,P80399,,Gaegurin-5,Rana rugosa ,Animalia (Amphibians),FLGALFKVASKVLPSVFCAITKKC,24,7999137,"Antibacterial,Antifungal,Antiparasitic","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ303,26393016,P81568,,Antimicrobial peptide D5 ,Spinacia oleracea ,Viridiplantae,MFFSSKKCKTVXKTFRGPCVRNAN,24,9762899,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ330,29336801,Q8QFQ5,,Brevinin-1Pb precursor,Rana pipiens,Animalia (Amphibians),FLPIIAGIAAKVFPKIFCAISKKC,24,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ359,32396194,Q7SZG6,,Pleurocidin-like peptide Hb26,Hippoglossus hippoglossus,Animalia (Pisces),FLGLLFHGVHHVGKWIHGLIHGHH,24,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ405,41016806,P82834,,Brevinin-1Bb,Rana berlandieri,Animalia (Amphibians),FLPAIAGMAAKFLPKIFCAISKKC,24,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ407,41016808,P82836,,Brevinin-1Bd,Rana berlandieri,Animalia (Amphibians),FLPAIAGVAAKFLPKIFCAISKKC,24,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ410,41016811,P82841,,Brevinin-1Pa,Rana pipiens,Animalia (Amphibians),FLPIIAGVAAKVFPKIFCAISKKC,24,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ411,41016812,P82843,,Brevinin-1Pc,Rana pipiens,Animalia (Amphibians),FLPIIASVAAKVFSKIFCAISKKC,24,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ412,41016813,P82844,,Brevinin-1Pd,Rana pipiens,Animalia (Amphibians),FLPIIASVAANVFSKIFCAISKKC,24,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ413,41016814,P82845,,Brevinin-1Pe,Rana pipiens,Animalia (Amphibians),FLPIIASVAAKVFPKIFCAISKKC,24,10651828,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ499,"51701304, 403398045","P84111, J9RS19",,Brevinin-1BYa,Rana boylii ,Animalia (Amphibians),FLPILASLAAKFGPKLFCLVTKKC,24,14531844,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ500,51701305,P84112,,Brevinin-1BYb,Rana boylii ,Animalia (Amphibians),FLPILASLAAKLGPKLFCLVTKKC,24,14531844,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ501,51701306,P84113,,Brevinin-1BYc,Rana boylii ,Animalia (Amphibians),FLPILASLAATLGPKLLCLITKKC,24,14531844,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ709,110560664,A6MBR0,,OdP1a,Odorrana grahami,Animalia (Amphibians),VIPFVASVAAEMMQHVYCAASKKC,24,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ735,206557920,P85028,,Cryptonin,Cryptotympana dubia,Animalia (Insects),GLLNGLALRLGKRALKKIIKRLCR,24,18000874,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ861,14030273,Q90VX5,,Winter flounder 1,Pseudopleuronectes americanus,Animalia (Pisces),GKGRWLERIGKAGGIIIGGALDHL,24,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ864,14030279,Q90VW7,,Winter flounder 3,Pseudopleuronectes americanus,Animalia (Pisces),FLGALIKGAIHGGRFIHGMIQNHH,24,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ899,,P15516,,Histatin-5,Homo sapiens ,Animalia (Mammals),DSHAKRHHGYKRKFHEKHHSHRGY,24,3286634,Antifungal,,Experimentally Validated
+CAMPSQ1066,,,,CGA 47-70,Synthetic construct,,RILSILRHQNLLKELQDLALQGAK,24,10753865,Antifungal,,Experimentally Validated
+CAMPSQ12,110279027,Q2LKX9,,Ixosin,Ixodes sinensis  ,Animalia (Arachnids),GLHKVMREVLGYERNSYKKFFLR,23,16087274,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ18,110348515,A0SN41,,Amolopin-1a,Amolops loloensis,Animalia (Amphibians),FLPMLAGLAANFLPKLFCKITKKC,24,17000029,"Antibacterial, Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ19,110348517,A0SN42,,Amolopin-1b,Amolops loloensis,Animalia (Amphibians),FLPLAVSLAANFLPKLFCKITKKC,24,17000029,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ20,110348519,A0SN43,,Amolopin-1c,Amolops loloensis,Animalia (Amphibians),FLPMLAGLAANLLPKLFCKITKKC,24,17000029,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ110,126683,P11006,"1DUM,2MAG",Magainin 2,Xenopus laevis,Animalia (Amphibians),GIGKFLHSAKKFGKAFVGEIMNS,23,"1717472 , 3299384","Antibacterial,Antifungal,Antiparasitic","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ155,154347366,A7BJK5,,Prepromelittin-related peptide ,Rana sakuraii,Animalia (Amphibians),VIGSILGALASGLPTLISWIKNR,23,17174009,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ156,154347368,A7BJK6,,Prepromelittin-related peptide ,Rana tagoi ,Animalia (Amphibians),AIGSILGALAKGLPTLISWIKNR,23,12804591,"Antibacterial,Antifungal,Anticancer","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ206,17529687,Q8UUG2,,Moronecidin,Morone chrysops,Animalia (Pisces),FFHHIFRGIVHVGKTIHKLVTGG,23,11739390,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ208,18034013,Q8UUG2,,Moronecidin,Morone chrysops,Animalia (Pisces),FFHHIFRGIVHVGRTIHKLVTGG,23,11739390,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ209,18034015,Q8UUG0,"2JOS,2OJM",Moronecidin,Morone saxatilis,Animalia (Pisces),FFHHIFRGIVHVGRTIHRLVTGG,23,11739390,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ244,21542190,P83190,,Pseudin-3,Pseudis paradoxa,Animalia (Amphibians),GINTLKKVIQGLHEVIKLVSNHE,23,11689009,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ245,21542191,P83191,,Pseudin-4,Pseudis paradoxa,Animalia (Amphibians),GINTLKKVIQGLHEVIKLVSNHA,23,11689009,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ280,2499726,P80952,,Skin peptide tyrosine-tyrosine ,Phyllomedusa bicolor,Animalia (Amphibians),PEEMNKYLTALRHYINLVTRQRY,23,8601432,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ304,26393019,P81569,,Antimicrobial peptide D4 ,Spinacia oleracea,Viridiplantae,MFFSSKKCKTVSKTFRGPCVRNA,23,9762899,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ346,3121854,P80710,,Clavanin-A,Styela clava,Animalia,VFQFLGKIIHHVGNFVHGFSHVF,23,9001389,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ347,3121863,O18493,,Clavanin-C,Styela clava,Animalia,VFHLLGKIIHHVGNFVYGFSHVF,23,9001389,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ348,3121864,P80711,,Clavanin-B,Styela clava,Animalia,VFQFLGRIIHHVGNFVHGFSHVF,23,9001389,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ349,3121865,P80713,,Clavanin-D,Styela clava,Animalia,AFKLLGRIIHHVGNFVYGFSHVF,23,9001389,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ372,37999867,Q8UUG0,"2JOS,2OJM",Moronecidin ,Morone chrysops x Morone saxatilis,Animalia (Pisces),FFHHIFRGIVHVGKTIHRLVTG,22,11713517,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ373,37999868,Q8UUG2,,Moronecidin,Morone chrysops x Morone saxatilis,Animalia (Pisces),FFHHIFRGIVHVGKTIHKLVTG,22,11739390,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ456,41688509,Q95NH6,,Attacin-C,Drosophila melanogaster,Animalia (Insects),QRPYTQPLIYYPPPPTPPRIYRA,23,14744858,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ551,59798982,P84385,,Antimicrobial peptide 5 ,Xenopus tropicalis,Animalia (Amphibians),GMATKAGTALGKVAKAVIGAAL,22,11738090,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ716,,,,OdW1,Odorrana grahami,Animalia (Amphibians),GLFGKSSVHGRKYYVDLAGCAKA,23,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ920,461480,P30226,,Cysteine-rich antifungal protein 2 (Bn-AFP2),Brassica napus,Viridiplantae,QKLCERPSGTWSGVCGNNNACKN,23,8422949,Antifungal,,Experimentally Validated
+CAMPSQ2339,304442852,E1B228,,Brevinin-1CG5 antimicrobial peptide precursor  ,Amolops chunganensis,Animalia (Amphibians),LPMLAGLAANFLPKIVCKITKKC,23,22951323,"Antibacterial, Antifungal",,Predicted
+CAMPSQ271,2493582,P55788,8TFV,Thanatin,Podisus maculiventris,Animalia (Insects),GSKKPVPIIYCNRRTGKCQRM,21,8577744,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ278,2495138,P55897,,Buforin-2 ,Bufo gargarizans,Animalia (Amphibians),TRSSRAGLQFPVGRVHRLLRK,21,8573171,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ290,25090821,P83434,1SIY,Nonspecific lipid-transfer protein 1 ,Vigna radiata var. radiata,Viridiplantae,MTCGQVQGNLAQCIGFLQKGG,21,15350690,"Antibacterial,Antifungal",Gram+ve,Experimentally Validated
+CAMPSQ357,32396188,Q7SZG9,,Pleurocidin-like peptide GcSc4B7,Glyptocephalus cynoglossus,Animalia (Pisces),FWGKLLKLGMHGIGLLHQHLG,21,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ393,3914038,P81474,,Misgurin,Misgurnus anguillicaudatus,Animalia (Pisces),RQRVEELSKFSKKGAAARRRK,21,9271200,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ550,59798981,P84384,,Antimicrobial peptide 4 ,Xenopus tropicalis,Animalia (Amphibians),GVFLDALKKFAKGGMNAVLNPK,22,11738090,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ573,67460722,P0C010,,Kassinatuerin-1,Kassina senegalensis,Animalia (Amphibians),GFMKYIGPLIPHAVKAISDLI,21,15885852,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ575,67460989,P0C009,,Nigrocin-2,Rana nigromaculata (dark-spotted frog ),Animalia (Amphibians),GLLSKVLGVGKKVLCGVSGLC,21,11682065,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ609,730432,Q99134,,PYLa/PGLa precursor ,Xenopus laevis,Animalia (Amphibians),GMASKAGAIAGKIAKVALKAL,21,1717472,"Antibacterial, Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ672,33358303,Q7T053,,Pleurocidin-like peptide WFX ,Pseudopleuronectes americanus,Animalia (Pisces),RSTEDIIKSISGGGFLNAMNA,21,"12950255 , 12878506","Antibacterial, Antifungal",,Experimentally Validated
+CAMPSQ696,110560590,A6MBM3,,Odorranain-H1 antimicrobial peptide,Odorrana grahami,Animalia (Amphibians),GIFGKILGVGKKVLCGLSGVC,21,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ699,110560345,"A6MBA3 , P0C2A4, P85070",,"Nigrosin-OG20 , nigrocin-2GRa , Grahamin-1, nigrosin-OG17, Grahamin-2",Odorrana grahami,Animalia (Amphibians),GLLSGILGAGKNIVCGLSGLC,21,"17272268 , 16621155 , 16487561","Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ700,110560319,A6MB90,,Nigrosin-OG21 antimicrobial peptide,Odorrana grahami,Animalia (Amphibians),GLLSGVLGVGKKVLCGLSGLC,21,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ701,110560301,A6MB81,,Nigrosin-OG13 antimicrobial peptide,Odorrana grahami,Animalia (Amphibians),GLLSGILGAGKHIVCGLSGLR,21,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ702,,,,Nigrocin-OG4,Odorrana grahami,Animalia (Amphibians),GLLSGILGAGKHIICGLSGLC,21,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ703,,,,Nigrocin-OG5,Odorrana grahami,Animalia (Amphibians),GLLSGILGAGKQKVCGLSGLC,21,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ776,,,,Nigrocin-2GRb,Rana grahami,Animalia (Amphibians),GLFGKILGVGKKVLCGLSGMC,21,16621155,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ869,,,,Witch flounder GcSc4B7,Glyptocephalus cynoglossus,Animalia (Pisces),GFWGKLFKLGLHGIGLLHLHL,21,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ995,124007192,"P85070, P0C2A5, P85071",,"Nigrocin-2GRc, Grahamin-2, Grahamin-1",Rana grahami,Animalia (Amphibians),GLLSGILGAGKHIVCGLSGLC,21,"16621155 , 16487561","Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1773,68052841,"Q58T91, Q58T89 , Q58T94",,Maximin-Hv ,Bombina maxima,Animalia (Amphibians),ILGPVLSLVGSALGGLIKKI,20,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1774,68052423,Q58T92,,Maximin-Hw,Bombina maxima,Animalia (Amphibians),ILGPVLGLVSNAIGGLIKKI,20,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1776,68052279,Q58T59,,Maximin-H10,Bombina maxima,Animalia (Amphibians),ILGPVLGLVSNALGGLLKNL,20,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1777,68052278,Q58T58,,Maximin-H13,Bombina maxima,Animalia (Amphibians),ILGPVIKTIGGVLGGLLKNL,20,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1779,68052036,Q58T72,,Maximin-H6,Bombina maxima,Animalia (Amphibians),ILGPVIGTIGNVLGGLLKNL,20,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ1780,68052035,Q58T56,,Maximin-H7,Bombina maxima,Animalia (Amphibians),ILGPVIKTIGGVIGGLLKNL,20,,"Antibacterial,Antifungal",,Predicted
+CAMPSQ45,115311723,Q1ELU3,,Latarcin-3a ,Lachesana tarabaevi,Animalia (Arachnids),SWKSMAKKLKEYMEKLKQRA,20,16735513,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ46,115311724,Q1ELU2,,Latarcin-3b ,Lachesana tarabaevi,Animalia (Arachnids),SWASMAKKLKEYMEKLKQRA,20,16735513,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ143,143955273,P85102,,Antifungal protein ,Cullen corylifolium ,Viridiplantae,EWEPVQNGGSSYYMVPRIWA,20,16530884,Antifungal,,Experimentally Validated
+CAMPSQ437,41017617,P82876,,Ranalexin-1Ca,Rana clamitans,Animalia (Amphibians),FLGGLMKAFPALICAVTKKC,20,10822101,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ438,41017618,P82877,,Ranalexin-1Cb,Rana clamitans,Animalia (Amphibians),FLGGLMKAFPAIICAVTKKC,20,10822101,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ490,50401824,P83988,,Arietin,Cicer arietinum,Viridiplantae,GVGYKVVVTTTAAADDDDVV,20,12084511,Antifungal,,Experimentally Validated
+CAMPSQ586,68053347,P83986,,Cicerarin,Cicer arietinum,Viridiplantae,VKSTGRADDDLAVKTKYLPP,20,12895650,Antifungal,,Experimentally Validated
+CAMPSQ587,68053357,P83987,,Cicerin,Cicer arietinum,Viridiplantae,ARCENFADSYRQPPISSSQT,20,12084511,Antifungal,,Experimentally Validated
+CAMPSQ608,730091,Q07932,,Pilosulin-1 ,Myrmecia pilosula,Animalia (Insects),GLGSVFGRLARILGRVIPKV,20,15639237,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ610,730587,P39084,,Ranalexin,Rana catesbeiana,Animalia (Amphibians),FLGGLIKIVPAMICAVTKKC,20,8144672,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ667,2342597,O24006,,Ib-AMP1,Impatiens balsamina,Viridiplantae,QWGRRCCGWGPGRRYCVRWC,20,9305910,"Antibacterial,antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ668,2342597,O24006,,Ib-AMP2,Impatiens balsamina,Viridiplantae,QYGRRCCNWGPGRRYCKRWC,20,9305910,"Antibacterial,antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ669,2342597,O24006,,Ib-AMP3,Impatiens balsamina,Viridiplantae,QYRHRCCAWGPGRKYCKRWC,20,9305910,"Antibacterial,antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ670,2342597,O24006,,Ib-AMP4,Impatiens balsamina,Viridiplantae,QWGRRCCGWGPGRRYCRRWC,20,9305910,"Antibacterial,antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ685,,"Q58T61 , Q58T60",,Maximin H4,Bombina maxima,Animalia (Amphibians),ILGPVISKIGGVLGGLLKNL,20,11835991,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ695,110560616,A6MBN6,,Odorranain-J1 antimicrobial peptide,Odorrana grahami,Animalia (Amphibians),GLFTLIKCAYQLIAPTVACN,20,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ698,110560423,A6MBD9,,Odorranain-B1 antimicrobial peptide,Odorrana grahami,Animalia (Amphibians),AALKGCWTKSIPPKPCFGKR,20,17272268,"Antibacterial,Antifungal ","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ862,14030271,Q90WJ0,,Winter flounder 1a,Pseudopleuronectes americanus,Animalia (Pisces),WLRRIGKGVKIIGGAALDHL,20,12878506,"Antibacterial,Antifungal","Gram+ve, Gram-ve",Experimentally Validated
+CAMPSQ1119,68064399,P83958,,"Thaumatin-like protein , Actc2",Actinidia chinensis,Viridiplantae,ATFNFINNCPFTVWAAAVPG,20,"12165295 , 12417892","Antifungal,Antiviral",,Experimentally Validated
+CAMPSQ1133,93204534,P84794,,Antifungal protein J ,Solanum tuberosum,Viridiplantae,LPSDATLVLDQTGKELDARL,20,16076139,Antifungal,,Experimentally Validated
+CAMPSQ1237,109940030,P81903,,Histone H2B 1 ,Ictalurus punctatus ,Animalia (Pisces),PDPAKTAPKKGSKKAVTKXA,20,9645227,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1749,68052292,"Q58T86, Q58T49",,Maximin-H8,Bombina maxima,Animalia (Amphibians),ILGPVLGLVSNALGGLLKNI,20,,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1750,68052290,"Q58T80, Q58T69",,Maximin-H9,Bombina maxima,Animalia (Amphibians),ILGPVLGLVSNALGGLIKKI,20,,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1751,68052273,Q58T46,,Maximin-H14,Bombina maxima,Animalia (Amphibians),ILGPVLGLVGEPLGGLIKKI,20,,"Antibacterial,Antifungal",,Experimentally Validated
+CAMPSQ1753,68052270,"Q58T43, Q58T39",,Maximin-H15,Bombina maxima,Animalia (Amphibians),ILGPVLGLVGNALGGLLKNL,20,,"Antibacterial,Antifungal",,Experimentally Validated

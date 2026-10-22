@@ -1,0 +1,94 @@
+代表序列特征分析报告
+============================================================
+
+=== 基本统计 ===
+代表序列总数: 1929
+平均长度: 25.67 aa
+中位数长度: 21.00 aa
+最小长度: 2 aa
+最大长度: 60 aa
+标准差: 16.10 aa
+
+=== 长度分布 ===
+0-10 aa: 412 (21.4%)
+11-20 aa: 549 (28.5%)
+21-30 aa: 315 (16.3%)
+31-40 aa: 245 (12.7%)
+41-50 aa: 176 (9.1%)
+51-60 aa: 232 (12.0%)
+
+=== 物种分布（Top 20）===
+Escherichia coli (strain K12): 49 (2.5%)
+Populus euphratica: 37 (1.9%)
+Pseudotsuga menziesii: 31 (1.6%)
+Spinacia oleracea: 30 (1.6%)
+Homo sapiens: 26 (1.3%)
+Pisum sativum: 25 (1.3%)
+Sarcophaga bullata: 25 (1.3%)
+Locusta migratoria: 24 (1.2%)
+Bacillus subtilis (strain 168): 23 (1.2%)
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c): 22 (1.1%)
+Delia radicum: 21 (1.1%)
+Rhyparobia maderae: 20 (1.0%)
+Carcinus maenas: 20 (1.0%)
+Rhodnius prolixus: 17 (0.9%)
+Solanum tuberosum: 16 (0.8%)
+Pinus pinaster: 15 (0.8%)
+Rattus norvegicus: 15 (0.8%)
+Periplaneta americana: 15 (0.8%)
+Oryctolagus cuniculus: 15 (0.8%)
+Canis lupus familiaris: 14 (0.7%)
+
+=== 氨基酸组成 ===
+L: 4217 (8.52%)
+G: 4016 (8.11%)
+A: 3976 (8.03%)
+V: 3278 (6.62%)
+S: 3180 (6.42%)
+K: 3107 (6.28%)
+R: 2970 (6.00%)
+I: 2639 (5.33%)
+E: 2601 (5.25%)
+P: 2592 (5.24%)
+D: 2474 (5.00%)
+T: 2442 (4.93%)
+F: 2360 (4.77%)
+N: 2013 (4.07%)
+Q: 1838 (3.71%)
+Y: 1619 (3.27%)
+M: 1351 (2.73%)
+C: 1254 (2.53%)
+H: 962 (1.94%)
+W: 599 (1.21%)
+
+=== 前10条代表序列 ===
+
+P80085|ATP synthase subunit delta', mitochondrial|Spinacia oleracea|20aa
+TSAEVPATAQGVTHALEGTQ
+
+P80086|ATP synthase subunit a|Spinacia oleracea|14aa
+SPLEQFSILMLIPM
+
+P80106|Light-harvesting protein B800/830/1020 beta-1 chain|Halorhodospira halochloris|40aa
+ANDIRPLRDFEDEEAQEFHQAAVQAFFLYVAVAFVAHLPV
+
+P80171|LIM and SH3 domain protein 1|Sus scrofa|30aa
+MNPNCARCGKIVYPTEKVNCLDKFWHKACF
+
+P80259|Light-harvesting protein B-880 alpha chain|Afifella marina|52aa
+MWKVWLLFDPRRTLVALFTFLFVLALLIHFILLSTDRFNWMQGAPTAPAQTS
+
+P80260|Light-harvesting protein B-880 beta chain|Afifella marina|56aa
+AEIDRPVSLSGLTEGEAREFHGVFMTSFMVFIAVAIVAHILAWMWRPWIPGPEGYA
+
+P80302|Hirustasin|Hirudo medicinalis|55aa
+TQGNTCGGETCSAAQVCLKGKCVCNEVHCRIRCKYGLKKDENGCEYPCSCAKASQ
+
+P80342|Cathepsin L2|Fasciola hepatica|14aa
+AVPDKIDRRESGYV
+
+P80424|Leech-derived tryptase inhibitor C|Hirudo medicinalis|46aa
+KKVCACPKILKPVCGSDGRTYANSCIARCNGVSIKSEGSCPTGILN
+
+P80575|Phospho-2-dehydro-3-deoxyheptonate aldolase|Streptomyces rimosus|18aa
+TRRFDDVLDEVKGFFEVH

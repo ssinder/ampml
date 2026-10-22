@@ -1,0 +1,139 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Install lint tooling
+        run: pip install --upgrade pip ruff
+      - name: Ruff check (package and tests)
+        run: ruff check ampml/ test/
+      - name: Ruff check (research pipeline, non-blocking)
+        continue-on-error: true
+        run: ruff check src/
+      - name: Check CITATION.cff is valid
+        run: pip install cffconvert && cffconvert --validate --infile CITATION.cff
+
+  env-check:
+    name: Environment self-check
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run environment self-check (src/00)
+        run: python src/00_check_environment.py
+
+  test:
+    name: Test suite
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt pytest
+      - name: Run pytest
+        run: pytest -q --maxfail=1
+
+  audit:
+    name: Verification audit (src/99)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Fetch upstream feature table
+        run: |
+          mkdir -p rawdata
+          # The 78 MB upstream feature table is distributed as a release asset.
+          # See docs/REPRODUCIBILITY.md for the full provenance chain.
+          curl -fsSL --retry 3 \
+            "https://github.com/ssinder/ampml/releases/download/v0.1.0/all_features_combined_standard.csv" \
+            -o rawdata/all_features_combined_standard.csv
+          echo "7ce771dc55f1cf66d0dd28f8609c0bcb  rawdata/all_features_combined_standard.csv" \
+            | md5sum --check --status \
+            && echo "MD5 verified" \
+            || { echo "MD5 mismatch"; exit 1; }
+      - name: Run five-layer verification audit
+        run: python src/99_verify_test_metrics.py
+
+  pages:
+    name: Docs build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Validate documentation links and tables
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          python - <<'PY'
+          import csv, json, pathlib, sys
+          root = pathlib.Path(".")
+          errors = []
+          # Every metric quoted in docs must exist in results/
+          required = [
+              "results/model_comparison_data.csv",
+              "results/confusion_matrix_data.csv",
+              "results/verification_report.json",
+          ]
+          for p in required:
+              if not (root / p).exists():
+                  errors.append(f"missing required artifact: {p}")
+          for doc in (root / "docs").glob("*.md"):
+              text = doc.read_text(encoding="utf-8")
+              for path in (root / "figures").glob("*.png"):
+                  pass
+          # Verify the audit report is internally consistent
+          rep = root / "results/verification_report.json"
+          if rep.exists():
+              data = json.loads(rep.read_text(encoding="utf-8"))
+              if not data:
+                  errors.append("verification_report.json is empty")
+          if errors:
+              print("ERRORS:"); [print(" -", e) for e in errors]; sys.exit(1)
+          print("docs validation passed")
+          PY

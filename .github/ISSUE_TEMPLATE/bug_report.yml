@@ -1,0 +1,88 @@
+name: Bug report
+description: Report something that does not work as documented
+title: "[Bug] "
+labels: ["bug", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug.
+
+        **Before filing**: please check that `python src/00_check_environment.py` passes.
+        Most "the numbers changed" reports are actually environment issues.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you observe, and what did you expect instead?
+      placeholder: |
+        Expected: `bash run_all.sh --clean` produces GB accuracy 0.8646
+        Actual:   stage 03 crashes with `FileNotFoundError: results/models/...`
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: The exact commands you ran, in order.
+      render: shell
+      placeholder: |
+        git clone https://github.com/ssinder/ampml.git
+        cd ampml
+        bash run_all.sh --only 03
+    validations:
+      required: true
+
+  - type: textarea
+    id: traceback
+    attributes:
+      label: Full error output
+      description: The complete traceback, not just the last line.
+      render: shell
+    validations:
+      required: true
+
+  - type: input
+    id: python-version
+    attributes:
+      label: Python version
+      placeholder: "3.13.9"
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      placeholder: "macOS 15.1 (arm64)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: env-check
+    attributes:
+      label: Output of `python src/00_check_environment.py`
+      description: Paste the full output.
+      render: shell
+    validations:
+      required: true
+
+  - type: textarea
+    id: packages
+    attributes:
+      label: Relevant package versions
+      description: Output of `pip list | grep -Ei "scikit|xgboost|shap|pandas|numpy"`.
+      render: shell
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Additional checks
+      options:
+        - label: I searched existing issues and this has not been reported
+          required: true
+        - label: I read `docs/THIRD_PARTY_VERIFICATION.md` and believe this is a genuine defect, not an intended limitation

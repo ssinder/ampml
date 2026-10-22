@@ -1,0 +1,25 @@
+﻿Database_Combination,Sequence_Count,Percentage
+antifungal.csv ∩ peptides_merged.csv,2733,34.5%
+peptides_merged.csv,1713,21.6%
+Antifungal_amps.csv ∩ antifungal.csv,549,6.9%
+antifungal.csv,488,6.2%
+antifungal.csv ∩ antifungal_peptides.csv ∩ peptides_merged.csv,478,6.0%
+antifungal_peptides.csv,375,4.7%
+Antifungal_amps.csv ∩ antifungal.csv ∩ antifungal_peptides.csv ∩ peptides_merged.csv,345,4.4%
+Antifungal_amps.csv ∩ antifungal.csv ∩ peptides_merged.csv,308,3.9%
+Antifungal_amps.csv ∩ antifungal.csv ∩ antifungal_peptides.csv ∩ merged_data.csv ∩ peptides_merged.csv,206,2.6%
+antifungal.csv ∩ antifungal_peptides.csv,146,1.8%
+Antifungal_amps.csv ∩ antifungal.csv ∩ merged_data.csv,134,1.7%
+antifungal_peptides.csv ∩ peptides_merged.csv,97,1.2%
+Antifungal_amps.csv ∩ antifungal.csv ∩ antifungal_peptides.csv,95,1.2%
+Antifungal_amps.csv ∩ antifungal.csv ∩ merged_data.csv ∩ peptides_merged.csv,86,1.1%
+Antifungal_amps.csv ∩ antifungal.csv ∩ antifungal_peptides.csv ∩ merged_data.csv,54,0.7%
+antifungal.csv ∩ merged_data.csv,48,0.6%
+Antifungal_amps.csv,17,0.2%
+Antifungal_amps.csv ∩ peptides_merged.csv,15,0.2%
+antifungal.csv ∩ antifungal_peptides.csv ∩ merged_data.csv ∩ peptides_merged.csv,12,0.2%
+antifungal.csv ∩ merged_data.csv ∩ peptides_merged.csv,11,0.1%
+merged_data.csv,5,0.1%
+antifungal.csv ∩ antifungal_peptides.csv ∩ merged_data.csv,3,0.0%
+Antifungal_amps.csv ∩ antifungal_peptides.csv,1,0.0%
+Antifungal_amps.csv ∩ antifungal_peptides.csv ∩ peptides_merged.csv,1,0.0%
