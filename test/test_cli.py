@@ -67,7 +67,13 @@ def test_predict_runs_on_a_real_feature_table() -> None:
     if not test_data.exists():
         pytest.skip("data/test_data_selected.csv is not present")
 
-    workdir = Path(tempfile.mkdtemp(prefix="ampml_cli_", dir=str(REPO_ROOT)))
+    # The scratch directory lives under .tmp/ inside the repository rather
+    # than in the system temp directory: some sandboxes lock down the system
+    # temp root, and writing into the repository root would leave stray
+    # directories behind. .tmp/ is git-ignored and removed by the test.
+    scratch_root = REPO_ROOT / ".tmp"
+    scratch_root.mkdir(exist_ok=True)
+    workdir = Path(tempfile.mkdtemp(prefix="ampml_cli_", dir=str(scratch_root)))
     try:
         output = workdir / "predictions.csv"
         result = _run_cli("predict", "--input", str(test_data), "--output", str(output))
@@ -87,3 +93,4 @@ def test_predict_runs_on_a_real_feature_table() -> None:
         assert accuracy == pytest.approx(0.8645833333333334, abs=0.01)
     finally:
         shutil.rmtree(workdir, ignore_errors=True)
+        shutil.rmtree(scratch_root, ignore_errors=True)

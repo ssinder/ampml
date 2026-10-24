@@ -87,3 +87,9 @@ results/shap/shap_values/
 
 # 沙箱探针遗留的临时探测文件
 ampmodel/__ignore_probe__.txt
+
+# test/test_cli.py 早期版本把临时目录建在仓库根留下的残留
+/ampml_cli_*/
+
+# 测试用的临时工作目录
+/.tmp/
