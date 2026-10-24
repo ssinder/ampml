@@ -58,13 +58,13 @@ jobs:
           )
 
           echo "::notice::writing topics payload: $MERGED"
-          api --method PUT \
+          api -X PUT \
             -H "Content-Type: application/json" \
             -d "$MERGED" \
             "https://api.github.com/repos/$REPO/topics" >/dev/null
 
           jq -n --arg d "$DESCRIPTION" '{description: $d}' > /tmp/desc.json
-          api --method PATCH \
+          api -X PATCH \
             -H "Content-Type: application/json" \
             --data @/tmp/desc.json \
             "https://api.github.com/repos/$REPO" >/dev/null
