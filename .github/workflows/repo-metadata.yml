@@ -8,32 +8,32 @@ on:
       - ".github/workflows/repo-metadata.yml"
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   metadata:
-    name: Sync description and topics
+    name: Verify description and topics
     runs-on: ubuntu-latest
     steps:
-      - name: Update repository description and topics
+      - name: Compare repository metadata with the expected values
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
-          DESCRIPTION: >-
+          EXPECTED_DESCRIPTION: >-
             Reproducible, auditable benchmark for antimicrobial peptide
-            classification: 4921 features, 6 models, 30-check verification
+            classification: 4921 features, 6 models, a 30-check verification
             audit, and a quantified study of negative-sample bias.
-          TOPICS: >-
-            antimicrobial-peptides
+          EXPECTED_TOPICS: >-
             amp
+            antimicrobial-peptides
+            bioinformatics
+            computational-biology
+            drug-discovery
+            machine-learning
             peptides
             proteins
-            bioinformatics
-            machine-learning
-            drug-discovery
-            shap
             reproducibility
-            computational-biology
+            shap
         run: |
           set -euo pipefail
 
@@ -45,29 +45,35 @@ jobs:
               "$@"
           }
 
-          echo "::notice::current description: $(api "https://api.github.com/repos/$REPO" | jq -r .description)"
-          echo "::notice::current topics: $(api "https://api.github.com/repos/$REPO/topics" | jq -r '.names | join(", ")')"
+          ACTUAL_DESCRIPTION=$(api "https://api.github.com/repos/$REPO" | jq -r '.description // ""')
+          ACTUAL_TOPICS=$(api "https://api.github.com/repos/$REPO/topics" | jq -r '.names | sort | join(" ")')
+          EXPECTED_TOPICS_SORTED=$(printf '%s\n' $EXPECTED_TOPICS | tr ' ' '\n' | grep -v '^$' | sort | tr '\n' ' ' | sed 's/ $//')
 
-          # PUT /topics replaces the entire set, so the existing topics and
-          # the desired ones are merged and submitted in a single request.
-          # Sending them one by one would leave only the last topic in place.
-          MERGED=$(
-            { api "https://api.github.com/repos/$REPO/topics" | jq -r '.names[]'
-              printf '%s\n' $TOPICS
-            } | sort -u | jq -R . | jq -s '{names: .}'
-          )
+          echo "::notice::description: ${ACTUAL_DESCRIPTION}"
+          echo "::notice::topics: ${ACTUAL_TOPICS}"
 
-          echo "::notice::writing topics payload: $MERGED"
-          api -X PUT \
-            -H "Content-Type: application/json" \
-            -d "$MERGED" \
-            "https://api.github.com/repos/$REPO/topics" >/dev/null
+          failed=0
 
-          jq -n --arg d "$DESCRIPTION" '{description: $d}' > /tmp/desc.json
-          api -X PATCH \
-            -H "Content-Type: application/json" \
-            --data @/tmp/desc.json \
-            "https://api.github.com/repos/$REPO" >/dev/null
+          if [ "${ACTUAL_DESCRIPTION}" != "${EXPECTED_DESCRIPTION}" ]; then
+            echo "::error::description does not match the expected value"
+            echo "expected: ${EXPECTED_DESCRIPTION}"
+            echo "actual  : ${ACTUAL_DESCRIPTION}"
+            failed=1
+          else
+            echo "::notice::description matches"
+          fi
 
-          echo "::notice::new description: $(api "https://api.github.com/repos/$REPO" | jq -r .description)"
-          echo "::notice::new topics: $(api "https://api.github.com/repos/$REPO/topics" | jq -r '.names | join(", ")')"
+          if [ "${ACTUAL_TOPICS}" != "${EXPECTED_TOPICS_SORTED}" ]; then
+            echo "::error::topics do not match the expected set"
+            echo "expected: ${EXPECTED_TOPICS_SORTED}"
+            echo "actual  : ${ACTUAL_TOPICS}"
+            failed=1
+          else
+            echo "::notice::topics match"
+          fi
+
+          # The description and the topics live in the repository settings
+          # rather than in this repository, so a workflow cannot write them:
+          # the GitHub App token that Actions provides carries no
+          # administration scope. This check therefore reports drift only.
+          exit $failed
