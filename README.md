@@ -140,6 +140,25 @@ python3.13 -m venv venv
 bash run_all.sh
 ```
 
+The feature table is published as a release asset:
+
+```
+https://github.com/ssinder/ampml/releases/download/v0.1.0/all_features_combined_standard.csv
+```
+
+| Property | Value |
+| --- | --- |
+| Size | 81,326,742 bytes |
+| MD5 | `7ce771dc55f1cf66d0dd28f8609c0bcb` |
+| Shape | 2,557 samples × 4,921 features + label |
+
+```bash
+# Verify an independent copy
+curl -L -o all_features_combined_standard.csv \
+  https://github.com/ssinder/ampml/releases/download/v0.1.0/all_features_combined_standard.csv
+md5sum all_features_combined_standard.csv
+```
+
 `run_all.sh` supports `--list` (show stages), `--from NN` (resume), `--only`
 (select stages) and `--clean` (wipe artifacts and start from zero).
 

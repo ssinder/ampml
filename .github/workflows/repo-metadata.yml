@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  metadata: write
 
 jobs:
   metadata:
@@ -27,6 +28,7 @@ jobs:
             antimicrobial-peptides
             amp
             peptides
+            proteins
             bioinformatics
             machine-learning
             drug-discovery
@@ -36,34 +38,37 @@ jobs:
         run: |
           set -euo pipefail
 
-          echo "::notice::current description: $(gh api "repos/$REPO" --jq .description)"
-          echo "::notice::current topics: $(gh api "repos/$REPO/topics" --jq '.names | join(", ")')"
+          api() {
+            curl --fail --silent --show-error \
+              -H "Accept: application/vnd.github+json" \
+              -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              "$@"
+          }
+
+          echo "::notice::current description: $(api "https://api.github.com/repos/$REPO" | jq -r .description)"
+          echo "::notice::current topics: $(api "https://api.github.com/repos/$REPO/topics" | jq -r '.names | join(", ")')"
 
           # PUT /topics replaces the entire set, so the existing topics and
           # the desired ones are merged and submitted in a single request.
-          # Sending them one by one would leave only the last topic set.
-          python - <<'PY'
-          import json, os, subprocess
+          # Sending them one by one would leave only the last topic in place.
+          MERGED=$(
+            { api "https://api.github.com/repos/$REPO/topics" | jq -r '.names[]'
+              printf '%s\n' $TOPICS
+            } | sort -u | jq -R . | jq -s '{names: .}'
+          )
 
-          repo = os.environ["REPO"]
-          token = os.environ["GITHUB_TOKEN"]
-          existing = subprocess.run(
-              ["gh", "api", f"repos/{repo}/topics", "--jq", ".names | join(\" \")"],
-              capture_output=True, text=True, check=True).stdout.split()
-          desired = os.environ["TOPICS"].split()
-          merged = sorted(set(existing) | set(desired))
+          echo "::notice::writing topics payload: $MERGED"
+          api --method PUT \
+            -H "Content-Type: application/json" \
+            -d "$MERGED" \
+            "https://api.github.com/repos/$REPO/topics" >/dev/null
 
-          payload = json.dumps({"names": merged})
-          print("::notice::writing topics:", ", ".join(merged))
-          subprocess.run(
-              ["gh", "api", "--method", "PUT", f"repos/{repo}/topics",
-               "--input", "-"],
-              input=payload, text=True, check=True,
-              env={**os.environ, "GH_TOKEN": token})
-          PY
+          jq -n --arg d "$DESCRIPTION" '{description: $d}' > /tmp/desc.json
+          api --method PATCH \
+            -H "Content-Type: application/json" \
+            --data @/tmp/desc.json \
+            "https://api.github.com/repos/$REPO" >/dev/null
 
-          gh api --method PATCH "repos/$REPO" \
-            -f description="$DESCRIPTION" >/dev/null
-
-          echo "::notice::new description: $(gh api "repos/$REPO" --jq .description)"
-          echo "::notice::new topics: $(gh api "repos/$REPO/topics" --jq '.names | join(", ")')"
+          echo "::notice::new description: $(api "https://api.github.com/repos/$REPO" | jq -r .description)"
+          echo "::notice::new topics: $(api "https://api.github.com/repos/$REPO/topics" | jq -r '.names | join(", ")')"
