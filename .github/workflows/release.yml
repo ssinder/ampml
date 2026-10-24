@@ -27,7 +27,7 @@ jobs:
       - name: Fetch upstream feature table
         uses: ./.github/actions/fetch-features
       - name: Create release with assets
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           generate_release_notes: true
           draft: false
