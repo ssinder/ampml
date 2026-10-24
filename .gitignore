@@ -93,3 +93,35 @@ ampmodel/__ignore_probe__.txt
 
 # 测试用的临时工作目录
 /.tmp/
+
+# ===== 本地工作副本（不属于仓库交付物） =====
+# 以下内容只存在于本机工作区：上游原始数据库快照、第三方工具源码与 skill 文档、
+# 个人提示词文件。远端仓库用 scripts/download_data.py 取数，不需要它们。
+# ⚠️ 这些路径下没有任何已入库文件，故可安全整目录排除。
+#    ampmodel/data_processing/ 的其余 120 个脚本已入库，因此只排除其中两个子目录。
+
+# 上游原始数据库快照（约 100 MB，可由 scripts/download_data.py 复现）
+ampmodel/data/
+
+# 第三方工具源码（dssp / modlamp / iFeature 等上游仓库副本）
+ampmodel/docs/
+
+# 上游处理流程的实验性分支产物
+ampmodel/data_processing/molecular_test/
+ampmodel/data_processing/websearch/
+
+# 第三方 skill 文档（K-Dense Inc.，非本项目原创）
+docs/shap/
+docs/scikit-learn/
+
+# 个人提示词文件（含本机绝对路径）
+/SPEC.md
+/figures/SPEC.md
+
+# 上游特征提取目录下的说明文件
+/ampmodel/feature_extraction/README.md
+/ampmodel/feature_extraction/SPEC.md
+
+# 下载示例资产时落在仓库根的临时副本（正式副本在 examples/）
+/examples_example_features.csv
+/examples_example_sequences.fasta
