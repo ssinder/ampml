@@ -84,3 +84,6 @@ results/shap/shap_values/
 
 # WorkBuddy 项目记忆目录（工具状态，非交付物）
 .workbuddy/
+
+# 沙箱探针遗留的临时探测文件
+ampmodel/__ignore_probe__.txt
