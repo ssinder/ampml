@@ -47,6 +47,12 @@ ampmodel/feature_extraction/features/results/standardized_features/
 ampmodel/feature_extraction/features/results/ifeature/
 ampmodel/data_processing/**/*.xlsx
 
+# 旧版 1098 维模型目录：已被 src/ 取代，数值不可继承
+ampmodel/model_training/
+
+# SHAP 中间值体积大且可由 src/05 重新生成；归因摘要 JSON 保留
+results/shap/shap_values/
+
 # ===== 但以下小体积复现凭证必须入库 =====
 # 指标 CSV：README 与报告中所有数值的唯一权威来源
 !results/*.csv
@@ -59,6 +65,7 @@ ampmodel/data_processing/**/*.xlsx
 !results/verification_report.json
 !results/negative_sampling_sensitivity*.csv
 !results/negative_sampling_sensitivity_meta.json
+!results/shap/*.json
 
 # ===== 临时文件 =====
 *.log
@@ -66,6 +73,14 @@ ampmodel/data_processing/**/*.xlsx
 *.bak
 *.ipynb_checkpoints/
 
-# 沙箱/包装层产生的无扩展名随机名残留（形如 55n50k_r / ewzhbs4e）
-[0-9a-z][0-9a-z]*_[0-9a-z]*
-[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]
+# 沙箱/包装层产生的残留：根目录下恰好 8 个字符、无扩展名的随机名文件
+# （内容均为 4 字节 "blat"）。用 "?×8" 精确匹配长度，再显式放回唯一的
+# 真实 8 字符目录 ampmodel —— 纯字母通配（如 [0-9a-z]{8}）会误伤它。
+/????????
+!/ampmodel/
+
+# 沙箱探针遗留的临时测试仓库
+/t1/
+
+# WorkBuddy 项目记忆目录（工具状态，非交付物）
+.workbuddy/
