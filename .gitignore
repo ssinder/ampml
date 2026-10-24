@@ -65,3 +65,7 @@ ampmodel/data_processing/**/*.xlsx
 *.tmp
 *.bak
 *.ipynb_checkpoints/
+
+# 沙箱/包装层产生的无扩展名随机名残留（形如 55n50k_r / ewzhbs4e）
+[0-9a-z][0-9a-z]*_[0-9a-z]*
+[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]

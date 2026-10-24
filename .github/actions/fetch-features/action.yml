@@ -1,0 +1,76 @@
+name: Fetch upstream feature table
+description: >-
+  Materialise the 78 MB upstream feature table
+  (all_features_combined_standard.csv) into rawdata/ and verify its MD5.
+
+  The table is carried on the `assets/v0.1.0` branch so that the main branch
+  stays small and a plain `git clone` stays fast. A sparse checkout fetches
+  only the bytes we need.
+
+  If the assets branch is unavailable, the published v0.1.0 release asset is
+  used as a fallback.
+
+inputs:
+  branch:
+    description: Branch that carries the feature table
+    required: false
+    default: assets/v0.1.0
+  release-url:
+    description: Release asset URL used when the branch fetch fails
+    required: false
+    default: >-
+      https://github.com/ssinder/ampml/releases/download/v0.1.0/all_features_combined_standard.csv
+  md5:
+    description: Expected MD5 checksum
+    required: false
+    default: 7ce771dc55f1cf66d0dd28f8609c0bcb
+  destination:
+    description: Output path for the feature table
+    required: false
+    default: rawdata/all_features_combined_standard.csv
+
+runs:
+  using: composite
+  steps:
+    - name: Ensure destination directory
+      shell: bash
+      run: mkdir -p "$(dirname "${{ inputs.destination }}")"
+
+    - name: Fetch feature table from the assets branch
+      id: branch-fetch
+      shell: bash
+      continue-on-error: true
+      env:
+        BRANCH: ${{ inputs.branch }}
+        DEST: ${{ inputs.destination }}
+      run: |
+        set -euo pipefail
+        git fetch --depth 1 origin "$BRANCH"
+        git checkout FETCH_HEAD -- "$DEST"
+        echo "fetched from branch $BRANCH"
+
+    - name: Fall back to the release asset
+      if: steps.branch-fetch.outcome != 'success' || hashFiles(inputs.destination) == ''
+      shell: bash
+      env:
+        URL: ${{ inputs.release-url }}
+        DEST: ${{ inputs.destination }}
+      run: |
+        set -euo pipefail
+        echo "branch fetch did not yield the file; trying the release asset"
+        curl -fsSL --retry 3 "$URL" -o "$DEST"
+
+    - name: Verify checksum
+      shell: bash
+      env:
+        DEST: ${{ inputs.destination }}
+        MD5: ${{ inputs.md5 }}
+      run: |
+        set -euo pipefail
+        if [ ! -f "$DEST" ]; then
+          echo "::error::feature table missing at $DEST"
+          exit 1
+        fi
+        echo "$MD5  $DEST" | md5sum --check --status \
+          && echo "MD5 verified: $MD5" \
+          || { echo "::error::MD5 mismatch for $DEST"; exit 1; }

@@ -133,6 +133,12 @@ def check_packages(c: Checker):
         except ImportError:
             missing.append(dist_name)
             continue
+        except Exception as exc:
+            # A package can be installed yet fail to import: a missing OpenMP
+            # runtime (xgboost), a compiled ABI mismatch, or a broken wheel.
+            # Those are environment defects we must report, not crash on.
+            missing.append(f"{dist_name}（导入失败: {type(exc).__name__}: {exc}）")
+            continue
         # 版本以 pip 元数据为准：部分包（如 modlamp）内部 __version__ 常量陈旧
         try:
             got = md.version(dist_name)
