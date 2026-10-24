@@ -129,6 +129,10 @@ cd ampml
 python3.13 -m venv venv
 ./venv/bin/pip install -r requirements.txt
 
+# Fetch the 78 MB upstream feature table (distributed as a release asset,
+# verified against its MD5 so you know you got the right file)
+./venv/bin/python scripts/download_data.py
+
 # Gate 1: the environment must pass before anything else runs
 ./venv/bin/python src/00_check_environment.py
 
